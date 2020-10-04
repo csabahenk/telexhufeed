@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Sport] Két gólpasszt is adott a válogatottból karantén miatt kimaradó Szoboszlai]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/04/salzburg-szoboszlai-dominik-golpassz]]>
+      </link>
+      <description>
+        <![CDATA[A válogatottba nem jöhet, de a Salzburggal tovább játszik.]]>
+      </description>
+      <author>
+        <![CDATA[Koroknai Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 04 Oct 2020 17:01:37 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Tech] Hekkerek kaptak fizetést Svájcban az egyetemi dolgozók helyett]]>
       </title>
       <link>
@@ -20,6 +37,23 @@
       </author>
       <pubDate>
         <![CDATA[Sun, 04 Oct 2020 15:32:56 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Koronavírus] Ellenzéki képviselők szerint 210 millió helyett 50 millióért is vehetett volna maszkvarró gépet a kormány]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/04/maszkvarrogep-satoraljaujhely-arvita-tularazas-kormany]]>
+      </link>
+      <description>
+        <![CDATA[A 600 ezer euróért megvett gépet 60 ezerért meg lehet venni az Alibabán Hadházy Ákos szerint. A képviselő feljelentést tesz.]]>
+      </description>
+      <author>
+        <![CDATA[Fehér János]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 04 Oct 2020 15:25:40 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Sat, 03 Oct 2020 20:14:00 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Nyomozza a rendőrség, hogy tényleg fekvő hajléktalanokat fújtak-e le paprikaspray-vel az  az erzsébetvárosi közteresek]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/03/budapest-paprikaspray-rendorseg-hajlektalan]]>
-      </link>
-      <description>
-        <![CDATA[Több szemtanú állítja ugyanis, hogy ez történt október 1-jén a Madách Imre utcában. Az önkormányzat tud az incidensről, a rendőrség hivatalos eljárásban elkövetett bántalmazás gyanúja miatt ismeretlen tettes ellen indított nyomozást.]]>
-      </description>
-      <author>
-        <![CDATA[Flachner Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sat, 03 Oct 2020 19:24:08 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Új enciklikát ad ki Ferenc pápa]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/03/uj-enciklikat-ad-ki-ferenc-papa]]>
-      </link>
-      <description>
-        <![CDATA[A testvériség és a társadalmi barátság a témája Ferenc pápa harmadik, Mindannyian testvérek című szövegnek.]]>
-      </description>
-      <author>
-        <![CDATA[Hanula Zsolt]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sat, 03 Oct 2020 19:20:35 +0200]]>
       </pubDate>
     </item>
   </channel>
