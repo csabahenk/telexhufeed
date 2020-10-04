@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Koronavírus] Az Újpest több labdarúgója is koronavírusos]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/04/az-ujpest-tobb-labdarugoja-is-koronavirusos]]>
+      </link>
+      <description>
+        <![CDATA[Ennek ellenére a csapat folytatja a bajnokságban és a kupában is.]]>
+      </description>
+      <author>
+        <![CDATA[Bolcsó Dániel]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 04 Oct 2020 12:44:34 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Tudomány] 59 érintetlen szarkofágot találtak Egyiptomban]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tudomany/2020/10/04/59-erintetlen-szarkofagot-talaltak-egyiptomban]]>
+      </link>
+      <description>
+        <![CDATA[A szakkarai nekropolisznál felfedezett fakoporsók több mint 2500 évesek.]]>
+      </description>
+      <author>
+        <![CDATA[Bolcsó Dániel]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 04 Oct 2020 12:17:03 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Orbán: Toleránsak vagyunk a homoszexuálisokkal, csak hagyják békén a gyerekeinket]]>
       </title>
       <link>
@@ -135,7 +169,7 @@
         <![CDATA[A pár napja koronavírussal diagnosztizált elnök egy videóban beszélt arról, hogy jobban van és abban bízik, lassan folytathatja kampányát.]]>
       </description>
       <author>
-        <![CDATA[Molnár Réka]]>
+        <![CDATA[Iván András, Molnár Réka]]>
       </author>
       <pubDate>
         <![CDATA[Sun, 04 Oct 2020 07:07:28 +0200]]>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Sat, 03 Oct 2020 15:33:46 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Fucsovics már a legjobb 16 között van a Roland Garroson]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/03/fucsovics-marton-tenisz-roland-garros-thiago-monteiro]]>
-      </link>
-      <description>
-        <![CDATA[A magyar teniszező három játszmában győzte le a brazil Thiago Monteirót.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sat, 03 Oct 2020 15:26:22 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] A BKK elnézést kért, amiért a nem közlekedő buszra is eladtak jegyeket]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/03/bkk-jegyautomata-100e-repuloter-hajo]]>
-      </link>
-      <description>
-        <![CDATA[A 100E repülőtéri járatra 14 millió forintért adtak el jegyeket, az összeget jótékony célra fordítják.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sat, 03 Oct 2020 15:11:56 +0200]]>
       </pubDate>
     </item>
   </channel>
