@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Tech] Hekkerek kaptak fizetést Svájcban az egyetemi dolgozók helyett]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tech/2020/10/04/hekker-kaptak-fizetest-svajcban-az-egyetemi-dolgozok-helyett]]>
+      </link>
+      <description>
+        <![CDATA[Adathalász emailekkel szereztek hozzáférést, aztán egyszerűen átírták a számlaszámot, ahová a fizetést utalták az egyetemek.]]>
+      </description>
+      <author>
+        <![CDATA[Bolcsó Dániel]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 04 Oct 2020 15:32:56 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Tudomány] Rejtélyes vízszennyezés miatt sodródnak partra elpusztult állatok Oroszországban]]>
       </title>
       <link>
@@ -75,7 +92,7 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Külföld] Azerbjadzsán második legnagyobb városát is találat érte a harcokban]]>
+        <![CDATA[[Külföld] Azerbajdzsán második legnagyobb városát is találat érte a harcokban]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/kulfold/2020/10/04/hegyi-karabah-ormenyorszag-azerbajdzsan-harcok]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Sat, 03 Oct 2020 19:20:35 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Senki sem tudja, mi lesz, ilyen még nem volt]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/03/senki-nem-tudja-mi-lesz-de-biztos-nagyon-durva]]>
-      </link>
-      <description>
-        <![CDATA[Donald Trump elnök pozitív koronavírustesztje újabb ismeretlen változót dob az amerikai elnökválasztási kampányba. Az egyik biztos pont a bizonytalanság: nem tudni, hogyan alakul Trump állapota, hogyan hat ki az egész helyzet a legfelsőbb bíróság körüli vitára, és mennyit változtat Joe Biden demokrata elnökjelölt kampányán.]]>
-      </description>
-      <author>
-        <![CDATA[Mészáros R. Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sat, 03 Oct 2020 18:18:31 +0200]]>
       </pubDate>
     </item>
   </channel>
