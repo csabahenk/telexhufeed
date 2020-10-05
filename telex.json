@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] 200 munkavállaló koronavírustesztje lett pozitív a MOL épülő tiszaújvárosi Poliol üzeménél",
+    "link": "https://telex.hu/belfold/2020/10/05/belfold-koronavirus-mol-tiszaujvaros-polio-uzem-fertozott",
+    "description": "Azt nem tudni, hogy hány tesztet végeztek el összesen, de a MOL szerint mind a 200-an tünetmentesek.",
+    "author": "Világi Máté",
+    "pubDate": "Mon, 05 Oct 2020 23:17:54 +0200"
+  },
+  {
     "title": "[Külföld] Trump három kórházban töltött éjszaka után hazamehet a Fehér Házba",
     "link": "https://telex.hu/kulfold/2020/10/05/kulfold-koronavirus-donald-trump-felepules",
     "description": "Az elnök a Twitteren azt írta, hogy nem kell félni a vírustól, és jobban érzi magát, mint 20 éve.",
@@ -166,12 +173,5 @@
     "description": "Az útlevelek rangsorában hatodik helyen végzett a magyar.",
     "author": "Molnár Réka",
     "pubDate": "Mon, 05 Oct 2020 13:40:38 +0200"
-  },
-  {
-    "title": "[Külföld] Jeff Bezos villájánál tüntettek az Amazon dolgozói",
-    "link": "https://telex.hu/kulfold/2020/10/05/jeff-bezos-tuntetes-amazon-munkas",
-    "description": "A jobb munkakörülmények, magasabb bérek és több juttatás mellett Bezos megadóztatását követelték.",
-    "author": "Flachner Balázs",
-    "pubDate": "Mon, 05 Oct 2020 13:29:30 +0200"
   }
 ]
