@@ -7,19 +7,70 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Sport] Butler elszabadult, szépített a Heat az NBA-döntőben]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/05/jimmy-butler-nba-donto-kosarlabda-miami-heat-los-angeles-lakers]]>
+      </link>
+      <description>
+        <![CDATA[A Miami vezére ezúttal tarthatatlan volt, 40 pontos tripla-duplával vezette győzelemre a csapatát a Lakers ellen.]]>
+      </description>
+      <author>
+        <![CDATA[Flachner Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 05 Oct 2020 08:30:20 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] Az MSZP-székház épületébe költözik a Politikatörténeti Intézet]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/05/politikatorteneti-intezet]]>
+      </link>
+      <description>
+        <![CDATA[Hiába kérvényezték a júliusi döntés felülvizsgálatát, a Kúria elutasította. Menniük kell az Alkotmány utcából.]]>
+      </description>
+      <author>
+        <![CDATA[Iván-Nagy Szilvia]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 05 Oct 2020 08:08:51 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Még mindig tart a belvárosi ingatlantrükközés]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/05/meg-mindig-tart-a-belvarosi-ingatlantrukkozes]]>
       </link>
       <description>
-        <![CDATA[Nagyjából másfél évtizede zajlik a belvárosban egy játék. A lokális bérlők magas kedvezménnyel vehetnek meg az önkormányzattól ingatlanokat, erre a lehetőségre aztán mindenféle trükkel lecsapnak a vagyonos és baráti üzletemberek. A nyáron új lendületet kapott ez a business.]]>
+        <![CDATA[Nagyjából másfél évtizede zajlik a Belvárosban egy játék. A lokális bérlők magas kedvezménnyel vehetnek meg az önkormányzattól ingatlanokat, erre a lehetőségre aztán mindenféle trükkel lecsapnak a vagyonos és baráti üzletemberek. A nyáron új lendületet kapott ez a biznisz.]]>
       </description>
       <author>
         <![CDATA[Brückner Gergely]]>
       </author>
       <pubDate>
         <![CDATA[Mon, 05 Oct 2020 07:52:37 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Koronavírus] 905 új fertőzött Magyarországon]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/05/koronavirus-magyarorszag-fertozes-jarvany-adat]]>
+      </link>
+      <description>
+        <![CDATA[Meghalt 11 beteg, az aktív fertőzöttek száma 22 482-re nőtt. ]]>
+      </description>
+      <author>
+        <![CDATA[Thüringer Barbara]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 05 Oct 2020 07:47:26 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -64,7 +115,7 @@
         <![CDATA[https://telex.hu/kulfold/2020/10/05/kalifornia-erdotuzek-rekord-egyesult-allamok]]>
       </link>
       <description>
-        <![CDATA[]]>
+        <![CDATA[Harmincegyen meghaltak, több mint nyolcezer épület kiégett.]]>
       </description>
       <author>
         <![CDATA[Lovas Gergő]]>
@@ -377,57 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Sun, 04 Oct 2020 17:41:01 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Tízezrek tüntettek Minszkben, vízágyúval oszlatták őket]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/04/minszk-tuntetok-vizagyu-belarusz]]>
-      </link>
-      <description>
-        <![CDATA[A tömeg a börtönökhöz vonulva követelte a foglyok elengedését.]]>
-      </description>
-      <author>
-        <![CDATA[Koroknai Gergely]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sun, 04 Oct 2020 17:39:36 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Két gólpasszt is adott a válogatottból karantén miatt kimaradó Szoboszlai]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/04/salzburg-szoboszlai-dominik-golpassz]]>
-      </link>
-      <description>
-        <![CDATA[A válogatottba nem jöhet, de a Salzburggal tovább játszik.]]>
-      </description>
-      <author>
-        <![CDATA[Koroknai Gergely]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sun, 04 Oct 2020 17:01:37 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Giro: Valter Attila 49 helyet lépett előre]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/04/giro-ditalia-masodik-szakasz-diego-ulissi-sprint-valter-attila]]>
-      </link>
-      <description>
-        <![CDATA[A második szakaszon a favorit Ulissi nyerte az emelkedős sprintet.]]>
-      </description>
-      <author>
-        <![CDATA[Fehér János]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sun, 04 Oct 2020 16:28:54 +0200]]>
       </pubDate>
     </item>
   </channel>
