@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Még mindig tart a belvárosi ingatlantrükközés]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/05/meg-mindig-tart-a-belvarosi-ingatlantrukkozes]]>
+      </link>
+      <description>
+        <![CDATA[Nagyjából másfél évtizede zajlik a belvárosban egy játék. A lokális bérlők magas kedvezménnyel vehetnek meg az önkormányzattól ingatlanokat, erre a lehetőségre aztán mindenféle trükkel lecsapnak a vagyonos és baráti üzletemberek. A nyáron új lendületet kapott ez a business.]]>
+      </description>
+      <author>
+        <![CDATA[Brückner Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 05 Oct 2020 07:52:37 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] A GVH nem foglalkozik vele, hogy Orbán tippmixes videót posztolt]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/05/orban-viktor-tippmix-fogadas-gvh]]>
+      </link>
+      <description>
+        <![CDATA[Lépésről lépésre végigmegy a fogadás menetén, de a GVH szerint ebben nem illetékesek.]]>
+      </description>
+      <author>
+        <![CDATA[Iván-Nagy Szilvia]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 05 Oct 2020 07:29:17 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] 80-100 km/h-s szél is lehet az ország keleti részében]]>
       </title>
       <link>
@@ -67,7 +101,7 @@
         <![CDATA[Ezzel akadályoznák meg a járvány terjedését. ]]>
       </description>
       <author>
-        <![CDATA[Lovas Gergő]]>
+        <![CDATA[Lovas Gergő, Brückner Gergely]]>
       </author>
       <pubDate>
         <![CDATA[Mon, 05 Oct 2020 05:05:05 +0200]]>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Sun, 04 Oct 2020 16:28:54 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tech] Hekkerek kaptak fizetést Svájcban az egyetemi dolgozók helyett]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tech/2020/10/04/hekker-kaptak-fizetest-svajcban-az-egyetemi-dolgozok-helyett]]>
-      </link>
-      <description>
-        <![CDATA[Adathalász emailekkel szereztek hozzáférést, aztán egyszerűen átírták a számlaszámot, ahová a fizetést utalták az egyetemek.]]>
-      </description>
-      <author>
-        <![CDATA[Bolcsó Dániel]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sun, 04 Oct 2020 15:32:56 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] Ellenzéki képviselők szerint 210 millió helyett 50 millióért is vehetett volna maszkvarró gépet a kormány]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/04/maszkvarrogep-satoraljaujhely-arvita-tularazas-kormany]]>
-      </link>
-      <description>
-        <![CDATA[A 600 ezer euróért megvett gépet 60 ezerért meg lehet venni az Alibabán Hadházy Ákos szerint. A képviselő feljelentést tesz.]]>
-      </description>
-      <author>
-        <![CDATA[Fehér János]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sun, 04 Oct 2020 15:25:40 +0200]]>
       </pubDate>
     </item>
   </channel>
