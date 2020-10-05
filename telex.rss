@@ -7,13 +7,30 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Külföld] Trump három kórházban töltött éjszaka után hazamehet a Fehér Házba]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kulfold/2020/10/05/kulfold-koronavirus-donald-trump-felepules]]>
+      </link>
+      <description>
+        <![CDATA[Az elnök a Twitteren azt írta, hogy nem kell félni a vírustól, és jobban érzi magát, mint 20 éve.]]>
+      </description>
+      <author>
+        <![CDATA[Világi Máté]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 05 Oct 2020 22:38:15 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Az orvosi kamara nem tudja elfogadni a kormány által beterjesztett bértáblát]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/05/belfold-magyar-orvosi-kamara-torvenyjavaslat-reakcio-halapenz-beremeles]]>
       </link>
       <description>
-        <![CDATA[A Magyar Orvosi Kamara  szerint a tervezetben szereplő bérek nem azonosak azokkal, amikről megegyeztek a kormánnyal.]]>
+        <![CDATA[A Magyar Orvosi Kamara szerint a tervezetben szereplő bérek nem azonosak azokkal, amikről megegyeztek a kormánnyal.]]>
       </description>
       <author>
         <![CDATA[Világi Máté]]>
@@ -296,6 +313,23 @@
     </item>
     <item>
       <title>
+        <![CDATA[[Sport] Nem a csodacipő miatt kapott ki a maratonkirály]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/05/london-marathon-eliud-kipchoge-nike-alphafly-cipovita]]>
+      </link>
+      <description>
+        <![CDATA[A legjobb maratonfutó, Eliud Kipchoge életében először nem lett dobogós egy maratonon, miután görcsöt kapott a londoni versenyen. Ráadásul ismét felszínre jött a vita, hogy fairnek számítanak-e az általa használt különleges cipők. ]]>
+      </description>
+      <author>
+        <![CDATA[Fehér János]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 05 Oct 2020 14:39:13 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Helsinki Bizottság: Jogellenesen járt el a rendőrség a Meseország-matinén]]>
       </title>
       <link>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Mon, 05 Oct 2020 13:29:30 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tudomány] Miért járt Nobel-díj a hepatitis C vírus felfedezéséért?]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tudomany/2020/10/05/orvosi-nobel-dij-hepatitisz-c-schaff-zsuzsa-harvey-j-alter-michael-houghton-charles-rice]]>
-      </link>
-      <description>
-        <![CDATA[A hepa C azonosítása vezetett többek között a PCR-teszt kifejlesztéséhez, ami nagyon jól jött a mostani járványhelyzetben.]]>
-      </description>
-      <author>
-        <![CDATA[Joób Sándor]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 13:27:23 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Gazdaság] Megbüntette a lélegeztetőgép-biznisz egyik szereplőjét az MNB]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/gazdasag/2020/10/05/magyar-nemzeti-bank-ott-one-bennfentes-kereskedelem-lelegeztetogep]]>
-      </link>
-      <description>
-        <![CDATA[De nem a lélegeztetőgépek miatt. Az OTT-ONE egyik részvényese bennfentes információhoz juthatott a jegybank szerint.]]>
-      </description>
-      <author>
-        <![CDATA[Bozzay Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 13:09:32 +0200]]>
       </pubDate>
     </item>
   </channel>
