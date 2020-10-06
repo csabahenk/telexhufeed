@@ -1,10 +1,31 @@
 [
   {
+    "title": "[Tech] A Facebook szinte azonnal törölte Trump téves Covid-posztját",
+    "link": "https://telex.hu/tech/2020/10/06/koronavirus-donald-trump-usa-twitter-facebook-bejegyzes-torles-teves-informacio",
+    "description": "Donald Trump tévesen azt írta, hogy a Covid-19 sokkal kevésbé halálos, mint az influenza, a Twitter csak megjelölte a posztját.",
+    "author": "Világi Máté",
+    "pubDate": "Tue, 06 Oct 2020 18:37:07 +0200"
+  },
+  {
+    "title": "[Belföld] Törvénytelenül tiltották meg az Orbán háza elé szervezett tüntetést",
+    "link": "https://telex.hu/belfold/2020/10/06/strasbourg-emberi-jogok-europai-birosaga-orban-viktor-tuntetes-tasz",
+    "description": "A strasbourgi Emberi Jogok Európai Bírósága szerint nem volt jogalapja a 2013-as tüntetés megtiltásának.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 06 Oct 2020 18:14:25 +0200"
+  },
+  {
     "title": "[Tech] Nem jut eszébe egy dal címe? Segít a Spotify",
     "link": "https://telex.hu/tech/2020/10/06/spotify-kereses-dalszoveg-reszlet",
     "description": "Az alkalmazás keresője már a dalszöveg egy részlete alapján is kidobja a számot, amit keresünk.",
     "author": "Világi Máté",
     "pubDate": "Tue, 06 Oct 2020 17:34:07 +0200"
+  },
+  {
+    "title": "[Belföld] Bedrogozva menekült a rendőrök elől egy pécsi gyorshajtó",
+    "link": "https://telex.hu/belfold/2020/10/06/pecs-gyorshajto-rendorseg-auto-menekules",
+    "description": "A baranyai Need for Speedben három rendőrautó is elesett, mire elkapták a 23 éves sofőrt.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 06 Oct 2020 17:31:18 +0200"
   },
   {
     "title": "[Tech] Az Instagram elkezdi elrejteni a sértő kommenteket",
@@ -152,26 +173,5 @@
     "description": "Több mint kétórás interjút adott egy újságírónak az orosz ellenzéki vezető, akivel először készült felvétel azóta, hogy kiengedték a kórházból.",
     "author": "Flachner Balázs",
     "pubDate": "Tue, 06 Oct 2020 11:41:19 +0200"
-  },
-  {
-    "title": "[Belföld] Rendőrtől próbált fegyvert lopni egy férfi Budapesten",
-    "link": "https://telex.hu/belfold/2020/10/06/rendor-fegyver-lopas-autobuszpalyaudvar-bevasarlokozpont",
-    "description": "Többször is megpróbálta kirántani a tokjából az őrmester fegyverét egy fiatal férfi az egyik budapesti buszpályaudvaron.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Tue, 06 Oct 2020 11:19:46 +0200"
-  },
-  {
-    "title": "[Belföld] Hipergyorsan elfogadták az orvosi béremelést, megoldást ígérnek a háziorvosoknak is",
-    "link": "https://telex.hu/belfold/2020/10/06/orvos-beremeles-torveny-kirendeles-szolgalati-jogviszony-halapenz",
-    "description": "Januártól érvényes a béremelés első nagy lépcsője, de az orvosok másodállását korlátozhatják és kirendelhetik őket másik kórházba. Gulyás Gergely kedden azt ígérte: az orvosi kamarával együtt dolgozzák ki a kirendelés szabályait, és a háziorvosok javadalmazásán is változtatnak.",
-    "author": "Joób Sándor",
-    "pubDate": "Tue, 06 Oct 2020 11:11:00 +0200"
-  },
-  {
-    "title": "[Szórakozás] Már kézből eszik Törpapa és Grün fiókája",
-    "link": "https://telex.hu/szorakozas/2020/10/06/pingvin-fioka-szuletes-szegedi-vadaspark",
-    "description": "A kis pápaszemes pingvin még augusztusban született, a nemét még nem tudják, de nevet már adhatnak neki a látogatók.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Tue, 06 Oct 2020 11:00:01 +0200"
   }
 ]
