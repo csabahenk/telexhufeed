@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] A Puskás Arénában lesz a Fradi Juventus és Barcelona elleni BL-meccse",
+    "link": "https://telex.hu/sport/2020/10/06/ferencvaros-puskas-arena-barcelona-juventus",
+    "description": "Az UEFA engedélyezte a helyszínváltást. ",
+    "author": "Lovas Gergő",
+    "pubDate": "Tue, 06 Oct 2020 20:50:52 +0200"
+  },
+  {
+    "title": "[Tech] Október 13-án jön az új iPhone",
+    "link": "https://telex.hu/tech/2020/10/06/oktober-13-an-jon-az-uj-iphone",
+    "description": "Helló, sebesség! – szól a rejtélyes beharangozó.",
+    "author": "Bolcsó Dániel",
+    "pubDate": "Tue, 06 Oct 2020 20:47:16 +0200"
+  },
+  {
     "title": "[Külföld] Szijjártó szerint érdekeltek vagyunk a kommunikáció fenntartásában Belarusszal",
     "link": "https://telex.hu/kulfold/2020/10/06/szijjarto-erdekeltek-vagyunk-belarusszal-kommunikacio-fenntartasaban",
     "description": "Azt is elmondta, hogy kölcsönösen tisztelik egymást belarusz kollégájával.",
@@ -159,19 +173,5 @@
     "description": "Az ügyészség hatályon kívül helyezte a rendőrség augusztus eleji, az eljárást megszüntető határozatát.",
     "author": "Flachner Balázs",
     "pubDate": "Tue, 06 Oct 2020 13:38:52 +0200"
-  },
-  {
-    "title": "[Külföld] Távoktatás koronavírus alatt: az oktató közölte a kaliforniai anyával, hogy nem szoptathat óra alatt",
-    "link": "https://telex.hu/kulfold/2020/10/06/tavoktatas-koronavirus-alatt-az-oktato-kozolte-a-kaliforniai-anyaval-hogy-nem-szoptathat-ora-alatt",
-    "description": "Marcella Mares azt kérte, hogy kikapcsolhassa a webkameráját a szoptatás idejére, oktatója azonban közölte: tartogassa a szoptatást későbbre.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Tue, 06 Oct 2020 13:37:10 +0200"
-  },
-  {
-    "title": "[Gazdaság] Késik a fizetések egy része a Dunaferrnél",
-    "link": "https://telex.hu/gazdasag/2020/10/06/acelipar-dunaferr-fizetesek-csuszas",
-    "description": "Kritikus pénzügyi helyzetbe került a cég, ráadásul a dolgozók közül vannak, akik azt sem tudták, hogy ki vezeti jelenleg a vállalatot.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Tue, 06 Oct 2020 13:11:35 +0200"
   }
 ]
