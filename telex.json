@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Külföld] A kirgiz tüntetők elfoglalták a kormány épületét és a városházát",
+    "link": "https://telex.hu/kulfold/2020/10/06/a-tuntetok-elfoglaltak-a-kirgiz-kormany-epuletet-es-a-varoshazat",
+    "description": "A választási eredmények elleni tiltakozások hétfőn kezdődtek.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Tue, 06 Oct 2020 09:24:40 +0200"
+  },
+  {
+    "title": "[Belföld] Vízbe taposták a tizenévesek az ittas férfi fejét, mert nem adott nekik cigit",
+    "link": "https://telex.hu/belfold/2020/10/06/vizbe-tapostak-a-tizenevesek-az-ittas-ferfi-fejet-mert-nem-adott-nekik-cigit",
+    "description": "A 13 és 14 éves fiatalok egy borsodi településen estek neki a férfinak. Több bordáját, és majdnem vízbe fojtották.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Tue, 06 Oct 2020 08:46:17 +0200"
+  },
+  {
+    "title": "[Külföld] Európai Bíróság: Uniós jogot sért a lex CEU",
+    "link": "https://telex.hu/kulfold/2020/10/06/lex-ceu-europai-unio-birosag-dontes",
+    "description": "",
+    "author": "Pintér Luca, Dömötör Bálint",
+    "pubDate": "Tue, 06 Oct 2020 08:40:35 +0200"
+  },
+  {
+    "title": "[Kult] Majdnem egy évet csúszik a Dűne bemutatója",
+    "link": "https://telex.hu/kult/2020/10/06/dune-batman-film-halasztas-warner-bros",
+    "description": "Az új Batman film így csak 2022-ben jelenik meg, a Mátrix 4 viszont a jelek szerint előbb érkezik.",
+    "author": "Flachner Balázs",
+    "pubDate": "Tue, 06 Oct 2020 08:32:08 +0200"
+  },
+  {
     "title": "[Gazdaság] Annyiba kerül ma Budapesten egy albérlet, mint három évvel ezelőtt",
     "link": "https://telex.hu/gazdasag/2020/10/06/ingatlan-alberlet-olcsobb",
     "description": "De az egész országban lejjebb mentek az árak.",
@@ -14,7 +42,7 @@
     "pubDate": "Tue, 06 Oct 2020 08:08:31 +0200"
   },
   {
-    "title": "[Koronavírus] Rekord: 20 beteg halt meg itthon egy nap alatt",
+    "title": "[Koronavírus] Negatív rekord: 20 beteg halt meg itthon egy nap alatt",
     "link": "https://telex.hu/koronavirus/2020/10/06/koronavirus-magyarorszag-fertozes-jarvany-napi-adat",
     "description": "Az új fertőzöttek száma 818-cal nőtt, az aktív fertőzöttek száma 22,7 ezer.",
     "author": "Thüringer Barbara",
@@ -33,6 +61,13 @@
     "description": "A külügy korábban azzal érvelt, hogy Dzsudzsák a magyar válogatott csapatkapitányaként „méltó” arra, hogy diplomata-útlevele legyen. A labdarúgó szeptemberben viszont már a válogatott keretbe sem fért be.",
     "author": "Pintér Luca",
     "pubDate": "Tue, 06 Oct 2020 07:15:31 +0200"
+  },
+  {
+    "title": "[Sport] Soha többé nem versenyez a gokartos, aki ellenfeléhez vágta a lökhárítóját",
+    "link": "https://telex.hu/sport/2020/10/06/gokart-corberi-lokharito-botrany",
+    "description": "Luca Corberi maga döntött úgy, hogy a lehető legsúlyosabb szanckiót érdemli.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Tue, 06 Oct 2020 06:41:58 +0200"
   },
   {
     "title": "[Külföld] Katarina Barley: Az európai pénzt a magyar nép kapja meg, ne pedig Orbán és barátai gazdagodjanak meg belőle",
@@ -138,40 +173,5 @@
     "description": "Egy kezdő orvos nettó 440 ezret, egy szakorvos nettó 1 milliót is kaphat majd, de a Magyar Orvosi Kamarát is meglepték a kormány szigorú feltételei, amelyek egyeztetés nélkül kerültek a törvényjavaslatba. Csak engedéllyel lehetne másodállást vállalni magánklinikán, és az orvosokat kétszer egy évre másik kórházba, sőt másik városba is kivezényelhetnék, akkor is, ha nincs egészségügyi veszélyhelyzet.   ",
     "author": "Joób Sándor",
     "pubDate": "Mon, 05 Oct 2020 17:06:29 +0200"
-  },
-  {
-    "title": "[Sport] Lecserélték az F1 főnökét, és egészen más korszak jöhet",
-    "link": "https://telex.hu/sport/2020/10/05/f1-uj-vezeto",
-    "description": "Chase Carey, a Forma–1 eddigi elnöke minden rábízott feladatot elvégzett, így már nem volt miért maradnia. Utódja Stefano Domenicali lett, akit sokan leírtak, de valójában a lehető legjobb ember erre a posztra.",
-    "author": "Koroknai Gergely",
-    "pubDate": "Mon, 05 Oct 2020 16:09:33 +0200"
-  },
-  {
-    "title": "[Belföld] Vasárnap választják meg az exbarátnője erotikus fotóit terjesztő leveleki polgármester utódját",
-    "link": "https://telex.hu/belfold/2020/10/05/polgarmester-valasztas-fidesz-levelek",
-    "description": "Az egyetlen jelölt a települést július óta irányító korábbi alpolgármester, Turóczyné Székely Anita.",
-    "author": "Flachner Balázs",
-    "pubDate": "Mon, 05 Oct 2020 16:02:03 +0200"
-  },
-  {
-    "title": "[Sport] Szalai milliós keresete zavarta a Mainzot, de meghátrált a klub",
-    "link": "https://telex.hu/sport/2020/10/05/szalai-adam-mainz-edzes",
-    "description": "",
-    "author": "Ághassi Attila",
-    "pubDate": "Mon, 05 Oct 2020 15:44:59 +0200"
-  },
-  {
-    "title": "[Tech] Magyar szexpartnerkereső oldal lopott adatait hirdetik a neten, de átverésnek tűnik",
-    "link": "https://telex.hu/tech/2020/10/05/magyar-szexpartnerkereso-oldal-lopott-adatait-hirdetik-a-neten-de-atveresnek-tunik",
-    "description": "A hirdető szerint celebek és politikusok érzékeny adatai is megvehetők, de a Rosszlányok.hu tagad, és a sztoriban több részlet is gyanús. Ettől még több száz felhasználó adata valóban kiszivárgott.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Mon, 05 Oct 2020 15:29:56 +0200"
-  },
-  {
-    "title": "[Sport] Giro: a szuperfavorit elszállt egy bukás miatt",
-    "link": "https://telex.hu/sport/2020/10/05/giro-d-italia-3-szakasz-etna-valter-attila",
-    "description": "Thomas nagy hátrányt kapott az Etnán. Valter 49. helyen jött be a nehéz emelkedőn.",
-    "author": "Fehér János",
-    "pubDate": "Mon, 05 Oct 2020 15:17:05 +0200"
   }
 ]
