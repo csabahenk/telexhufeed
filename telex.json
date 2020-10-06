@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Szórakozás] Már kézből eszik Törpapa és Grün fiókája",
+    "link": "https://telex.hu/szorakozas/2020/10/06/pingvin-fioka-szuletes-szegedi-vadaspark",
+    "description": "A kis pápaszemes pingvin még augusztusban született, a nemét még nem tudják, de nevet már adhatnak neki a látogatók.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Tue, 06 Oct 2020 11:00:01 +0200"
+  },
+  {
     "title": "[Külföld] Hosszas kergetőzés után letartóztatták a botrányhős John McAfee-t",
     "link": "https://telex.hu/kulfold/2020/10/06/john-mcafee-letartoztatas-spanyolorszag-kiadatas-adoelkerules",
     "description": "Spanyolországban kapcsolták le a régebben vírusirtókban, mostanában kriptovalutákban utazó szoftverkirályt, jelenleg a kiadatását várja.",
@@ -166,12 +173,5 @@
     "description": "A Magyar Orvosi Kamara szerint a tervezetben szereplő bérek nem azonosak azokkal, amikről megegyeztek a kormánnyal.",
     "author": "Világi Máté",
     "pubDate": "Mon, 05 Oct 2020 20:52:39 +0200"
-  },
-  {
-    "title": "[Sport] Még csak halványan látszik, milyen lesz Koeman Barcelonája",
-    "link": "https://telex.hu/sport/2020/10/05/messi-koeman-barcelona",
-    "description": "A holland edző Messit betette középcsatárnak, a jobb oldalon alig támadnak a katalánok. A fiatalítás elkezdődött, a Fradi ellen is bevetik majd őket.",
-    "author": "Ághassi Attila",
-    "pubDate": "Mon, 05 Oct 2020 20:35:49 +0200"
   }
 ]
