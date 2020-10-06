@@ -1,10 +1,24 @@
 [
   {
-    "title": "[Sport] Cavani a Manchester Unitedhoz igazolt",
+    "title": "[Gazdaság] Annyiba kerül ma Budapesten egy albérlet, mint három évvel ezelőtt",
+    "link": "https://telex.hu/gazdasag/2020/10/06/ingatlan-alberlet-olcsobb",
+    "description": "De az egész országban lejjebb mentek az árak.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Tue, 06 Oct 2020 08:13:24 +0200"
+  },
+  {
+    "title": "[Sport] Cavani a Manchester Unitedhez igazolt",
     "link": "https://telex.hu/sport/2020/10/06/cavani-igazolas-manchester-united",
-    "description": "Az urugayi válogatott csatár egy évre állapodott meg a klubbal.",
+    "description": "Az uruguayi válogatott csatár egy évre állapodott meg a klubbal.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Tue, 06 Oct 2020 08:08:31 +0200"
+  },
+  {
+    "title": "[Koronavírus] Rekord: 20 beteg halt meg itthon egy nap alatt",
+    "link": "https://telex.hu/koronavirus/2020/10/06/koronavirus-magyarorszag-fertozes-jarvany-napi-adat",
+    "description": "Az új fertőzöttek száma 818-cal nőtt, az aktív fertőzöttek száma 22,7 ezer.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Tue, 06 Oct 2020 07:45:35 +0200"
   },
   {
     "title": "[Koronavírus] Több millióra is büntethetik azokat, akik túlárazzák a PCR-teszteket",
@@ -42,11 +56,18 @@
     "pubDate": "Mon, 05 Oct 2020 23:17:54 +0200"
   },
   {
-    "title": "[Külföld] Trump három kórházban töltött éjszaka után hazamehet a Fehér Házba",
+    "title": "[Külföld] Trump három kórházi éjszaka után hazamehet a Fehér Házba",
     "link": "https://telex.hu/kulfold/2020/10/05/kulfold-koronavirus-donald-trump-felepules",
-    "description": "Az elnök a Twitteren azt írta, hogy nem kell félni a vírustól, és jobban érzi magát, mint 20 éve.",
+    "description": "Az elnök a Twitteren azt írta, hogy nem kell félni a vírustól, és jobban érzi magát, mint húsz éve.",
     "author": "Világi Máté",
     "pubDate": "Mon, 05 Oct 2020 22:38:15 +0200"
+  },
+  {
+    "title": "[Napirajz] Semmi boríték",
+    "link": "https://telex.hu/napirajz/2020/10/05/semmi-boritek",
+    "description": "",
+    "author": "Grafitember",
+    "pubDate": "Mon, 05 Oct 2020 21:16:30 +0200"
   },
   {
     "title": "[Belföld] Gulyás: Az orvosi kamara összes törvénymódosító javaslatát elfogadták",
@@ -114,7 +135,7 @@
   {
     "title": "[Belföld] Több százezerrel is nőhet az orvosok fizetése, de nagyon kemény feltételekkel",
     "link": "https://telex.hu/belfold/2020/10/05/orvos-beremeles-bertabla-halapenz-fizetes-vezenyles-feltetel-maganorvos",
-    "description": "Egy kezdő orvos nettó 420 ezret, egy szakorvos nettó 1 milliót is kaphat majd, de a Magyar Orvosi Kamarát is meglepték a kormány szigorú feltételei, amelyek egyeztetés nélkül kerültek a törvényjavaslatba. Csak engedéllyel lehetne másodállást vállalni magánklinikán, és az orvosokat kétszer egy évre másik kórházba, sőt másik városba is kivezényelhetnék, akkor is, ha nincs egészségügyi veszélyhelyzet.   ",
+    "description": "Egy kezdő orvos nettó 440 ezret, egy szakorvos nettó 1 milliót is kaphat majd, de a Magyar Orvosi Kamarát is meglepték a kormány szigorú feltételei, amelyek egyeztetés nélkül kerültek a törvényjavaslatba. Csak engedéllyel lehetne másodállást vállalni magánklinikán, és az orvosokat kétszer egy évre másik kórházba, sőt másik városba is kivezényelhetnék, akkor is, ha nincs egészségügyi veszélyhelyzet.   ",
     "author": "Joób Sándor",
     "pubDate": "Mon, 05 Oct 2020 17:06:29 +0200"
   },
@@ -152,26 +173,5 @@
     "description": "Thomas nagy hátrányt kapott az Etnán. Valter 49. helyen jött be a nehéz emelkedőn.",
     "author": "Fehér János",
     "pubDate": "Mon, 05 Oct 2020 15:17:05 +0200"
-  },
-  {
-    "title": "[Külföld] Bizottságot hozott létre a pápa a Vatikán bizalmas pénzügyeinek ellenőrzésére",
-    "link": "https://telex.hu/kulfold/2020/10/05/bizottsagot-hozott-letre-a-papa-a-vatikan-bizalmas-penzugyeinek-ellenorzesere",
-    "description": "A bizottság létrehozását megelőzte Becciu bíboros esete, aki lemondott, miután vizsgálatot indítottak ellene átláthatatlan tranzakciói miatt.",
-    "author": "Molnár Réka",
-    "pubDate": "Mon, 05 Oct 2020 15:08:52 +0200"
-  },
-  {
-    "title": "[Belföld] Ultimátumnak tekintik az SZFE hallgatói az egyetem új vezetőinek ajánlatát",
-    "link": "https://telex.hu/belfold/2020/10/05/szfe-sajtotajekoztato-ultimatum-blokad",
-    "description": "A hallgatók szerint a vezetés nem legitim, így velük nem tárgyalnak.",
-    "author": "Flachner Balázs, Lengyel-Szabó Péter",
-    "pubDate": "Mon, 05 Oct 2020 15:06:18 +0200"
-  },
-  {
-    "title": "[Gazdaság] Veszteséges volt a felcsúti kisvasút",
-    "link": "https://telex.hu/gazdasag/2020/10/05/felcsut-kisvasut-veszteseg",
-    "description": "\"A kisvasúti személyszállítás nem tartozik a legnyereségesebb ágazatokhoz\" - írta az üzemeltető. Nem először termelt mínuszt indulása óta. ",
-    "author": "Bozzay Balázs",
-    "pubDate": "Mon, 05 Oct 2020 14:42:28 +0200"
   }
 ]

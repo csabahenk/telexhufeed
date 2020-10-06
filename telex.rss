@@ -7,19 +7,53 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
-        <![CDATA[[Sport] Cavani a Manchester Unitedhoz igazolt]]>
+        <![CDATA[[Gazdaság] Annyiba kerül ma Budapesten egy albérlet, mint három évvel ezelőtt]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/gazdasag/2020/10/06/ingatlan-alberlet-olcsobb]]>
+      </link>
+      <description>
+        <![CDATA[De az egész országban lejjebb mentek az árak.]]>
+      </description>
+      <author>
+        <![CDATA[Bozzay Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 08:13:24 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Sport] Cavani a Manchester Unitedhez igazolt]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/sport/2020/10/06/cavani-igazolas-manchester-united]]>
       </link>
       <description>
-        <![CDATA[Az urugayi válogatott csatár egy évre állapodott meg a klubbal.]]>
+        <![CDATA[Az uruguayi válogatott csatár egy évre állapodott meg a klubbal.]]>
       </description>
       <author>
         <![CDATA[Iván-Nagy Szilvia]]>
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 08:08:31 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Koronavírus] Rekord: 20 beteg halt meg itthon egy nap alatt]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/06/koronavirus-magyarorszag-fertozes-jarvany-napi-adat]]>
+      </link>
+      <description>
+        <![CDATA[Az új fertőzöttek száma 818-cal nőtt, az aktív fertőzöttek száma 22,7 ezer.]]>
+      </description>
+      <author>
+        <![CDATA[Thüringer Barbara]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 07:45:35 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -109,19 +143,36 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Külföld] Trump három kórházban töltött éjszaka után hazamehet a Fehér Házba]]>
+        <![CDATA[[Külföld] Trump három kórházi éjszaka után hazamehet a Fehér Házba]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/kulfold/2020/10/05/kulfold-koronavirus-donald-trump-felepules]]>
       </link>
       <description>
-        <![CDATA[Az elnök a Twitteren azt írta, hogy nem kell félni a vírustól, és jobban érzi magát, mint 20 éve.]]>
+        <![CDATA[Az elnök a Twitteren azt írta, hogy nem kell félni a vírustól, és jobban érzi magát, mint húsz éve.]]>
       </description>
       <author>
         <![CDATA[Világi Máté]]>
       </author>
       <pubDate>
         <![CDATA[Mon, 05 Oct 2020 22:38:15 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Napirajz] Semmi boríték]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/napirajz/2020/10/05/semmi-boritek]]>
+      </link>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <author>
+        <![CDATA[Grafitember]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 05 Oct 2020 21:16:30 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -285,7 +336,7 @@
         <![CDATA[https://telex.hu/belfold/2020/10/05/orvos-beremeles-bertabla-halapenz-fizetes-vezenyles-feltetel-maganorvos]]>
       </link>
       <description>
-        <![CDATA[Egy kezdő orvos nettó 420 ezret, egy szakorvos nettó 1 milliót is kaphat majd, de a Magyar Orvosi Kamarát is meglepték a kormány szigorú feltételei, amelyek egyeztetés nélkül kerültek a törvényjavaslatba. Csak engedéllyel lehetne másodállást vállalni magánklinikán, és az orvosokat kétszer egy évre másik kórházba, sőt másik városba is kivezényelhetnék, akkor is, ha nincs egészségügyi veszélyhelyzet.   ]]>
+        <![CDATA[Egy kezdő orvos nettó 440 ezret, egy szakorvos nettó 1 milliót is kaphat majd, de a Magyar Orvosi Kamarát is meglepték a kormány szigorú feltételei, amelyek egyeztetés nélkül kerültek a törvényjavaslatba. Csak engedéllyel lehetne másodállást vállalni magánklinikán, és az orvosokat kétszer egy évre másik kórházba, sőt másik városba is kivezényelhetnék, akkor is, ha nincs egészségügyi veszélyhelyzet.   ]]>
       </description>
       <author>
         <![CDATA[Joób Sándor]]>
@@ -377,57 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Mon, 05 Oct 2020 15:17:05 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Bizottságot hozott létre a pápa a Vatikán bizalmas pénzügyeinek ellenőrzésére]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/05/bizottsagot-hozott-letre-a-papa-a-vatikan-bizalmas-penzugyeinek-ellenorzesere]]>
-      </link>
-      <description>
-        <![CDATA[A bizottság létrehozását megelőzte Becciu bíboros esete, aki lemondott, miután vizsgálatot indítottak ellene átláthatatlan tranzakciói miatt.]]>
-      </description>
-      <author>
-        <![CDATA[Molnár Réka]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 15:08:52 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Ultimátumnak tekintik az SZFE hallgatói az egyetem új vezetőinek ajánlatát]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/05/szfe-sajtotajekoztato-ultimatum-blokad]]>
-      </link>
-      <description>
-        <![CDATA[A hallgatók szerint a vezetés nem legitim, így velük nem tárgyalnak.]]>
-      </description>
-      <author>
-        <![CDATA[Flachner Balázs, Lengyel-Szabó Péter]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 15:06:18 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Gazdaság] Veszteséges volt a felcsúti kisvasút]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/gazdasag/2020/10/05/felcsut-kisvasut-veszteseg]]>
-      </link>
-      <description>
-        <![CDATA["A kisvasúti személyszállítás nem tartozik a legnyereségesebb ágazatokhoz" - írta az üzemeltető. Nem először termelt mínuszt indulása óta. ]]>
-      </description>
-      <author>
-        <![CDATA[Bozzay Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 14:42:28 +0200]]>
       </pubDate>
     </item>
   </channel>
