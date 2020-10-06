@@ -1,10 +1,31 @@
 [
   {
+    "title": "[Belföld] Újabb emberrablókat keresnek a XIV. kerületből elhurcolt összevert férfi ügyében",
+    "link": "https://telex.hu/belfold/2020/10/06/emberrablas-valtsagdij-elfogatoparancs-azonositas",
+    "description": "A férfit még nyáron vitték el a házától, a lábát is eltörték, és azzal fenyegették: elássák, ha nem szerez 20 millió forintot.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Tue, 06 Oct 2020 12:56:40 +0200"
+  },
+  {
     "title": "[Tudomány] A fekete lyukak vizsgálatáért járt az idei fizikai Nobel-díj",
     "link": "https://telex.hu/tudomany/2020/10/06/a-fekete-lyukak-vizsgalataert-jart-az-idei-fizikai-nobel-dij",
     "description": "",
     "author": "Nyilas Gergely",
     "pubDate": "Tue, 06 Oct 2020 12:21:27 +0200"
+  },
+  {
+    "title": "[Belföld] SZFE-kancellár: nem kell tárgyalnunk az egyetem autonómiájáról",
+    "link": "https://telex.hu/belfold/2020/10/06/szfe-kancellar-szarka-gabor-eroszak-sztrajk",
+    "description": "Szarka Gábor szerint munkavállalóként nem kell tárgyalniuk a fenntartó kinevezéséről, sem az egyetem autonómiájáról. Sőt, szerinte az egyetemen sztrájkolók „terrorizálják a bent lévőket”.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 06 Oct 2020 12:16:48 +0200"
+  },
+  {
+    "title": "[Külföld] Navalnij: Azért mérgeztek meg az orosz hatóságok, mert fenyegetést láttak bennem",
+    "link": "https://telex.hu/kulfold/2020/10/06/alekszej-navalnij-novicsok-mergezes-interju-oroszorszag",
+    "description": "Több mint kétórás interjút adott egy újságírónak az orosz ellenzéki vezető, akivel először készült felvétel azóta, hogy kiengedték a kórházból.",
+    "author": "Flachner Balázs",
+    "pubDate": "Tue, 06 Oct 2020 11:41:19 +0200"
   },
   {
     "title": "[Belföld] Rendőrtől próbált fegyvert lopni egy férfi Budapesten",
@@ -152,26 +173,5 @@
     "description": "A szociáldemokrata politikus hosszabb interjút adott a 444-nek, amiben arról is beszélt, miért akarják „Orbán korrupt rendszerétől” megvonni az EU-s támogatásokat.",
     "author": "Pintér Luca",
     "pubDate": "Tue, 06 Oct 2020 05:55:06 +0200"
-  },
-  {
-    "title": "[Külföld] Kim Dzsongun újabb ötéves terv bejelentésére készül",
-    "link": "https://telex.hu/kulfold/2020/10/06/kim-dzsongun-oteves-terv",
-    "description": "Az észak-koreai vezető ezért felszólította országa lakosságát, hogy 80 napos hadjárattal valósítson meg minden szektorban minden kitűzött célt.",
-    "author": "Pintér Luca",
-    "pubDate": "Tue, 06 Oct 2020 05:16:01 +0200"
-  },
-  {
-    "title": "[Belföld] Kétszáz munkavállaló koronavírustesztje lett pozitív a Mol épülő tiszaújvárosi poliolüzeménél",
-    "link": "https://telex.hu/belfold/2020/10/05/belfold-koronavirus-mol-tiszaujvaros-polio-uzem-fertozott",
-    "description": "Azt nem tudni, hogy hány tesztet végeztek el összesen, de a Mol szerint mind a 200-an tünetmentesek.",
-    "author": "Világi Máté",
-    "pubDate": "Mon, 05 Oct 2020 23:17:54 +0200"
-  },
-  {
-    "title": "[Külföld] Trump visszatért a Fehér Házba, levette maszkját az erkélyen",
-    "link": "https://telex.hu/kulfold/2020/10/05/kulfold-koronavirus-donald-trump-felepules",
-    "description": "Három kórházi nap után az elnök a Twitteren azt írta, hogy nem kell félni a vírustól, és jobban érzi magát, mint húsz éve.",
-    "author": "Világi Máté",
-    "pubDate": "Mon, 05 Oct 2020 22:38:15 +0200"
   }
 ]

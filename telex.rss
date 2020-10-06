@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Újabb emberrablókat keresnek a XIV. kerületből elhurcolt összevert férfi ügyében]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/06/emberrablas-valtsagdij-elfogatoparancs-azonositas]]>
+      </link>
+      <description>
+        <![CDATA[A férfit még nyáron vitték el a házától, a lábát is eltörték, és azzal fenyegették: elássák, ha nem szerez 20 millió forintot.]]>
+      </description>
+      <author>
+        <![CDATA[Iván-Nagy Szilvia]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 12:56:40 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Tudomány] A fekete lyukak vizsgálatáért járt az idei fizikai Nobel-díj]]>
       </title>
       <link>
@@ -20,6 +37,40 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 12:21:27 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] SZFE-kancellár: nem kell tárgyalnunk az egyetem autonómiájáról]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/06/szfe-kancellar-szarka-gabor-eroszak-sztrajk]]>
+      </link>
+      <description>
+        <![CDATA[Szarka Gábor szerint munkavállalóként nem kell tárgyalniuk a fenntartó kinevezéséről, sem az egyetem autonómiájáról. Sőt, szerinte az egyetemen sztrájkolók „terrorizálják a bent lévőket”.]]>
+      </description>
+      <author>
+        <![CDATA[Körömi Csongor]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 12:16:48 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Külföld] Navalnij: Azért mérgeztek meg az orosz hatóságok, mert fenyegetést láttak bennem]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kulfold/2020/10/06/alekszej-navalnij-novicsok-mergezes-interju-oroszorszag]]>
+      </link>
+      <description>
+        <![CDATA[Több mint kétórás interjút adott egy újságírónak az orosz ellenzéki vezető, akivel először készült felvétel azóta, hogy kiengedték a kórházból.]]>
+      </description>
+      <author>
+        <![CDATA[Flachner Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 11:41:19 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -377,57 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 05:55:06 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Kim Dzsongun újabb ötéves terv bejelentésére készül]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/06/kim-dzsongun-oteves-terv]]>
-      </link>
-      <description>
-        <![CDATA[Az észak-koreai vezető ezért felszólította országa lakosságát, hogy 80 napos hadjárattal valósítson meg minden szektorban minden kitűzött célt.]]>
-      </description>
-      <author>
-        <![CDATA[Pintér Luca]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 05:16:01 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Kétszáz munkavállaló koronavírustesztje lett pozitív a Mol épülő tiszaújvárosi poliolüzeménél]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/05/belfold-koronavirus-mol-tiszaujvaros-polio-uzem-fertozott]]>
-      </link>
-      <description>
-        <![CDATA[Azt nem tudni, hogy hány tesztet végeztek el összesen, de a Mol szerint mind a 200-an tünetmentesek.]]>
-      </description>
-      <author>
-        <![CDATA[Világi Máté]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 23:17:54 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Trump visszatért a Fehér Házba, levette maszkját az erkélyen]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/05/kulfold-koronavirus-donald-trump-felepules]]>
-      </link>
-      <description>
-        <![CDATA[Három kórházi nap után az elnök a Twitteren azt írta, hogy nem kell félni a vírustól, és jobban érzi magát, mint húsz éve.]]>
-      </description>
-      <author>
-        <![CDATA[Világi Máté]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 22:38:15 +0200]]>
       </pubDate>
     </item>
   </channel>
