@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Tech] Nem jut eszébe egy dal címe? Segít a Spotify",
+    "link": "https://telex.hu/tech/2020/10/06/spotify-kereses-dalszoveg-reszlet",
+    "description": "Az alkalmazás keresője már a dalszöveg egy részlete alapján is kidobja a számot, amit keresünk.",
+    "author": "Világi Máté",
+    "pubDate": "Tue, 06 Oct 2020 17:34:07 +0200"
+  },
+  {
     "title": "[Tech] Az Instagram elkezdi elrejteni a sértő kommenteket",
     "link": "https://telex.hu/tech/2020/10/06/tech-instagram-mesterseges-intelligencia-komment-bullying",
     "description": "Egy mesterséges intelligencia szűri majd ki a bántó tartalmakat.",
@@ -9,7 +16,7 @@
   {
     "title": "[Belföld] Leginkább még bontanak a 3-as metró felújítandó szakaszán",
     "link": "https://telex.hu/belfold/2020/10/06/leginkabb-meg-bontanak-a-3-as-metro-felujitando-szakaszan",
-    "description": "",
+    "description": "De a BKK szerint már az építés folyamata is megfigyelhető. ",
     "author": "Lovas Gergő",
     "pubDate": "Tue, 06 Oct 2020 16:39:08 +0200"
   },
@@ -19,6 +26,13 @@
     "description": "Az Európai Bíróság döntését fontos erkölcsi és jogi győzelemnek tartják. ",
     "author": "Lovas Gergő, Dömötör Bálint",
     "pubDate": "Tue, 06 Oct 2020 16:17:16 +0200"
+  },
+  {
+    "title": "[Külföld] Törökország nem akar tűzszünetet Hegyi-Karabahban",
+    "link": "https://telex.hu/kulfold/2020/10/06/hegyi-karabah-ormenyorszag-azerbajdzsan-torokorszag",
+    "description": "A török külügyminiszter szerint nincs értelme beszüntetni a harcokat. A konfliktus miatt a focimeccseket sem tartják meg.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 06 Oct 2020 16:03:34 +0200"
   },
   {
     "title": "[Tudomány] Miért ért Nobel-díjat a fekete lyukak vizsgálata?",
@@ -159,19 +173,5 @@
     "description": "A kis pápaszemes pingvin még augusztusban született, a nemét még nem tudják, de nevet már adhatnak neki a látogatók.",
     "author": "Thüringer Barbara",
     "pubDate": "Tue, 06 Oct 2020 11:00:01 +0200"
-  },
-  {
-    "title": "[Belföld] Gődény pártja: költségvetési csalás miatt is nyomoznak",
-    "link": "https://telex.hu/belfold/2020/10/06/godeny-partja-koltsegvetesi-csalas-miatt-is-nyomoznak",
-    "description": "Több, a Közös Nevezőt érintő büntetőeljárás is fut még mindig. A a vírusszkeptikus gyógyszerész-testépítő pártja korábban közel 153 millió forintnyi állami támogatást kapott.",
-    "author": "Janecskó Kata",
-    "pubDate": "Tue, 06 Oct 2020 10:33:03 +0200"
-  },
-  {
-    "title": "[Külföld] Hosszas kergetőzés után letartóztatták a botrányhős John McAfee-t",
-    "link": "https://telex.hu/kulfold/2020/10/06/john-mcafee-letartoztatas-spanyolorszag-kiadatas-adoelkerules",
-    "description": "Spanyolországban kapcsolták le a régebben vírusirtókban, mostanában kriptovalutákban utazó szoftverkirályt, jelenleg a kiadatását várja.",
-    "author": "Flachner Balázs",
-    "pubDate": "Tue, 06 Oct 2020 10:20:01 +0200"
   }
 ]

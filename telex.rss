@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Tech] Nem jut eszébe egy dal címe? Segít a Spotify]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tech/2020/10/06/spotify-kereses-dalszoveg-reszlet]]>
+      </link>
+      <description>
+        <![CDATA[Az alkalmazás keresője már a dalszöveg egy részlete alapján is kidobja a számot, amit keresünk.]]>
+      </description>
+      <author>
+        <![CDATA[Világi Máté]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 17:34:07 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Tech] Az Instagram elkezdi elrejteni a sértő kommenteket]]>
       </title>
       <link>
@@ -30,7 +47,7 @@
         <![CDATA[https://telex.hu/belfold/2020/10/06/leginkabb-meg-bontanak-a-3-as-metro-felujitando-szakaszan]]>
       </link>
       <description>
-        <![CDATA[]]>
+        <![CDATA[De a BKK szerint már az építés folyamata is megfigyelhető. ]]>
       </description>
       <author>
         <![CDATA[Lovas Gergő]]>
@@ -54,6 +71,23 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 16:17:16 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Külföld] Törökország nem akar tűzszünetet Hegyi-Karabahban]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kulfold/2020/10/06/hegyi-karabah-ormenyorszag-azerbajdzsan-torokorszag]]>
+      </link>
+      <description>
+        <![CDATA[A török külügyminiszter szerint nincs értelme beszüntetni a harcokat. A konfliktus miatt a focimeccseket sem tartják meg.]]>
+      </description>
+      <author>
+        <![CDATA[Körömi Csongor]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 16:03:34 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -395,40 +429,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 11:00:01 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Gődény pártja: költségvetési csalás miatt is nyomoznak]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/06/godeny-partja-koltsegvetesi-csalas-miatt-is-nyomoznak]]>
-      </link>
-      <description>
-        <![CDATA[Több, a Közös Nevezőt érintő büntetőeljárás is fut még mindig. A a vírusszkeptikus gyógyszerész-testépítő pártja korábban közel 153 millió forintnyi állami támogatást kapott.]]>
-      </description>
-      <author>
-        <![CDATA[Janecskó Kata]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 10:33:03 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Hosszas kergetőzés után letartóztatták a botrányhős John McAfee-t]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/06/john-mcafee-letartoztatas-spanyolorszag-kiadatas-adoelkerules]]>
-      </link>
-      <description>
-        <![CDATA[Spanyolországban kapcsolták le a régebben vírusirtókban, mostanában kriptovalutákban utazó szoftverkirályt, jelenleg a kiadatását várja.]]>
-      </description>
-      <author>
-        <![CDATA[Flachner Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 10:20:01 +0200]]>
       </pubDate>
     </item>
   </channel>
