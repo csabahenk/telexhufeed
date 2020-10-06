@@ -1,10 +1,31 @@
 [
   {
+    "title": "[Belföld] Sok esőre kell készülni szerdán",
+    "link": "https://telex.hu/belfold/2020/10/06/csapadek-idojaras-eso",
+    "description": "Éjszaka érkezik az intenzív csapadék délnyugat felől, a Dél-Dunántúlon akár 30-40 mm is eshet. ",
+    "author": "Thüringer Barbara",
+    "pubDate": "Tue, 06 Oct 2020 13:57:12 +0200"
+  },
+  {
+    "title": "[Koronavírus] Operatív törzs: Minden korosztály érintett",
+    "link": "https://telex.hu/koronavirus/2020/10/06/operativ-torzs-minden-korosztaly-erintett",
+    "description": "Emelkedik a 30 és 60 év közötti fertőzöttek aránya. Egy nap alatt húsz ember halt meg.\n",
+    "author": "Janecskó Kata",
+    "pubDate": "Tue, 06 Oct 2020 13:45:01 +0200"
+  },
+  {
     "title": "[Külföld] Távoktatás koronavírus alatt: az oktató közölte a kaliforniai anyával, hogy nem szoptathat óra alatt",
     "link": "https://telex.hu/kulfold/2020/10/06/tavoktatas-koronavirus-alatt-az-oktato-kozolte-a-kaliforniai-anyaval-hogy-nem-szoptathat-ora-alatt",
     "description": "Marcella Mares azt kérte, hogy kikapcsolhassa a webkameráját a szoptatás idejére, oktatója azonban közölte: tartogassa a szoptatást későbbre.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Tue, 06 Oct 2020 13:37:10 +0200"
+  },
+  {
+    "title": "[Gazdaság] Késik a fizetések egy része a Dunaferrnél",
+    "link": "https://telex.hu/gazdasag/2020/10/06/acelipar-dunaferr-fizetesek-csuszas",
+    "description": "Kritikus pénzügyi helyzetbe került a cég, ráadásul a dolgozók közül sokan azt sem tudták, hogy már más vezeti a vállalatot.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Tue, 06 Oct 2020 13:11:35 +0200"
   },
   {
     "title": "[Belföld] Újabb emberrablókat keresnek a XIV. kerületből elhurcolt összevert férfi ügyében",
@@ -152,26 +173,5 @@
     "description": "Az uruguayi válogatott csatár egy évre állapodott meg a klubbal.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Tue, 06 Oct 2020 08:08:31 +0200"
-  },
-  {
-    "title": "[Koronavírus] Negatív rekord: 20 beteg halt meg itthon egy nap alatt",
-    "link": "https://telex.hu/koronavirus/2020/10/06/koronavirus-magyarorszag-fertozes-jarvany-napi-adat",
-    "description": "Az új fertőzöttek száma 818-cal nőtt, az aktív fertőzöttek száma 22,7 ezer.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Tue, 06 Oct 2020 07:45:35 +0200"
-  },
-  {
-    "title": "[Koronavírus] Románia karanténba küldi a Magyarországról érkezőket",
-    "link": "https://telex.hu/koronavirus/2020/10/06/koronavirus-hirek-belfold-kulfold-itm-pcr-0726",
-    "description": "Koronavírus-hírek a világból és Magyarországból.",
-    "author": "Thüringer Barbara, Iván-Nagy Szilvia, Körömi Csongor",
-    "pubDate": "Tue, 06 Oct 2020 07:26:40 +0200"
-  },
-  {
-    "title": "[Sport] Másodosztályú labdarúgóként is megtarthatja diplomata-útlevelét Dzsudzsák Balázs",
-    "link": "https://telex.hu/sport/2020/10/06/masodosztalyu-labdarugokent-is-megtarthatja-diplomata-utlevelet-dzsudzsak-balazs-1",
-    "description": "A külügy korábban azzal érvelt, hogy Dzsudzsák a magyar válogatott csapatkapitányaként „méltó” arra, hogy diplomata-útlevele legyen. A labdarúgó szeptemberben viszont már a válogatott keretbe sem fért be.",
-    "author": "Pintér Luca",
-    "pubDate": "Tue, 06 Oct 2020 07:15:31 +0200"
   }
 ]
