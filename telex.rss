@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Tech] Az Instagram elkezdi elrejteni a sértő kommenteket]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tech/2020/10/06/tech-instagram-mesterseges-intelligencia-komment-bullying]]>
+      </link>
+      <description>
+        <![CDATA[Egy mesterséges intelligencia szűri majd ki a bántó tartalmakat.]]>
+      </description>
+      <author>
+        <![CDATA[Világi Máté]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 16:44:25 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] Leginkább még bontanak a 3-as metró felújítandó szakaszán]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/06/leginkabb-meg-bontanak-a-3-as-metro-felujitando-szakaszan]]>
+      </link>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <author>
+        <![CDATA[Lovas Gergő]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 16:39:08 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] A CEU még nem döntött, visszahoznak-e amerikai akkreditációjú programokat Budapestre]]>
       </title>
       <link>
@@ -395,40 +429,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 10:20:01 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Áder János: A magyarok szabadságharcát le lehet törni, de szabadságvágyukat elfojtani nem lehet]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/06/aradi-vertanuk-felarboc-ader-janos]]>
-      </link>
-      <description>
-        <![CDATA[A köztársasági elnök a Kossuth rádióban mondott beszédet az az aradi vértanúk kivégzésének 171. évfordulóján.]]>
-      </description>
-      <author>
-        <![CDATA[Iván-Nagy Szilvia]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 10:18:30 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tudomány] Tíz perc alatt kimutathatja a koronavírust egy pár forintos szenzor]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tudomany/2020/10/06/tiz-perc-alatt-kimutathatja-a-koronavirust-egy-par-forintos-szenzor]]>
-      </link>
-      <description>
-        <![CDATA[A grafén felhasználásával készült érzékelő tesztkörnyezetben működik is, de a széles körű felhasználásra valószínűleg többet kell várni, mint egy hivatalos vakcinára.]]>
-      </description>
-      <author>
-        <![CDATA[Flachner Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 10:06:40 +0200]]>
       </pubDate>
     </item>
   </channel>
