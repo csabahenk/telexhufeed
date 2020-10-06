@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Tech] Hekkerek rázárhatják a felhasználók péniszére az okos erényövet]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tech/2020/10/06/qiui-cellmate-okos-erenyov-biztonsagi-res-kiberbiztonsag]]>
+      </link>
+      <description>
+        <![CDATA[Nincs biztonsági feloldás, így csak csapszegvágóval vagy sarokcsiszolóval lehet levágni.]]>
+      </description>
+      <author>
+        <![CDATA[Világi Máté]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 22:53:40 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Kult] Meghalt Eddie Van Halen]]>
       </title>
       <link>
@@ -132,10 +149,10 @@
         <![CDATA[https://telex.hu/kulfold/2020/10/06/lemond-a-kirgiz-miniszterelnok-tuntetesek-valasztas]]>
       </link>
       <description>
-        <![CDATA[A parlament elfogadta a lemondását, az utódját is megválasztották. ]]>
+        <![CDATA[A parlament elfogadta a lemondását, utódot is jelöltek. ]]>
       </description>
       <author>
-        <![CDATA[Lovas Gergő]]>
+        <![CDATA[Lovas Gergő, Bolcsó Dániel]]>
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 18:53:47 +0200]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 13:58:52 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Sok esőre kell készülni szerdán]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/06/csapadek-idojaras-eso]]>
-      </link>
-      <description>
-        <![CDATA[Éjszaka érkezik az intenzív csapadék délnyugat felől, a Dél-Dunántúlon akár 30-40 mm is eshet. ]]>
-      </description>
-      <author>
-        <![CDATA[Thüringer Barbara]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 13:57:12 +0200]]>
       </pubDate>
     </item>
   </channel>

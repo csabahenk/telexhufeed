@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Tech] Hekkerek rázárhatják a felhasználók péniszére az okos erényövet",
+    "link": "https://telex.hu/tech/2020/10/06/qiui-cellmate-okos-erenyov-biztonsagi-res-kiberbiztonsag",
+    "description": "Nincs biztonsági feloldás, így csak csapszegvágóval vagy sarokcsiszolóval lehet levágni.",
+    "author": "Világi Máté",
+    "pubDate": "Tue, 06 Oct 2020 22:53:40 +0200"
+  },
+  {
     "title": "[Kult] Meghalt Eddie Van Halen",
     "link": "https://telex.hu/kult/2020/10/06/meghalt-eddie-van-halen-gyasz",
     "description": "",
@@ -51,8 +58,8 @@
   {
     "title": "[Külföld] Lemondott a kirgiz miniszterelnök a választás eredményeinek érvénytelenítése után",
     "link": "https://telex.hu/kulfold/2020/10/06/lemond-a-kirgiz-miniszterelnok-tuntetesek-valasztas",
-    "description": "A parlament elfogadta a lemondását, az utódját is megválasztották. ",
-    "author": "Lovas Gergő",
+    "description": "A parlament elfogadta a lemondását, utódot is jelöltek. ",
+    "author": "Lovas Gergő, Bolcsó Dániel",
     "pubDate": "Tue, 06 Oct 2020 18:53:47 +0200"
   },
   {
@@ -166,12 +173,5 @@
     "description": "Akár három évre szóló személyi igazolványt és munkavállalási engedélyt is kaphatnak a tenger felől érkező menekültek Olaszországban.",
     "author": "Körömi Csongor",
     "pubDate": "Tue, 06 Oct 2020 13:58:52 +0200"
-  },
-  {
-    "title": "[Belföld] Sok esőre kell készülni szerdán",
-    "link": "https://telex.hu/belfold/2020/10/06/csapadek-idojaras-eso",
-    "description": "Éjszaka érkezik az intenzív csapadék délnyugat felől, a Dél-Dunántúlon akár 30-40 mm is eshet. ",
-    "author": "Thüringer Barbara",
-    "pubDate": "Tue, 06 Oct 2020 13:57:12 +0200"
   }
 ]
