@@ -1,8 +1,29 @@
 [
   {
+    "title": "[Sport] Cavani a Manchester Unitedhoz igazolt",
+    "link": "https://telex.hu/sport/2020/10/06/cavani-igazolas-manchester-united",
+    "description": "Az urugayi válogatott csatár egy évre állapodott meg a klubbal.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Tue, 06 Oct 2020 08:08:31 +0200"
+  },
+  {
+    "title": "[Koronavírus] Több millióra is büntethetik azokat, akik túlárazzák a PCR-teszteket",
+    "link": "https://telex.hu/koronavirus/2020/10/06/koronavirus-hirek-belfold-kulfold-itm-pcr-0726",
+    "description": "A fogyasztóvédelem kiemelt akció keretében ellenőrzi a hatósági ár betartását.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Tue, 06 Oct 2020 07:26:40 +0200"
+  },
+  {
+    "title": "[Sport] Másodosztályú labdarúgóként is megtarthatja diplomata-útlevelét Dzsudzsák Balázs",
+    "link": "https://telex.hu/sport/2020/10/06/masodosztalyu-labdarugokent-is-megtarthatja-diplomata-utlevelet-dzsudzsak-balazs-1",
+    "description": "A külügy korábban azzal érvelt, hogy Dzsudzsák a magyar válogatott csapatkapitányaként „méltó” arra, hogy diplomata-útlevele legyen. A labdarúgó szeptemberben viszont már a válogatott keretbe sem fért be.",
+    "author": "Pintér Luca",
+    "pubDate": "Tue, 06 Oct 2020 07:15:31 +0200"
+  },
+  {
     "title": "[Külföld] Katarina Barley: Az európai pénzt a magyar nép kapja meg, ne pedig Orbán és barátai gazdagodjanak meg belőle",
     "link": "https://telex.hu/kulfold/2020/10/06/katarine-barley-interju",
-    "description": "A szociáldemokrata politikus hosszabb interjút adott a 444-nek, amiben arról is beszélt, miért akarják Orbán korrupt rendszerétől megvonni az EU-s támogatásokat.",
+    "description": "A szociáldemokrata politikus hosszabb interjút adott a 444-nek, amiben arról is beszélt, miért akarják „Orbán korrupt rendszerétől” megvonni az EU-s támogatásokat.",
     "author": "Pintér Luca",
     "pubDate": "Tue, 06 Oct 2020 05:55:06 +0200"
   },
@@ -14,9 +35,9 @@
     "pubDate": "Tue, 06 Oct 2020 05:16:01 +0200"
   },
   {
-    "title": "[Belföld] 200 munkavállaló koronavírustesztje lett pozitív a MOL épülő tiszaújvárosi Poliol üzeménél",
+    "title": "[Belföld] Kétszáz munkavállaló koronavírustesztje lett pozitív a Mol épülő tiszaújvárosi poliolüzeménél",
     "link": "https://telex.hu/belfold/2020/10/05/belfold-koronavirus-mol-tiszaujvaros-polio-uzem-fertozott",
-    "description": "Azt nem tudni, hogy hány tesztet végeztek el összesen, de a MOL szerint mind a 200-an tünetmentesek.",
+    "description": "Azt nem tudni, hogy hány tesztet végeztek el összesen, de a Mol szerint mind a 200-an tünetmentesek.",
     "author": "Világi Máté",
     "pubDate": "Mon, 05 Oct 2020 23:17:54 +0200"
   },
@@ -91,6 +112,13 @@
     "pubDate": "Mon, 05 Oct 2020 17:42:43 +0200"
   },
   {
+    "title": "[Belföld] Több százezerrel is nőhet az orvosok fizetése, de nagyon kemény feltételekkel",
+    "link": "https://telex.hu/belfold/2020/10/05/orvos-beremeles-bertabla-halapenz-fizetes-vezenyles-feltetel-maganorvos",
+    "description": "Egy kezdő orvos nettó 420 ezret, egy szakorvos nettó 1 milliót is kaphat majd, de a Magyar Orvosi Kamarát is meglepték a kormány szigorú feltételei, amelyek egyeztetés nélkül kerültek a törvényjavaslatba. Csak engedéllyel lehetne másodállást vállalni magánklinikán, és az orvosokat kétszer egy évre másik kórházba, sőt másik városba is kivezényelhetnék, akkor is, ha nincs egészségügyi veszélyhelyzet.   ",
+    "author": "Joób Sándor",
+    "pubDate": "Mon, 05 Oct 2020 17:06:29 +0200"
+  },
+  {
     "title": "[Sport] Lecserélték az F1 főnökét, és egészen más korszak jöhet",
     "link": "https://telex.hu/sport/2020/10/05/f1-uj-vezeto",
     "description": "Chase Carey, a Forma–1 eddigi elnöke minden rábízott feladatot elvégzett, így már nem volt miért maradnia. Utódja Stefano Domenicali lett, akit sokan leírtak, de valójában a lehető legjobb ember erre a posztra.",
@@ -145,33 +173,5 @@
     "description": "\"A kisvasúti személyszállítás nem tartozik a legnyereségesebb ágazatokhoz\" - írta az üzemeltető. Nem először termelt mínuszt indulása óta. ",
     "author": "Bozzay Balázs",
     "pubDate": "Mon, 05 Oct 2020 14:42:28 +0200"
-  },
-  {
-    "title": "[Sport] Nem a csodacipő miatt kapott ki a maratonkirály",
-    "link": "https://telex.hu/sport/2020/10/05/london-marathon-eliud-kipchoge-nike-alphafly-cipovita",
-    "description": "A legjobb maratonfutó, Eliud Kipchoge életében először nem lett dobogós egy maratonon, miután görcsöt kapott a londoni versenyen. Ráadásul ismét felszínre jött a vita, hogy fairnek számítanak-e az általa használt különleges cipők. ",
-    "author": "Fehér János",
-    "pubDate": "Mon, 05 Oct 2020 14:39:13 +0200"
-  },
-  {
-    "title": "[Belföld] Helsinki Bizottság: Jogellenesen járt el a rendőrség a Meseország-matinén",
-    "link": "https://telex.hu/belfold/2020/10/05/helsinki-bizottsag-jogellenesen-jart-el-a-rendorseg-a-meseorszag-matinen",
-    "description": "Már engedélyezniük sem lett volna szabad a mesefelolvasás elleni tüntetést, de ha már igen, fel kellett volna lépniük az eseményt megzavaró tüntetők ellen.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Mon, 05 Oct 2020 14:22:08 +0200"
-  },
-  {
-    "title": "[Külföld] Ki kell vizsgálni, hogy miért gyújtotta fel magát az orosz újságíró, üzente az EU egyik szóvivője",
-    "link": "https://telex.hu/kulfold/2020/10/05/oroszorszag-ujsagiro-ongyilkos-vizsgalat-eu",
-    "description": "Irina Szlavina lakásán egy nappal korábban házkutatást tartott a rendőrség. Orosz ellenzékiek szerint rászálltak a hatóságok.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Mon, 05 Oct 2020 14:14:48 +0200"
-  },
-  {
-    "title": "[Belföld] Varga Zsolt Andrást jelöli a Kúria elnökének Áder János",
-    "link": "https://telex.hu/belfold/2020/10/05/varga-zsolt-andras-ader-janos-kuria-elnoke",
-    "description": "A köztársasági elnök Polt Péter egykori helyettesét jelölte a posztra.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Mon, 05 Oct 2020 14:10:39 +0200"
   }
 ]
