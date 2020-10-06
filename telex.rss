@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Tudomány] Tíz perc alatt kimutathatja a koronavírust egy pár forintos szenzor]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tudomany/2020/10/06/tiz-perc-alatt-kimutathatja-a-koronavirust-egy-par-forintos-szenzor]]>
+      </link>
+      <description>
+        <![CDATA[A grafén felhasználásával készült érzékelő tesztkörnyezetben működik is, de a széles körű felhasználásra valószínűleg többet kell várni, mint egy hivatalos vakcinára.]]>
+      </description>
+      <author>
+        <![CDATA[Flachner Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 10:06:40 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Külföld] A kirgiz tüntetők elfoglalták a kormány épületét és a városházát]]>
       </title>
       <link>
@@ -20,6 +37,23 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 09:24:40 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Gazdaság] A Vidnyánszky-féle SZFE kuratórium egyik tagja is százmilliókat nyert panzióépítésre]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/gazdasag/2020/10/06/szfe-kuratoriumi-tag-szazmilliok-panzioepites-bacsa-gyorgy-hernadi-zsolt]]>
+      </link>
+      <description>
+        <![CDATA[Bacsa György, aki Hernádi Zsolt Mol-vezérigazgató unokatestvérének fia, Esztergomban építhet négycsillagos panziót, az érdekeltségébe tartozó cég 210 milliót kapott.]]>
+      </description>
+      <author>
+        <![CDATA[Bozzay Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 09:03:04 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -47,7 +81,7 @@
         <![CDATA[https://telex.hu/kulfold/2020/10/06/lex-ceu-europai-unio-birosag-dontes]]>
       </link>
       <description>
-        <![CDATA[]]>
+        <![CDATA[A magyar nemzeti felsőoktatási törvény 2017-es módosítása az uniós joggal összeegyeztethetetlenek, ezért ezeket a rendelkezéseket meg kell semmisíteni.]]>
       </description>
       <author>
         <![CDATA[Pintér Luca, Dömötör Bálint]]>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Mon, 05 Oct 2020 17:50:31 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Először működött éles helyzetben Velence évek óta épülő gátrendszere]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/05/eloszor-mukodott-eles-helyzetben-velence-evek-ota-epulo-gatrendszere]]>
-      </link>
-      <description>
-        <![CDATA[Sok helyi szkeptikus volt a gáttal a sok éves csúszások és a gát körüli korrupciós botrány miatt.]]>
-      </description>
-      <author>
-        <![CDATA[Molnár Réka]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 17:42:43 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Több százezerrel is nőhet az orvosok fizetése, de nagyon kemény feltételekkel]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/05/orvos-beremeles-bertabla-halapenz-fizetes-vezenyles-feltetel-maganorvos]]>
-      </link>
-      <description>
-        <![CDATA[Egy kezdő orvos nettó 440 ezret, egy szakorvos nettó 1 milliót is kaphat majd, de a Magyar Orvosi Kamarát is meglepték a kormány szigorú feltételei, amelyek egyeztetés nélkül kerültek a törvényjavaslatba. Csak engedéllyel lehetne másodállást vállalni magánklinikán, és az orvosokat kétszer egy évre másik kórházba, sőt másik városba is kivezényelhetnék, akkor is, ha nincs egészségügyi veszélyhelyzet.   ]]>
-      </description>
-      <author>
-        <![CDATA[Joób Sándor]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 05 Oct 2020 17:06:29 +0200]]>
       </pubDate>
     </item>
   </channel>
