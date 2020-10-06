@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] Távoktatás koronavírus alatt: az oktató közölte a kaliforniai anyával, hogy nem szoptathat óra alatt",
+    "link": "https://telex.hu/kulfold/2020/10/06/tavoktatas-koronavirus-alatt-az-oktato-kozolte-a-kaliforniai-anyaval-hogy-nem-szoptathat-ora-alatt",
+    "description": "Marcella Mares azt kérte, hogy kikapcsolhassa a webkameráját a szoptatás idejére, oktatója azonban közölte: tartogassa a szoptatást későbbre.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Tue, 06 Oct 2020 13:37:10 +0200"
+  },
+  {
     "title": "[Belföld] Újabb emberrablókat keresnek a XIV. kerületből elhurcolt összevert férfi ügyében",
     "link": "https://telex.hu/belfold/2020/10/06/emberrablas-valtsagdij-elfogatoparancs-azonositas",
     "description": "A férfit még nyáron vitték el a házától, a lábát is eltörték, és azzal fenyegették: elássák, ha nem szerez 20 millió forintot.",
@@ -14,7 +21,7 @@
     "pubDate": "Tue, 06 Oct 2020 12:21:27 +0200"
   },
   {
-    "title": "[Belföld] SZFE-kancellár: nem kell tárgyalnunk az egyetem autonómiájáról",
+    "title": "[Belföld] SZFE-kancellár: Nem kell tárgyalnunk az egyetem autonómiájáról",
     "link": "https://telex.hu/belfold/2020/10/06/szfe-kancellar-szarka-gabor-eroszak-sztrajk",
     "description": "Szarka Gábor szerint munkavállalóként nem kell tárgyalniuk a fenntartó kinevezéséről, sem az egyetem autonómiájáról. Sőt, szerinte az egyetemen sztrájkolók „terrorizálják a bent lévőket”.",
     "author": "Körömi Csongor",
@@ -33,6 +40,13 @@
     "description": "Többször is megpróbálta kirántani a tokjából az őrmester fegyverét egy fiatal férfi az egyik budapesti buszpályaudvaron.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Tue, 06 Oct 2020 11:19:46 +0200"
+  },
+  {
+    "title": "[Belföld] Hipergyorsan elfogadták az orvosi béremelést, megoldást ígérnek a háziorvosoknak is",
+    "link": "https://telex.hu/belfold/2020/10/06/orvos-beremeles-torveny-kirendeles-szolgalati-jogviszony-halapenz",
+    "description": "Januártól érvényes a béremelés első nagy lépcsője, de az orvosok másodállását korlátozhatják és kirendelhetik őket másik kórházba. Gulyás Gergely kedden azt ígérte: az orvosi kamarával együtt dolgozzák ki a kirendelés szabályait, és a háziorvosok javadalmazásán is változtatnak.",
+    "author": "Joób Sándor",
+    "pubDate": "Tue, 06 Oct 2020 11:11:00 +0200"
   },
   {
     "title": "[Szórakozás] Már kézből eszik Törpapa és Grün fiókája",
@@ -150,7 +164,7 @@
     "title": "[Koronavírus] Románia karanténba küldi a Magyarországról érkezőket",
     "link": "https://telex.hu/koronavirus/2020/10/06/koronavirus-hirek-belfold-kulfold-itm-pcr-0726",
     "description": "Koronavírus-hírek a világból és Magyarországból.",
-    "author": "Thüringer Barbara, Iván-Nagy Szilvia",
+    "author": "Thüringer Barbara, Iván-Nagy Szilvia, Körömi Csongor",
     "pubDate": "Tue, 06 Oct 2020 07:26:40 +0200"
   },
   {
@@ -159,19 +173,5 @@
     "description": "A külügy korábban azzal érvelt, hogy Dzsudzsák a magyar válogatott csapatkapitányaként „méltó” arra, hogy diplomata-útlevele legyen. A labdarúgó szeptemberben viszont már a válogatott keretbe sem fért be.",
     "author": "Pintér Luca",
     "pubDate": "Tue, 06 Oct 2020 07:15:31 +0200"
-  },
-  {
-    "title": "[Sport] Soha többé nem versenyez a gokartos, aki ellenfeléhez vágta a lökhárítóját",
-    "link": "https://telex.hu/sport/2020/10/06/gokart-corberi-lokharito-botrany",
-    "description": "Luca Corberi maga döntött úgy, hogy a lehető legsúlyosabb szanckiót érdemli.",
-    "author": "Koroknai Gergely",
-    "pubDate": "Tue, 06 Oct 2020 06:41:58 +0200"
-  },
-  {
-    "title": "[Külföld] Katarina Barley: Az európai pénzt a magyar nép kapja meg, ne pedig Orbán és barátai gazdagodjanak meg belőle",
-    "link": "https://telex.hu/kulfold/2020/10/06/katarine-barley-interju",
-    "description": "A szociáldemokrata politikus hosszabb interjút adott a 444-nek, amiben arról is beszélt, miért akarják „Orbán korrupt rendszerétől” megvonni az EU-s támogatásokat.",
-    "author": "Pintér Luca",
-    "pubDate": "Tue, 06 Oct 2020 05:55:06 +0200"
   }
 ]
