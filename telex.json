@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] Varga Judit a CEU-ítéletről: Elfogadhatatlan a kettős mérce",
+    "link": "https://telex.hu/kulfold/2020/10/06/varga-judit-ceu-itelet-elfogadhatatlan-kettos-merce",
+    "description": "Az igazságügyi miniszter reagált az Európai Bíróság döntésére, a lényeg kb. az, hogy kettős mérce meg Soros-egyetem.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Tue, 06 Oct 2020 14:17:08 +0200"
+  },
+  {
     "title": "[Belföld] Sok esőre kell készülni szerdán",
     "link": "https://telex.hu/belfold/2020/10/06/csapadek-idojaras-eso",
     "description": "Éjszaka érkezik az intenzív csapadék délnyugat felől, a Dél-Dunántúlon akár 30-40 mm is eshet. ",
@@ -14,6 +21,13 @@
     "pubDate": "Tue, 06 Oct 2020 13:45:01 +0200"
   },
   {
+    "title": "[Belföld] Nem tiszta, hogy törvényesen használták-e Hosszú Katinkáék a Duna Arénát, folytatódik a nyomozás",
+    "link": "https://telex.hu/belfold/2020/10/06/hosszu-katinka-ugyeszseg-duna-arena-rendorseg-nyomozas",
+    "description": "Az ügyészség hatályon kívül helyezte a rendőrség augusztus eleji, az eljárást megszüntető határozatát.",
+    "author": "Flachner Balázs",
+    "pubDate": "Tue, 06 Oct 2020 13:38:52 +0200"
+  },
+  {
     "title": "[Külföld] Távoktatás koronavírus alatt: az oktató közölte a kaliforniai anyával, hogy nem szoptathat óra alatt",
     "link": "https://telex.hu/kulfold/2020/10/06/tavoktatas-koronavirus-alatt-az-oktato-kozolte-a-kaliforniai-anyaval-hogy-nem-szoptathat-ora-alatt",
     "description": "Marcella Mares azt kérte, hogy kikapcsolhassa a webkameráját a szoptatás idejére, oktatója azonban közölte: tartogassa a szoptatást későbbre.",
@@ -23,7 +37,7 @@
   {
     "title": "[Gazdaság] Késik a fizetések egy része a Dunaferrnél",
     "link": "https://telex.hu/gazdasag/2020/10/06/acelipar-dunaferr-fizetesek-csuszas",
-    "description": "Kritikus pénzügyi helyzetbe került a cég, ráadásul a dolgozók közül sokan azt sem tudták, hogy már más vezeti a vállalatot.",
+    "description": "Kritikus pénzügyi helyzetbe került a cég, ráadásul a dolgozók közül vannak, akik azt sem tudták, hogy ki vezeti jelenleg a vállalatot.",
     "author": "Bozzay Balázs",
     "pubDate": "Tue, 06 Oct 2020 13:11:35 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "Legkésőbb október 20-án Polt Péter egykori helyettesét, jobbkezét teheti Magyarország főbírójává a Fidesz–KDNP. A jelenlegi alkotmánybíró tárgyalóteremben sosem ítélkezett.",
     "author": "Biró Marianna",
     "pubDate": "Tue, 06 Oct 2020 08:18:14 +0200"
-  },
-  {
-    "title": "[Gazdaság] Annyiba kerül ma Budapesten egy albérlet, mint három évvel ezelőtt",
-    "link": "https://telex.hu/gazdasag/2020/10/06/ingatlan-alberlet-olcsobb",
-    "description": "De az egész országban lejjebb mentek az árak.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Tue, 06 Oct 2020 08:13:24 +0200"
-  },
-  {
-    "title": "[Sport] Cavani a Manchester Unitedhez igazolt",
-    "link": "https://telex.hu/sport/2020/10/06/cavani-igazolas-manchester-united",
-    "description": "Az uruguayi válogatott csatár egy évre állapodott meg a klubbal.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Tue, 06 Oct 2020 08:08:31 +0200"
   }
 ]
