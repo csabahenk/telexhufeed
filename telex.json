@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] 5, 10, 20 vagy 30 milliméter eső lesz ma?",
+    "link": "https://telex.hu/belfold/2020/10/07/idojaras-osz-eso-szel-elorejelzes-meteorologia",
+    "description": "Mutatunk egy térképet, amin ez szépen látható.",
+    "author": "Szalma Baksi Ferenc",
+    "pubDate": "Wed, 07 Oct 2020 08:20:50 +0200"
+  },
+  {
+    "title": "[Gazdaság] Ráz, kigyullad, eltörik: hoverboard egy sem, csak két elektromos roller ment át a fogyasztóvédelmi vizsgálaton",
+    "link": "https://telex.hu/gazdasag/2020/10/07/elektromos-roller-hoverboard-raz-kigyullad-eltorik-fogyasztovedelem",
+    "description": "14 elektromos rollert és hoverboardot vizsgáltak meg, a laboreredmények alapján mindössze két roller használata veszélytelen, az összes többi eszköz forgalmazását megtiltotta a hatóság.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 07 Oct 2020 08:18:10 +0200"
+  },
+  {
     "title": "[Belföld] Csalódtak az egészségügyi szakdolgozók",
     "link": "https://telex.hu/belfold/2020/10/07/orvosi-kamara-egeszsegugy-szakdolgozok-mok-nyilt-level-kincses-gyula",
     "description": "Levelet írtak az orvosi kamarának, szerintük nagy bajba kerülhet az ágazat.",
@@ -159,19 +173,5 @@
     "description": "De a BKK szerint már az építés folyamata is megfigyelhető. ",
     "author": "Lovas Gergő",
     "pubDate": "Tue, 06 Oct 2020 16:39:08 +0200"
-  },
-  {
-    "title": "[Belföld] A CEU még nem döntött, visszahoznak-e amerikai akkreditációjú programokat Budapestre",
-    "link": "https://telex.hu/belfold/2020/10/06/ceu-reakcio-lex-ceu-budapesti-oktatas",
-    "description": "Az Európai Bíróság döntését fontos erkölcsi és jogi győzelemnek tartják. ",
-    "author": "Lovas Gergő, Dömötör Bálint",
-    "pubDate": "Tue, 06 Oct 2020 16:17:16 +0200"
-  },
-  {
-    "title": "[Külföld] Törökország nem akar tűzszünetet Hegyi-Karabahban",
-    "link": "https://telex.hu/kulfold/2020/10/06/hegyi-karabah-ormenyorszag-azerbajdzsan-torokorszag",
-    "description": "A török külügyminiszter szerint nincs értelme beszüntetni a harcokat. A konfliktus miatt a focimeccseket sem tartják meg.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 06 Oct 2020 16:03:34 +0200"
   }
 ]
