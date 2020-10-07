@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Koronavírus] Amerikában már most többen haltak meg koronavírusban, mint az elmúlt öt influenzaszezonban összesen",
+    "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-influenzaszezon-halalozas-aldozatok",
+    "description": "A legutóbbi influenzaszezonban összesen 22 ezren haltak meg 8 hónap alatt, a Covid-19 most 210 ezer fölötti halálos áldozatnál jár.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 07 Oct 2020 12:25:11 +0200"
+  },
+  {
+    "title": "[Belföld] Fürjes: Elfogadhatatlan, hogy Karácsony egy náci, rasszista jelöltet támogat Borsodban",
+    "link": "https://telex.hu/belfold/2020/10/07/borsod-6-valasztokerulet-furjes-balazs-karacsony-gergely-biro-laszlo",
+    "description": "Bíró László judapestezett egyet korábban. Az időközi választáson a Fidesz kétharmada múlik.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 07 Oct 2020 12:15:10 +0200"
+  },
+  {
     "title": "[Belföld] Pintér: Lényegesen keményebb intézkedések is jöhetnek",
     "link": "https://telex.hu/belfold/2020/10/07/koronavirus-pinter-sandor-novak-katalin-rogan-antal-telex",
     "description": "A kormányülés előtt kérdeztük a belügyminisztert, és Rogán Antalt is megszólítottuk.",
@@ -14,9 +28,16 @@
     "pubDate": "Wed, 07 Oct 2020 11:37:26 +0200"
   },
   {
+    "title": "[Tech] Egy lépéssel közelebb kerültünk a techóriások működésének drasztikus felforgatásához",
+    "link": "https://telex.hu/tech/2020/10/07/kongresszus-meghallgatas-amazon-facebook-twitter-apple-jelentes",
+    "description": "Megjelent az amerikai kongresszus albizottságának jelentése, ami nagy vonalakban a trösztellenes előírások teljes átalakítását javasolja a Kongresszusnak.",
+    "author": "Flachner Balázs",
+    "pubDate": "Wed, 07 Oct 2020 11:16:29 +0200"
+  },
+  {
     "title": "[Belföld] Elég mély lyukra futott a Magyar Nemzet egy Pikó Andrást lejárató cikkel",
     "link": "https://telex.hu/belfold/2020/10/07/piko-andras-jozsefvaros-magyar-nemzet-propaganda-onkormanyzati-berlakasok",
-    "description": "A Magyar Nemzet azt írta, Pikó András a saját apjával újíttatná fel az önkormányzati bérlakásokat. Valójában a polgármester édesapja több évvel ezelőtt meghalt, valójában pedig Pikó csak a Fidesz korrupciós gyakorlatával példálózott. ",
+    "description": "Később a kormánylapnál észrevették a hibát, mert azóta már átírták a cikk szövegét, anélkül, hogy jelezték volna a korábbi súlyos tévedést.",
     "author": "Bozzay Balázs",
     "pubDate": "Wed, 07 Oct 2020 11:08:32 +0200"
   },
@@ -33,6 +54,13 @@
     "description": "A gyanú szerint korábbi válogatott meccseknél szándékosan tévesen tüntették fel a stadionokban megjelent reklámok utáni bevételt.",
     "author": "Bozzay Balázs",
     "pubDate": "Wed, 07 Oct 2020 10:55:41 +0200"
+  },
+  {
+    "title": "[Koronavírus] Tisztifőorvos: A járványügyi adatok indokolják a laborkapacitás növelését",
+    "link": "https://telex.hu/koronavirus/2020/10/07/operativ-torzs-koronavirus-2020-10-07",
+    "description": "Müller Cecília elmondta, kedden is újabb két labort vontak be, és folyamatban van egy nagy kapacitású labor bevonása is a koronavírus-tesztek feldolgozásába.",
+    "author": "Német Tamás",
+    "pubDate": "Wed, 07 Oct 2020 10:51:01 +0200"
   },
   {
     "title": "[Kult] Egy évvel csúszik az új Jurassic Park premierje is",
@@ -145,33 +173,5 @@
     "description": "Meghalt egy 21 éves nő is. Az aktív fertőzöttek száma 23 ezer fölé nőtt, 818 új fertőzöttet találtak egy nap alatt. ",
     "author": "Thüringer Barbara",
     "pubDate": "Wed, 07 Oct 2020 07:56:23 +0200"
-  },
-  {
-    "title": "[Belföld] Csalódtak az egészségügyi szakdolgozók",
-    "link": "https://telex.hu/belfold/2020/10/07/orvosi-kamara-egeszsegugy-szakdolgozok-mok-nyilt-level-kincses-gyula",
-    "description": "Levelet írtak az orvosi kamarának, szerintük nagy bajba kerülhet az ágazat.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Wed, 07 Oct 2020 07:38:09 +0200"
-  },
-  {
-    "title": "[Külföld] Soros György: A döntés a CEU számára már túl későn született",
-    "link": "https://telex.hu/kulfold/2020/10/07/soros-gyorgy-ceu-kepzes-budapest",
-    "description": "Soros szerint az érvényben lévő törvények nem felelnek meg az akadémiai szabadság követelményeinek. ",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 07 Oct 2020 07:37:30 +0200"
-  },
-  {
-    "title": "[Koronavírus] A Pentagont is bevette a koronavírus",
-    "link": "https://telex.hu/koronavirus/2020/10/07/usa-egyesult-allamok-koronavirus-karanten-pentagon",
-    "description": "Karanténba vonult az amerikai katonai csúcsvezetők jó része.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Wed, 07 Oct 2020 06:29:28 +0200"
-  },
-  {
-    "title": "[Belföld] Tehervonatok koccantak Budapesten",
-    "link": "https://telex.hu/belfold/2020/10/07/tehervonat-utkozes-baleset-vasut-ferencvaros-kelenfold",
-    "description": "Senki sem sérült meg, de a menetrendet át kellett variálni a baleset miatt.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Wed, 07 Oct 2020 05:46:44 +0200"
   }
 ]
