@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Koronavírus] Már gyártják a koronavírus elleni gyógyszert a Richter gyógyszergyárban",
+    "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-remdesivir-richter-gyogyszergyartas-magyarorszag",
+    "description": "Megoldották a súlyos stádiumban lévő koronavírus-fertőzöttek kezelésére jelenleg leghatékonyabbnak bizonyuló remdesivir hatóanyag szintézisét.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Wed, 07 Oct 2020 14:30:09 +0200"
+  },
+  {
+    "title": "[Belföld] Magyar Orvosi Kamara: Katonák nem leszünk",
+    "link": "https://telex.hu/belfold/2020/10/07/magyar-orvosi-kamara-beremeles-halapenz-torveny",
+    "description": "Szerintük az előzetes egyeztetés nélkül benyújtott törvény súlyosan veszélyezteti az ellátórendszer működését, és sérti az orvosok alapvető jogait",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 07 Oct 2020 14:26:49 +0200"
+  },
+  {
+    "title": "[Tudomány] Miért járt Nobel-díj az élet kódjának szerkesztéséért?",
+    "link": "https://telex.hu/tudomany/2020/10/07/miert-jart-nobel-dij-az-elet-kodjanak-szerkeszteseert",
+    "description": "A Nobel-díjat érő DNS-olló olyan, mint az iPhone megjelenése, csak a génszerkesztésben. Előtte is voltak ilyen eljárások, de most robbantak be igazán.",
+    "author": "Klág Dávid",
+    "pubDate": "Wed, 07 Oct 2020 14:26:01 +0200"
+  },
+  {
     "title": "[Gazdaság] Átadták Európa legnagyobb tetőn kialakított napelemparkját Győrben",
     "link": "https://telex.hu/gazdasag/2020/10/07/audi-napelem-gyor-napenergia-kornyezetvedelem",
     "description": "Az Audi egyik épületének tetejére 36 ezer napelemet telepítettek, a győri üzem a második olyan Audi-gyár a világon, ami karbonsemlegesen működik.",
@@ -152,26 +173,5 @@
     "description": "Hét és fél évvel a brutális támadás után újra szakértők vizsgálták meg Renner Erikát. Az 50 oldalas egyesített szakértői vélemény a nő kártérítési perében kulcsfontosságú lehet, 25 millió forintot követel Bene Krisztiántól, a volt kórházigazgatótól.",
     "author": "Pintér Luca",
     "pubDate": "Wed, 07 Oct 2020 09:46:09 +0200"
-  },
-  {
-    "title": "[Szórakozás] Elmegy az ember a magyar vidékre, aztán letámadják a szellemek",
-    "link": "https://telex.hu/szorakozas/2020/10/07/elmegy-az-ember-a-magyar-videkre-aztan-letamadjak-a-szellemek",
-    "description": "A Post Mortem egy olyan magyar horrornak tűnik, ami felveheti versenyt a Démonok között-filmekkel. Itt az első előzetes.",
-    "author": "Klág Dávid",
-    "pubDate": "Wed, 07 Oct 2020 09:36:08 +0200"
-  },
-  {
-    "title": "[Kult] Hat év után új dalt adott ki az AC/DC",
-    "link": "https://telex.hu/kult/2020/10/07/ac-dc-uj-dal-album-shot-in-the-dark",
-    "description": "Az album majd november 13-án érkezik.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 07 Oct 2020 09:21:03 +0200"
-  },
-  {
-    "title": "[Gazdaság] A külföldi turistákat augusztusban is nagyítóval kellett keresni",
-    "link": "https://telex.hu/gazdasag/2020/10/07/turizmus-vendegejszakak-augusztus-koronavirus",
-    "description": "Kevesebb mint harmadannyi turista jött külföldről, mint tavaly.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Wed, 07 Oct 2020 09:18:26 +0200"
   }
 ]
