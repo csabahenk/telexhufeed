@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] Pintér: Lényegesen keményebb intézkedések is jöhetnek",
+    "link": "https://telex.hu/belfold/2020/10/07/koronavirus-pinter-sandor-novak-katalin-rogan-antal-telex",
+    "description": "A kormányülés előtt kérdeztük a belügyminisztert, és Rogán Antalt is megszólítottuk.",
+    "author": "Fábián Tamás, Lengyel-Szabó Péter",
+    "pubDate": "Wed, 07 Oct 2020 11:37:30 +0200"
+  },
+  {
+    "title": "[Belföld] 98,3 százalékos csúcson az ügyészség váderedményessége",
+    "link": "https://telex.hu/belfold/2020/10/07/98-3-szazalekkal-csucson-az-ugyeszseg-vaderedmenyessege",
+    "description": "Csökkent a regisztrált bűncselekmények száma. A bíróságok legtöbbször pénzbüntetést szabnak ki. Kijött az ügyészség 2019-es évéről szóló beszámoló.",
+    "author": "",
+    "pubDate": "Wed, 07 Oct 2020 11:37:26 +0200"
+  },
+  {
     "title": "[Belföld] Elég mély lyukra futott a Magyar Nemzet egy Pikó Andrást lejárató cikkel",
     "link": "https://telex.hu/belfold/2020/10/07/piko-andras-jozsefvaros-magyar-nemzet-propaganda-onkormanyzati-berlakasok",
     "description": "A Magyar Nemzet azt írta, Pikó András a saját apjával újíttatná fel az önkormányzati bérlakásokat. Valójában a polgármester édesapja több évvel ezelőtt meghalt, valójában pedig Pikó csak a Fidesz korrupciós gyakorlatával példálózott. ",
@@ -14,18 +28,25 @@
     "pubDate": "Wed, 07 Oct 2020 11:00:25 +0200"
   },
   {
-    "title": "[Gazdaság] Házkutatást tartottak a Német Labdarúgó Szövetségnél, adócsalás a gyanú",
+    "title": "[Gazdaság] Házkutatást tartottak a Német Labdarúgó-szövetségnél, adócsalás a gyanú",
     "link": "https://telex.hu/gazdasag/2020/10/07/nemet-labdarugo-szovetseg-adocsalas-vizsgalat",
     "description": "A gyanú szerint korábbi válogatott meccseknél szándékosan tévesen tüntették fel a stadionokban megjelent reklámok utáni bevételt.",
     "author": "Bozzay Balázs",
     "pubDate": "Wed, 07 Oct 2020 10:55:41 +0200"
   },
   {
-    "title": "[Szórakozás] Egy évvel csúszik az új Jurassic Park premierje is",
-    "link": "https://telex.hu/szorakozas/2020/10/07/jurassic-park-vilaguralom-halasztas-trevorrow",
+    "title": "[Kult] Egy évvel csúszik az új Jurassic Park premierje is",
+    "link": "https://telex.hu/kult/2020/10/07/jurassic-park-vilaguralom-halasztas-trevorrow",
     "description": "A napokban már sok régóta várt film csúszását jelentették be, így járt az új James Bond és az idei év legjobban várt sci-fije, a Dűne is. ",
     "author": "Thüringer Barbara",
     "pubDate": "Wed, 07 Oct 2020 10:48:40 +0200"
+  },
+  {
+    "title": "[Tudomány] A genetikus ollóért járt az idei kémiai Nobel-díj",
+    "link": "https://telex.hu/tudomany/2020/10/07/kemia-nobel-dij-2020",
+    "description": "A DNS-t szerkesztő CRISPR/Cas9-technika két kutatója, a francia Emmanuelle Charpentier és az amerikai Jennifer A. Doudna kapták a díjat.",
+    "author": "Klág Dávid",
+    "pubDate": "Wed, 07 Oct 2020 10:43:59 +0200"
   },
   {
     "title": "[Belföld] Még nincsenek meg a jogi feltételei az állami és a magánpraxis szétválasztásának",
@@ -152,26 +173,5 @@
     "description": "Senki sem sérült meg, de a menetrendet át kellett variálni a baleset miatt.",
     "author": "Szalma Baksi Ferenc",
     "pubDate": "Wed, 07 Oct 2020 05:46:44 +0200"
-  },
-  {
-    "title": "[Sport] Egy győzelemre a 17. bajnoki címétől a Los Angeles Lakers",
-    "link": "https://telex.hu/sport/2020/10/07/nba-donto-negyedik-merkozes-los-angeles-lakers-miami-heat-102-96",
-    "description": "AZ NBA döntőjének negyedik meccsén 102-96-ra győzték le a Miami Heatet, ezzel már 3-1-re vezetnek.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 07 Oct 2020 05:42:42 +0200"
-  },
-  {
-    "title": "[Külföld] Harmincezer turistát menekítettek ki Cancúnból a Delta hurrikán miatt",
-    "link": "https://telex.hu/kulfold/2020/10/07/mexiko-yucatan-felsziget-delta-hurrikan",
-    "description": "A mexikói Yucatán-félsziget felkészült az ítéletidőre.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Wed, 07 Oct 2020 05:26:20 +0200"
-  },
-  {
-    "title": "[Tech] A Facebook letöröl minden QAnonnal kapcsolatos oldalt, profilt és csoportot",
-    "link": "https://telex.hu/tech/2020/10/06/facebook-qanon-tiltas",
-    "description": "Az eddigiekkel ellentétben akkor is törlik a fiókokat, ha azok nem buzdítanak konkrét erőszakra.",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 06 Oct 2020 23:54:15 +0200"
   }
 ]
