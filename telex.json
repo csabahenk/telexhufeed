@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] Elég mély lyukra futott a Magyar Nemzet egy Pikó Andrást lejárató cikkel",
+    "link": "https://telex.hu/belfold/2020/10/07/piko-andras-jozsefvaros-magyar-nemzet-propaganda-onkormanyzati-berlakasok",
+    "description": "A Magyar Nemzet azt írta, Pikó András a saját apjával újíttatná fel az önkormányzati bérlakásokat. Valójában a polgármester édesapja több évvel ezelőtt meghalt, valójában pedig Pikó csak a Fidesz korrupciós gyakorlatával példálózott. ",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 07 Oct 2020 11:08:32 +0200"
+  },
+  {
+    "title": "[Külföld] Egyre nagyobb a zűrzavar Kirgizisztánban, hatalmi ellentétek dúlnak az ellenzékben",
+    "link": "https://telex.hu/kulfold/2020/10/07/kirgiz-valsag-kirgizisztan-ellenzek-ellentetek",
+    "description": "Az ellenzék egy része nem fogadja el a kedden, más ellenzéki pártok által jelölt miniszterelnököt.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 07 Oct 2020 11:00:25 +0200"
+  },
+  {
     "title": "[Gazdaság] Házkutatást tartottak a Német Labdarúgó Szövetségnél, adócsalás a gyanú",
     "link": "https://telex.hu/gazdasag/2020/10/07/nemet-labdarugo-szovetseg-adocsalas-vizsgalat",
     "description": "A gyanú szerint korábbi válogatott meccseknél szándékosan tévesen tüntették fel a stadionokban megjelent reklámok utáni bevételt.",
@@ -7,11 +21,32 @@
     "pubDate": "Wed, 07 Oct 2020 10:55:41 +0200"
   },
   {
+    "title": "[Szórakozás] Egy évvel csúszik az új Jurassic Park premierje is",
+    "link": "https://telex.hu/szorakozas/2020/10/07/jurassic-park-vilaguralom-halasztas-trevorrow",
+    "description": "A napokban már sok régóta várt film csúszását jelentették be, így járt az új James Bond és az idei év legjobban várt sci-fije, a Dűne is. ",
+    "author": "Thüringer Barbara",
+    "pubDate": "Wed, 07 Oct 2020 10:48:40 +0200"
+  },
+  {
     "title": "[Belföld] Még nincsenek meg a jogi feltételei az állami és a magánpraxis szétválasztásának",
     "link": "https://telex.hu/belfold/2020/10/07/kasler-allami-magan-praxis-orvosok-emmi-emberi-eroforrasok-minisztere",
     "description": "Kásler Miklós szerint a koronavírus-járvány gyorsította fel az egészségügy átalakítását.",
     "author": "Szalma Baksi Ferenc",
     "pubDate": "Wed, 07 Oct 2020 10:41:24 +0200"
+  },
+  {
+    "title": "[Sport] Egy helikopter okozott bringásbalesetet a Giro d'Italián",
+    "link": "https://telex.hu/sport/2020/10/07/giro-d-italia-helikopter-okozott-kerekpar-baleset-wackermann",
+    "description": "Túl alacsonyan repült egy gép, az általa kavart szél kordont lökött a kerékpárosokra.",
+    "author": "Fehér János",
+    "pubDate": "Wed, 07 Oct 2020 10:32:20 +0200"
+  },
+  {
+    "title": "[Kult] Egyre többet, egyre hosszabb ideig és egyedül nézünk online filmeket",
+    "link": "https://telex.hu/kult/2020/10/07/nmhh-online-film-streaming-torrent",
+    "description": "Az NMHH friss felméréséből kiderült, hogy nagyon sok embernek van előfizetése valamilyen streamingszolgáltatásra, a torrentezésben pedig nagyok a generációs különbségek.",
+    "author": "Flachner Balázs",
+    "pubDate": "Wed, 07 Oct 2020 10:23:36 +0200"
   },
   {
     "title": "[Kult] Szent muszlim szöveg hangzott el Rihanna fehérnemű-bemutatóján, elnézést kért érte",
@@ -112,7 +147,7 @@
     "pubDate": "Wed, 07 Oct 2020 06:29:28 +0200"
   },
   {
-    "title": "[Belföld] Tehervonatok ütköztek Budapesten, két vagon kisiklott",
+    "title": "[Belföld] Tehervonatok koccantak Budapesten",
     "link": "https://telex.hu/belfold/2020/10/07/tehervonat-utkozes-baleset-vasut-ferencvaros-kelenfold",
     "description": "Senki sem sérült meg, de a menetrendet át kellett variálni a baleset miatt.",
     "author": "Szalma Baksi Ferenc",
@@ -138,40 +173,5 @@
     "description": "Az eddigiekkel ellentétben akkor is törlik a fiókokat, ha azok nem buzdítanak konkrét erőszakra.",
     "author": "Világi Máté",
     "pubDate": "Tue, 06 Oct 2020 23:54:15 +0200"
-  },
-  {
-    "title": "[Tudomány] A valaha mért legmelegebb szeptember volt az idei",
-    "link": "https://telex.hu/tudomany/2020/10/06/a-valaha-mert-legmelegebb-szeptember-volt-az-idei",
-    "description": "Európában különösen nagy volt a meleg a hónapban. Az Északi-sarkvidék jege csak egyszer volt az ideinél kisebb. Lehet, hogy rekord év lesz 2020.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Tue, 06 Oct 2020 23:39:13 +0200"
-  },
-  {
-    "title": "[Tech] Hekkerek rázárhatják a felhasználók péniszére az okos erényövet",
-    "link": "https://telex.hu/tech/2020/10/06/qiui-cellmate-okos-erenyov-biztonsagi-res-kiberbiztonsag",
-    "description": "Nincs biztonsági feloldás, így csak csapszegvágóval vagy sarokcsiszolóval lehet levágni.",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 06 Oct 2020 22:53:40 +0200"
-  },
-  {
-    "title": "[Kult] Meghalt Eddie Van Halen",
-    "link": "https://telex.hu/kult/2020/10/06/meghalt-eddie-van-halen-gyasz",
-    "description": "",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 06 Oct 2020 21:34:31 +0200"
-  },
-  {
-    "title": "[Belföld] Karácsony és kilenc másik polgármester Jourovához fordult az EU-s támogatások ügyében",
-    "link": "https://telex.hu/belfold/2020/10/06/karacsony-gergely-10-polgarmester-nyilt-level-vera-jourova-katarina-barley-eus-palyazat",
-    "description": "Karácsony Gergely a Facebookon osztotta meg a nyílt levelet, amiben arra kéri az Uniót, hogy ne tegyenek egyenlőségjelet a kormány és a magyarok között, kapják meg az önkormányzatok az EU-s támogatások legalább felét.",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 06 Oct 2020 21:01:29 +0200"
-  },
-  {
-    "title": "[Sport] A Puskás Arénában lesz a Fradi Juventus és Barcelona elleni BL-meccse",
-    "link": "https://telex.hu/sport/2020/10/06/ferencvaros-puskas-arena-barcelona-juventus",
-    "description": "Az UEFA engedélyezte a helyszínváltást. ",
-    "author": "Lovas Gergő",
-    "pubDate": "Tue, 06 Oct 2020 20:50:52 +0200"
   }
 ]
