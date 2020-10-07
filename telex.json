@@ -1,5 +1,47 @@
 [
   {
+    "title": "[Gazdaság] Átadták Európa legnagyobb tetőn kialakított napelemparkját Győrben",
+    "link": "https://telex.hu/gazdasag/2020/10/07/audi-napelem-gyor-napenergia-kornyezetvedelem",
+    "description": "Az Audi egyik épületének tetejére 36 ezer napelemet telepítettek, a győri üzem a második olyan Audi-gyár a világon, ami karbonsemlegesen működik.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 07 Oct 2020 13:36:25 +0200"
+  },
+  {
+    "title": "[Külföld] Bűnszövetkezetnek minősítette a görög bíróság az Arany Hajnal szélsőjobboldali pártot",
+    "link": "https://telex.hu/kulfold/2020/10/07/cikk-cime-44",
+    "description": "A radikális szervezet több korábbi képviselőjét is elítélték.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 07 Oct 2020 13:34:11 +0200"
+  },
+  {
+    "title": "[Külföld] Az Európai Bizottság tízéves tervvel támogatná az uniós országok roma lakosságát",
+    "link": "https://telex.hu/kulfold/2020/10/07/europai-bizottsag-romak-unios-tamogatas-tizeves-terv",
+    "description": "Felszólították a tagországokat, hogy egy éven belül nyújtsanak be stratégiákat arra, hogyan segítenék őket. ",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 07 Oct 2020 13:31:01 +0200"
+  },
+  {
+    "title": "[Szórakozás] 747 nyerte el az Alaszka legkövérebb medvéje címet",
+    "link": "https://telex.hu/szorakozas/2020/10/07/alaszka-kover-medve-szavazas-747-nyertes",
+    "description": " A medve már júliusban olyan kövér volt, hogy téli álomba merülhetett volna, de ő folytatta a falást, így szeptember végére már földig ért a hasa.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Wed, 07 Oct 2020 13:24:25 +0200"
+  },
+  {
+    "title": "[Belföld] Eljárás indul a nem közlekedő reptéri busz jegyértékesítése miatt",
+    "link": "https://telex.hu/belfold/2020/10/07/bkk-eljaras-budapest-fogyasztovedelem-busz",
+    "description": "Úgy látszik, nem volt elég a BKK bocsánatkérése, adatszolgáltatásra kötelezte őket a fővárosi kormányhivatl a 100E járat ügyében.",
+    "author": "Flachner Balázs",
+    "pubDate": "Wed, 07 Oct 2020 13:07:05 +0200"
+  },
+  {
+    "title": "[Külföld] Jelentették Putyinnak, a hadsereg sikeresen tesztelt egy hiperszonikus fegyvert",
+    "link": "https://telex.hu/kulfold/2020/10/07/oroszorszag-hiperszonikus-fegyver-teszteles",
+    "description": "Nemsokára hadrendbe is állítják a haditengerészet hajóin és tengeralattjáróin.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 07 Oct 2020 13:05:27 +0200"
+  },
+  {
     "title": "[Koronavírus] Amerikában már most többen haltak meg koronavírusban, mint az elmúlt öt influenzaszezonban összesen",
     "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-influenzaszezon-halalozas-aldozatok",
     "description": "A legutóbbi influenzaszezonban összesen 22 ezren haltak meg 8 hónap alatt, a Covid-19 most 210 ezer fölötti halálos áldozatnál jár.",
@@ -24,7 +66,7 @@
     "title": "[Belföld] 98,3 százalékos csúcson az ügyészség váderedményessége",
     "link": "https://telex.hu/belfold/2020/10/07/98-3-szazalekkal-csucson-az-ugyeszseg-vaderedmenyessege",
     "description": "Csökkent a regisztrált bűncselekmények száma. A bíróságok legtöbbször pénzbüntetést szabnak ki. Kijött az ügyészség 2019-es évéről szóló beszámoló.",
-    "author": "",
+    "author": "Janecskó Kata",
     "pubDate": "Wed, 07 Oct 2020 11:37:26 +0200"
   },
   {
@@ -49,7 +91,7 @@
     "pubDate": "Wed, 07 Oct 2020 11:00:25 +0200"
   },
   {
-    "title": "[Gazdaság] Házkutatást tartottak a Német Labdarúgó-szövetségnél, adócsalás a gyanú",
+    "title": "[Gazdaság] Házkutatást tartottak a Német Labdarúgó Szövetségnél, adócsalás a gyanú",
     "link": "https://telex.hu/gazdasag/2020/10/07/nemet-labdarugo-szovetseg-adocsalas-vizsgalat",
     "description": "A gyanú szerint korábbi válogatott meccseknél szándékosan tévesen tüntették fel a stadionokban megjelent reklámok utáni bevételt.",
     "author": "Bozzay Balázs",
@@ -100,9 +142,16 @@
   {
     "title": "[Kult] Szent muszlim szöveg hangzott el Rihanna fehérnemű-bemutatóján, elnézést kért érte",
     "link": "https://telex.hu/kult/2020/10/07/rihanna-bocsanatkeres-iszlam-sorok",
-    "description": "Az előadó sem tudta, hogy a Hadísz egy részletét tartalmazza a dala.",
+    "description": "Az előadó sem tudta, hogy a Hadísz egy részletét tartalmazza a bemutatón elhangzott dal.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Wed, 07 Oct 2020 10:03:13 +0200"
+  },
+  {
+    "title": "[Belföld] \"A bíróságnak egy hüvelyt kell ezúttal beáraznia\"",
+    "link": "https://telex.hu/belfold/2020/10/07/renner-erika-karteritesi-per-uj-szakertoi-velemeny",
+    "description": "Hét és fél évvel a brutális támadás után újra szakértők vizsgálták meg Renner Erikát. Az 50 oldalas egyesített szakértői vélemény a nő kártérítési perében kulcsfontosságú lehet, 25 millió forintot követel Bene Krisztiántól, a volt kórházigazgatótól.",
+    "author": "Pintér Luca",
+    "pubDate": "Wed, 07 Oct 2020 09:46:09 +0200"
   },
   {
     "title": "[Szórakozás] Elmegy az ember a magyar vidékre, aztán letámadják a szellemek",
@@ -124,54 +173,5 @@
     "description": "Kevesebb mint harmadannyi turista jött külföldről, mint tavaly.",
     "author": "Bozzay Balázs",
     "pubDate": "Wed, 07 Oct 2020 09:18:26 +0200"
-  },
-  {
-    "title": "[Belföld] Hetvenhárom civil szervezet követeli a nagy tavainkat károsító beruházások megakadályozását",
-    "link": "https://telex.hu/belfold/2020/10/07/73-civil-szervezet-nagy-tavaink-vedelem-alaptorveny",
-    "description": "Közleményük szerint az Alaptörvény is kötelezi erre az államot.",
-    "author": "Fehér János",
-    "pubDate": "Wed, 07 Oct 2020 09:17:34 +0200"
-  },
-  {
-    "title": "[Koronavírus] Gyorsabb és egyszerűbb PCR-tesztet fejlesztenek",
-    "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-percrol-percre-covid-19-jarvany",
-    "description": "A koronavírus-járvány szerdai hírei egy helyen.",
-    "author": "Thüringer Barbara, Szalma Baksi Ferenc",
-    "pubDate": "Wed, 07 Oct 2020 09:00:26 +0200"
-  },
-  {
-    "title": "[Belföld] Az SZFE új kancellárja: Ami az egyetemen zajlik, az közel jár a háborús helyzethez",
-    "link": "https://telex.hu/belfold/2020/10/07/szarka-gabor-szfe-kancellar-egyetem-interju",
-    "description": "Ő viszont állítja, nem háborúzni ment oda. Szarka Gábor csak az igazgatással akar foglalkozni, és nem tartja normálisnak, hogy erre nem kap lehetőséget.",
-    "author": "Flachner Balázs",
-    "pubDate": "Wed, 07 Oct 2020 08:57:27 +0200"
-  },
-  {
-    "title": "[Belföld] 5, 10, 20 vagy 30 milliméter eső lesz ma?",
-    "link": "https://telex.hu/belfold/2020/10/07/idojaras-osz-eso-szel-elorejelzes-meteorologia",
-    "description": "Mutatunk egy térképet, amin ez szépen látható.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Wed, 07 Oct 2020 08:20:50 +0200"
-  },
-  {
-    "title": "[Gazdaság] Ráz, kigyullad, eltörik: hoverboard egy sem, csak két elektromos roller ment át a fogyasztóvédelmi vizsgálaton",
-    "link": "https://telex.hu/gazdasag/2020/10/07/elektromos-roller-hoverboard-raz-kigyullad-eltorik-fogyasztovedelem",
-    "description": "14 elektromos rollert és hoverboardot vizsgáltak meg, a laboreredmények alapján mindössze két roller használata veszélytelen, az összes többi eszköz forgalmazását megtiltotta a hatóság.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Wed, 07 Oct 2020 08:18:10 +0200"
-  },
-  {
-    "title": "[Belföld] Nyugdíjas rendőrt vádolnak pedofíliával",
-    "link": "https://telex.hu/belfold/2020/10/07/kotegyan-pedofilia-volt-rendor-targyalas",
-    "description": "A férfi fajtalankodott egy nyolcéves kisfiúval 2019-ben, de több rendbeli szexuális erőszak a vád ellene.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 07 Oct 2020 08:08:17 +0200"
-  },
-  {
-    "title": "[Koronavírus] Minden eddiginél több, 24 beteg halt meg",
-    "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-magyarorszag-fertozes-napi-adat",
-    "description": "Meghalt egy 21 éves nő is. Az aktív fertőzöttek száma 23 ezer fölé nőtt, 818 új fertőzöttet találtak egy nap alatt. ",
-    "author": "Thüringer Barbara",
-    "pubDate": "Wed, 07 Oct 2020 07:56:23 +0200"
   }
 ]
