@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Gazdaság] 6,45 milliárd eurós gigabírságot osztott ki a Gazpromnak a lengyel versenyhivatal",
+    "link": "https://telex.hu/gazdasag/2020/10/07/cikk-cime-49",
+    "description": "Az Észak Áramlat-2 építése miatt kapták. Öt másik nagy céget is megbüntet a hatóság, mert szerintük a gázvezeték építésének finanszírozásáról szóló megállapodásokat engedély nélkül kötötték. ",
+    "author": "Előd Fruzsina",
+    "pubDate": "Wed, 07 Oct 2020 18:58:35 +0200"
+  },
+  {
+    "title": "[Koronavírus] Megrovásra ítéltek egy vírustagadó pécsi férfit",
+    "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-virustagado-remhirterjesztes-megrovas",
+    "description": "Rémhírterjesztés miatt indult ellene eljárás. ",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 07 Oct 2020 18:54:36 +0200"
+  },
+  {
     "title": "[Belföld] Poloskát találtak Gyúró polgármesteri hivatalában",
     "link": "https://telex.hu/belfold/2020/10/07/gyuro-polgarmesteri-hivatal-poloska-lehallgatas-rendorsegi-eljaras",
     "description": "A rendőrség tiltott adatszerzés gyanújával nyomoz ismeretlen tettes ellen. ",
@@ -77,6 +91,13 @@
     "pubDate": "Wed, 07 Oct 2020 16:07:58 +0200"
   },
   {
+    "title": "[Sport] 29 évesen tanították meg nekem a futball alapszabályát, de nem egy hazai edző",
+    "link": "https://telex.hu/sport/2020/10/07/cikk-cime-46",
+    "description": "Pátkai Mátét ugyan felvették az ELTE matematika szakára, de a futball mellett döntött, és 23-szoros válogatott lett. Az ő góljával vertük a horvátokat és Walest is, az Eb-részvétel egyelőre mégsem jött össze. A szófiai pótselejtezőre már nem utazott, de azt elmesélte, mit tapasztalt a futballban. Becsapás, kontraproduktivitás és motiváció nélküli akadémisták. Interjú. ",
+    "author": "Ághassi Attila",
+    "pubDate": "Wed, 07 Oct 2020 16:06:55 +0200"
+  },
+  {
     "title": "[Gazdaság] 800 új munkahelyet hoz létre Ózdon a Wellis",
     "link": "https://telex.hu/gazdasag/2020/10/07/wellis-800-uj-munkahely-ozd",
     "description": "A városnak nem jön rosszul a beruházás, ugyanis egy elektronikai gyár bezárása miatt 1200 ember veszíti el a munkáját.",
@@ -152,26 +173,5 @@
     "description": " A medve már júliusban olyan kövér volt, hogy téli álomba merülhetett volna, de ő folytatta a falást, így szeptember végére már földig ért a hasa.",
     "author": "Thüringer Barbara",
     "pubDate": "Wed, 07 Oct 2020 13:24:25 +0200"
-  },
-  {
-    "title": "[Belföld] Eljárás indul a nem közlekedő reptéri busz jegyértékesítése miatt",
-    "link": "https://telex.hu/belfold/2020/10/07/bkk-eljaras-budapest-fogyasztovedelem-busz",
-    "description": "Úgy látszik, nem volt elég a BKK bocsánatkérése, adatszolgáltatásra kötelezte őket a fővárosi kormányhivatl a 100E járat ügyében.",
-    "author": "Flachner Balázs",
-    "pubDate": "Wed, 07 Oct 2020 13:07:05 +0200"
-  },
-  {
-    "title": "[Külföld] Jelentették Putyinnak, a hadsereg sikeresen tesztelt egy hiperszonikus fegyvert",
-    "link": "https://telex.hu/kulfold/2020/10/07/oroszorszag-hiperszonikus-fegyver-teszteles",
-    "description": "Nemsokára hadrendbe is állítják a haditengerészet hajóin és tengeralattjáróin.",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 07 Oct 2020 13:05:27 +0200"
-  },
-  {
-    "title": "[Szórakozás] Amerika fájdalmának emlékműve",
-    "link": "https://telex.hu/szorakozas/2020/10/07/challenger-the-final-flight-dokumentumfilm-netflix-ursiklo-tragedia-katasztrofa-space-shuttle",
-    "description": "A Challenger: The Final Flight néhol hatásos, máshol hatásvadász, elnyújtott dokumentumfilm az űrsikló tragédiájáról.",
-    "author": "Stöckert Gábor",
-    "pubDate": "Wed, 07 Oct 2020 12:34:11 +0200"
   }
 ]
