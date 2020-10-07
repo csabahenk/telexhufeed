@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Szórakozás] Elmegy az ember a magyar vidékre, aztán letámadják a szellemek",
+    "link": "https://telex.hu/szorakozas/2020/10/07/elmegy-az-ember-a-magyar-videkre-aztan-letamadjak-a-szellemek",
+    "description": "A Post Mortem egy olyan magyar horrornak tűnik, ami felveheti versenyt a Démonok között-filmekkel. Itt az első előzetes.",
+    "author": "Klág Dávid",
+    "pubDate": "Wed, 07 Oct 2020 09:36:08 +0200"
+  },
+  {
+    "title": "[Gazdaság] A külföldi turistákat augusztusban is nagyítóval kellett keresni",
+    "link": "https://telex.hu/gazdasag/2020/10/07/turizmus-vendegejszakak-augusztus-koronavirus",
+    "description": "Kevesebb mint harmadannyi turista jött külföldről, mint tavaly.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 07 Oct 2020 09:18:26 +0200"
+  },
+  {
+    "title": "[Koronavírus] Óriásplakáton kívánnak jobbulást Trumpnak, kitört egy tengerész a karanténból Dél-Koreában",
+    "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-percrol-percre-covid-19-jarvany",
+    "description": "A koronavírus-járvány szerdai hírei egy helyen.",
+    "author": "Thüringer Barbara, Szalma Baksi Ferenc",
+    "pubDate": "Wed, 07 Oct 2020 09:00:26 +0200"
+  },
+  {
     "title": "[Belföld] 5, 10, 20 vagy 30 milliméter eső lesz ma?",
     "link": "https://telex.hu/belfold/2020/10/07/idojaras-osz-eso-szel-elorejelzes-meteorologia",
     "description": "Mutatunk egy térképet, amin ez szépen látható.",
@@ -12,6 +33,20 @@
     "description": "14 elektromos rollert és hoverboardot vizsgáltak meg, a laboreredmények alapján mindössze két roller használata veszélytelen, az összes többi eszköz forgalmazását megtiltotta a hatóság.",
     "author": "Bozzay Balázs",
     "pubDate": "Wed, 07 Oct 2020 08:18:10 +0200"
+  },
+  {
+    "title": "[Belföld] Nyugdíjas rendőrt vádolnak pedofíliával",
+    "link": "https://telex.hu/belfold/2020/10/07/kotegyan-pedofilia-volt-rendor-targyalas",
+    "description": "A férfi fajtalankodott egy nyolcéves kisfiúval 2019-ben, de több rendbeli szexuális erőszak a vád ellene.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 07 Oct 2020 08:08:17 +0200"
+  },
+  {
+    "title": "[Koronavírus] Újabb negatív rekord: 24 beteg meghalt",
+    "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-magyarorszag-fertozes-napi-adat",
+    "description": "Az aktív fertőzöttek száma 23 ezer fölé nőtt, 818 új fertőzöttet találtak egy nap alatt.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Wed, 07 Oct 2020 07:56:23 +0200"
   },
   {
     "title": "[Belföld] Csalódtak az egészségügyi szakdolgozók",
@@ -138,40 +173,5 @@
     "description": "Donald Trump tévesen azt írta, hogy a Covid-19 sokkal kevésbé halálos, mint az influenza, a Twitter csak megjelölte a posztját.",
     "author": "Világi Máté",
     "pubDate": "Tue, 06 Oct 2020 18:37:07 +0200"
-  },
-  {
-    "title": "[Belföld] Törvénytelenül tiltották meg az Orbán háza elé szervezett tüntetést",
-    "link": "https://telex.hu/belfold/2020/10/06/strasbourg-emberi-jogok-europai-birosaga-orban-viktor-tuntetes-tasz",
-    "description": "A strasbourgi Emberi Jogok Európai Bírósága szerint nem volt jogalapja a 2013-as tüntetés megtiltásának.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 06 Oct 2020 18:14:25 +0200"
-  },
-  {
-    "title": "[Tech] Nem jut eszébe egy dal címe? Segít a Spotify",
-    "link": "https://telex.hu/tech/2020/10/06/spotify-kereses-dalszoveg-reszlet",
-    "description": "Az alkalmazás keresője már a dalszöveg egy részlete alapján is kidobja a számot, amit keresünk.",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 06 Oct 2020 17:34:07 +0200"
-  },
-  {
-    "title": "[Belföld] Bedrogozva menekült a rendőrök elől egy pécsi gyorshajtó",
-    "link": "https://telex.hu/belfold/2020/10/06/pecs-gyorshajto-rendorseg-auto-menekules",
-    "description": "A baranyai Need for Speedben három rendőrautó is elesett, mire elkapták a 23 éves sofőrt.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 06 Oct 2020 17:31:18 +0200"
-  },
-  {
-    "title": "[Tech] Az Instagram elkezdi elrejteni a sértő kommenteket",
-    "link": "https://telex.hu/tech/2020/10/06/tech-instagram-mesterseges-intelligencia-komment-bullying",
-    "description": "Egy mesterséges intelligencia szűri majd ki a bántó tartalmakat.",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 06 Oct 2020 16:44:25 +0200"
-  },
-  {
-    "title": "[Belföld] Leginkább még bontanak a 3-as metró felújítandó szakaszán",
-    "link": "https://telex.hu/belfold/2020/10/06/leginkabb-meg-bontanak-a-3-as-metro-felujitando-szakaszan",
-    "description": "De a BKK szerint már az építés folyamata is megfigyelhető. ",
-    "author": "Lovas Gergő",
-    "pubDate": "Tue, 06 Oct 2020 16:39:08 +0200"
   }
 ]
