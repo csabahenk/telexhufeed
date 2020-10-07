@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] Felrobbant egy orosz katonai lőszerraktár, a környéket evakuálták",
+    "link": "https://telex.hu/kulfold/2020/10/07/oroszorszag-loszerraktar-robbanas",
+    "description": "A környék füves területén tűz keletkezett, így terjedt át a hadsereg épületére. 1600 embert kitelepítettek. ",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 07 Oct 2020 17:51:26 +0200"
+  },
+  {
     "title": "[Sport] 97 millió eurós veszteséget termelt a Barcelona, a focisták fizetését is csökkentik",
     "link": "https://telex.hu/sport/2020/10/07/fc-barcelona-bercsokkentes-koronavirus-jarvany",
     "description": "2019-hez képest 14 százalékkal csökkentek a katalán klub bevételei, a focisták is kevesebbet fognak keresni. ",
@@ -166,12 +173,5 @@
     "description": "A kormányülés előtt kérdeztük a belügyminisztert, és Rogán Antalt is megszólítottuk.",
     "author": "Fábián Tamás, Lengyel-Szabó Péter",
     "pubDate": "Wed, 07 Oct 2020 11:37:30 +0200"
-  },
-  {
-    "title": "[Belföld] 98,3 százalékos csúcson az ügyészség váderedményessége",
-    "link": "https://telex.hu/belfold/2020/10/07/98-3-szazalekkal-csucson-az-ugyeszseg-vaderedmenyessege",
-    "description": "Csökkent a regisztrált bűncselekmények száma. A bíróságok legtöbbször pénzbüntetést szabnak ki. Kijött az ügyészség 2019-es évéről szóló beszámoló.",
-    "author": "Janecskó Kata",
-    "pubDate": "Wed, 07 Oct 2020 11:37:26 +0200"
   }
 ]
