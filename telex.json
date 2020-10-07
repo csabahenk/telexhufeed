@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] 180 milliárd forintos hitelt kap Magyarország az EU-tól munkahelyvédelemre",
+    "link": "https://telex.hu/belfold/2020/10/07/180-milliard-forintos-hitelt-kap-magyarorszag-az-eu-tol-munkahelyvedelemre",
+    "description": "Eredetileg többet kért a kormány, de nem fogadtak el minden leadott intézkedést munkahelymegtartónak.",
+    "author": "Előd Fruzsina",
+    "pubDate": "Wed, 07 Oct 2020 17:16:21 +0200"
+  },
+  {
     "title": "[Külföld] Oroszországban is körözik Szvetlana Tyihanovszkaja belarusz elnökjelöltet",
     "link": "https://telex.hu/kulfold/2020/10/07/belarusz-szvetlana-tyihanovszkaja-korozes-oroszorszag",
     "description": "Az ellenzék szerint ő nyert a belarusz választásokon, az oroszok nem részletezték, hogy miért akarják őrizetbe venni.",
@@ -91,6 +98,13 @@
     "pubDate": "Wed, 07 Oct 2020 13:34:11 +0200"
   },
   {
+    "title": "[Sport] Giro: Valter Attila jó pár helyet javított az összetettben",
+    "link": "https://telex.hu/sport/2020/10/07/cikk-cime-45",
+    "description": "A magyar bringás a 33. helyre jött fel, Filippo Ganna már a második szakaszát nyerte az olasz körversenyen.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 07 Oct 2020 13:31:09 +0200"
+  },
+  {
     "title": "[Külföld] Az Európai Bizottság tízéves tervvel támogatná az uniós országok roma lakosságát",
     "link": "https://telex.hu/kulfold/2020/10/07/europai-bizottsag-romak-unios-tamogatas-tizeves-terv",
     "description": "Felszólították a tagországokat, hogy egy éven belül nyújtsanak be stratégiákat arra, hogyan segítenék őket.",
@@ -159,19 +173,5 @@
     "description": "Megjelent az amerikai kongresszus albizottságának jelentése, ami nagy vonalakban a trösztellenes előírások teljes átalakítását javasolja a Kongresszusnak.",
     "author": "Flachner Balázs",
     "pubDate": "Wed, 07 Oct 2020 11:16:29 +0200"
-  },
-  {
-    "title": "[Belföld] Elég mély lyukra futott a Magyar Nemzet egy Pikó Andrást lejárató cikkel",
-    "link": "https://telex.hu/belfold/2020/10/07/piko-andras-jozsefvaros-magyar-nemzet-propaganda-onkormanyzati-berlakasok",
-    "description": "Később a kormánylapnál észrevették a hibát, mert azóta már átírták a cikk szövegét, anélkül, hogy jelezték volna a korábbi súlyos tévedést.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Wed, 07 Oct 2020 11:08:32 +0200"
-  },
-  {
-    "title": "[Külföld] Egyre nagyobb a zűrzavar Kirgizisztánban, hatalmi ellentétek dúlnak az ellenzékben",
-    "link": "https://telex.hu/kulfold/2020/10/07/kirgiz-valsag-kirgizisztan-ellenzek-ellentetek",
-    "description": "Az ellenzék egy része nem fogadja el a kedden, más ellenzéki pártok által jelölt miniszterelnököt.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 07 Oct 2020 11:00:25 +0200"
   }
 ]
