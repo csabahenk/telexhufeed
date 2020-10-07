@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Koronavírus] A Pentagont is bevette a koronavírus]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/07/usa-egyesult-allamok-koronavirus-karanten-pentagon]]>
+      </link>
+      <description>
+        <![CDATA[Karanténba vonult az amerikai katonai csúcsvezetők jó része.]]>
+      </description>
+      <author>
+        <![CDATA[Szalma Baksi Ferenc]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 07 Oct 2020 06:29:28 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Tehervonatok koccantak Budapesten]]>
       </title>
       <link>
@@ -20,6 +37,23 @@
       </author>
       <pubDate>
         <![CDATA[Wed, 07 Oct 2020 05:46:44 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Sport] Egy győzelemre a 17. bajnoki címétől a Los Angeles Lakers]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/07/nba-donto-negyedik-merkozes-los-angeles-lakers-miami-heat-102-96]]>
+      </link>
+      <description>
+        <![CDATA[AZ NBA döntőjének negyedik meccsén 102-96-ra győzték le a Miami Heatet, ezzel már 3-1-re vezetnek.]]>
+      </description>
+      <author>
+        <![CDATA[Pál Tamás]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 07 Oct 2020 05:42:42 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 15:36:53 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Gazdaság] A rekordgyenge forint miatt lett nagy nyeresége az MNB-nek]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/gazdasag/2020/10/06/magyar-nemzeti-bank-nyereseg-elso-felev-forint]]>
-      </link>
-      <description>
-        <![CDATA[Az elmúlt tíz évben egyszer sem volt ekkora profitja a jegybanknak fél év alatt.]]>
-      </description>
-      <author>
-        <![CDATA[Bozzay Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 15:30:09 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tudomány] Lenyűgözően részletes képek készültek a Carina-ködről]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tudomany/2020/10/06/csillagaszat-urkutatas-carina-kod-teleszkop-gemini-obszervatorium]]>
-      </link>
-      <description>
-        <![CDATA[A James Webb űrtávcső fellövése még odébb van, de a Gemini Obszervatórium infravörös távcsöve betekintést enged abba, hogy mire lehet majd számítani tőle.]]>
-      </description>
-      <author>
-        <![CDATA[Flachner Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 15:20:57 +0200]]>
       </pubDate>
     </item>
   </channel>
