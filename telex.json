@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] Tehervonatok koccantak Budapesten",
+    "link": "https://telex.hu/belfold/2020/10/07/tehervonat-utkozes-baleset-vasut-ferencvaros-kelenfold",
+    "description": "Senki sem sérült meg, de a menetrendet át kellett variálni a baleset miatt.",
+    "author": "Szalma Baksi Ferenc",
+    "pubDate": "Wed, 07 Oct 2020 05:46:44 +0200"
+  },
+  {
     "title": "[Külföld] Harmincezer turistát menekítettek ki Cancúnból a Delta hurrikán miatt",
     "link": "https://telex.hu/kulfold/2020/10/07/mexiko-yucatan-felsziget-delta-hurrikan",
     "description": "A mexikói Yucatán-félsziget felkészült az ítéletidőre.",
@@ -166,12 +173,5 @@
     "description": "A James Webb űrtávcső fellövése még odébb van, de a Gemini Obszervatórium infravörös távcsöve betekintést enged abba, hogy mire lehet majd számítani tőle.",
     "author": "Flachner Balázs",
     "pubDate": "Tue, 06 Oct 2020 15:20:57 +0200"
-  },
-  {
-    "title": "[Belföld] Áder szerint bezárják a Mátrai Erőművet, de nem úgy gondolta",
-    "link": "https://telex.hu/belfold/2020/10/06/ader-janos-matrai-eromu-bezaras-megse",
-    "description": "A gyerekek nyelvén akart beszélni, ezért fogalmazott félreérthetően az államfő.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 06 Oct 2020 15:19:02 +0200"
   }
 ]
