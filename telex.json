@@ -1,10 +1,38 @@
 [
   {
+    "title": "[Gazdaság] Házkutatást tartottak a Német Labdarúgó Szövetségnél, adócsalás a gyanú",
+    "link": "https://telex.hu/gazdasag/2020/10/07/nemet-labdarugo-szovetseg-adocsalas-vizsgalat",
+    "description": "A gyanú szerint korábbi válogatott meccseknél szándékosan tévesen tüntették fel a stadionokban megjelent reklámok utáni bevételt.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 07 Oct 2020 10:55:41 +0200"
+  },
+  {
+    "title": "[Belföld] Még nincsenek meg a jogi feltételei az állami és a magánpraxis szétválasztásának",
+    "link": "https://telex.hu/belfold/2020/10/07/kasler-allami-magan-praxis-orvosok-emmi-emberi-eroforrasok-minisztere",
+    "description": "Kásler Miklós szerint a koronavírus-járvány gyorsította fel az egészségügy átalakítását.",
+    "author": "Szalma Baksi Ferenc",
+    "pubDate": "Wed, 07 Oct 2020 10:41:24 +0200"
+  },
+  {
+    "title": "[Kult] Szent muszlim szöveg hangzott el Rihanna fehérnemű-bemutatóján, elnézést kért érte",
+    "link": "https://telex.hu/kult/2020/10/07/rihanna-bocsanatkeres-iszlam-sorok",
+    "description": "Az előadó sem tudta, hogy a Hadísz egy részletét tartalmazza a dala.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 07 Oct 2020 10:03:13 +0200"
+  },
+  {
     "title": "[Szórakozás] Elmegy az ember a magyar vidékre, aztán letámadják a szellemek",
     "link": "https://telex.hu/szorakozas/2020/10/07/elmegy-az-ember-a-magyar-videkre-aztan-letamadjak-a-szellemek",
     "description": "A Post Mortem egy olyan magyar horrornak tűnik, ami felveheti versenyt a Démonok között-filmekkel. Itt az első előzetes.",
     "author": "Klág Dávid",
     "pubDate": "Wed, 07 Oct 2020 09:36:08 +0200"
+  },
+  {
+    "title": "[Kult] Hat év után új dalt adott ki az AC/DC",
+    "link": "https://telex.hu/kult/2020/10/07/ac-dc-uj-dal-album-shot-in-the-dark",
+    "description": "Az album majd november 13-án érkezik.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 07 Oct 2020 09:21:03 +0200"
   },
   {
     "title": "[Gazdaság] A külföldi turistákat augusztusban is nagyítóval kellett keresni",
@@ -14,11 +42,25 @@
     "pubDate": "Wed, 07 Oct 2020 09:18:26 +0200"
   },
   {
-    "title": "[Koronavírus] Óriásplakáton kívánnak jobbulást Trumpnak, kitört egy tengerész a karanténból Dél-Koreában",
+    "title": "[Belföld] Hetvenhárom civil szervezet követeli a nagy tavainkat károsító beruházások megakadályozását",
+    "link": "https://telex.hu/belfold/2020/10/07/73-civil-szervezet-nagy-tavaink-vedelem-alaptorveny",
+    "description": "Közleményük szerint az Alaptörvény is kötelezi erre az államot.",
+    "author": "Fehér János",
+    "pubDate": "Wed, 07 Oct 2020 09:17:34 +0200"
+  },
+  {
+    "title": "[Koronavírus] Gyorsabb és egyszerűbb PCR-tesztet fejlesztenek",
     "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-percrol-percre-covid-19-jarvany",
     "description": "A koronavírus-járvány szerdai hírei egy helyen.",
     "author": "Thüringer Barbara, Szalma Baksi Ferenc",
     "pubDate": "Wed, 07 Oct 2020 09:00:26 +0200"
+  },
+  {
+    "title": "[Belföld] Az SZFE új kancellárja: Ami az egyetemen zajlik, az közel jár a háborús helyzethez",
+    "link": "https://telex.hu/belfold/2020/10/07/szarka-gabor-szfe-kancellar-egyetem-interju",
+    "description": "Ő viszont állítja, nem háborúzni ment oda. Szarka Gábor csak az igazgatással akar foglalkozni, és nem tartja normálisnak, hogy erre nem kap lehetőséget.",
+    "author": "Flachner Balázs",
+    "pubDate": "Wed, 07 Oct 2020 08:57:27 +0200"
   },
   {
     "title": "[Belföld] 5, 10, 20 vagy 30 milliméter eső lesz ma?",
@@ -42,9 +84,9 @@
     "pubDate": "Wed, 07 Oct 2020 08:08:17 +0200"
   },
   {
-    "title": "[Koronavírus] Újabb negatív rekord: 24 beteg meghalt",
+    "title": "[Koronavírus] Minden eddiginél több, 24 beteg halt meg",
     "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-magyarorszag-fertozes-napi-adat",
-    "description": "Az aktív fertőzöttek száma 23 ezer fölé nőtt, 818 új fertőzöttet találtak egy nap alatt.",
+    "description": "Meghalt egy 21 éves nő is. Az aktív fertőzöttek száma 23 ezer fölé nőtt, 818 új fertőzöttet találtak egy nap alatt. ",
     "author": "Thüringer Barbara",
     "pubDate": "Wed, 07 Oct 2020 07:56:23 +0200"
   },
@@ -70,7 +112,7 @@
     "pubDate": "Wed, 07 Oct 2020 06:29:28 +0200"
   },
   {
-    "title": "[Belföld] Tehervonatok koccantak Budapesten",
+    "title": "[Belföld] Tehervonatok ütköztek Budapesten, két vagon kisiklott",
     "link": "https://telex.hu/belfold/2020/10/07/tehervonat-utkozes-baleset-vasut-ferencvaros-kelenfold",
     "description": "Senki sem sérült meg, de a menetrendet át kellett variálni a baleset miatt.",
     "author": "Szalma Baksi Ferenc",
@@ -131,47 +173,5 @@
     "description": "Az UEFA engedélyezte a helyszínváltást. ",
     "author": "Lovas Gergő",
     "pubDate": "Tue, 06 Oct 2020 20:50:52 +0200"
-  },
-  {
-    "title": "[Tech] Október 13-án jön az új iPhone",
-    "link": "https://telex.hu/tech/2020/10/06/oktober-13-an-jon-az-uj-iphone",
-    "description": "Helló, sebesség! – szól a rejtélyes beharangozó.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Tue, 06 Oct 2020 20:47:16 +0200"
-  },
-  {
-    "title": "[Külföld] Szijjártó szerint érdekeltek vagyunk a kommunikáció fenntartásában Belarusszal",
-    "link": "https://telex.hu/kulfold/2020/10/06/szijjarto-erdekeltek-vagyunk-belarusszal-kommunikacio-fenntartasaban",
-    "description": "Azt is elmondta, hogy kölcsönösen tisztelik egymást belarusz kollégájával.",
-    "author": "Lovas Gergő",
-    "pubDate": "Tue, 06 Oct 2020 19:13:29 +0200"
-  },
-  {
-    "title": "[Külföld] Novicsokkal mérgezték meg Alekszej Navalnijt az OPCW szerint",
-    "link": "https://telex.hu/kulfold/2020/10/06/alekszej-navalnij-novicsok-idegmereg-oroszorszag",
-    "description": "Beigazolódott a német kormány gyanúja a szovjet idegméregről. Berlin szerint az ügy nem maradhat következmények nélkül.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 06 Oct 2020 18:56:37 +0200"
-  },
-  {
-    "title": "[Tech] Csak a hekkerek foglalhatják vissza a szétbombázott Londont",
-    "link": "https://telex.hu/tech/2020/10/06/watch-dogs-legion-trailer-london",
-    "description": "Kijött a Watch Dogs: Legion legújabb akciódús trailere.",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 06 Oct 2020 18:53:49 +0200"
-  },
-  {
-    "title": "[Külföld] Lemondott a kirgiz miniszterelnök a választás eredményeinek érvénytelenítése után",
-    "link": "https://telex.hu/kulfold/2020/10/06/lemond-a-kirgiz-miniszterelnok-tuntetesek-valasztas",
-    "description": "A parlament elfogadta a lemondását, utódot is jelöltek. ",
-    "author": "Lovas Gergő, Bolcsó Dániel",
-    "pubDate": "Tue, 06 Oct 2020 18:53:47 +0200"
-  },
-  {
-    "title": "[Tech] A Facebook szinte azonnal törölte Trump téves Covid-posztját",
-    "link": "https://telex.hu/tech/2020/10/06/koronavirus-donald-trump-usa-twitter-facebook-bejegyzes-torles-teves-informacio",
-    "description": "Donald Trump tévesen azt írta, hogy a Covid-19 sokkal kevésbé halálos, mint az influenza, a Twitter csak megjelölte a posztját.",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 06 Oct 2020 18:37:07 +0200"
   }
 ]
