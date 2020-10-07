@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Gazdaság] 800 új munkahelyet hoz létre Ózdon a Wellis",
+    "link": "https://telex.hu/gazdasag/2020/10/07/wellis-800-uj-munkahely-ozd",
+    "description": "A városnak nem jön rosszul a beruházás, ugyanis egy elektronikai gyár bezárása miatt 1200 ember veszíti el a munkáját.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 07 Oct 2020 15:52:28 +0200"
+  },
+  {
+    "title": "[Belföld] Zaklatják és fenyegetik a könyvesboltosokat",
+    "link": "https://telex.hu/belfold/2020/10/07/konyv-konyvesbolt-meseorszag-fenyegetes-tamadas",
+    "description": "Írásban és telefonon is támadják őket, van, hogy a levelezőrendszereiket is megbénítják.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 07 Oct 2020 15:05:58 +0200"
+  },
+  {
     "title": "[Belföld] Újraindítási adóval pótolná a főváros a járvány okozta súlyos veszteségeket",
     "link": "https://telex.hu/belfold/2020/10/07/karacsony-gergely-budapest-ujrainditasi-ado-koronavirus-veszteseg",
     "description": "Karácsony Gergely a Fővárosi Érdekegyeztető Tanács ülésén festett fel borús képet Budapest gazdasági helyzetéről.",
@@ -28,7 +42,7 @@
     "pubDate": "Wed, 07 Oct 2020 14:26:01 +0200"
   },
   {
-    "title": "[Gazdaság] Átadták Európa legnagyobb tetőn kialakított napelemparkját Győrben",
+    "title": "[Gazdaság] Átadták Európa legnagyobb, tetőn kialakított napelemparkját Győrben",
     "link": "https://telex.hu/gazdasag/2020/10/07/audi-napelem-gyor-napenergia-kornyezetvedelem",
     "description": "Az Audi egyik épületének tetejére 36 ezer napelemet telepítettek, a győri üzem a második olyan Audi-gyár a világon, ami karbonsemlegesen működik.",
     "author": "Bozzay Balázs",
@@ -44,7 +58,7 @@
   {
     "title": "[Külföld] Az Európai Bizottság tízéves tervvel támogatná az uniós országok roma lakosságát",
     "link": "https://telex.hu/kulfold/2020/10/07/europai-bizottsag-romak-unios-tamogatas-tizeves-terv",
-    "description": "Felszólították a tagországokat, hogy egy éven belül nyújtsanak be stratégiákat arra, hogyan segítenék őket. ",
+    "description": "Felszólították a tagországokat, hogy egy éven belül nyújtsanak be stratégiákat arra, hogyan segítenék őket.",
     "author": "Presinszky Judit",
     "pubDate": "Wed, 07 Oct 2020 13:31:01 +0200"
   },
@@ -119,7 +133,7 @@
     "pubDate": "Wed, 07 Oct 2020 11:00:25 +0200"
   },
   {
-    "title": "[Gazdaság] Házkutatást tartottak a Német Labdarúgó Szövetségnél, adócsalás a gyanú",
+    "title": "[Gazdaság] Házkutatást tartottak a Német Labdarúgó-szövetségnél, adócsalás a gyanú",
     "link": "https://telex.hu/gazdasag/2020/10/07/nemet-labdarugo-szovetseg-adocsalas-vizsgalat",
     "description": "A gyanú szerint korábbi válogatott meccseknél szándékosan tévesen tüntették fel a stadionokban megjelent reklámok utáni bevételt.",
     "author": "Bozzay Balázs",
@@ -128,7 +142,7 @@
   {
     "title": "[Koronavírus] Tisztifőorvos: A járványügyi adatok indokolják a laborkapacitás növelését",
     "link": "https://telex.hu/koronavirus/2020/10/07/operativ-torzs-koronavirus-2020-10-07",
-    "description": "Müller Cecília elmondta, kedden is újabb két labort vontak be, és folyamatban van egy nagy kapacitású labor bevonása is a koronavírus-tesztek feldolgozásába.",
+    "description": "Müller Cecília elmondta, kedden is újabb két labort vontak be, és folyamatban van egy nagy kapacitású labor bevonása is a koronavírustesztek feldolgozásába.",
     "author": "Német Tamás",
     "pubDate": "Wed, 07 Oct 2020 10:51:01 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "Túl alacsonyan repült egy gép, az általa kavart szél kordont lökött a kerékpárosokra.",
     "author": "Fehér János",
     "pubDate": "Wed, 07 Oct 2020 10:32:20 +0200"
-  },
-  {
-    "title": "[Kult] Egyre többet, egyre hosszabb ideig és egyedül nézünk online filmeket",
-    "link": "https://telex.hu/kult/2020/10/07/nmhh-online-film-streaming-torrent",
-    "description": "Az NMHH friss felméréséből kiderült, hogy nagyon sok embernek van előfizetése valamilyen streamingszolgáltatásra, a torrentezésben pedig nagyok a generációs különbségek.",
-    "author": "Flachner Balázs",
-    "pubDate": "Wed, 07 Oct 2020 10:23:36 +0200"
-  },
-  {
-    "title": "[Kult] Szent muszlim szöveg hangzott el Rihanna fehérnemű-bemutatóján, elnézést kért érte",
-    "link": "https://telex.hu/kult/2020/10/07/rihanna-bocsanatkeres-iszlam-sorok",
-    "description": "Az előadó sem tudta, hogy a Hadísz egy részletét tartalmazza a bemutatón elhangzott dal.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 07 Oct 2020 10:03:13 +0200"
   }
 ]
