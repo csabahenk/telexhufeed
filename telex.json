@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Tudomány] 15 éve nem tátongott ekkora ózonlyuk az Antarktisz felett",
+    "link": "https://telex.hu/tudomany/2020/10/07/15-eve-nem-tatongott-ekkora-ozonlyuk-az-antarktisz-felett",
+    "description": "A szakértők szerint az ózonréteg ennek ellenére lassan, de továbbra is regenerálódik.",
+    "author": "Molnár Réka",
+    "pubDate": "Wed, 07 Oct 2020 16:28:31 +0200"
+  },
+  {
+    "title": "[Gazdaság] A Kutyapárt képviselője saját munkaadóját perli parkolási adatokért",
+    "link": "https://telex.hu/gazdasag/2020/10/07/a-kutyapart-kepviseloje-sajat-munkaadojat-perli-parkolasi-adatokert",
+    "description": "Kovács Gergely XII. kerületi önkormányzati képviselő több mint 3 hónapja hiába próbálja kideríteni, mire kap annyi pénzt a cég, amelynek kiszervezték a parkolást Pokorniék.  ",
+    "author": "Előd Fruzsina",
+    "pubDate": "Wed, 07 Oct 2020 16:27:57 +0200"
+  },
+  {
+    "title": "[Gazdaság] Elektromos kamiont állítottak szolgálatba a győri Audi-gyárban",
+    "link": "https://telex.hu/gazdasag/2020/10/07/elektromos-kamion-gyor-audi",
+    "description": "",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 07 Oct 2020 16:15:38 +0200"
+  },
+  {
+    "title": "[Tudomány] Fogatlan, kétujjú, papagájszerű dinoszaurusz-csontvázakat találtak Mongóliában",
+    "link": "https://telex.hu/tudomany/2020/10/07/fogatlan-dinoszaurusz-felfedezes",
+    "description": "69 millió évvel ezelőtt élhettek. ",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 07 Oct 2020 16:07:58 +0200"
+  },
+  {
     "title": "[Gazdaság] 800 új munkahelyet hoz létre Ózdon a Wellis",
     "link": "https://telex.hu/gazdasag/2020/10/07/wellis-800-uj-munkahely-ozd",
     "description": "A városnak nem jön rosszul a beruházás, ugyanis egy elektronikai gyár bezárása miatt 1200 ember veszíti el a munkáját.",
@@ -84,6 +112,13 @@
     "pubDate": "Wed, 07 Oct 2020 13:05:27 +0200"
   },
   {
+    "title": "[Szórakozás] Amerika fájdalmának emlékműve",
+    "link": "https://telex.hu/szorakozas/2020/10/07/challenger-the-final-flight-dokumentumfilm-netflix-ursiklo-tragedia-katasztrofa-space-shuttle",
+    "description": "A Challenger: The Final Flight néhol hatásos, máshol hatásvadász, elnyújtott dokumentumfilm az űrsikló tragédiájáról.",
+    "author": "Stöckert Gábor",
+    "pubDate": "Wed, 07 Oct 2020 12:34:11 +0200"
+  },
+  {
     "title": "[Koronavírus] Amerikában már most többen haltak meg koronavírusban, mint az elmúlt öt influenzaszezonban összesen",
     "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-influenzaszezon-halalozas-aldozatok",
     "description": "A legutóbbi influenzaszezonban összesen 22 ezren haltak meg 8 hónap alatt, a Covid-19 most 210 ezer fölötti halálos áldozatnál jár.",
@@ -138,40 +173,5 @@
     "description": "A gyanú szerint korábbi válogatott meccseknél szándékosan tévesen tüntették fel a stadionokban megjelent reklámok utáni bevételt.",
     "author": "Bozzay Balázs",
     "pubDate": "Wed, 07 Oct 2020 10:55:41 +0200"
-  },
-  {
-    "title": "[Koronavírus] Tisztifőorvos: A járványügyi adatok indokolják a laborkapacitás növelését",
-    "link": "https://telex.hu/koronavirus/2020/10/07/operativ-torzs-koronavirus-2020-10-07",
-    "description": "Müller Cecília elmondta, kedden is újabb két labort vontak be, és folyamatban van egy nagy kapacitású labor bevonása is a koronavírustesztek feldolgozásába.",
-    "author": "Német Tamás",
-    "pubDate": "Wed, 07 Oct 2020 10:51:01 +0200"
-  },
-  {
-    "title": "[Kult] Egy évvel csúszik az új Jurassic Park premierje is",
-    "link": "https://telex.hu/kult/2020/10/07/jurassic-park-vilaguralom-halasztas-trevorrow",
-    "description": "A napokban már sok régóta várt film csúszását jelentették be, így járt az új James Bond és az idei év legjobban várt sci-fije, a Dűne is. ",
-    "author": "Thüringer Barbara",
-    "pubDate": "Wed, 07 Oct 2020 10:48:40 +0200"
-  },
-  {
-    "title": "[Tudomány] A genetikus ollóért járt az idei kémiai Nobel-díj",
-    "link": "https://telex.hu/tudomany/2020/10/07/kemia-nobel-dij-2020",
-    "description": "A DNS-t szerkesztő CRISPR/Cas9-technika két kutatója, a francia Emmanuelle Charpentier és az amerikai Jennifer A. Doudna kapták a díjat.",
-    "author": "Klág Dávid",
-    "pubDate": "Wed, 07 Oct 2020 10:43:59 +0200"
-  },
-  {
-    "title": "[Belföld] Még nincsenek meg a jogi feltételei az állami és a magánpraxis szétválasztásának",
-    "link": "https://telex.hu/belfold/2020/10/07/kasler-allami-magan-praxis-orvosok-emmi-emberi-eroforrasok-minisztere",
-    "description": "Kásler Miklós szerint a koronavírus-járvány gyorsította fel az egészségügy átalakítását.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Wed, 07 Oct 2020 10:41:24 +0200"
-  },
-  {
-    "title": "[Sport] Egy helikopter okozott bringásbalesetet a Giro d'Italián",
-    "link": "https://telex.hu/sport/2020/10/07/giro-d-italia-helikopter-okozott-kerekpar-baleset-wackermann",
-    "description": "Túl alacsonyan repült egy gép, az általa kavart szél kordont lökött a kerékpárosokra.",
-    "author": "Fehér János",
-    "pubDate": "Wed, 07 Oct 2020 10:32:20 +0200"
   }
 ]
