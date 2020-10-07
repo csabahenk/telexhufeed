@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] Csalódtak az egészségügyi szakdolgozók",
+    "link": "https://telex.hu/belfold/2020/10/07/orvosi-kamara-egeszsegugy-szakdolgozok-mok-nyilt-level-kincses-gyula",
+    "description": "Levelet írtak az orvosi kamarának, szerintük nagy bajba kerülhet az ágazat.",
+    "author": "Szalma Baksi Ferenc",
+    "pubDate": "Wed, 07 Oct 2020 07:38:09 +0200"
+  },
+  {
+    "title": "[Külföld] Soros György: A döntés a CEU számára már túl későn született",
+    "link": "https://telex.hu/kulfold/2020/10/07/soros-gyorgy-ceu-kepzes-budapest",
+    "description": "Soros szerint az érvényben lévő törvények nem felelnek meg az akadémiai szabadság követelményeinek. ",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 07 Oct 2020 07:37:30 +0200"
+  },
+  {
     "title": "[Koronavírus] A Pentagont is bevette a koronavírus",
     "link": "https://telex.hu/koronavirus/2020/10/07/usa-egyesult-allamok-koronavirus-karanten-pentagon",
     "description": "Karanténba vonult az amerikai katonai csúcsvezetők jó része.",
@@ -33,6 +47,13 @@
     "description": "Az eddigiekkel ellentétben akkor is törlik a fiókokat, ha azok nem buzdítanak konkrét erőszakra.",
     "author": "Világi Máté",
     "pubDate": "Tue, 06 Oct 2020 23:54:15 +0200"
+  },
+  {
+    "title": "[Tudomány] A valaha mért legmelegebb szeptember volt az idei",
+    "link": "https://telex.hu/tudomany/2020/10/06/a-valaha-mert-legmelegebb-szeptember-volt-az-idei",
+    "description": "Európában különösen nagy volt a meleg a hónapban. Az Északi-sarkvidék jege csak egyszer volt az ideinél kisebb. Lehet, hogy rekord év lesz 2020.",
+    "author": "Bolcsó Dániel",
+    "pubDate": "Tue, 06 Oct 2020 23:39:13 +0200"
   },
   {
     "title": "[Tech] Hekkerek rázárhatják a felhasználók péniszére az okos erényövet",
@@ -152,26 +173,5 @@
     "description": "A török külügyminiszter szerint nincs értelme beszüntetni a harcokat. A konfliktus miatt a focimeccseket sem tartják meg.",
     "author": "Körömi Csongor",
     "pubDate": "Tue, 06 Oct 2020 16:03:34 +0200"
-  },
-  {
-    "title": "[Tudomány] Miért ért Nobel-díjat a fekete lyukak vizsgálata?",
-    "link": "https://telex.hu/tudomany/2020/10/06/miert-ert-nobel-dijat-a-fekete-lyukak-vizsgalata",
-    "description": "Az asztrofizika hatalmas áttörések előtt áll, sosem látott tempóban fejlődik, és egyáltalán nem csak elméleti haszna van. ",
-    "author": "Nyilas Gergely",
-    "pubDate": "Tue, 06 Oct 2020 15:58:25 +0200"
-  },
-  {
-    "title": "[Sport] Giro: percekig nem tudták, ki nyerte a hihetetlenül szoros befutót",
-    "link": "https://telex.hu/sport/2020/10/06/giro-ditalia-4-szakasz-sprintbefuto-valter-attila",
-    "description": "A 4. szakasz a sprintereké volt, hárman szinte egyszerre értek át a célvonalon, végül a francia Arnaud Démare örülhetett a győzelemnek.",
-    "author": "Pál Tamás",
-    "pubDate": "Tue, 06 Oct 2020 15:42:12 +0200"
-  },
-  {
-    "title": "[Sport] Babosék már elődöntősök a Roland Garroson",
-    "link": "https://telex.hu/sport/2020/10/06/babos-timea-paros-elodonto-roland-garros",
-    "description": "A magyar teniszező párosban egyre közelebb a címvédéshez. ",
-    "author": "Lovas Gergő",
-    "pubDate": "Tue, 06 Oct 2020 15:36:53 +0200"
   }
 ]

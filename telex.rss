@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Csalódtak az egészségügyi szakdolgozók]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/07/orvosi-kamara-egeszsegugy-szakdolgozok-mok-nyilt-level-kincses-gyula]]>
+      </link>
+      <description>
+        <![CDATA[Levelet írtak az orvosi kamarának, szerintük nagy bajba kerülhet az ágazat.]]>
+      </description>
+      <author>
+        <![CDATA[Szalma Baksi Ferenc]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 07 Oct 2020 07:38:09 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Külföld] Soros György: A döntés a CEU számára már túl későn született]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kulfold/2020/10/07/soros-gyorgy-ceu-kepzes-budapest]]>
+      </link>
+      <description>
+        <![CDATA[Soros szerint az érvényben lévő törvények nem felelnek meg az akadémiai szabadság követelményeinek. ]]>
+      </description>
+      <author>
+        <![CDATA[Iván-Nagy Szilvia]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 07 Oct 2020 07:37:30 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Koronavírus] A Pentagont is bevette a koronavírus]]>
       </title>
       <link>
@@ -88,6 +122,23 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 23:54:15 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Tudomány] A valaha mért legmelegebb szeptember volt az idei]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tudomany/2020/10/06/a-valaha-mert-legmelegebb-szeptember-volt-az-idei]]>
+      </link>
+      <description>
+        <![CDATA[Európában különösen nagy volt a meleg a hónapban. Az Északi-sarkvidék jege csak egyszer volt az ideinél kisebb. Lehet, hogy rekord év lesz 2020.]]>
+      </description>
+      <author>
+        <![CDATA[Bolcsó Dániel]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 06 Oct 2020 23:39:13 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -377,57 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 06 Oct 2020 16:03:34 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tudomány] Miért ért Nobel-díjat a fekete lyukak vizsgálata?]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tudomany/2020/10/06/miert-ert-nobel-dijat-a-fekete-lyukak-vizsgalata]]>
-      </link>
-      <description>
-        <![CDATA[Az asztrofizika hatalmas áttörések előtt áll, sosem látott tempóban fejlődik, és egyáltalán nem csak elméleti haszna van. ]]>
-      </description>
-      <author>
-        <![CDATA[Nyilas Gergely]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 15:58:25 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Giro: percekig nem tudták, ki nyerte a hihetetlenül szoros befutót]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/06/giro-ditalia-4-szakasz-sprintbefuto-valter-attila]]>
-      </link>
-      <description>
-        <![CDATA[A 4. szakasz a sprintereké volt, hárman szinte egyszerre értek át a célvonalon, végül a francia Arnaud Démare örülhetett a győzelemnek.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 15:42:12 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Babosék már elődöntősök a Roland Garroson]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/06/babos-timea-paros-elodonto-roland-garros]]>
-      </link>
-      <description>
-        <![CDATA[A magyar teniszező párosban egyre közelebb a címvédéshez. ]]>
-      </description>
-      <author>
-        <![CDATA[Lovas Gergő]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 06 Oct 2020 15:36:53 +0200]]>
       </pubDate>
     </item>
   </channel>
