@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] Kijelölt hatóság ellenőrzi majd a hálapénz elfogadását",
+    "link": "https://telex.hu/belfold/2020/10/07/kijelolt-hatosag-ellenorzi-majd-a-halapenz-elfogadasat",
+    "description": "A részleteiben még hiányos törvényjavaslat kapcsán az Emmi azt mondta, a hálapénz ellenőrzésére hatóság fog felállni.",
+    "author": "Molnár Réka",
+    "pubDate": "Wed, 07 Oct 2020 21:33:01 +0200"
+  },
+  {
     "title": "[Gazdaság] A dollármilliárdosok vagyona soha nem látott szintre ugrott a mostani válságban",
     "link": "https://telex.hu/gazdasag/2020/10/07/cikk-cime-52",
     "description": "Miközben az extrém szegénység szintje két évtizedes rekordot állíthat be idén, a leggazdagabbak cégei egyre többet érnek. ",
@@ -7,10 +14,10 @@
     "pubDate": "Wed, 07 Oct 2020 21:09:55 +0200"
   },
   {
-    "title": "[Külföld] Letették az egymillió dolláros óvadékot a George Floyd nyakán térdelő ex-rendőrért",
+    "title": "[Külföld] Letették az egymillió dolláros óvadékot a George Floyd nyakán térdelő exrendőrért",
     "link": "https://telex.hu/kulfold/2020/10/07/letettek-az-egymillio-dollaros-ovadekot-a-george-floyd-nyakan-terdelo-ex-rendorert",
     "description": "Chauvint feltételes szabadlábra helyezték.",
-    "author": "Iván András, Molnár Réka",
+    "author": "Molnár Réka",
     "pubDate": "Wed, 07 Oct 2020 21:05:06 +0200"
   },
   {
@@ -166,12 +173,5 @@
     "description": "Megújította a rockzenét, és számos vad sztori keringett róla. Dolgozott Michael Jacksonnal, és majdnem a Limp Bizkittel is. Portré az egyik legvirtuózabb gitárosról, aki kedden halt meg.",
     "author": "Sajó Dávid",
     "pubDate": "Wed, 07 Oct 2020 15:04:08 +0200"
-  },
-  {
-    "title": "[Belföld] Újraindítási adóval pótolná a főváros a járvány okozta súlyos veszteségeket",
-    "link": "https://telex.hu/belfold/2020/10/07/karacsony-gergely-budapest-ujrainditasi-ado-koronavirus-veszteseg",
-    "description": "Karácsony Gergely a Fővárosi Érdekegyeztető Tanács ülésén festett fel borús képet Budapest gazdasági helyzetéről.",
-    "author": "Tenczer Gábor",
-    "pubDate": "Wed, 07 Oct 2020 15:00:04 +0200"
   }
 ]
