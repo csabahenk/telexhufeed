@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Gazdaság] A dollármilliárdosok vagyona soha nem látott szintre ugrott a mostani válságban",
+    "link": "https://telex.hu/gazdasag/2020/10/07/cikk-cime-52",
+    "description": "Miközben az extrém szegénység szintje két évtizedes rekordot állíthat be idén, a leggazdagabbak cégei egyre többet érnek. ",
+    "author": "Előd Fruzsina",
+    "pubDate": "Wed, 07 Oct 2020 21:09:55 +0200"
+  },
+  {
+    "title": "[Külföld] Letették az egymillió dolláros óvadékot a George Floyd nyakán térdelő ex-rendőrért",
+    "link": "https://telex.hu/kulfold/2020/10/07/letettek-az-egymillio-dollaros-ovadekot-a-george-floyd-nyakan-terdelo-ex-rendorert",
+    "description": "Chauvint feltételes szabadlábra helyezték.",
+    "author": "Iván András, Molnár Réka",
+    "pubDate": "Wed, 07 Oct 2020 21:05:06 +0200"
+  },
+  {
     "title": "[Koronavírus] Orvosai szerint Trump már tünetmentes, az állapota stabil",
     "link": "https://telex.hu/koronavirus/2020/10/07/orvosai-szerint-trump-mar-tunetmentes-az-allapota-stabil-1",
     "description": "Négy napja láza sincs.",
@@ -12,6 +26,13 @@
     "description": "Négy napja láza sincs.",
     "author": "Molnár Réka",
     "pubDate": "Wed, 07 Oct 2020 20:33:07 +0200"
+  },
+  {
+    "title": "[Külföld] Ez lehet az egyik legfontosabb alelnökjelölti vita",
+    "link": "https://telex.hu/kulfold/2020/10/07/donald-trump-usa-amerikai-elnokvalasztas-2020-biden-harris-pence-tevevita",
+    "description": "Trump és Biden alelnökjelöltjét plexifal választja majd el a tévévitán.",
+    "author": "Dömötör Bálint",
+    "pubDate": "Wed, 07 Oct 2020 20:25:17 +0200"
   },
   {
     "title": "[Belföld] Orbán: Újra 5 százalék lesz a lakásáfa",
@@ -152,26 +173,5 @@
     "description": "Karácsony Gergely a Fővárosi Érdekegyeztető Tanács ülésén festett fel borús képet Budapest gazdasági helyzetéről.",
     "author": "Tenczer Gábor",
     "pubDate": "Wed, 07 Oct 2020 15:00:04 +0200"
-  },
-  {
-    "title": "[Koronavírus] Már gyártják a koronavírus elleni gyógyszert a Richter gyógyszergyárban",
-    "link": "https://telex.hu/koronavirus/2020/10/07/koronavirus-remdesivir-richter-gyogyszergyartas-magyarorszag",
-    "description": "Megoldották a súlyos stádiumban lévő koronavírus-fertőzöttek kezelésére jelenleg leghatékonyabbnak bizonyuló remdesivir hatóanyag szintézisét.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Wed, 07 Oct 2020 14:30:09 +0200"
-  },
-  {
-    "title": "[Belföld] Magyar Orvosi Kamara: Katonák nem leszünk",
-    "link": "https://telex.hu/belfold/2020/10/07/magyar-orvosi-kamara-beremeles-halapenz-torveny",
-    "description": "Szerintük az előzetes egyeztetés nélkül benyújtott törvény súlyosan veszélyezteti az ellátórendszer működését, és sérti az orvosok alapvető jogait",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 07 Oct 2020 14:26:49 +0200"
-  },
-  {
-    "title": "[Tudomány] Miért járt Nobel-díj az élet kódjának szerkesztéséért?",
-    "link": "https://telex.hu/tudomany/2020/10/07/miert-jart-nobel-dij-az-elet-kodjanak-szerkeszteseert",
-    "description": "A Nobel-díjat érő DNS-olló olyan, mint az iPhone megjelenése, csak a génszerkesztésben. Előtte is voltak ilyen eljárások, de most robbantak be igazán.",
-    "author": "Klág Dávid",
-    "pubDate": "Wed, 07 Oct 2020 14:26:01 +0200"
   }
 ]
