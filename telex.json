@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Kult] Pontonként reagált az SZFE az új vezetőség nyolc tételes ajánlatára",
+    "link": "https://telex.hu/kult/2020/10/07/pontonkent-reagalt-az-szfe-az-uj-vezetoseg-nyolc-teteles-ajanlatara",
+    "description": "Szarkáék a hallgatókat kérik az ajánlat újragondolására, a hallgatók pedig rendes tárgyalásokat kérnek a kancellártól.",
+    "author": "Molnár Réka",
+    "pubDate": "Wed, 07 Oct 2020 23:06:23 +0200"
+  },
+  {
+    "title": "[Sport] Megdőlt két korszakos futóvilágcsúcs",
+    "link": "https://telex.hu/sport/2020/10/07/joshua-cheptegei-10-000-meter-futas-vilagrekord-gidey-5000-meter-noi-vilagcsucs",
+    "description": "Férfi 10 000 méteren Cheptegei 15 éves rekordot javított meg, a nőknél Gidey ötezren állított fel világcsúcsot.",
+    "author": "Fehér János",
+    "pubDate": "Wed, 07 Oct 2020 22:47:17 +0200"
+  },
+  {
     "title": "[Belföld] Kijelölt hatóság ellenőrzi majd a hálapénz elfogadását",
     "link": "https://telex.hu/belfold/2020/10/07/kijelolt-hatosag-ellenorzi-majd-a-halapenz-elfogadasat",
     "description": "A részleteiben még hiányos törvényjavaslat kapcsán az Emmi azt mondta, a hálapénz ellenőrzésére hatóság fog felállni.",
@@ -28,13 +42,6 @@
     "pubDate": "Wed, 07 Oct 2020 20:33:08 +0200"
   },
   {
-    "title": "[Koronavírus] Orvosai szerint Trump már tünetmentes, az állapota stabil",
-    "link": "https://telex.hu/koronavirus/2020/10/07/orvosai-szerint-trump-mar-tunetmentes-az-allapota-stabil",
-    "description": "Négy napja láza sincs.",
-    "author": "Molnár Réka",
-    "pubDate": "Wed, 07 Oct 2020 20:33:07 +0200"
-  },
-  {
     "title": "[Külföld] Ez lehet az egyik legfontosabb alelnökjelölti vita",
     "link": "https://telex.hu/kulfold/2020/10/07/donald-trump-usa-amerikai-elnokvalasztas-2020-biden-harris-pence-tevevita",
     "description": "Trump és Biden alelnökjelöltjét plexifal választja majd el a tévévitán.",
@@ -47,6 +54,13 @@
     "description": "Nem lesznek most új szigorítások, mert a nemzeti konzultációból kiderült, hogy az emberek ezt nem akarják, mondta szerda esti interjújában a miniszterelnök. Az önkormányzatok szerinte nem járnának jól, ha rajtuk keresztül jönne az uniós pénz Magyarországra.",
     "author": "Előd Fruzsina",
     "pubDate": "Wed, 07 Oct 2020 19:52:01 +0200"
+  },
+  {
+    "title": "[Belföld] Uniós biztossal tárgyal Karácsony az önkormányzatok közvetlen támogatásáról",
+    "link": "https://telex.hu/belfold/2020/10/07/cikk-cime-50",
+    "description": "Frans Timmermansszal pénteken ül le a főpolgármester, aki ettől még elmondása szerint az Orbán-kormánnyal is szívesen együttműködne több uniós forrás lehívásában. Orbán óva intette az önkormányzatokat az önállóskodástól. ",
+    "author": "Előd Fruzsina",
+    "pubDate": "Wed, 07 Oct 2020 19:44:46 +0200"
   },
   {
     "title": "[Külföld] Ajándékba kapott sorsjeggyel nyertek több millió forintnyit francia hajléktalanok",
@@ -159,19 +173,5 @@
     "description": "A városnak nem jön rosszul a beruházás, ugyanis egy elektronikai gyár bezárása miatt 1200 ember veszíti el a munkáját.",
     "author": "Bozzay Balázs",
     "pubDate": "Wed, 07 Oct 2020 15:52:28 +0200"
-  },
-  {
-    "title": "[Belföld] Zaklatják és fenyegetik a könyvesboltosokat",
-    "link": "https://telex.hu/belfold/2020/10/07/konyv-konyvesbolt-meseorszag-fenyegetes-tamadas",
-    "description": "Írásban és telefonon is támadják őket, van, hogy a levelezőrendszereiket is megbénítják.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Wed, 07 Oct 2020 15:05:58 +0200"
-  },
-  {
-    "title": "[Szórakozás] Eddie Van Halen nemcsak szimpla rockgitáros volt, hanem a műfaj úttörője",
-    "link": "https://telex.hu/szorakozas/2020/10/07/eddie-van-halen-nem-csak-szimpla-rockgitaros-volt-hanem-a-mufaj-uttoroje",
-    "description": "Megújította a rockzenét, és számos vad sztori keringett róla. Dolgozott Michael Jacksonnal, és majdnem a Limp Bizkittel is. Portré az egyik legvirtuózabb gitárosról, aki kedden halt meg.",
-    "author": "Sajó Dávid",
-    "pubDate": "Wed, 07 Oct 2020 15:04:08 +0200"
   }
 ]
