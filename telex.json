@@ -1,10 +1,38 @@
 [
   {
+    "title": "[Gazdaság] Eljárást indított a TikTok ellen a Gazdasági Versenyhivatal",
+    "link": "https://telex.hu/gazdasag/2020/10/08/tiktok-vizsgalat-gazdasagi-versenyhivatal-gvh",
+    "description": "A GVH szerint nem tájékoztatják tisztességesen a felhasználókat, a gyermekek elé is kerülő reklámokat pedig nem moderálják megfelelően.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 08 Oct 2020 13:13:11 +0200"
+  },
+  {
+    "title": "[Belföld] Lezuhant egy ember a Mammut bevásárlóközpontban",
+    "link": "https://telex.hu/belfold/2020/10/08/lezuhant-ember-mammut-bevasarlokozpont",
+    "description": "A mentők a helyszínen vannak, egyelőre nem tudni pontosan, hogy mi történt. ",
+    "author": "Thüringer Barbara",
+    "pubDate": "Thu, 08 Oct 2020 12:59:26 +0200"
+  },
+  {
+    "title": "[Kult] Louise Glück kapta az idei irodalmi Nobel-díjat",
+    "link": "https://telex.hu/kult/2020/10/08/louise-gluck-kapta-az-irodalmi-nobel-dijat",
+    "description": "Az amerikai költőnő az egyéni létezést egyszerű csodálatossággal univerzálissá tevő, mással összetéveszthetetlen költészetével érdemelte ki az elismerést.",
+    "author": "Flachner Balázs",
+    "pubDate": "Thu, 08 Oct 2020 12:55:37 +0200"
+  },
+  {
     "title": "[Belföld] Magyar Orvosok Szakszervezete: Áder János ne írja alá!",
     "link": "https://telex.hu/belfold/2020/10/08/magyar-orvosok-szakszervezete-ader-janos-szolgalati-jogviszony-torveny-ne-irja-ala",
     "description": "A MOSZ szerint az egészségügyi szolgálati jogviszonyról szóló törvény bizonytalanságot kelt százezer egészségügyben dolgozó körében.",
     "author": "Bozzay Balázs",
     "pubDate": "Thu, 08 Oct 2020 12:32:09 +0200"
+  },
+  {
+    "title": "[Külföld] Dél-Koreában került elő egy két éve eltűnt észak-koreai diplomata",
+    "link": "https://telex.hu/kulfold/2020/10/08/nem-halt-meg-csak-disszidalt-a-ket-eve-eltunt-eszak-koreai-diplomata",
+    "description": "A magas beosztású tisztviselő Olaszországban tűnt el nyomtalanul a feleségével együtt, most kiderült, nincs baja, csak disszidált.",
+    "author": "Flachner Balázs",
+    "pubDate": "Thu, 08 Oct 2020 12:21:43 +0200"
   },
   {
     "title": "[Belföld] Gulyás: Felmerülhet kiskorú veszélyeztetése az óvodákban, ahol bevezetik a Meseország mindenkié című könyvet",
@@ -145,33 +173,5 @@
     "description": "Aggasztó folyamatok indultak el Németországban, Szerbia szigorít, Brazíliában több mint 5 millióan kapták el a fertőzést. Minden egy helyen a koronavírusról.\n\n",
     "author": "Thüringer Barbara, Iván-Nagy Szilvia",
     "pubDate": "Thu, 08 Oct 2020 08:35:25 +0200"
-  },
-  {
-    "title": "[Tudomány] A világelitbe tartozó kutatóközpontnak kell távoznia a lex CEU miatt",
-    "link": "https://telex.hu/tudomany/2020/10/08/a-vilagelitbe-tartozo-kutatokozpontnak-kell-tavoznia-a-lex-ceu-miatt",
-    "description": "A Kognitív Fejlődéslélektani Kutatóközponthoz tartozó Babylab egyik alapítója szerint ebben a helyzetben nem maradt más választásuk.",
-    "author": "Flachner Balázs",
-    "pubDate": "Thu, 08 Oct 2020 08:19:03 +0200"
-  },
-  {
-    "title": "[Gazdaság] Kitalálta a pályázatot a fideszes politikus, aztán a felesége és az anyja is nyert rajta",
-    "link": "https://telex.hu/gazdasag/2020/10/08/witzmann-mihaly-fideszes-kisfaludy-palyazat-felesege-edesanyja-szallashely-milliok",
-    "description": "Witzmann Mihály szerint a családtagjainak pályázatai senki számára nem okoztak hátrányt, senkinek nem csökkentették a nyerési esélyeit.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 08 Oct 2020 08:06:49 +0200"
-  },
-  {
-    "title": "[Külföld] Plexifalak és egy légy lett főszereplő az alelnökjelöltek vitáján",
-    "link": "https://telex.hu/kulfold/2020/10/08/egy-legy-lopta-el-a-showt-az-alelnokjeloltek-vitajan",
-    "description": "Pence és Harris jóval visszafogottabb volt, mint egy hete Trump és Biden, de a kellemetlen kérdésekre egyikük sem adott egyenes választ.",
-    "author": "Dömötör Bálint",
-    "pubDate": "Thu, 08 Oct 2020 08:06:39 +0200"
-  },
-  {
-    "title": "[Koronavírus] 932 új fertőzött, 21 beteg meghalt",
-    "link": "https://telex.hu/koronavirus/2020/10/08/koronavirus-magyarorszag-fertozes-jarvany-napi-adat-1",
-    "description": "Az aktív fertőzöttek száma megközelíti a 24 ezret. Egy nap alatt 148-cal nőtt a kórházban kezeltek száma.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Thu, 08 Oct 2020 08:02:48 +0200"
   }
 ]
