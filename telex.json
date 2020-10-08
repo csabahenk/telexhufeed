@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Szórakozás] Mégsem tart raktárkoncertet az Omega",
+    "link": "https://telex.hu/szorakozas/2020/10/08/omega-raktarkoncert-lemondas",
+    "description": "A főpróba után belátták, hogy most nem tudnák hozni az együtteshez méltó színvonalat.",
+    "author": "Világi Máté",
+    "pubDate": "Thu, 08 Oct 2020 19:31:52 +0200"
+  },
+  {
+    "title": "[Belföld] Tömeges kilépést vizionálnak az egészségügyben, ha nem lesz béremelés",
+    "link": "https://telex.hu/belfold/2020/10/08/egeszsegugy-beremeles-apolok-elvandorlas",
+    "description": "A szakszervezet ötvenszázalékos átlagos fizetésemelést kér az orvosi bértábla által nem érintett egészségügyi dolgozóknak.",
+    "author": "Tenczer Gábor",
+    "pubDate": "Thu, 08 Oct 2020 19:24:29 +0200"
+  },
+  {
     "title": "[Külföld] Letartóztatták a Pussy Riot két tagját",
     "link": "https://telex.hu/kulfold/2020/10/08/pussy-riot-moszkva-lmbtq-letartoztatas",
     "description": "Szivárványos zászlót tűztek ki moszkvai kormányépületekre Putyin születésnapján.",
@@ -159,19 +173,5 @@
     "description": "Négyszer annyit adtak érte a Sotheby's árverésén, mint amennyire az értékét becsülték.",
     "author": "Thüringer Barbara",
     "pubDate": "Thu, 08 Oct 2020 12:16:58 +0200"
-  },
-  {
-    "title": "[Belföld] Gulyás: Felmerülhet kiskorú veszélyeztetése az óvodákban, ahol bevezetik a Meseország mindenkié című könyvet",
-    "link": "https://telex.hu/belfold/2020/10/08/meseorszag-mindenkie-ovoda-gulyas-gergely-kiskoruak-veszelyeztetese",
-    "description": "Ha igen, akkor eljárást kell indítani a fenntartóval szemben, mondta a miniszter.",
-    "author": "Presinszky Judit",
-    "pubDate": "Thu, 08 Oct 2020 12:14:11 +0200"
-  },
-  {
-    "title": "[Gazdaság] Varga Mihály: Magyarország túljutott a koronavírus-válság mélypontján",
-    "link": "https://telex.hu/gazdasag/2020/10/08/varga-mihaly-valsag-melypont",
-    "description": "De a magyar gazdaság 2019. első negyedévi teljesítménye 2022 első fél évében tud visszatérni.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 08 Oct 2020 11:51:11 +0200"
   }
 ]
