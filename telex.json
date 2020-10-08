@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] A spanyol kormány azért küzd, hogy ne kelljen szülői beleegyezés az abortusz előtt",
+    "link": "https://telex.hu/kulfold/2020/10/08/spanyolorszag-irene-montero-abortusz-torvenymodositas-szexualis-felvilagositas",
+    "description": "16 és 18 éves kor között a lányoknak szülői engedélyre van szüksége a beavatkozáshoz.",
+    "author": "Világi Máté",
+    "pubDate": "Thu, 08 Oct 2020 17:05:30 +0200"
+  },
+  {
     "title": "[Tudomány] Merkely: Teljesen megbízható a kétórás koronavírus teszt",
     "link": "https://telex.hu/tudomany/2020/10/08/semmelweis-egyetem-ketoras-koronavirus-teszt",
     "description": "A teszt bármikor forgalomba kerülhet, a gyártó már megkapta a szükséges engedélyeket.",
@@ -9,7 +16,7 @@
   {
     "title": "[Belföld] Akkora a tét, hogy a minisztérium nekiállt laptopokat osztani a fideszes jelölt kampányában",
     "link": "https://telex.hu/belfold/2020/10/08/idokozi-valasztas-parlament-koncz-zsofia-biro-laszlo-ketharmad",
-    "description": "",
+    "description": "Vasárnap időközi választást tartanak Szerencsen, a tét, hogy megmarad-e a Fidesz-KDNP kétharmada a parlamentben.",
     "author": "Fábián Tamás",
     "pubDate": "Thu, 08 Oct 2020 16:26:50 +0200"
   },
@@ -49,7 +56,7 @@
     "pubDate": "Thu, 08 Oct 2020 14:16:46 +0200"
   },
   {
-    "title": "[Belföld] Nemzetközi hírű operatőrök léptek ki a Magyar Operatőrök Társaságából",
+    "title": "[Belföld] Nemzetközi hírű alkotók léptek ki a Magyar Operatőrök Társaságából",
     "link": "https://telex.hu/belfold/2020/10/08/operator-magyar-operatorok-tarsasaga-szinhaz-es-filmmuveszeti-egyetem-novak-emil-erdely-matyas-kende-janos-ragalyi-elemer-poharnok-gergely",
     "description": "A szervezet egyik vezetőjének SZFE-s szerepvállalása verte ki a biztosítékot.",
     "author": "Bozzay Balázs",
@@ -166,12 +173,5 @@
     "description": "A szakembereket 74 intézményből irányították át másik 12-be. Az elmúlt 24 órában elhunyt egy 37 éves férfi is. Az operatív törzs tájékoztatójának csütörtöki összefoglalója.",
     "author": "Pintér Luca",
     "pubDate": "Thu, 08 Oct 2020 10:34:03 +0200"
-  },
-  {
-    "title": "[Külföld] Rendkívüli állapotot hirdettek ki a kigyulladt orosz katonai lőszerraktár miatt",
-    "link": "https://telex.hu/kulfold/2020/10/08/oroszorszag-loszerraktar-tuz-rendkivuli-allapot",
-    "description": "Több száz tűzoltó mellett kivezényeltek két tűzoltótankot és egy tűzoltóvonatot is. A tűzben hat ember sérült meg.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Thu, 08 Oct 2020 10:31:43 +0200"
   }
 ]
