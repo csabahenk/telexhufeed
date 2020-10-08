@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Külföld] Bűnügyi nyomozás a rejtélyes kamcsatkai tengeri szennyezés ügyében",
+    "link": "https://telex.hu/kulfold/2020/10/08/bunugyi-nyomozas-a-rejtelyes-kamcsatkai-tengeri-szennyezes-ugyeben",
+    "description": "Az Avacsa-öbölben, ahol elpusztult állatokat sodort partra a víz, környezetre veszélyes anyagokat és hulladékot találtak.",
+    "author": "Tenczer Gábor",
+    "pubDate": "Thu, 08 Oct 2020 15:53:06 +0200"
+  },
+  {
+    "title": "[Koronavírus] Amerikai gyógyszergyártól veszik meg a koronavírus elleni csodagyógyszert az EU-tagállamok",
+    "link": "https://telex.hu/koronavirus/2020/10/08/remdesivir-gyogyszer-europai-bizottsag-gilead",
+    "description": "A hatóanyagot kifejlesztő Gilead Sciences-zel írt alá közös megállapodás az Európai Bizottság, 500 ezer rászorulónak elegendő gyógyszerről.",
+    "author": "Flachner Balázs",
+    "pubDate": "Thu, 08 Oct 2020 15:45:52 +0200"
+  },
+  {
+    "title": "[Külföld] Trump nem akar részt venni a második elnökjelölti vitán",
+    "link": "https://telex.hu/kulfold/2020/10/08/trump-biden-amerikai-elnokvalasztas-vita-koronavirus",
+    "description": "Az amerikai elnöknek nem tetszik, hogy a fertőzése miatt virtuálisan kellene vitáznia Joe Bidennel. ",
+    "author": "Fábián Tamás",
+    "pubDate": "Thu, 08 Oct 2020 15:33:40 +0200"
+  },
+  {
+    "title": "[Külföld] Trump nem hajlandó virtuálisan vitatkozni Bidennel",
+    "link": "https://telex.hu/kulfold/2020/10/08/trump-visszautasit-elnokjelolti-vita-biden-online",
+    "description": "Nevetségesnek tartja ezt a lehetőséget.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 08 Oct 2020 15:18:56 +0200"
+  },
+  {
     "title": "[Tech] Első hónapjában több mint 100 millió dollárt termelhet a legújabb kínai sikerjáték",
     "link": "https://telex.hu/tech/2020/10/08/videojatek-genshin-impact-kina",
     "description": "Minden jel arra utal, hogy a Genshin Impact lesz minden idők legjobban induló kínai játéka.",
@@ -145,33 +173,5 @@
     "description": "A főpolgármester szerint a kormány nem ott támogatja a turizmust, ahol a legnagyobb szükség lenne rá.",
     "author": "Bozzay Balázs",
     "pubDate": "Thu, 08 Oct 2020 10:24:59 +0200"
-  },
-  {
-    "title": "[Belföld] Szexuális erőszak és gyerekpornó miatt emeltek vádat egy szabolcsi apa ellen",
-    "link": "https://telex.hu/belfold/2020/10/08/vademeles-bantalmazas-eroszak-ugyeszseg",
-    "description": "A férfi rendszeresen bántalmazta a saját gyerekeit, 13 éves lányát rendszeresen megerőszakolta, gépén pedig gyerekekről készült pornográf képeket találtak.",
-    "author": "Flachner Balázs",
-    "pubDate": "Thu, 08 Oct 2020 10:21:45 +0200"
-  },
-  {
-    "title": "[Sport] Egyik nap szabályos volt, másnap már nem a magyar válogatott elektromos bringája",
-    "link": "https://telex.hu/sport/2020/10/08/e-bike-hegyikerekparos-vb-magyar-bringa-kizaras-varjas-istvan",
-    "description": "Még nincs hivatalos magyarázat rá, hogy mi volt a baj Varjas Epowers gépeivel a hegyikerékpár-vb-n. ",
-    "author": "Fehér János",
-    "pubDate": "Thu, 08 Oct 2020 10:16:56 +0200"
-  },
-  {
-    "title": "[Belföld] Nem jutott be az SZFE-re az új kancellár, másik irodában kezdi meg a munkát",
-    "link": "https://telex.hu/belfold/2020/10/08/nem-jutott-be-az-szfe-re-a-kancellar-masik-irodaban-kezdi-meg-a-munkat",
-    "description": "Szarka Gábor számára a kuratórium jelöl ki egy helyszínt.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Thu, 08 Oct 2020 10:06:57 +0200"
-  },
-  {
-    "title": "[Gazdaság] A zöldségek és gyümölcsök 18, a kolbász 17, a tojás 9 százalékkal drágult egy év alatt",
-    "link": "https://telex.hu/gazdasag/2020/10/08/inflacio-arak-ksh-szeptember",
-    "description": "Átlagosan hét százalékkal drágultak az élelmiszerek tavalyhoz képest.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 08 Oct 2020 09:50:01 +0200"
   }
 ]
