@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Tudomány] Merkely: Teljesen megbízható a kétórás koronavírus teszt",
+    "link": "https://telex.hu/tudomany/2020/10/08/semmelweis-egyetem-ketoras-koronavirus-teszt",
+    "description": "A teszt bármikor forgalomba kerülhet, a gyártó már megkapta a szükséges engedélyeket.",
+    "author": "Világi Máté",
+    "pubDate": "Thu, 08 Oct 2020 16:29:51 +0200"
+  },
+  {
+    "title": "[Belföld] Akkora a tét, hogy a minisztérium nekiállt laptopokat osztani a fideszes jelölt kampányában",
+    "link": "https://telex.hu/belfold/2020/10/08/idokozi-valasztas-parlament-koncz-zsofia-biro-laszlo-ketharmad",
+    "description": "",
+    "author": "Fábián Tamás",
+    "pubDate": "Thu, 08 Oct 2020 16:26:50 +0200"
+  },
+  {
     "title": "[Külföld] Bűnügyi nyomozás a rejtélyes kamcsatkai tengeri szennyezés ügyében",
     "link": "https://telex.hu/kulfold/2020/10/08/bunugyi-nyomozas-a-rejtelyes-kamcsatkai-tengeri-szennyezes-ugyeben",
     "description": "Az Avacsa-öbölben, ahol elpusztult állatokat sodort partra a víz, környezetre veszélyes anyagokat és hulladékot találtak.",
@@ -159,19 +173,5 @@
     "description": "Több száz tűzoltó mellett kivezényeltek két tűzoltótankot és egy tűzoltóvonatot is. A tűzben hat ember sérült meg.",
     "author": "Thüringer Barbara",
     "pubDate": "Thu, 08 Oct 2020 10:31:43 +0200"
-  },
-  {
-    "title": "[Belföld] Gulyás: Az észszerűség határain belül korlátozzuk az orvosok magánpraxisait",
-    "link": "https://telex.hu/belfold/2020/10/08/kormanyinfo-oktober-8",
-    "description": "A háziorvosok béremeléséről később döntenek. Kormányinfó.",
-    "author": "Presinszky Judit",
-    "pubDate": "Thu, 08 Oct 2020 10:25:30 +0200"
-  },
-  {
-    "title": "[Gazdaság] Karácsony: Ha az állam folytatja kicsinyes bosszúját Budapest ellen, a következmények beláthatatlanok lesznek",
-    "link": "https://telex.hu/gazdasag/2020/10/08/turizmus-budapest-karacsony-gergely-kisfaludy-program",
-    "description": "A főpolgármester szerint a kormány nem ott támogatja a turizmust, ahol a legnagyobb szükség lenne rá.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 08 Oct 2020 10:24:59 +0200"
   }
 ]
