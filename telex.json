@@ -1,6 +1,27 @@
 [
   {
-    "title": "[Belföld] Egy NB 2-es focista egy eldobott vizespalackkal fél szemére megvakíthatta a másik csapat klubvezetőjét",
+    "title": "[Koronavírus] 36 millió felett a regisztrált fertőzöttek száma",
+    "link": "https://telex.hu/koronavirus/2020/10/08/koronavirus-hirek-percrol-percre-okt8",
+    "description": "Világszerte egymilliónál is többen haltak meg, 25,2 millióan pedig meggyógyultak a koronavírusból.\n\n",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Thu, 08 Oct 2020 08:35:25 +0200"
+  },
+  {
+    "title": "[Gazdaság] Kitalálta a pályázatot a fideszes politikus, aztán a felesége és az anyja is nyert rajta",
+    "link": "https://telex.hu/gazdasag/2020/10/08/witzmann-mihaly-fideszes-kisfaludy-palyazat-felesege-edesanyja-szallashely-milliok",
+    "description": "Witzmann Mihály szerint a családtagjainak pályázatai senki számára nem okoztak hátrányt, senkinek nem csökkentették a nyerési esélyeit.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 08 Oct 2020 08:06:49 +0200"
+  },
+  {
+    "title": "[Külföld] Plexifalak és egy légy lett főszereplő az alelnökjelöltek vitáján",
+    "link": "https://telex.hu/kulfold/2020/10/08/egy-legy-lopta-el-a-showt-az-alelnokjeloltek-vitajan",
+    "description": "Pence és Harris jóval visszafogottabb volt, mint egy hete Trump és Biden, de a kellemetlen kérdésekre egyikük sem adott egyenes választ.",
+    "author": "Dömötör Bálint",
+    "pubDate": "Thu, 08 Oct 2020 08:06:39 +0200"
+  },
+  {
+    "title": "[Belföld] Egy megye II.-es focista egy eldobott vizespalackkal fél szemére megvakította a másik csapat klubvezetőjét",
     "link": "https://telex.hu/belfold/2020/10/08/egy-nb-2-es-focista-egy-eldobott-vizespalackkal-fel-szemere-megvakithatta-a-masik-csapat-klubvezetojet",
     "description": "A Somogy megyei Kaposmérő és Somogyvár összecsapása durvult el vasárnap.",
     "author": "Német Tamás",
@@ -28,7 +49,7 @@
     "pubDate": "Thu, 08 Oct 2020 06:11:18 +0200"
   },
   {
-    "title": "[Külföld] Addig üldöztek egy kokainszállító kisrepülőt Mexikóban, amíg kifogyott az üzemanyagja",
+    "title": "[Külföld] Addig üldöztek egy kokainszállító kisrepülőt Mexikóban, amíg kifogyott az üzemanyaga",
     "link": "https://telex.hu/kulfold/2020/10/08/addig-uldoztek-egy-kokainszallito-kisrepulot-mexikoban-amig-kifogyott-a-gepben-az-uzemanyag",
     "description": "A kisgép lezuhant, ketten meghaltak.",
     "author": "Német Tamás",
@@ -152,26 +173,5 @@
     "description": "2019-hez képest 14 százalékkal csökkentek a katalán klub bevételei, a focisták is kevesebbet fognak keresni. ",
     "author": "Mizsur András",
     "pubDate": "Wed, 07 Oct 2020 17:38:42 +0200"
-  },
-  {
-    "title": "[Belföld] 180 milliárd forintos hitelt kap Magyarország az EU-tól munkahelyvédelemre",
-    "link": "https://telex.hu/belfold/2020/10/07/180-milliard-forintos-hitelt-kap-magyarorszag-az-eu-tol-munkahelyvedelemre",
-    "description": "Eredetileg többet kért a kormány, de nem fogadtak el minden leadott intézkedést munkahelymegtartónak.",
-    "author": "Előd Fruzsina",
-    "pubDate": "Wed, 07 Oct 2020 17:16:21 +0200"
-  },
-  {
-    "title": "[Külföld] Oroszországban is körözik Szvetlana Tyihanovszkaja belarusz elnökjelöltet",
-    "link": "https://telex.hu/kulfold/2020/10/07/belarusz-szvetlana-tyihanovszkaja-korozes-oroszorszag",
-    "description": "Az ellenzék szerint ő nyert a belarusz választásokon, az oroszok nem részletezték, hogy miért akarják őrizetbe venni.",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 07 Oct 2020 16:53:11 +0200"
-  },
-  {
-    "title": "[Tudomány] 15 éve nem tátongott ekkora ózonlyuk az Antarktisz felett",
-    "link": "https://telex.hu/tudomany/2020/10/07/15-eve-nem-tatongott-ekkora-ozonlyuk-az-antarktisz-felett",
-    "description": "A szakértők szerint az ózonréteg ennek ellenére lassan, de továbbra is regenerálódik.",
-    "author": "Molnár Réka",
-    "pubDate": "Wed, 07 Oct 2020 16:28:31 +0200"
   }
 ]
