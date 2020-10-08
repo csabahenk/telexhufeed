@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Tech] Első hónapjában több mint 100 millió dollárt termelhet a legújabb kínai sikerjáték",
+    "link": "https://telex.hu/tech/2020/10/08/videojatek-genshin-impact-kina",
+    "description": "Minden jel arra utal, hogy a Genshin Impact lesz minden idők legjobban induló kínai játéka.",
+    "author": "Flachner Balázs",
+    "pubDate": "Thu, 08 Oct 2020 14:16:46 +0200"
+  },
+  {
     "title": "[Belföld] Nemzetközi hírű operatőrök léptek ki a Magyar Operatőrök Társaságából",
     "link": "https://telex.hu/belfold/2020/10/08/operator-magyar-operatorok-tarsasaga-szinhaz-es-filmmuveszeti-egyetem-novak-emil-erdely-matyas-kende-janos-ragalyi-elemer-poharnok-gergely",
     "description": "A szervezet egyik vezetőjének SZFE-s szerepvállalása verte ki a biztosítékot.",
@@ -30,7 +37,7 @@
   {
     "title": "[Belföld] Leugrott egy fiatal férfi a Mammut bevásárlóközpont legfelső szintjéről",
     "link": "https://telex.hu/belfold/2020/10/08/lezuhant-ember-mammut-bevasarlokozpont",
-    "description": "Túlélte a 4 emeletnyi zuhanást, a mentők kórházba szállították. ",
+    "description": "Túlélte a négyemeletnyi zuhanást, a mentők kórházba szállították. ",
     "author": "Thüringer Barbara, Iván-Nagy Szilvia",
     "pubDate": "Thu, 08 Oct 2020 12:59:26 +0200"
   },
@@ -56,7 +63,7 @@
     "pubDate": "Thu, 08 Oct 2020 12:21:43 +0200"
   },
   {
-    "title": "[Kult] 700 éve öt kínai herceg részegen ment haza, most 12,7 milliárd forintért kelt el a róluk készült festmény",
+    "title": "[Kult] Hétszáz éve öt kínai herceg részegen ment haza, most 12,7 milliárd forintért kelt el a róluk készült festmény",
     "link": "https://telex.hu/kult/2020/10/08/kinai-tekercsfestmeny-arveres-sothebys",
     "description": "Négyszer annyit adtak érte a Sotheby's árverésén, mint amennyire az értékét becsülték.",
     "author": "Thüringer Barbara",
@@ -126,7 +133,7 @@
     "pubDate": "Thu, 08 Oct 2020 10:31:43 +0200"
   },
   {
-    "title": "[Belföld] Gulyás: Az ésszerűség határain belül korlátozzuk az orvosok magánpraxisait",
+    "title": "[Belföld] Gulyás: Az észszerűség határain belül korlátozzuk az orvosok magánpraxisait",
     "link": "https://telex.hu/belfold/2020/10/08/kormanyinfo-oktober-8",
     "description": "A háziorvosok béremeléséről később döntenek. Kormányinfó.",
     "author": "Presinszky Judit",
@@ -166,12 +173,5 @@
     "description": "Átlagosan hét százalékkal drágultak az élelmiszerek tavalyhoz képest.",
     "author": "Bozzay Balázs",
     "pubDate": "Thu, 08 Oct 2020 09:50:01 +0200"
-  },
-  {
-    "title": "[Belföld] Lázár: A következő években, a Fideszben és azon kívül is, fognak még hallani rólam",
-    "link": "https://telex.hu/belfold/2020/10/08/lazar-a-kovetkezo-evekben-a-fideszben-es-azon-kivul-is-fognak-meg-hallani-rolam",
-    "description": "Az egykori kancelláriaminiszter a Magyar Nemzetnek adott interjút.",
-    "author": "Német Tamás",
-    "pubDate": "Thu, 08 Oct 2020 09:47:24 +0200"
   }
 ]
