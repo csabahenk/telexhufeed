@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Belföld] Magyar Orvosok Szakszervezete: Áder János ne írja alá!",
+    "link": "https://telex.hu/belfold/2020/10/08/magyar-orvosok-szakszervezete-ader-janos-szolgalati-jogviszony-torveny-ne-irja-ala",
+    "description": "A MOSZ szerint az egészségügyi szolgálati jogviszonyról szóló törvény bizonytalanságot kelt százezer egészségügyben dolgozó körében.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 08 Oct 2020 12:32:09 +0200"
+  },
+  {
+    "title": "[Belföld] Gulyás: Felmerülhet kiskorú veszélyeztetése az óvodákban, ahol bevezetik a Meseország mindenkié című könyvet",
+    "link": "https://telex.hu/belfold/2020/10/08/meseorszag-mindenkie-ovoda-gulyas-gergely-kiskoruak-veszelyeztetese",
+    "description": "Ha igen, akkor eljárást kell indítani a fenntartóval szemben, mondta a miniszter.",
+    "author": "Presinszky Judit",
+    "pubDate": "Thu, 08 Oct 2020 12:14:11 +0200"
+  },
+  {
+    "title": "[Gazdaság] Varga Mihály: Magyarország túljutott a koronavírus-válság mélypontján",
+    "link": "https://telex.hu/gazdasag/2020/10/08/varga-mihaly-valsag-melypont",
+    "description": "De a magyar gazdaság 2019. első negyedévi teljesítménye 2022 első fél évében tud visszatérni.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 08 Oct 2020 11:51:11 +0200"
+  },
+  {
+    "title": "[Belföld] 2024 márciusára megnyithat a Biodóm",
+    "link": "https://telex.hu/belfold/2020/10/08/budapest-biodom-koltseg",
+    "description": "Ezt ígérte sajtótájékoztatón Gy. Németh Erzsébet főpolgármester-helyettes, miután kiderült: már csak 5 milliárd hiányzik a befejezéshez.",
+    "author": "Cseke Balázs, Tenczer Gábor",
+    "pubDate": "Thu, 08 Oct 2020 11:34:24 +0200"
+  },
+  {
     "title": "[Belföld] Baranyi Krisztina nem szeretné, hogy Gréczy Zsolt Ferencvárosban térjen vissza a politikába",
     "link": "https://telex.hu/belfold/2020/10/08/baranyi-krisztina-ferencvaros-greczy-zsolt-media-dk-mszp",
     "description": "A DK és az MSZP a tavaly lemondott képviselőt jelölte a kilencedik kerületi médiacég felügyelőbizottságába.",
@@ -145,33 +173,5 @@
     "description": "Az aktív fertőzöttek száma megközelíti a 24 ezret. Egy nap alatt 148-cal nőtt a kórházban kezeltek száma.",
     "author": "Thüringer Barbara",
     "pubDate": "Thu, 08 Oct 2020 08:02:48 +0200"
-  },
-  {
-    "title": "[Belföld] Egy megye II.-es focista egy eldobott vizespalackkal fél szemére megvakította a másik csapat klubvezetőjét",
-    "link": "https://telex.hu/belfold/2020/10/08/egy-nb-2-es-focista-egy-eldobott-vizespalackkal-fel-szemere-megvakithatta-a-masik-csapat-klubvezetojet",
-    "description": "A Somogy megyei Kaposmérő és Somogyvár összecsapása durvult el vasárnap.",
-    "author": "Német Tamás",
-    "pubDate": "Thu, 08 Oct 2020 07:55:40 +0200"
-  },
-  {
-    "title": "[Belföld] Kábítószer-birtoklás gyanúja miatt hallgathatták ki Rekop Györgyöt",
-    "link": "https://telex.hu/belfold/2020/10/08/rekop-gyorgy-humorista-kabitoszer-fuszag-eloallitas",
-    "description": "A humorista otthonában állítólag kábítószergyanús növényi származékot találtak.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Thu, 08 Oct 2020 07:35:53 +0200"
-  },
-  {
-    "title": "[Belföld] Egész éjjel dolgoztak a Ferencvárosnál kisiklott tehervonat visszaemelésén",
-    "link": "https://telex.hu/belfold/2020/10/08/egesz-ejjel-dolgoztak-a-ferencvarosnal-kisiklott-tehervonat-visszaemelesen",
-    "description": "Egy álló tehervonatnak ütközött egy másik tehervonat az összekötő vasúti híd és a Ferencváros állomás közötti szakaszon.",
-    "author": "Német Tamás",
-    "pubDate": "Thu, 08 Oct 2020 06:52:57 +0200"
-  },
-  {
-    "title": "[Külföld] Trump még idén kivonná Afganisztánból az ott állomásozó amerikai katonákat",
-    "link": "https://telex.hu/kulfold/2020/10/08/trump-meg-iden-kivonna-afganisztanbol-az-ott-allomasozo-amerikai-katonakat",
-    "description": "A hivatalos bejelentés szerint a jövő év elején 2500-ra csökkentik az afganisztáni haderő létszámát.",
-    "author": "Német Tamás",
-    "pubDate": "Thu, 08 Oct 2020 06:11:18 +0200"
   }
 ]
