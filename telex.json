@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Külföld] Letartóztatták a Pussy Riot két tagját",
+    "link": "https://telex.hu/kulfold/2020/10/08/pussy-riot-moszkva-lmbtq-letartoztatas",
+    "description": "Szivárványos zászlót tűztek ki moszkvai kormányépületekre Putyin születésnapján.",
+    "author": "Tenczer Gábor",
+    "pubDate": "Thu, 08 Oct 2020 18:45:07 +0200"
+  },
+  {
+    "title": "[Belföld] Primus: tárgyalni kell, különben összeomlik az egészségügy",
+    "link": "https://telex.hu/belfold/2020/10/08/primus-kozlemeny-maganegeszsegugy-torvenymodositas",
+    "description": "Az egyesület szerint nincs két szektorra elegendő orvos, így a szigorítás feltételei egyelőre nem adottak.",
+    "author": "Világi Máté",
+    "pubDate": "Thu, 08 Oct 2020 18:41:40 +0200"
+  },
+  {
+    "title": "[Sport] Giro: a második sprintbefutót is a francia bajnok nyerte",
+    "link": "https://telex.hu/sport/2020/10/08/giro-ditalia-6-szakasz-matera-arnaud-demare",
+    "description": "A 6. szakasz végi mezőnyhajrában is Arnaud Démare volt a legerősebb, Valter Attila a 29. lett.",
+    "author": "Pál Tamás",
+    "pubDate": "Thu, 08 Oct 2020 18:30:31 +0200"
+  },
+  {
+    "title": "[Belföld] Háromszáz millió forint vissza nem térítendő állami támogatást kapott Puch László panziója",
+    "link": "https://telex.hu/belfold/2020/10/08/magyar-turisztikai-ugynokseg-puch-laszlo-panzio",
+    "description": "A Magyar Turisztikai Ügynökség pályázatain megvalósult a teljes összefogás.",
+    "author": "Fábián Tamás",
+    "pubDate": "Thu, 08 Oct 2020 18:28:00 +0200"
+  },
+  {
     "title": "[Szórakozás] Rambóval is játszhatunk majd az új Mortal Kombatban",
     "link": "https://telex.hu/szorakozas/2020/10/08/mortal-kombat-11-john-rambo-videojatek",
     "description": "",
@@ -145,33 +173,5 @@
     "description": "De a magyar gazdaság 2019. első negyedévi teljesítménye 2022 első fél évében tud visszatérni.",
     "author": "Bozzay Balázs",
     "pubDate": "Thu, 08 Oct 2020 11:51:11 +0200"
-  },
-  {
-    "title": "[Belföld] 2024 márciusára megnyithat a Biodóm",
-    "link": "https://telex.hu/belfold/2020/10/08/budapest-biodom-koltseg",
-    "description": "Ezt ígérte sajtótájékoztatón Gy. Németh Erzsébet főpolgármester-helyettes, miután kiderült: már csak 5 milliárd hiányzik a befejezéshez.",
-    "author": "Cseke Balázs, Tenczer Gábor",
-    "pubDate": "Thu, 08 Oct 2020 11:34:24 +0200"
-  },
-  {
-    "title": "[Belföld] Baranyi Krisztina nem szeretné, hogy Gréczy Zsolt Ferencvárosban térjen vissza a politikába",
-    "link": "https://telex.hu/belfold/2020/10/08/baranyi-krisztina-ferencvaros-greczy-zsolt-media-dk-mszp",
-    "description": "A DK és az MSZP a tavaly lemondott képviselőt jelölte a kilencedik kerületi médiacég felügyelőbizottságába.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 08 Oct 2020 11:03:47 +0200"
-  },
-  {
-    "title": "[Belföld] Vádat emeltek a férfi ellen, aki késsel támadt két váci rendőrre",
-    "link": "https://telex.hu/belfold/2020/10/08/vadat-emeltek-a-ferfi-ellen-aki-kessel-tamadt-ket-vaci-rendorre",
-    "description": "Januárban az egyik rendőrt nyakon szúrta, a másikat megvágta az arcán. A vád szerint előre kitervelt emberölési kísérlet volt.",
-    "author": "Német Tamás",
-    "pubDate": "Thu, 08 Oct 2020 10:45:25 +0200"
-  },
-  {
-    "title": "[Tech] A Facebook határozatlan időre leállítja a politikai hirdetéseket az elnökválasztás után",
-    "link": "https://telex.hu/tech/2020/10/08/facebook-amerikai-elnokvalasztas-hirdetes-tiltas",
-    "description": "A platform ezzel, illetve extra tájékoztatókkal menne elébe az eredményekkel kapcsolatos zűrzavarnak.",
-    "author": "Flachner Balázs",
-    "pubDate": "Thu, 08 Oct 2020 10:42:19 +0200"
   }
 ]
