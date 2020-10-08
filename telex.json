@@ -1,10 +1,24 @@
 [
   {
+    "title": "[Belföld] Nemzetközi hírű operatőrök léptek ki a Magyar Operatőrök Társaságából",
+    "link": "https://telex.hu/belfold/2020/10/08/operator-magyar-operatorok-tarsasaga-szinhaz-es-filmmuveszeti-egyetem-novak-emil-erdely-matyas-kende-janos-ragalyi-elemer-poharnok-gergely",
+    "description": "A szervezet egyik vezetőjének SZFE-s szerepvállalása verte ki a biztosítékot.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 08 Oct 2020 14:09:43 +0200"
+  },
+  {
     "title": "[Belföld] Videón, ahogy az egykori ezredes be akart jutni a Színműre",
     "link": "https://telex.hu/belfold/2020/10/08/szfe-szarka-gabor-bejutas-sorfal-video",
     "description": "Csütörtök délelőtt az új kancellár az épülethez ment, és összevitatkozott az egyetemet elfoglaló diákokkal. Mindkét fél felolvasta saját, pontokba szedett álláspontját. Szarka Gábor aztán távozott.",
     "author": "Iván-Nagy Szilvia, Lengyel-Szabó Péter, Földes András, Bakró-Nagy Ferenc",
     "pubDate": "Thu, 08 Oct 2020 13:36:29 +0200"
+  },
+  {
+    "title": "[Belföld] Orbán: A politikában és a kultúrában jó a magyar–lengyel kapcsolat, de a gazdaságban rendkívül szegényes",
+    "link": "https://telex.hu/belfold/2020/10/08/orban-viktor-visegradi-negyek",
+    "description": "Ennek szerinte az az oka, hogy a két nemzet nem beszéli egymás nyelvét.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 08 Oct 2020 13:28:37 +0200"
   },
   {
     "title": "[Gazdaság] Eljárást indított a TikTok ellen a Gazdasági Versenyhivatal",
@@ -14,10 +28,10 @@
     "pubDate": "Thu, 08 Oct 2020 13:13:11 +0200"
   },
   {
-    "title": "[Belföld] Lezuhant egy ember a Mammut bevásárlóközpontban",
+    "title": "[Belföld] Leugrott egy fiatal férfi a Mammut bevásárlóközpont legfelső szintjéről",
     "link": "https://telex.hu/belfold/2020/10/08/lezuhant-ember-mammut-bevasarlokozpont",
-    "description": "A fiatal férfi túlélte a 4 emeletnyi zuhanást. Egyelőre nem tudni pontosan, hogy mi történt. ",
-    "author": "Thüringer Barbara",
+    "description": "Túlélte a 4 emeletnyi zuhanást, a mentők kórházba szállították. ",
+    "author": "Thüringer Barbara, Iván-Nagy Szilvia",
     "pubDate": "Thu, 08 Oct 2020 12:59:26 +0200"
   },
   {
@@ -40,6 +54,13 @@
     "description": "A magas beosztású tisztviselő Olaszországban tűnt el nyomtalanul a feleségével együtt, most kiderült, nincs baja, csak disszidált.",
     "author": "Flachner Balázs",
     "pubDate": "Thu, 08 Oct 2020 12:21:43 +0200"
+  },
+  {
+    "title": "[Kult] 700 éve öt kínai herceg részegen ment haza, most 12,7 milliárd forintért kelt el a róluk készült festmény",
+    "link": "https://telex.hu/kult/2020/10/08/kinai-tekercsfestmeny-arveres-sothebys",
+    "description": "Négyszer annyit adtak érte a Sotheby's árverésén, mint amennyire az értékét becsülték.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Thu, 08 Oct 2020 12:16:58 +0200"
   },
   {
     "title": "[Belföld] Gulyás: Felmerülhet kiskorú veszélyeztetése az óvodákban, ahol bevezetik a Meseország mindenkié című könyvet",
@@ -89,6 +110,13 @@
     "description": "35 éve nyertünk két tétmeccset idegenben jó csapatok ellen. Ha véget ér a rossz sorozat, jöhet a budapesti döntő novemberben az Izland-Románia győztesével.",
     "author": "Ághassi Attila",
     "pubDate": "Thu, 08 Oct 2020 10:39:31 +0200"
+  },
+  {
+    "title": "[Belföld] Eddig 746 egészségügyi dolgozót vezényeltek át",
+    "link": "https://telex.hu/belfold/2020/10/08/cikk-cime-54",
+    "description": "A szakembereket 74 intézményből irányították át másik 12-be. Az elmúlt 24 órában elhunyt egy 37 éves férfi is. Az operatív törzs tájékoztatójának csütörtöki összefoglalója.",
+    "author": "Pintér Luca",
+    "pubDate": "Thu, 08 Oct 2020 10:34:03 +0200"
   },
   {
     "title": "[Külföld] Rendkívüli állapotot hirdettek ki a kigyulladt orosz katonai lőszerraktár miatt",
@@ -145,33 +173,5 @@
     "description": "Az egykori kancelláriaminiszter a Magyar Nemzetnek adott interjút.",
     "author": "Német Tamás",
     "pubDate": "Thu, 08 Oct 2020 09:47:24 +0200"
-  },
-  {
-    "title": "[Tech] Furcsán megnyugtató videóban kapták szét az új PlayStationt",
-    "link": "https://telex.hu/tech/2020/10/08/playstation-5-sony-video-hutes-ssd",
-    "description": "A Sony darabokra szedte a konzolt, hogy másnak ne kelljen.",
-    "author": "Flachner Balázs",
-    "pubDate": "Thu, 08 Oct 2020 09:33:43 +0200"
-  },
-  {
-    "title": "[Belföld] Csepel polgármestere az összes kerületi óvodában betiltotta a Meseország mindenkié c. mesekönyvet",
-    "link": "https://telex.hu/belfold/2020/10/08/csepel-polgarmester-meseorszag-mindenkie-betiltas",
-    "description": "A döntés az önkormányzati bölcsődéket és óvodákat érinti.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Thu, 08 Oct 2020 09:02:44 +0200"
-  },
-  {
-    "title": "[Gazdaság] 310 millió forint támogatást kapott a lélegeztetőgép-biznisz egyik szereplője",
-    "link": "https://telex.hu/gazdasag/2020/10/08/ott-one-310-millio-tamogatas-elektronikai-eszkozok-informatika-lelegeztetogep",
-    "description": "Az OTT-ONE elektronikai eszközöket gyártó üzemet épít.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 08 Oct 2020 09:01:12 +0200"
-  },
-  {
-    "title": "[Belföld] Két nap alatt hatezren csatlakoztak az új orvosi jogviszonyt ellenző csoporthoz",
-    "link": "https://telex.hu/belfold/2020/10/08/orvosok-beremeles-egeszsegugyi-szolgalati-jogviszony-kirendeles-masodallas",
-    "description": "Hiába a béremelés, az oldalon arról szavaznak, hányan nem fogják aláírni az új orvosi státuszról szóló szerződést. ",
-    "author": "Joób Sándor",
-    "pubDate": "Thu, 08 Oct 2020 08:52:51 +0200"
   }
 ]
