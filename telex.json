@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Sport] A futballválogatott 3-1-re nyert Szófiában, egy lépésre az Európa-bajnokságtól",
+    "link": "https://telex.hu/sport/2020/10/08/bolgar-magyar-eb-potselejtezo-szofia",
+    "description": "A magyar válogatott 3-1-re verte Bulgáriát, így novemberben a Puskás Arénában Izlanddal mérkőzhet az Európa-bajnoki részvételért. Franciaország, Portugália és Németország mellé csatlakozhatunk jövőre, ha Izlandon átjutunk.",
+    "author": "Ághassi Attila",
+    "pubDate": "Thu, 08 Oct 2020 22:52:34 +0200"
+  },
+  {
+    "title": "[Külföld] Felfüggesztették az EU költségvetéséről szóló megbeszéléseket",
+    "link": "https://telex.hu/kulfold/2020/10/08/europai-unio-koltsegvetes-europai-parlament",
+    "description": "Az Európai Parlament tárgyalói azt mondják, nem volt más választásuk. ",
+    "author": "Fábián Tamás",
+    "pubDate": "Thu, 08 Oct 2020 22:35:09 +0200"
+  },
+  {
+    "title": "[Sport] Közel másfél év után játszott újra a leukémiát legyőző kosaras",
+    "link": "https://telex.hu/sport/2020/10/08/atomeromu-ksc-szekszard-gereben-livia-kosarlabda",
+    "description": "„Az immunrendszerem olyan, mint egy egyéves kisgyereknek\" – mondta.",
+    "author": "Világi Máté",
+    "pubDate": "Thu, 08 Oct 2020 22:29:30 +0200"
+  },
+  {
     "title": "[Külföld] Kínában a cenzorok megszakították az amerikai alelnökjelöltek vitáját",
     "link": "https://telex.hu/kulfold/2020/10/08/amerikai-elnokvalasztas-alelnokjelolti-vita-kina-cnn",
     "description": "Nem fért bele, hogy Mike Pence szerint a Kína a hibás a világjárvány miatt. ",
@@ -152,26 +173,5 @@
     "description": "Ennek szerinte az az oka, hogy a két nemzet nem beszéli egymás nyelvét.",
     "author": "Bozzay Balázs",
     "pubDate": "Thu, 08 Oct 2020 13:28:37 +0200"
-  },
-  {
-    "title": "[Gazdaság] Eljárást indított a TikTok ellen a Gazdasági Versenyhivatal",
-    "link": "https://telex.hu/gazdasag/2020/10/08/tiktok-vizsgalat-gazdasagi-versenyhivatal-gvh",
-    "description": "A GVH szerint nem tájékoztatják tisztességesen a felhasználókat, a gyermekek elé is kerülő reklámokat pedig nem moderálják megfelelően.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 08 Oct 2020 13:13:11 +0200"
-  },
-  {
-    "title": "[Belföld] Leugrott egy fiatal férfi a Mammut bevásárlóközpont legfelső szintjéről",
-    "link": "https://telex.hu/belfold/2020/10/08/lezuhant-ember-mammut-bevasarlokozpont",
-    "description": "Túlélte a négyemeletnyi zuhanást, a mentők kórházba szállították. ",
-    "author": "Thüringer Barbara, Iván-Nagy Szilvia",
-    "pubDate": "Thu, 08 Oct 2020 12:59:26 +0200"
-  },
-  {
-    "title": "[Kult] Louise Glück kapta az idei irodalmi Nobel-díjat",
-    "link": "https://telex.hu/kult/2020/10/08/louise-gluck-kapta-az-irodalmi-nobel-dijat",
-    "description": "Az amerikai költőnő az egyéni létezést egyszerű csodálatossággal univerzálissá tevő, mással összetéveszthetetlen költészetével érdemelte ki az elismerést.",
-    "author": "Flachner Balázs",
-    "pubDate": "Thu, 08 Oct 2020 12:55:37 +0200"
   }
 ]
