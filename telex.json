@@ -1,15 +1,29 @@
 [
   {
+    "title": "[Belföld] Gázömlés volt egy dunaföldvári üzemben, több sérült van",
+    "link": "https://telex.hu/belfold/2020/10/09/dunafoldvar-mentok-katasztrofavedelem-gazomles-gyar",
+    "description": "A helyszínre mentőhelikoptereket küldtek.",
+    "author": "Iván-Nagy Szilvia, Szalma Baksi Ferenc",
+    "pubDate": "Fri, 09 Oct 2020 09:51:49 +0200"
+  },
+  {
+    "title": "[Külföld] Fél napig lángolt egy toronyház Dél-Koreában",
+    "link": "https://telex.hu/kulfold/2020/10/09/del-korea-tuz-epulet",
+    "description": "Több mint 13 óra után sikerült megfékezni a lángokat Ulszanban. Az épületet evakuálták, de így is sokan kerültek kórházba füstmérgezés miatt.",
+    "author": "Flachner Balázs",
+    "pubDate": "Fri, 09 Oct 2020 09:48:53 +0200"
+  },
+  {
     "title": "[Koronavírus] Két nap alatt másfélszeresére nőtt a kórházban ápoltak száma itthon",
     "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-magyarorszag-fertozes-jarvany-napi-adat-2",
     "description": "1176 új fertőzött itthon egy nap alatt, 993-an vannak kórházban. 25 ezer felett az aktív fertőzöttek száma.",
     "author": "Thüringer Barbara",
-    "pubDate": "Fri, 09 Oct 2020 09:09:25 +0200"
+    "pubDate": "Fri, 09 Oct 2020 09:15:41 +0200"
   },
   {
     "title": "[Gazdaság] Sarka Kata férje 870 milliót vett ki a cégéből",
     "link": "https://telex.hu/gazdasag/2020/10/09/bessenyei-istvan-netrise-sarka-kata-femcafe-870-millio",
-    "description": "A Femcafe-t kiadó cég növelni tudta bevételét.",
+    "description": "A Femcafét kiadó cég növelni tudta bevételét.",
     "author": "Bozzay Balázs",
     "pubDate": "Fri, 09 Oct 2020 08:53:36 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "A 6. szakasz végi mezőnyhajrában is Arnaud Démare volt a legerősebb, Valter Attila a 29. lett.",
     "author": "Pál Tamás",
     "pubDate": "Thu, 08 Oct 2020 18:30:31 +0200"
-  },
-  {
-    "title": "[Belföld] Háromszáz millió forint vissza nem térítendő állami támogatást kapott Puch László panziója",
-    "link": "https://telex.hu/belfold/2020/10/08/magyar-turisztikai-ugynokseg-puch-laszlo-panzio",
-    "description": "A Magyar Turisztikai Ügynökség pályázatain megvalósult a teljes összefogás.",
-    "author": "Fábián Tamás",
-    "pubDate": "Thu, 08 Oct 2020 18:28:00 +0200"
-  },
-  {
-    "title": "[Szórakozás] Rambóval is játszhatunk majd az új Mortal Kombatban",
-    "link": "https://telex.hu/szorakozas/2020/10/08/mortal-kombat-11-john-rambo-videojatek",
-    "description": "",
-    "author": "Stöckert Gábor",
-    "pubDate": "Thu, 08 Oct 2020 17:51:41 +0200"
   }
 ]
