@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Külföld] A Világélelmezési Program kapta Nobel-békedíjat",
+    "link": "https://telex.hu/kulfold/2020/10/09/nobel-bekedij-bekedij-bejelentes",
+    "description": "A díj odaítélését Oslóban jelentették be.",
+    "author": "Iván András",
+    "pubDate": "Fri, 09 Oct 2020 11:09:56 +0200"
+  },
+  {
+    "title": "[Sport] Izland két topligás csatárát kell kikapcsolni, ha Eb-t akarunk jövőre",
+    "link": "https://telex.hu/sport/2020/10/09/izland-selejtezo-puskas-2021",
+    "description": "2016-ban emlékezetes öngóllal egyenlítettünk ellenük az Eb-n, Izland sorrendben a harmadik nagy futballtornára juthat ki, mi ismételni szeretnénk.",
+    "author": "Ághassi Attila",
+    "pubDate": "Fri, 09 Oct 2020 10:56:44 +0200"
+  },
+  {
+    "title": "[Belföld] Nem érdekelte a BMW-st, hogy le volt zárva a határátkelő, az árokban akart átrallizni Szlovéniába",
+    "link": "https://telex.hu/belfold/2020/10/09/lezart-hataratkelo-szlovenia-auto",
+    "description": "Még a jelzőtáblákat is bedobálta a kerekek alá, miután elakadt a limuzinnal.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 10:47:34 +0200"
+  },
+  {
+    "title": "[Tech] Gömbölyű hagymákat talált túl szexinek a Facebook algoritmusa",
+    "link": "https://telex.hu/tech/2020/10/09/gombolyu-hagymakat-talalt-tul-szexinek-a-facebook-algoritmusa",
+    "description": "Emiatt utasították el egy újfundlandi cég hagymamagokról szóló hirdetését, de időközben kisimult a dolog.",
+    "author": "Flachner Balázs",
+    "pubDate": "Fri, 09 Oct 2020 10:45:57 +0200"
+  },
+  {
     "title": "[Napirajz] Krumpli",
     "link": "https://telex.hu/napirajz/2020/10/09/krumpli-1",
     "description": "",
@@ -21,9 +49,9 @@
     "pubDate": "Fri, 09 Oct 2020 10:15:17 +0200"
   },
   {
-    "title": "[Belföld] Gázömlés volt egy dunaföldvári üzemben, többen megsérültek",
+    "title": "[Belföld] Gázömlés volt egy dunaföldvári üzemben, a városban élők nincsenek veszélyben",
     "link": "https://telex.hu/belfold/2020/10/09/dunafoldvar-mentok-katasztrofavedelem-gazomles-gyar",
-    "description": "A helyszínre mentőhelikoptereket küldtek.",
+    "description": "Klórgáz szabadult fel egy tartályból. Több ott dolgozó megsérült.",
     "author": "Iván-Nagy Szilvia, Szalma Baksi Ferenc",
     "pubDate": "Fri, 09 Oct 2020 09:51:49 +0200"
   },
@@ -77,7 +105,7 @@
     "pubDate": "Fri, 09 Oct 2020 07:41:35 +0200"
   },
   {
-    "title": "[Koronavírus] Magyar Nemzet: Nem minden visszalépőnek kell most leérettségiznie",
+    "title": "[Koronavírus] A XII. kerületi bölcsődéket és óvodákat is elérte a koronavírus",
     "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-percrol-percre-covid-19-jarvany-vedooltas",
     "description": "",
     "author": "Thüringer Barbara, Szalma Baksi Ferenc",
@@ -145,33 +173,5 @@
     "description": "Az FBI szerint a hat férfi nyár óta tervezte, hogy túszul ejti a Demokrata Párt egyik feltörekvő politikusát, Gretchen Whitmert.",
     "author": "Dömötör Bálint",
     "pubDate": "Thu, 08 Oct 2020 21:22:58 +0200"
-  },
-  {
-    "title": "[Külföld] Trump: Isten áldása volt, hogy elkaptam a vírust",
-    "link": "https://telex.hu/kulfold/2020/10/08/usa-trump-isten-aldasa-regeneron",
-    "description": "",
-    "author": "Világi Máté",
-    "pubDate": "Thu, 08 Oct 2020 20:48:51 +0200"
-  },
-  {
-    "title": "[Belföld] Külügyminisztérium: Nincs adatbázisunk újságírókról",
-    "link": "https://telex.hu/belfold/2020/10/08/kulugyminiszterium-ujsagirok-listazasa-kozerdeku-adatigenyles",
-    "description": "Közérdekű adatigényléssel fordultunk a KKM-hez a magyar újságírók listázásával kapcsolatban. A tárca szerint csak nyilvános adatokat vizsgáltak. ",
-    "author": "Fábián Tamás",
-    "pubDate": "Thu, 08 Oct 2020 19:44:53 +0200"
-  },
-  {
-    "title": "[Szórakozás] Mégsem tart raktárkoncertet az Omega",
-    "link": "https://telex.hu/szorakozas/2020/10/08/omega-raktarkoncert-lemondas",
-    "description": "A főpróba után belátták, hogy most nem tudnák hozni az együtteshez méltó színvonalat.",
-    "author": "Világi Máté",
-    "pubDate": "Thu, 08 Oct 2020 19:31:52 +0200"
-  },
-  {
-    "title": "[Belföld] Tömeges kilépést vizionálnak az egészségügyben, ha nem lesz béremelés",
-    "link": "https://telex.hu/belfold/2020/10/08/egeszsegugy-beremeles-apolok-elvandorlas",
-    "description": "A szakszervezet ötvenszázalékos átlagos fizetésemelést kér az orvosi bértábla által nem érintett egészségügyi dolgozóknak.",
-    "author": "Tenczer Gábor",
-    "pubDate": "Thu, 08 Oct 2020 19:24:29 +0200"
   }
 ]
