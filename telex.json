@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Belföld] Vizsgálják a mozgássérültek helyére parkoló rendőr ügyét",
+    "link": "https://telex.hu/belfold/2020/10/09/vizsgaljak-a-mozgasserultek-helyere-parkolo-rendor-ugyet",
+    "description": "A Hadházi Ákos által posztolt szekszárdi esetet a rendőrség vizsgálja",
+    "author": "",
+    "pubDate": "Fri, 09 Oct 2020 19:10:16 +0200"
+  },
+  {
+    "title": "[Tech] A NAV nevében folytattak adathalász támadást",
+    "link": "https://telex.hu/tech/2020/10/09/a-nav-neveben-folytattak-adathalasz-tamadast",
+    "description": "Adóvisszatérítést ígér a levél, de valójában személyes adatok ellopására pályázik.",
+    "author": "Hanula Zsolt",
+    "pubDate": "Fri, 09 Oct 2020 19:08:06 +0200"
+  },
+  {
+    "title": "[Tech] Egy évbe telt, mire a Facebook lelőtte az azeri trollfarmot",
+    "link": "https://telex.hu/tech/2020/10/09/facebook-trollfarm-kamuprofil-azerbajdzsan",
+    "description": "Ezer kamuprofilt és nyolcezer kormánypárti oldalt töröltek.",
+    "author": "Pál Tamás",
+    "pubDate": "Fri, 09 Oct 2020 19:03:38 +0200"
+  },
+  {
     "title": "[Belföld] Leváltják az Információs Hivatal vezetőjét",
     "link": "https://telex.hu/belfold/2020/10/09/levaltjak-az-informacios-hivatal-vezetojet",
     "description": "A hírszerző szolgálat élére az eddigi elemző főigazgató-helyettes Bunford Zsolt kerül.\n",
@@ -152,26 +173,5 @@
     "description": "Október végéig több mint 800 betegnek elegendő gyógyszer áll majd rendelkezésre.",
     "author": "Bozzay Balázs",
     "pubDate": "Fri, 09 Oct 2020 13:50:24 +0200"
-  },
-  {
-    "title": "[Belföld] Most nem ledarált, hanem széttépett egy mesekönyvet Dúró Dóra",
-    "link": "https://telex.hu/belfold/2020/10/09/cikk-cime-57",
-    "description": "Vagánybagoly repült a szemetesbe, mert az egyik szereplőnek két anyja van, a lánybagolynak meg fiúneve van.",
-    "author": "Bakró-Nagy Ferenc",
-    "pubDate": "Fri, 09 Oct 2020 13:39:57 +0200"
-  },
-  {
-    "title": "[Külföld] Meghalt az ikonikus karabahi fotó katonája",
-    "link": "https://telex.hu/kulfold/2020/10/09/meghalt-az-ikonikus-karabahi-foto-katonaja",
-    "description": "Eddig 350 örmény katona vesztette életét Hegyi-Karabahban, Azerbajdzsán nem publikálja saját veszteségeit.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Fri, 09 Oct 2020 13:34:05 +0200"
-  },
-  {
-    "title": "[Belföld] A 168 Óra új tulajdonosa nem tudja kijelenteni, hogy a lap 2022-ben is létezni fog",
-    "link": "https://telex.hu/belfold/2020/10/09/milkovics-pal-168-ora-2022",
-    "description": "Milkovics Pál nem bedönteni, hanem megmenteni szeretné a lapot.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Fri, 09 Oct 2020 13:25:59 +0200"
   }
 ]
