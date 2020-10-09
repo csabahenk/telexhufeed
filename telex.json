@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Gazdaság] Sarka Kata férje 870 milliót vett ki a cégéből",
+    "link": "https://telex.hu/gazdasag/2020/10/09/bessenyei-istvan-netrise-sarka-kata-femcafe-870-millio",
+    "description": "A Femcafe-t kiadó cég növelni tudta bevételét.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 08:53:36 +0200"
+  },
+  {
+    "title": "[Külföld] Orvosa szerint szombaton már emberek közé mehet Donald Trump",
+    "link": "https://telex.hu/kulfold/2020/10/09/trump-covid-kezeles-elnokjelolti-vita-megjelenes",
+    "description": "Addigra letelik a diagnózistól számított tíz nap.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Fri, 09 Oct 2020 08:52:13 +0200"
+  },
+  {
     "title": "[Belföld] Rablási nyomozók kapcsolták le a kristályt terjesztő bűnbandát",
     "link": "https://telex.hu/belfold/2020/10/09/rendorseg-kristaly-drog",
     "description": "De még ennél a ténynél is bizarrabbak lettek az elfogás során készített, szotyiban heverő házi crack pipákat, meg porral teli kézkrémes dobozokat ábrázoló képek.",
@@ -14,7 +28,7 @@
     "pubDate": "Fri, 09 Oct 2020 07:56:50 +0200"
   },
   {
-    "title": "[Belföld] Orbán: Kezdhetjük vágni a centit, mert meglesz a vakcina",
+    "title": "[Belföld] Orbán szerint a német nyelvterületen nagyobb a korrupció, mint nálunk",
     "link": "https://telex.hu/belfold/2020/10/09/orban-viktor-miniszterelnok-interju-kossuth-radio",
     "description": "Szerinte „kezdhetjük vágni a centit, mert meglesz a vakcina. Júniusig, júliusig kell kibírni, addig tart rosszkedvünk tele.”",
     "author": "Szalma Baksi Ferenc",
@@ -159,19 +173,5 @@
     "description": "A vizsgálatot a BKK kérte, mert úgy sejtették, hogy a villamosok fékrendszerével probléma van.",
     "author": "Tenczer Gábor",
     "pubDate": "Thu, 08 Oct 2020 17:31:46 +0200"
-  },
-  {
-    "title": "[Külföld] A spanyol kormány azért küzd, hogy ne kelljen szülői beleegyezés az abortusz előtt",
-    "link": "https://telex.hu/kulfold/2020/10/08/spanyolorszag-irene-montero-abortusz-torvenymodositas-szexualis-felvilagositas",
-    "description": "16 és 18 éves kor között a lányoknak szülői engedélyre van szüksége a beavatkozáshoz.",
-    "author": "Világi Máté",
-    "pubDate": "Thu, 08 Oct 2020 17:05:30 +0200"
-  },
-  {
-    "title": "[Tudomány] Merkely: Teljesen megbízható a kétórás koronavírusteszt",
-    "link": "https://telex.hu/tudomany/2020/10/08/semmelweis-egyetem-ketoras-koronavirus-teszt",
-    "description": "A teszt bármikor forgalomba kerülhet, a gyártó már megkapta a szükséges engedélyeket.",
-    "author": "Világi Máté",
-    "pubDate": "Thu, 08 Oct 2020 16:29:51 +0200"
   }
 ]
