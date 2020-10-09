@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Tech] Különleges intézkedéseket vezet be a Twitter az amerikai választás előtt",
+    "link": "https://telex.hu/tech/2020/10/09/kulonleges-intezkedeseket-vezet-be-a-twitter-az-amerikai-valasztas-elott",
+    "description": "A cél, hogy visszaszorítsák az álhíreket és a manipulációt.\n",
+    "author": "Hanula Zsolt",
+    "pubDate": "Fri, 09 Oct 2020 20:36:19 +0200"
+  },
+  {
+    "title": "[Külföld] Diszkriminációnak tartja a román ortodox egyház a zarándoklat betiltását",
+    "link": "https://telex.hu/kulfold/2020/10/09/cikk-cime-58",
+    "description": "Dániel pátriárka szerint a járvány ellenére is meg lehetne tartani az egyhetes búcsújárást.",
+    "author": "Pál Tamás",
+    "pubDate": "Fri, 09 Oct 2020 20:34:05 +0200"
+  },
+  {
     "title": "[Külföld] Az amerikai elnök egészségét vizsgáló bizottságot hoznának létre",
     "link": "https://telex.hu/kulfold/2020/10/09/az-amerikai-elnok-egeszseget-vizsgalo-bizottsagot-hoznanak-letre",
     "description": "A javaslatot Trump állapota inspirálta, de csak a választás után lépne érvénybe, ha megszavazzák.",
@@ -77,7 +91,7 @@
     "pubDate": "Fri, 09 Oct 2020 16:54:58 +0200"
   },
   {
-    "title": "[Tech] Feladták a leckét az Intelnek az AMD az új processzorai",
+    "title": "[Tech] Feladták a leckét az Intelnek az AMD új processzorai",
     "link": "https://telex.hu/tech/2020/10/09/erot-demonstralt-az-amd-az-uj-processzoraival",
     "description": "A csütörtöki bemutatón a szupergyors processzorok mellett a cég új videókártyája is megvillant.",
     "author": "Flachner Balázs",
@@ -159,19 +173,5 @@
     "description": "A WHO európai régiójában több mint 100 millió ember él valamilyen mentális zavarral.",
     "author": "Thüringer Barbara",
     "pubDate": "Fri, 09 Oct 2020 14:35:38 +0200"
-  },
-  {
-    "title": "[Sport] Szijjártó: Majd ha Dzsudzsák visszavonul, visszakérem tőle a diplomata-útlevelét",
-    "link": "https://telex.hu/sport/2020/10/09/dzsudzsak-balazs-szijjarto-peter-diplomata-utlevel-1",
-    "description": "A miniszter szerint a másodosztályban játszó focista lehet még a válogatott csapatkapitánya.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Fri, 09 Oct 2020 14:21:39 +0200"
-  },
-  {
-    "title": "[Szórakozás] Felpörög az övbéli űrterrorizmus az elmúlt évek egyik legjobb sci-fi sorozatában",
-    "link": "https://telex.hu/szorakozas/2020/10/09/felporog-az-ovbeli-urterrorizmus-az-elmult-evek-egyik-legjobb-sci-fi-sorozataban",
-    "description": "December 16-án érkezik a The Expanse ötödik évadja, rögtön jött hozzá egy előzetes is.",
-    "author": "Flachner Balázs",
-    "pubDate": "Fri, 09 Oct 2020 13:55:12 +0200"
   }
 ]
