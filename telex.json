@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] Szijjártó: Majd ha Dzsudzsák visszavonul, visszakérem tőle a diplomata útlevelét",
+    "link": "https://telex.hu/sport/2020/10/09/dzsudzsak-balazs-szijjarto-peter-diplomata-utlevel-1",
+    "description": "A miniszter szerint a másodosztályban játszó focista lehet még a válogatott csapatkapitánya.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 14:21:39 +0200"
+  },
+  {
+    "title": "[Szórakozás] Felpörög az övbéli űrterrorizmus az elmúlt évek egyik legjobb sci-fi sorozatában",
+    "link": "https://telex.hu/szorakozas/2020/10/09/felporog-az-ovbeli-urterrorizmus-az-elmult-evek-egyik-legjobb-sci-fi-sorozataban",
+    "description": "December 16-án érkezik a The Expanse ötödik évadja, rögtön jött hozzá egy előzetes is.",
+    "author": "Flachner Balázs",
+    "pubDate": "Fri, 09 Oct 2020 13:55:12 +0200"
+  },
+  {
     "title": "[Koronavírus] Van, aki másfél éve nem jut haza a koronavírus-járvány miatt",
     "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-kulfold-hazateres-hatar-lezaras-ensz",
     "description": "Világszerte több mint 2,75 millió ragadt külföldön a járvány miatt.",
@@ -23,21 +37,21 @@
   {
     "title": "[Külföld] Meghalt az ikonikus karabahi fotó katonája",
     "link": "https://telex.hu/kulfold/2020/10/09/meghalt-az-ikonikus-karabahi-foto-katonaja",
-    "description": "Eddig 350 örmény katona vesztette életét Hegyi Karabahban, Azerbajdzsán nem publikálja saját veszteségeit.",
+    "description": "Eddig 350 örmény katona vesztette életét Hegyi-Karabahban, Azerbajdzsán nem publikálja saját veszteségeit.",
     "author": "Nyilas Gergely",
     "pubDate": "Fri, 09 Oct 2020 13:34:05 +0200"
   },
   {
-    "title": "[Belföld] A 168 óra új tulajdonosa nem tudja kijelenteni, hogy a lap 2022-ben is létezni fog",
+    "title": "[Belföld] A 168 Óra új tulajdonosa nem tudja kijelenteni, hogy a lap 2022-ben is létezni fog",
     "link": "https://telex.hu/belfold/2020/10/09/milkovics-pal-168-ora-2022",
     "description": "Milkovics Pál nem bedönteni, hanem megmenteni szeretné a lapot.",
-    "author": "",
+    "author": "Iván-Nagy Szilvia",
     "pubDate": "Fri, 09 Oct 2020 13:25:59 +0200"
   },
   {
     "title": "[Belföld] Az SZFE dolgozói megkapták a fizetésüket",
     "link": "https://telex.hu/belfold/2020/10/09/az-szfe-dolgozoi-megkaptak-a-fizetesuket",
-    "description": "Az egyetem új kancellára korábban azt mondta, addig nem tud utalni, amíg nem jut be az egyetemre. Ma sem volt bent.",
+    "description": "Az egyetem új kancellárja korábban azt mondta, addig nem tud utalni, amíg nem jut be az egyetemre. Ma sem volt bent.",
     "author": "Presinszky Judit",
     "pubDate": "Fri, 09 Oct 2020 13:22:04 +0200"
   },
@@ -147,10 +161,10 @@
     "pubDate": "Fri, 09 Oct 2020 10:26:21 +0200"
   },
   {
-    "title": "[Külföld] Az államfő elfogadta a kirgiz miniszterelnök lemondását",
+    "title": "[Külföld] Rendkívüli állapotot hirdettek Biskekben, az államfő kivezényli a hadsereget",
     "link": "https://telex.hu/kulfold/2020/10/09/kirgizisztan-miniszterelnok-allamfo-boronov-lemondas",
-    "description": "A kormányfő távozásával a kormány mandátuma is megszűnik.",
-    "author": "Bozzay Balázs",
+    "description": "Távozott a miniszterelnök. A rendkívüli állapot péntek estétől van érvényben.",
+    "author": "Iván-Nagy Szilvia, Bozzay Balázs",
     "pubDate": "Fri, 09 Oct 2020 10:15:17 +0200"
   },
   {
@@ -159,19 +173,5 @@
     "description": "Klórgáz szabadult fel egy tartályból. 13-an súlyosabb mérgezést szenvedtek.",
     "author": "Pintér Luca, Iván-Nagy Szilvia, Szalma Baksi Ferenc",
     "pubDate": "Fri, 09 Oct 2020 09:51:49 +0200"
-  },
-  {
-    "title": "[Külföld] Fél napig lángolt egy toronyház Dél-Koreában",
-    "link": "https://telex.hu/kulfold/2020/10/09/del-korea-tuz-epulet",
-    "description": "Több mint 13 óra után sikerült megfékezni a lángokat Ulszanban. Az épületet evakuálták, de így is sokan kerültek kórházba füstmérgezés miatt.",
-    "author": "Flachner Balázs",
-    "pubDate": "Fri, 09 Oct 2020 09:48:53 +0200"
-  },
-  {
-    "title": "[Koronavírus] Két nap alatt másfélszeresére nőtt a kórházban ápoltak száma itthon",
-    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-magyarorszag-fertozes-jarvany-napi-adat-2",
-    "description": "1176 új fertőzött itthon egy nap alatt, 993-an vannak kórházban. 25 ezer felett az aktív fertőzöttek száma.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Fri, 09 Oct 2020 09:15:41 +0200"
   }
 ]
