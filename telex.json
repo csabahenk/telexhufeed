@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] Forgalomkorlátozások lesznek a hétvégén Budapest Maraton miatt",
+    "link": "https://telex.hu/belfold/2020/10/09/forgalomkorlatozasok-lesznek-a-hetvegen-budapest-maraton-miatt",
+    "description": "Lezárások lesznek a rakparton a Duna mindkét oldalán és a Lánchídon is.\n",
+    "author": "Hanula Zsolt",
+    "pubDate": "Fri, 09 Oct 2020 21:55:54 +0200"
+  },
+  {
+    "title": "[Tech] Amazónia 40 százaléka válhat szavannává, ha tovább csökken a csapadék mennyisége",
+    "link": "https://telex.hu/tech/2020/10/09/amazonas-esoerdo-szavanna-csapadek",
+    "description": "Egy új kutatás szerint egy bizonyos ponton túl visszafordíthatatlanná válhat a folyamat.",
+    "author": "Pál Tamás",
+    "pubDate": "Fri, 09 Oct 2020 21:47:26 +0200"
+  },
+  {
     "title": "[Tech] Különleges intézkedéseket vezet be a Twitter az amerikai választás előtt",
     "link": "https://telex.hu/tech/2020/10/09/kulonleges-intezkedeseket-vezet-be-a-twitter-az-amerikai-valasztas-elott",
     "description": "A cél, hogy visszaszorítsák az álhíreket és a manipulációt.\n",
@@ -105,7 +119,7 @@
     "pubDate": "Fri, 09 Oct 2020 16:46:15 +0200"
   },
   {
-    "title": "[Szórakozás] Végignéztem egy Adam Sandler-filmet, és nem hogy túléltem, de élveztem",
+    "title": "[Szórakozás] Végignéztem egy Adam Sandler-filmet, és nemhogy túléltem, de élveztem",
     "link": "https://telex.hu/szorakozas/2020/10/09/vegigneztem-egy-adam-sandler-filmet-es-nem-hogy-tuleltem-de-elveztem",
     "description": "A Hubie Halloween egyszerű, buta, együgyű, és működik.",
     "author": "Klág Dávid",
@@ -159,19 +173,5 @@
     "description": "Tudósok, művészek és környezetvédelmi szakemberek arra kérik a miniszterelnököt: az Európai Tanács jövő héti ülésén ne blokkolja az uniós klímavédelmi megállapodást.",
     "author": "Bozzay Balázs",
     "pubDate": "Fri, 09 Oct 2020 14:54:09 +0200"
-  },
-  {
-    "title": "[Külföld] Jourová visszautasítja a magyar kormány sorosozós vádját",
-    "link": "https://telex.hu/kulfold/2020/10/09/jourova-visszautasitja-a-magyar-kormany-vadjait",
-    "description": "A kormány szerint az Európai Bizottság alelnöke szoros kapcsolatban áll Soros Györggyel. Vera Jourová közölte, hogy ez nem igaz.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Fri, 09 Oct 2020 14:40:04 +0200"
-  },
-  {
-    "title": "[Tudomány] Az öngyilkosság a fiatalok között a második leggyakoribb halálozási ok",
-    "link": "https://telex.hu/tudomany/2020/10/09/ongyilkossag-fiatalok-halalozasi-ok-who-mentalis-egeszseg",
-    "description": "A WHO európai régiójában több mint 100 millió ember él valamilyen mentális zavarral.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Fri, 09 Oct 2020 14:35:38 +0200"
   }
 ]
