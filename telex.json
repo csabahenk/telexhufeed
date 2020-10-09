@@ -1,6 +1,27 @@
 [
   {
-    "title": "[Belföld] Gázömlés volt egy dunaföldvári üzemben, több sérült van",
+    "title": "[Napirajz] Krumpli",
+    "link": "https://telex.hu/napirajz/2020/10/09/krumpli-1",
+    "description": "",
+    "author": "Grafitember",
+    "pubDate": "Fri, 09 Oct 2020 10:28:45 +0200"
+  },
+  {
+    "title": "[Belföld] Várandós nőt hagyott sorsára a baleset után egy lengyel kamionsofőr",
+    "link": "https://telex.hu/belfold/2020/10/09/varandos-no-baleset-lenygyel-kamionsofor",
+    "description": "Megállt, tétlenül nézte, ahogyan a nő próbál kikászálódni a roncsolódott járműből, majd visszaült a volán mögé, és segítségnyújtás nélkül elhajtott.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 10:26:21 +0200"
+  },
+  {
+    "title": "[Külföld] Az államfő elfogadta a kirgiz miniszterelnök lemondását",
+    "link": "https://telex.hu/kulfold/2020/10/09/kirgizisztan-miniszterelnok-allamfo-boronov-lemondas",
+    "description": "A kormányfő távozásával a kormány mandátuma is megszűnik.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 10:15:17 +0200"
+  },
+  {
+    "title": "[Belföld] Gázömlés volt egy dunaföldvári üzemben, többen megsérültek",
     "link": "https://telex.hu/belfold/2020/10/09/dunafoldvar-mentok-katasztrofavedelem-gazomles-gyar",
     "description": "A helyszínre mentőhelikoptereket küldtek.",
     "author": "Iván-Nagy Szilvia, Szalma Baksi Ferenc",
@@ -152,26 +173,5 @@
     "description": "A szakszervezet ötvenszázalékos átlagos fizetésemelést kér az orvosi bértábla által nem érintett egészségügyi dolgozóknak.",
     "author": "Tenczer Gábor",
     "pubDate": "Thu, 08 Oct 2020 19:24:29 +0200"
-  },
-  {
-    "title": "[Külföld] Letartóztatták a Pussy Riot két tagját",
-    "link": "https://telex.hu/kulfold/2020/10/08/pussy-riot-moszkva-lmbtq-letartoztatas",
-    "description": "Szivárványos zászlót tűztek ki moszkvai kormányépületekre Putyin születésnapján.",
-    "author": "Tenczer Gábor",
-    "pubDate": "Thu, 08 Oct 2020 18:45:07 +0200"
-  },
-  {
-    "title": "[Belföld] Primus: tárgyalni kell, különben összeomlik az egészségügy",
-    "link": "https://telex.hu/belfold/2020/10/08/primus-kozlemeny-maganegeszsegugy-torvenymodositas",
-    "description": "Az egyesület szerint nincs két szektorra elegendő orvos, így a szigorítás feltételei egyelőre nem adottak.",
-    "author": "Világi Máté",
-    "pubDate": "Thu, 08 Oct 2020 18:41:40 +0200"
-  },
-  {
-    "title": "[Sport] Giro: a második sprintbefutót is a francia bajnok nyerte",
-    "link": "https://telex.hu/sport/2020/10/08/giro-ditalia-6-szakasz-matera-arnaud-demare",
-    "description": "A 6. szakasz végi mezőnyhajrában is Arnaud Démare volt a legerősebb, Valter Attila a 29. lett.",
-    "author": "Pál Tamás",
-    "pubDate": "Thu, 08 Oct 2020 18:30:31 +0200"
   }
 ]
