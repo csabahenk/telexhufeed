@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] Véget ért az NBA egyéves kínai embargója",
+    "link": "https://telex.hu/sport/2020/10/09/nba-kina-cctv-kozvetites-haboru-daryl-morey",
+    "description": "Az állami kínai televízió, a CCTV újra közvetíti a liga meccseit.",
+    "author": "Pál Tamás",
+    "pubDate": "Fri, 09 Oct 2020 23:15:36 +0200"
+  },
+  {
+    "title": "[Belföld] A Hír TV exkluzív tényfeltárása: Donáth Anna szokott telefonon beszélni Vera Jourovával",
+    "link": "https://telex.hu/belfold/2020/10/09/exkluziv-anyagban-tarta-fel-a-hir-tv-hogy-donath-anna-rendszeresen-egyeztet-vera-jourovaval",
+    "description": "A képviselő őszödi beszédeként harangozták be a nagy leleplezést. Szijjártó szerint Donáthnak nincs többé helye a kultúrált európai politikusok között. ",
+    "author": "Cseke Balázs",
+    "pubDate": "Fri, 09 Oct 2020 22:35:08 +0200"
+  },
+  {
     "title": "[Belföld] Nehezebben fogadhatnak örökbe gyereket a nem házasságban élők",
     "link": "https://telex.hu/belfold/2020/10/09/nehezebben-fogadhatnak-orokbe-gyereket-a-nem-hazassagban-elok",
     "description": "Egy új rendeletmódosítás hátrébb sorolja a gyerekre vágyó, de nem házasságban élő párokat és az egyedülállókat.",
@@ -7,7 +21,7 @@
     "pubDate": "Fri, 09 Oct 2020 22:20:26 +0200"
   },
   {
-    "title": "[Belföld] Forgalomkorlátozások lesznek a hétvégén Budapest Maraton miatt",
+    "title": "[Belföld] Forgalomkorlátozások lesznek a hétvégén a Budapest Maraton miatt",
     "link": "https://telex.hu/belfold/2020/10/09/forgalomkorlatozasok-lesznek-a-hetvegen-budapest-maraton-miatt",
     "description": "Lezárások lesznek a rakparton a Duna mindkét oldalán és a Lánchídon is.\n",
     "author": "Hanula Zsolt",
@@ -159,19 +173,5 @@
     "description": "Az infók megbízható forrástól érkeztek, de készpénznek azért így sem lehet venni őket.",
     "author": "Flachner Balázs",
     "pubDate": "Fri, 09 Oct 2020 15:40:23 +0200"
-  },
-  {
-    "title": "[Belföld] Bemutatták a hat hete született oroszlánokat Nyíregyházán",
-    "link": "https://telex.hu/belfold/2020/10/09/oroszlan-negyesiker-szuletes-nyiregyhaza",
-    "description": "",
-    "author": "Thüringer Barbara",
-    "pubDate": "Fri, 09 Oct 2020 15:13:04 +0200"
-  },
-  {
-    "title": "[Belföld] Nem támogatják a bírók Polt Péter jobbkezének Kúria-elnökké választását",
-    "link": "https://telex.hu/belfold/2020/10/09/nem-tamogatjak-varga-zs-andras-kuria-elnokke-valasztasat-a-birok-orszagos-biroi-tanacs",
-    "description": "Az Országos Bírói Tanács szerint a Varga Zs. András jelölését egyáltalán lehetővé tévő jogszabály-módosítások nyomán az ő személye nem feleltethető meg annak az alkotmányos elvárásnak, hogy a bírósági szervezetrendszer csúcsára a más hatalmi ágaktól független, külső szemlélő számára is pártatlannak látszó személy kerüljön.",
-    "author": "Biró Marianna",
-    "pubDate": "Fri, 09 Oct 2020 14:56:54 +0200"
   }
 ]
