@@ -7,16 +7,50 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Külföld] Az amerikai elnök egészségét vizsgáló bizottságot hoznának létre]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kulfold/2020/10/09/az-amerikai-elnok-egeszseget-vizsgalo-bizottsagot-hoznanak-letre]]>
+      </link>
+      <description>
+        <![CDATA[A javaslatot Trump állapota inspirálta, de csak a választás után lépne érvénybe, ha megszavazzák.]]>
+      </description>
+      <author>
+        <![CDATA[Hanula Zsolt]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 09 Oct 2020 20:10:43 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Koronavírus] 66 gondozott kapta el a koronavírust egy nógrádi idősotthonban]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/09/koronavirus-idosotthon-nograd-megye-somogy-megye]]>
+      </link>
+      <description>
+        <![CDATA[A bátonyterenyei intézmény 17 fertőzött gondozója házi karanténba került.]]>
+      </description>
+      <author>
+        <![CDATA[Pál Tamás]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 09 Oct 2020 19:42:40 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Vizsgálják a mozgássérültek helyére parkoló rendőr ügyét]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/09/vizsgaljak-a-mozgasserultek-helyere-parkolo-rendor-ugyet]]>
       </link>
       <description>
-        <![CDATA[A Hadházi Ákos által posztolt szekszárdi esetet a rendőrség vizsgálja]]>
+        <![CDATA[A Hadházy Ákos által posztolt szekszárdi esetet a rendőrség vizsgálja]]>
       </description>
       <author>
-        <![CDATA[]]>
+        <![CDATA[Nyilas Gergely]]>
       </author>
       <pubDate>
         <![CDATA[Fri, 09 Oct 2020 19:10:16 +0200]]>
@@ -398,40 +432,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 09 Oct 2020 13:55:12 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] Hárommilió ember nem jut haza a koronavírus-járvány miatt]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/09/koronavirus-kulfold-hazateres-hatar-lezaras-ensz]]>
-      </link>
-      <description>
-        <![CDATA[ Az ENSZ arra szólította fel a nemzetközi közösséget, hogy sürgősen találjon megoldást erre a válságra]]>
-      </description>
-      <author>
-        <![CDATA[Thüringer Barbara]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 13:51:40 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] 250 beteg kezelésére elegendő remdesivir van a Richter raktáraiban]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/09/gyogyszer-richter-remesdivir-koronavirus]]>
-      </link>
-      <description>
-        <![CDATA[Október végéig több mint 800 betegnek elegendő gyógyszer áll majd rendelkezésre.]]>
-      </description>
-      <author>
-        <![CDATA[Bozzay Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 13:50:24 +0200]]>
       </pubDate>
     </item>
   </channel>

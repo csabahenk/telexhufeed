@@ -1,9 +1,23 @@
 [
   {
+    "title": "[Külföld] Az amerikai elnök egészségét vizsgáló bizottságot hoznának létre",
+    "link": "https://telex.hu/kulfold/2020/10/09/az-amerikai-elnok-egeszseget-vizsgalo-bizottsagot-hoznanak-letre",
+    "description": "A javaslatot Trump állapota inspirálta, de csak a választás után lépne érvénybe, ha megszavazzák.",
+    "author": "Hanula Zsolt",
+    "pubDate": "Fri, 09 Oct 2020 20:10:43 +0200"
+  },
+  {
+    "title": "[Koronavírus] 66 gondozott kapta el a koronavírust egy nógrádi idősotthonban",
+    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-idosotthon-nograd-megye-somogy-megye",
+    "description": "A bátonyterenyei intézmény 17 fertőzött gondozója házi karanténba került.",
+    "author": "Pál Tamás",
+    "pubDate": "Fri, 09 Oct 2020 19:42:40 +0200"
+  },
+  {
     "title": "[Belföld] Vizsgálják a mozgássérültek helyére parkoló rendőr ügyét",
     "link": "https://telex.hu/belfold/2020/10/09/vizsgaljak-a-mozgasserultek-helyere-parkolo-rendor-ugyet",
-    "description": "A Hadházi Ákos által posztolt szekszárdi esetet a rendőrség vizsgálja",
-    "author": "",
+    "description": "A Hadházy Ákos által posztolt szekszárdi esetet a rendőrség vizsgálja",
+    "author": "Nyilas Gergely",
     "pubDate": "Fri, 09 Oct 2020 19:10:16 +0200"
   },
   {
@@ -159,19 +173,5 @@
     "description": "December 16-án érkezik a The Expanse ötödik évadja, rögtön jött hozzá egy előzetes is.",
     "author": "Flachner Balázs",
     "pubDate": "Fri, 09 Oct 2020 13:55:12 +0200"
-  },
-  {
-    "title": "[Koronavírus] Hárommilió ember nem jut haza a koronavírus-járvány miatt",
-    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-kulfold-hazateres-hatar-lezaras-ensz",
-    "description": " Az ENSZ arra szólította fel a nemzetközi közösséget, hogy sürgősen találjon megoldást erre a válságra",
-    "author": "Thüringer Barbara",
-    "pubDate": "Fri, 09 Oct 2020 13:51:40 +0200"
-  },
-  {
-    "title": "[Koronavírus] 250 beteg kezelésére elegendő remdesivir van a Richter raktáraiban",
-    "link": "https://telex.hu/koronavirus/2020/10/09/gyogyszer-richter-remesdivir-koronavirus",
-    "description": "Október végéig több mint 800 betegnek elegendő gyógyszer áll majd rendelkezésre.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Fri, 09 Oct 2020 13:50:24 +0200"
   }
 ]
