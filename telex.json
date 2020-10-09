@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] Az időjárás akadályozta meg Mick Schumacher F1-bemutatkozását",
+    "link": "https://telex.hu/sport/2020/10/09/forma-1-mick-schumacher-eifel-nagydij-kod-bemutatkozas",
+    "description": "A hétszeres világbajnok Michael Schumacher fia az Alfa Romeónál vezetett volna a Nürburgringen. Az időjárás közbeszólt.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Fri, 09 Oct 2020 12:12:21 +0200"
+  },
+  {
+    "title": "[Gazdaság] Bloomberg: Orbánék bejelentkeztek a ferihegyi reptérért",
+    "link": "https://telex.hu/gazdasag/2020/10/09/budapest-airport-orban-mol",
+    "description": "A lap információi szerint az ajánlattevő konzorciumot Jellinek Dániel üzletember képviseli, és a csoport tagja lehet a Mol is.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 12:07:08 +0200"
+  },
+  {
     "title": "[Belföld] Nem jogerősen elítélték az élettársát sanyargató kaposvári férfit",
     "link": "https://telex.hu/belfold/2020/10/09/kaposvar-itelet-bantalmazas-borton-szemelyi-szabadsag-megsertese",
     "description": "3,5 évet kapott, az ügyész fellebbezne.",
@@ -119,7 +133,7 @@
     "pubDate": "Fri, 09 Oct 2020 07:41:35 +0200"
   },
   {
-    "title": "[Koronavírus] A XII. kerületi bölcsődéket és óvodákat is elérte a koronavírus",
+    "title": "[Koronavírus] Tuzson Bence államtitkár is koronavírusos",
     "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-percrol-percre-covid-19-jarvany-vedooltas",
     "description": "",
     "author": "Thüringer Barbara, Szalma Baksi Ferenc",
@@ -159,19 +173,5 @@
     "description": "A magyar válogatott 3-1-re verte Bulgáriát, így novemberben a Puskás Arénában Izlanddal mérkőzhet az Európa-bajnoki részvételért. Franciaország, Portugália és Németország mellé csatlakozhatunk jövőre, ha Izlandon átjutunk.",
     "author": "Ághassi Attila",
     "pubDate": "Thu, 08 Oct 2020 22:52:34 +0200"
-  },
-  {
-    "title": "[Külföld] Felfüggesztették az EU költségvetéséről szóló megbeszéléseket",
-    "link": "https://telex.hu/kulfold/2020/10/08/europai-unio-koltsegvetes-europai-parlament",
-    "description": "Az Európai Parlament tárgyalói azt mondják, nem volt más választásuk. ",
-    "author": "Fábián Tamás",
-    "pubDate": "Thu, 08 Oct 2020 22:35:09 +0200"
-  },
-  {
-    "title": "[Sport] Közel másfél év után játszott újra a leukémiát legyőző kosaras",
-    "link": "https://telex.hu/sport/2020/10/08/atomeromu-ksc-szekszard-gereben-livia-kosarlabda",
-    "description": "„Az immunrendszerem olyan, mint egy egyéves kisgyereknek\" – mondta.",
-    "author": "Világi Máté",
-    "pubDate": "Thu, 08 Oct 2020 22:29:30 +0200"
   }
 ]
