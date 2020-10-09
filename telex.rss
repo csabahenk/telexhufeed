@@ -7,13 +7,81 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Koronavírus] Van, aki másfél éve nem jut haza a koronavírus-járvány miatt]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/09/koronavirus-kulfold-hazateres-hatar-lezaras-ensz]]>
+      </link>
+      <description>
+        <![CDATA[Világszerte több mint 2,75 millió ragadt külföldön a járvány miatt.]]>
+      </description>
+      <author>
+        <![CDATA[Thüringer Barbara]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 09 Oct 2020 13:51:40 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Koronavírus] 250 beteg kezelésére elegendő remdesivir van a Richter raktáraiban]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/09/gyogyszer-richter-remesdivir-koronavirus]]>
+      </link>
+      <description>
+        <![CDATA[Október végéig több mint 800 betegnek elegendő gyógyszer áll majd rendelkezésre.]]>
+      </description>
+      <author>
+        <![CDATA[Bozzay Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 09 Oct 2020 13:50:24 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] Most nem ledarált, hanem széttépett egy mesekönyvet Dúró Dóra]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/09/cikk-cime-57]]>
+      </link>
+      <description>
+        <![CDATA[Vagánybagoly repült a szemetesbe, mert az egyik szereplőnek két anyja van, a lánybagolynak meg fiú neve van.]]>
+      </description>
+      <author>
+        <![CDATA[Bakró-Nagy Ferenc]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 09 Oct 2020 13:39:57 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Külföld] Meghalt az ikonikus karabahi fotó katonája]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kulfold/2020/10/09/meghalt-az-ikonikus-karabahi-foto-katonaja]]>
+      </link>
+      <description>
+        <![CDATA[Eddig 350 örmény katona vesztette életét Hegyi Karabahban, Azerbajdzsán nem publikálja saját veszteségeit.]]>
+      </description>
+      <author>
+        <![CDATA[Nyilas Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 09 Oct 2020 13:34:05 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] A 168 óra új tulajdonosa nem tudja kijelenteni, hogy a lap 2022-ben is létezni fog]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/09/milkovics-pal-168-ora-2022]]>
       </link>
       <description>
-        <![CDATA[Milkovics Pál nem bendönteni, hanem megmenteni szeretné a lapot.]]>
+        <![CDATA[Milkovics Pál nem bedönteni, hanem megmenteni szeretné a lapot.]]>
       </description>
       <author>
         <![CDATA[]]>
@@ -360,74 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 09 Oct 2020 09:15:41 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Gazdaság] Sarka Kata férje 870 milliót vett ki a cégéből]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/gazdasag/2020/10/09/bessenyei-istvan-netrise-sarka-kata-femcafe-870-millio]]>
-      </link>
-      <description>
-        <![CDATA[A Femcafét kiadó cég növelni tudta bevételét.]]>
-      </description>
-      <author>
-        <![CDATA[Bozzay Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 08:53:36 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Orvosa szerint szombaton már emberek közé mehet Donald Trump]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/09/trump-covid-kezeles-elnokjelolti-vita-megjelenes]]>
-      </link>
-      <description>
-        <![CDATA[Addigra letelik a diagnózistól számított tíz nap.]]>
-      </description>
-      <author>
-        <![CDATA[Iván-Nagy Szilvia]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 08:52:13 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Rablási nyomozók kapcsolták le a kristályt terjesztő bűnbandát]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/09/rendorseg-kristaly-drog]]>
-      </link>
-      <description>
-        <![CDATA[De még ennél a ténynél is bizarrabbak lettek az elfogás során készített, szotyiban heverő házi crackpipákat meg porral teli kézkrémes dobozokat ábrázoló képek.]]>
-      </description>
-      <author>
-        <![CDATA[Flachner Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 08:47:37 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Nem jogerősen felfüggesztettre ítélték Heinrich Pecinát]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/09/heinrich-pecina-ausztria-hypo-ugy-nem-jogeros-itelet]]>
-      </link>
-      <description>
-        <![CDATA[A Mediaworks korábbi tulajdonosát a Hypo Bank körüli botrányok miatt ítélte el ismét egy osztrák bíróság.]]>
-      </description>
-      <author>
-        <![CDATA[Iván-Nagy Szilvia]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 07:56:50 +0200]]>
       </pubDate>
     </item>
   </channel>

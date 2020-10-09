@@ -1,8 +1,36 @@
 [
   {
+    "title": "[Koronavírus] Van, aki másfél éve nem jut haza a koronavírus-járvány miatt",
+    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-kulfold-hazateres-hatar-lezaras-ensz",
+    "description": "Világszerte több mint 2,75 millió ragadt külföldön a járvány miatt.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Fri, 09 Oct 2020 13:51:40 +0200"
+  },
+  {
+    "title": "[Koronavírus] 250 beteg kezelésére elegendő remdesivir van a Richter raktáraiban",
+    "link": "https://telex.hu/koronavirus/2020/10/09/gyogyszer-richter-remesdivir-koronavirus",
+    "description": "Október végéig több mint 800 betegnek elegendő gyógyszer áll majd rendelkezésre.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 13:50:24 +0200"
+  },
+  {
+    "title": "[Belföld] Most nem ledarált, hanem széttépett egy mesekönyvet Dúró Dóra",
+    "link": "https://telex.hu/belfold/2020/10/09/cikk-cime-57",
+    "description": "Vagánybagoly repült a szemetesbe, mert az egyik szereplőnek két anyja van, a lánybagolynak meg fiú neve van.",
+    "author": "Bakró-Nagy Ferenc",
+    "pubDate": "Fri, 09 Oct 2020 13:39:57 +0200"
+  },
+  {
+    "title": "[Külföld] Meghalt az ikonikus karabahi fotó katonája",
+    "link": "https://telex.hu/kulfold/2020/10/09/meghalt-az-ikonikus-karabahi-foto-katonaja",
+    "description": "Eddig 350 örmény katona vesztette életét Hegyi Karabahban, Azerbajdzsán nem publikálja saját veszteségeit.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Fri, 09 Oct 2020 13:34:05 +0200"
+  },
+  {
     "title": "[Belföld] A 168 óra új tulajdonosa nem tudja kijelenteni, hogy a lap 2022-ben is létezni fog",
     "link": "https://telex.hu/belfold/2020/10/09/milkovics-pal-168-ora-2022",
-    "description": "Milkovics Pál nem bendönteni, hanem megmenteni szeretné a lapot.",
+    "description": "Milkovics Pál nem bedönteni, hanem megmenteni szeretné a lapot.",
     "author": "",
     "pubDate": "Fri, 09 Oct 2020 13:25:59 +0200"
   },
@@ -145,33 +173,5 @@
     "description": "1176 új fertőzött itthon egy nap alatt, 993-an vannak kórházban. 25 ezer felett az aktív fertőzöttek száma.",
     "author": "Thüringer Barbara",
     "pubDate": "Fri, 09 Oct 2020 09:15:41 +0200"
-  },
-  {
-    "title": "[Gazdaság] Sarka Kata férje 870 milliót vett ki a cégéből",
-    "link": "https://telex.hu/gazdasag/2020/10/09/bessenyei-istvan-netrise-sarka-kata-femcafe-870-millio",
-    "description": "A Femcafét kiadó cég növelni tudta bevételét.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Fri, 09 Oct 2020 08:53:36 +0200"
-  },
-  {
-    "title": "[Külföld] Orvosa szerint szombaton már emberek közé mehet Donald Trump",
-    "link": "https://telex.hu/kulfold/2020/10/09/trump-covid-kezeles-elnokjelolti-vita-megjelenes",
-    "description": "Addigra letelik a diagnózistól számított tíz nap.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Fri, 09 Oct 2020 08:52:13 +0200"
-  },
-  {
-    "title": "[Belföld] Rablási nyomozók kapcsolták le a kristályt terjesztő bűnbandát",
-    "link": "https://telex.hu/belfold/2020/10/09/rendorseg-kristaly-drog",
-    "description": "De még ennél a ténynél is bizarrabbak lettek az elfogás során készített, szotyiban heverő házi crackpipákat meg porral teli kézkrémes dobozokat ábrázoló képek.",
-    "author": "Flachner Balázs",
-    "pubDate": "Fri, 09 Oct 2020 08:47:37 +0200"
-  },
-  {
-    "title": "[Külföld] Nem jogerősen felfüggesztettre ítélték Heinrich Pecinát",
-    "link": "https://telex.hu/kulfold/2020/10/09/heinrich-pecina-ausztria-hypo-ugy-nem-jogeros-itelet",
-    "description": "A Mediaworks korábbi tulajdonosát a Hypo Bank körüli botrányok miatt ítélte el ismét egy osztrák bíróság.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Fri, 09 Oct 2020 07:56:50 +0200"
   }
 ]
