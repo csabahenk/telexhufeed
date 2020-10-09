@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Belföld] A 168 óra új tulajdonosa nem tudja kijelenteni, hogy a lap 2022-ben is létezni fog",
+    "link": "https://telex.hu/belfold/2020/10/09/milkovics-pal-168-ora-2022",
+    "description": "Milkovics Pál nem bendönteni, hanem megmenteni szeretné a lapot.",
+    "author": "",
+    "pubDate": "Fri, 09 Oct 2020 13:25:59 +0200"
+  },
+  {
+    "title": "[Belföld] Az SZFE dolgozói megkapták a fizetésüket",
+    "link": "https://telex.hu/belfold/2020/10/09/az-szfe-dolgozoi-megkaptak-a-fizetesuket",
+    "description": "Az egyetem új kancellára korábban azt mondta, addig nem tud utalni, amíg nem jut be az egyetemre. Ma sem volt bent.",
+    "author": "Presinszky Judit",
+    "pubDate": "Fri, 09 Oct 2020 13:22:04 +0200"
+  },
+  {
+    "title": "[Belföld] Vágó-Vitézy csörte a félreállított CAF villamosokról",
+    "link": "https://telex.hu/belfold/2020/10/09/bkk-caf-villamos-vitezy-david-vago-istvan",
+    "description": "Az egy éve tartó vita lassan véget ér, az új villamosokból négy nagy sajtócsinnadratta mellett várhatóan hétfőn kigurul a remízből.",
+    "author": "Tenczer Gábor",
+    "pubDate": "Fri, 09 Oct 2020 13:18:34 +0200"
+  },
+  {
+    "title": "[Szórakozás] Kedvesnek lenni nehéz, de megéri",
+    "link": "https://telex.hu/szorakozas/2020/10/09/ted-lasso-apple-sorozat-jason-sudeikis",
+    "description": "Az idei év egyik nagy meglepetése a Ted Lasso, ami megmutatja, ellenséges közegben is lehet sikereket elérni, ha végig pozitívak tudunk maradni.",
+    "author": "Sajó Dávid",
+    "pubDate": "Fri, 09 Oct 2020 13:08:41 +0200"
+  },
+  {
     "title": "[Sport] 100 évesen meghalt John Russell, a legidősebb élő olimpiai érmes",
     "link": "https://telex.hu/sport/2020/10/09/100-evesen-meghalt-john-russell-a-legidosebb-elo-olimpiai-ermes",
     "description": "Halálával a legidősebb élő olimpiai bajnok, Keleti Ágnes lehet a legidősebb élő olimpiai érmes is.",
@@ -145,33 +173,5 @@
     "description": "A Mediaworks korábbi tulajdonosát a Hypo Bank körüli botrányok miatt ítélte el ismét egy osztrák bíróság.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Fri, 09 Oct 2020 07:56:50 +0200"
-  },
-  {
-    "title": "[Belföld] Orbán szerint a német nyelvterületen nagyobb a korrupció, mint nálunk",
-    "link": "https://telex.hu/belfold/2020/10/09/orban-viktor-miniszterelnok-interju-kossuth-radio",
-    "description": "Szerinte „kezdhetjük vágni a centit, mert meglesz a vakcina. Júniusig, júliusig kell kibírni, addig tart rosszkedvünk tele.”",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Fri, 09 Oct 2020 07:41:35 +0200"
-  },
-  {
-    "title": "[Koronavírus] Tuzson Bence államtitkár is koronavírusos",
-    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-percrol-percre-covid-19-jarvany-vedooltas",
-    "description": "",
-    "author": "Thüringer Barbara, Szalma Baksi Ferenc",
-    "pubDate": "Fri, 09 Oct 2020 07:28:46 +0200"
-  },
-  {
-    "title": "[Belföld] Helyreállt a vasúti közlekedés Ferencváros és Kelenföld között",
-    "link": "https://telex.hu/belfold/2020/10/09/vasuti-baleset-teherszallito-vagon-kelenfold-ferencvaros",
-    "description": "Visszaemelték a kisiklott vagonokat.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Fri, 09 Oct 2020 07:01:23 +0200"
-  },
-  {
-    "title": "[Külföld] Putyin megelégelte a vérontást Hegyi-Karabahban",
-    "link": "https://telex.hu/kulfold/2020/10/09/hegyi-karabah-azerbajdzsan-ormenyorszag-vlagyimir-putyin-oroszorszag",
-    "description": "Moszkvába hívta Örményország és Azerbajdzsán külügyminiszterét.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Fri, 09 Oct 2020 06:42:44 +0200"
   }
 ]
