@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Sport] Összejött a Nadal-Djoković szuperdöntő",
+    "link": "https://telex.hu/sport/2020/10/09/novak-djokovic-rafael-nadal-roland-garros-donto-tenisz",
+    "description": "Novak Djoković közel négyórás meccsen győzte le Cicipaszt a Roland Garros elődöntőjében.",
+    "author": "Pál Tamás",
+    "pubDate": "Fri, 09 Oct 2020 23:51:49 +0200"
+  },
+  {
     "title": "[Sport] Véget ért az NBA egyéves kínai embargója",
     "link": "https://telex.hu/sport/2020/10/09/nba-kina-cctv-kozvetites-haboru-daryl-morey",
     "description": "Az állami kínai televízió, a CCTV újra közvetíti a liga meccseit.",
@@ -166,12 +173,5 @@
     "description": "Egy 288 milliárdos EU-s csomag részeként. Horvátország és Lengyelország kapná a legtöbbet, mert ott természeti csapások is pusztítottak mostanában.",
     "author": "Hanula Zsolt",
     "pubDate": "Fri, 09 Oct 2020 16:03:38 +0200"
-  },
-  {
-    "title": "[Tech] Kiszivárgott az új iPhone-ok ára és megjelenési dátuma",
-    "link": "https://telex.hu/tech/2020/10/09/kiszivargott-az-uj-iphone-ok-ara-es-megjelenesi-datuma",
-    "description": "Az infók megbízható forrástól érkeztek, de készpénznek azért így sem lehet venni őket.",
-    "author": "Flachner Balázs",
-    "pubDate": "Fri, 09 Oct 2020 15:40:23 +0200"
   }
 ]
