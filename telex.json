@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Koronavírus] Két nap alatt másfélszeresére nőtt a kórházban ápoltak száma itthon",
+    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-magyarorszag-fertozes-jarvany-napi-adat-2",
+    "description": "1176 új fertőzött itthon egy nap alatt, 993-an vannak kórházban. 25 ezer felett az aktív fertőzöttek száma.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Fri, 09 Oct 2020 09:09:25 +0200"
+  },
+  {
     "title": "[Gazdaság] Sarka Kata férje 870 milliót vett ki a cégéből",
     "link": "https://telex.hu/gazdasag/2020/10/09/bessenyei-istvan-netrise-sarka-kata-femcafe-870-millio",
     "description": "A Femcafe-t kiadó cég növelni tudta bevételét.",
@@ -16,7 +23,7 @@
   {
     "title": "[Belföld] Rablási nyomozók kapcsolták le a kristályt terjesztő bűnbandát",
     "link": "https://telex.hu/belfold/2020/10/09/rendorseg-kristaly-drog",
-    "description": "De még ennél a ténynél is bizarrabbak lettek az elfogás során készített, szotyiban heverő házi crack pipákat, meg porral teli kézkrémes dobozokat ábrázoló képek.",
+    "description": "De még ennél a ténynél is bizarrabbak lettek az elfogás során készített, szotyiban heverő házi crackpipákat meg porral teli kézkrémes dobozokat ábrázoló képek.",
     "author": "Flachner Balázs",
     "pubDate": "Fri, 09 Oct 2020 08:47:37 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "",
     "author": "Stöckert Gábor",
     "pubDate": "Thu, 08 Oct 2020 17:51:41 +0200"
-  },
-  {
-    "title": "[Belföld] Nem találtak hibát az egy éve félreállított új CAF-okban",
-    "link": "https://telex.hu/belfold/2020/10/08/budapest-caf-villamos-vizsgalat",
-    "description": "A vizsgálatot a BKK kérte, mert úgy sejtették, hogy a villamosok fékrendszerével probléma van.",
-    "author": "Tenczer Gábor",
-    "pubDate": "Thu, 08 Oct 2020 17:31:46 +0200"
   }
 ]

@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Koronavírus] Két nap alatt másfélszeresére nőtt a kórházban ápoltak száma itthon]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/09/koronavirus-magyarorszag-fertozes-jarvany-napi-adat-2]]>
+      </link>
+      <description>
+        <![CDATA[1176 új fertőzött itthon egy nap alatt, 993-an vannak kórházban. 25 ezer felett az aktív fertőzöttek száma.]]>
+      </description>
+      <author>
+        <![CDATA[Thüringer Barbara]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 09 Oct 2020 09:09:25 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Gazdaság] Sarka Kata férje 870 milliót vett ki a cégéből]]>
       </title>
       <link>
@@ -47,7 +64,7 @@
         <![CDATA[https://telex.hu/belfold/2020/10/09/rendorseg-kristaly-drog]]>
       </link>
       <description>
-        <![CDATA[De még ennél a ténynél is bizarrabbak lettek az elfogás során készített, szotyiban heverő házi crack pipákat, meg porral teli kézkrémes dobozokat ábrázoló képek.]]>
+        <![CDATA[De még ennél a ténynél is bizarrabbak lettek az elfogás során készített, szotyiban heverő házi crackpipákat meg porral teli kézkrémes dobozokat ábrázoló képek.]]>
       </description>
       <author>
         <![CDATA[Flachner Balázs]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Thu, 08 Oct 2020 17:51:41 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Nem találtak hibát az egy éve félreállított új CAF-okban]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/08/budapest-caf-villamos-vizsgalat]]>
-      </link>
-      <description>
-        <![CDATA[A vizsgálatot a BKK kérte, mert úgy sejtették, hogy a villamosok fékrendszerével probléma van.]]>
-      </description>
-      <author>
-        <![CDATA[Tenczer Gábor]]>
-      </author>
-      <pubDate>
-        <![CDATA[Thu, 08 Oct 2020 17:31:46 +0200]]>
       </pubDate>
     </item>
   </channel>
