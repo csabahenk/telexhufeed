@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] Giro d'Italia: a kaotikus szakaszt Valter Attila is megszenvedte",
+    "link": "https://telex.hu/sport/2020/10/09/giro-d-italia-7-szakasz-oldalszel-uldozes-valter-attila-brindisi",
+    "description": "Többször kellett üldöznie a főmezőnyt a magyar bringásnak, aki már a legjobb 30-ban van. Újra Démare nyerte a sprintet.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 09 Oct 2020 17:15:26 +0200"
+  },
+  {
+    "title": "[Kult] Könyvkiadók egyesülete: Dúró Dóra mintha nem is tudná, mi van a könyvekben, csak darál és vág",
+    "link": "https://telex.hu/kult/2020/10/09/konyvkiadok-egyesulete-duro-dora-mintha-nem-is-tudna-mi-van-a-konyvekben-csak-daral-es-vag",
+    "description": "A Magyar Könyvkiadók és Könyvterjesztők Egyesülése szerint amit a Mi Hazánk elnöke művel az nem csak nevetséges, de veszélyes is.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Fri, 09 Oct 2020 17:11:42 +0200"
+  },
+  {
     "title": "[Gazdaság] Másfél milliárdos nyereséget termelt az MNB alapítványa",
     "link": "https://telex.hu/gazdasag/2020/10/09/masfel-milliardos-nyereseget-termelt-az-mnb-alapitvanya",
     "description": "Szépen gyarapodik a vagyon, ami pár éve elvesztette közpénz jellegét.\n\n",
@@ -26,13 +40,6 @@
     "description": "A Hubie Halloween egyszerű, buta, együgyű, és működik.",
     "author": "Klág Dávid",
     "pubDate": "Fri, 09 Oct 2020 16:29:13 +0200"
-  },
-  {
-    "title": "[Sport] Giro d'Italia: a kaotikus szakaszt Valter Attila is megszenvedte",
-    "link": "https://telex.hu/sport/2020/10/09/giro-d-italia-7-szakasz-oldalszel-uldozes-valter-attila-brindisi",
-    "description": "Többször kellett üldöznie a főmezőnyt a magyar bringásnak, aki már a legjobb 30-ban van. Újra Démare nyerte a sprintet.",
-    "author": "Fehér János",
-    "pubDate": "Fri, 09 Oct 2020 16:28:20 +0200"
   },
   {
     "title": "[Külföld] Tényleg Hillary Clinton mesterterve volt Trump lejáratása az oroszokkal?",
@@ -166,12 +173,5 @@
     "description": "Az idei év egyik nagy meglepetése a Ted Lasso, ami megmutatja, ellenséges közegben is lehet sikereket elérni, ha végig pozitívak tudunk maradni.",
     "author": "Sajó Dávid",
     "pubDate": "Fri, 09 Oct 2020 13:08:41 +0200"
-  },
-  {
-    "title": "[Sport] 100 évesen meghalt John Russell, a legidősebb élő olimpiai érmes",
-    "link": "https://telex.hu/sport/2020/10/09/100-evesen-meghalt-john-russell-a-legidosebb-elo-olimpiai-ermes",
-    "description": "Halálával a legidősebb élő olimpiai bajnok, Keleti Ágnes lehet a legidősebb élő olimpiai érmes is.",
-    "author": "Flachner Balázs",
-    "pubDate": "Fri, 09 Oct 2020 12:47:45 +0200"
   }
 ]
