@@ -1,6 +1,20 @@
 [
   {
-    "title": "[Külföld] A Világélelmezési Program kapta Nobel-békedíjat",
+    "title": "[Belföld] Nem jogerősen elítélték az élettársát sanyargató kaposvári férfit",
+    "link": "https://telex.hu/belfold/2020/10/09/kaposvar-itelet-bantalmazas-borton-szemelyi-szabadsag-megsertese",
+    "description": "3,5 évet kapott, az ügyész fellebbezne.",
+    "author": "Szalma Baksi Ferenc",
+    "pubDate": "Fri, 09 Oct 2020 11:30:43 +0200"
+  },
+  {
+    "title": "[Belföld] Fekete-Győr András szavazatszámláló lesz a borsodi választáson",
+    "link": "https://telex.hu/belfold/2020/10/09/szerencs-idokozi-valasztas-szavazatszamlalo-fekete-gyor-andras",
+    "description": "A Momentum elnöke arra számít, hogy a kétharmadot eldöntő választáson \"a Fidesz minden mocskos eszközt be fog vetni\".",
+    "author": "Thüringer Barbara",
+    "pubDate": "Fri, 09 Oct 2020 11:20:50 +0200"
+  },
+  {
+    "title": "[Külföld] A Világélelmezési Program kapta a Nobel-békedíjat",
     "link": "https://telex.hu/kulfold/2020/10/09/nobel-bekedij-bekedij-bejelentes",
     "description": "A díj odaítélését Oslóban jelentették be.",
     "author": "Iván András",
@@ -14,7 +28,7 @@
     "pubDate": "Fri, 09 Oct 2020 10:56:44 +0200"
   },
   {
-    "title": "[Belföld] Nem érdekelte a BMW-st, hogy le volt zárva a határátkelő, az árokban akart átrallizni Szlovéniába",
+    "title": "[Belföld] Nem érdekelte a BMW-st, hogy le volt zárva a határátkelő, az árokban akart átralizni Szlovéniába",
     "link": "https://telex.hu/belfold/2020/10/09/lezart-hataratkelo-szlovenia-auto",
     "description": "Még a jelzőtáblákat is bedobálta a kerekek alá, miután elakadt a limuzinnal.",
     "author": "Bozzay Balázs",
@@ -159,19 +173,5 @@
     "description": "„Az immunrendszerem olyan, mint egy egyéves kisgyereknek\" – mondta.",
     "author": "Világi Máté",
     "pubDate": "Thu, 08 Oct 2020 22:29:30 +0200"
-  },
-  {
-    "title": "[Külföld] Kínában a cenzorok megszakították az amerikai alelnökjelöltek vitáját",
-    "link": "https://telex.hu/kulfold/2020/10/08/amerikai-elnokvalasztas-alelnokjelolti-vita-kina-cnn",
-    "description": "Nem fért bele, hogy Mike Pence szerint a Kína a hibás a világjárvány miatt. ",
-    "author": "Fábián Tamás",
-    "pubDate": "Thu, 08 Oct 2020 21:37:41 +0200"
-  },
-  {
-    "title": "[Külföld] Szélsőjobboldali milicisták akarták túszul ejteni Michigan demokrata kormányzóját",
-    "link": "https://telex.hu/kulfold/2020/10/08/usa-szelsojobboldal-milicia-gretchen-whitmer-michigan",
-    "description": "Az FBI szerint a hat férfi nyár óta tervezte, hogy túszul ejti a Demokrata Párt egyik feltörekvő politikusát, Gretchen Whitmert.",
-    "author": "Dömötör Bálint",
-    "pubDate": "Thu, 08 Oct 2020 21:22:58 +0200"
   }
 ]
