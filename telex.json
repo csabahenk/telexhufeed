@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] 112 éves részvételi rekord dőlhet meg az amerikai elnökválasztáson",
+    "link": "https://telex.hu/kulfold/2020/10/09/usa-amerikai-elnokvalasztas-reszvetel-donald-trump-joe-biden",
+    "description": "Sokan választották a levélszavazást a koronavírus-járvány miatt.",
+    "author": "Szalma Baksi Ferenc",
+    "pubDate": "Fri, 09 Oct 2020 06:04:59 +0200"
+  },
+  {
     "title": "[Gazdaság] Harmadik hónapja csökken a fogyasztói bizalmi index",
     "link": "https://telex.hu/gazdasag/2020/10/08/csokken-a-fogyasztoi-bizalmi-index",
     "description": "A tavaszihoz képest jelentősen nő a munkanélküliségtől való félelem. ",
@@ -47,6 +54,13 @@
     "description": "",
     "author": "Világi Máté",
     "pubDate": "Thu, 08 Oct 2020 20:48:51 +0200"
+  },
+  {
+    "title": "[Belföld] Külügyminisztérium: Nincs adatbázisunk újságírókról",
+    "link": "https://telex.hu/belfold/2020/10/08/kulugyminiszterium-ujsagirok-listazasa-kozerdeku-adatigenyles",
+    "description": "Közérdekű adatigényléssel fordultunk a KKM-hez a magyar újságírók listázásával kapcsolatban. A tárca szerint csak nyilvános adatokat vizsgáltak. ",
+    "author": "Fábián Tamás",
+    "pubDate": "Thu, 08 Oct 2020 19:44:53 +0200"
   },
   {
     "title": "[Szórakozás] Mégsem tart raktárkoncertet az Omega",
@@ -154,24 +168,10 @@
     "pubDate": "Thu, 08 Oct 2020 15:18:56 +0200"
   },
   {
-    "title": "[Tech] Első hónapjában több mint 100 millió dollárt termelhet a legújabb kínai sikerjáték",
-    "link": "https://telex.hu/tech/2020/10/08/videojatek-genshin-impact-kina",
-    "description": "Minden jel arra utal, hogy a Genshin Impact lesz minden idők legjobban induló kínai játéka.",
-    "author": "Flachner Balázs",
-    "pubDate": "Thu, 08 Oct 2020 14:16:46 +0200"
-  },
-  {
-    "title": "[Belföld] Nemzetközi hírű alkotók léptek ki a Magyar Operatőrök Társaságából",
-    "link": "https://telex.hu/belfold/2020/10/08/operator-magyar-operatorok-tarsasaga-szinhaz-es-filmmuveszeti-egyetem-novak-emil-erdely-matyas-kende-janos-ragalyi-elemer-poharnok-gergely",
-    "description": "A szervezet egyik vezetőjének SZFE-s szerepvállalása verte ki a biztosítékot.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 08 Oct 2020 14:09:43 +0200"
-  },
-  {
-    "title": "[Belföld] Videón, ahogy az egykori ezredes be akart jutni a Színműre",
-    "link": "https://telex.hu/belfold/2020/10/08/szfe-szarka-gabor-bejutas-sorfal-video",
-    "description": "Csütörtök délelőtt az új kancellár az épülethez ment, és összevitatkozott az egyetemet elfoglaló diákokkal. Mindkét fél felolvasta saját, pontokba szedett álláspontját. Szarka Gábor aztán távozott.",
-    "author": "Iván-Nagy Szilvia, Lengyel-Szabó Péter, Földes András, Bakró-Nagy Ferenc",
-    "pubDate": "Thu, 08 Oct 2020 13:36:29 +0200"
+    "title": "[Belföld] Már több orvos jelentkezett a magánklinikán, hogy feladná állami állását",
+    "link": "https://telex.hu/belfold/2020/10/08/cikk-cime-56",
+    "description": "Több orvos jelezte már, hogy a gerincgyógyászati központban akar főállásban lenni, mondta a Telexnek Varga Péter Pál alapító főigazgató.",
+    "author": "Joób Sándor",
+    "pubDate": "Thu, 08 Oct 2020 14:36:45 +0200"
   }
 ]
