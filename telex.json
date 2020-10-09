@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Koronavírus] Tízmilliárdos járványügyi támogatást javasol Magyarországnak az EB",
+    "link": "https://telex.hu/koronavirus/2020/10/09/tizmilliardos-jarvanyugyi-tamogatast-javasol-magyarorszagnak-az-eb",
+    "description": "Egy 288 milliárdos EU-s csomag részeként. Horvátország és Lengyelország kapná a legtöbbet, mert ott természeti csapások is pusztítottak mostanában.",
+    "author": "Hanula Zsolt",
+    "pubDate": "Fri, 09 Oct 2020 16:03:38 +0200"
+  },
+  {
+    "title": "[Tech] Kiszivárgott az új iPhone-ok ára és megjelenési dátuma",
+    "link": "https://telex.hu/tech/2020/10/09/kiszivargott-az-uj-iphone-ok-ara-es-megjelenesi-datuma",
+    "description": "Az infók megbízható forrástól érkeztek, de készpénznek azért így sem lehet venni őket.",
+    "author": "Flachner Balázs",
+    "pubDate": "Fri, 09 Oct 2020 15:40:23 +0200"
+  },
+  {
+    "title": "[Belföld] Bemutatták a hat hete született oroszlánokat Nyíregyházán",
+    "link": "https://telex.hu/belfold/2020/10/09/oroszlan-negyesiker-szuletes-nyiregyhaza",
+    "description": "",
+    "author": "Thüringer Barbara",
+    "pubDate": "Fri, 09 Oct 2020 15:13:04 +0200"
+  },
+  {
     "title": "[Belföld] Nem támogatják a bírók Polt Péter jobbkezének Kúria-elnökké választását",
     "link": "https://telex.hu/belfold/2020/10/09/nem-tamogatjak-varga-zs-andras-kuria-elnokke-valasztasat-a-birok-orszagos-biroi-tanacs",
     "description": "Az Országos Bírói Tanács szerint a Varga Zs. András jelölését egyáltalán lehetővé tévő jogszabály-módosítások nyomán az ő személye nem feleltethető meg annak az alkotmányos elvárásnak, hogy a bírósági szervezetrendszer csúcsára a más hatalmi ágaktól független, külső szemlélő számára is pártatlannak látszó személy kerüljön.",
@@ -14,7 +35,7 @@
     "pubDate": "Fri, 09 Oct 2020 14:54:09 +0200"
   },
   {
-    "title": "[Külföld] Jourová visszautasítja a magyar kormány vádjait",
+    "title": "[Külföld] Jourová visszautasítja a magyar kormány sorosozós vádját",
     "link": "https://telex.hu/kulfold/2020/10/09/jourova-visszautasitja-a-magyar-kormany-vadjait",
     "description": "A kormány szerint az Európai Bizottság alelnöke szoros kapcsolatban áll Soros Györggyel. Vera Jourová közölte, hogy ez nem igaz.",
     "author": "Nyilas Gergely",
@@ -42,9 +63,9 @@
     "pubDate": "Fri, 09 Oct 2020 13:55:12 +0200"
   },
   {
-    "title": "[Koronavírus] Van, aki másfél éve nem jut haza a koronavírus-járvány miatt",
+    "title": "[Koronavírus] Hárommilió ember nem jut haza a koronavírus-járvány miatt",
     "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-kulfold-hazateres-hatar-lezaras-ensz",
-    "description": "Világszerte több mint 2,75 millió ragadt külföldön a járvány miatt.",
+    "description": " Az ENSZ arra szólította fel a nemzetközi közösséget, hogy sürgősen találjon megoldást erre a válságra",
     "author": "Thüringer Barbara",
     "pubDate": "Fri, 09 Oct 2020 13:51:40 +0200"
   },
@@ -152,26 +173,5 @@
     "description": "A WFP fellép az ellen, hogy az éhínségre fegyverként tekintsenek.",
     "author": "Iván András",
     "pubDate": "Fri, 09 Oct 2020 11:09:56 +0200"
-  },
-  {
-    "title": "[Sport] Izland két topligás csatárát kell kikapcsolni, ha Eb-t akarunk jövőre",
-    "link": "https://telex.hu/sport/2020/10/09/izland-selejtezo-puskas-2021",
-    "description": "2016-ban emlékezetes öngóllal egyenlítettünk ellenük az Eb-n, Izland sorrendben a harmadik nagy futballtornára juthat ki, mi ismételni szeretnénk.",
-    "author": "Ághassi Attila",
-    "pubDate": "Fri, 09 Oct 2020 10:56:44 +0200"
-  },
-  {
-    "title": "[Belföld] Nem érdekelte a BMW-st, hogy le volt zárva a határátkelő, az árokban akart átralizni Szlovéniába",
-    "link": "https://telex.hu/belfold/2020/10/09/lezart-hataratkelo-szlovenia-auto",
-    "description": "Még a jelzőtáblákat is bedobálta a kerekek alá, miután elakadt a limuzinnal.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Fri, 09 Oct 2020 10:47:34 +0200"
-  },
-  {
-    "title": "[Tech] Gömbölyű hagymákat talált túl szexinek a Facebook algoritmusa",
-    "link": "https://telex.hu/tech/2020/10/09/gombolyu-hagymakat-talalt-tul-szexinek-a-facebook-algoritmusa",
-    "description": "Emiatt utasították el egy újfundlandi cég hagymamagokról szóló hirdetését, de időközben kisimult a dolog.",
-    "author": "Flachner Balázs",
-    "pubDate": "Fri, 09 Oct 2020 10:45:57 +0200"
   }
 ]
