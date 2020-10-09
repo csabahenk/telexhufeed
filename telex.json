@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Külföld] Nem jogerősen felfüggesztettre ítélték Heinrich Pecinát",
+    "link": "https://telex.hu/kulfold/2020/10/09/heinrich-pecina-ausztria-hypo-ugy-nem-jogeros-itelet",
+    "description": "A Mediaworks korábbi tulajdonosát a Hypo Bank körüli botrányok miatt ítélte el ismét egy osztrák bíróság.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Fri, 09 Oct 2020 07:56:50 +0200"
+  },
+  {
+    "title": "[Belföld] Orbán: Kezdhetjük vágni a centit, mert meglesz a vakcina",
+    "link": "https://telex.hu/belfold/2020/10/09/orban-viktor-miniszterelnok-interju-kossuth-radio",
+    "description": "Szerinte „kezdhetjük vágni a centit, mert meglesz a vakcina. Júniusig, júliusig kell kibírni, addig tart rosszkedvünk tele.”",
+    "author": "Szalma Baksi Ferenc",
+    "pubDate": "Fri, 09 Oct 2020 07:41:35 +0200"
+  },
+  {
+    "title": "[Koronavírus] Magyar Nemzet: Nem minden visszalépőnek kell most leérettségiznie",
+    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-percrol-percre-covid-19-jarvany-vedooltas",
+    "description": "",
+    "author": "Thüringer Barbara, Szalma Baksi Ferenc",
+    "pubDate": "Fri, 09 Oct 2020 07:28:46 +0200"
+  },
+  {
     "title": "[Belföld] Helyreállt a vasúti közlekedés Ferencváros és Kelenföld között",
     "link": "https://telex.hu/belfold/2020/10/09/vasuti-baleset-teherszallito-vagon-kelenfold-ferencvaros",
     "description": "Visszaemelték a kisiklott vagonokat.",
@@ -152,26 +173,5 @@
     "description": "Vasárnap időközi választást tartanak Szerencsen, a tét, hogy megmarad-e a Fidesz-KDNP kétharmada a parlamentben.",
     "author": "Fábián Tamás",
     "pubDate": "Thu, 08 Oct 2020 16:26:50 +0200"
-  },
-  {
-    "title": "[Külföld] Bűnügyi nyomozás a rejtélyes kamcsatkai tengeri szennyezés ügyében",
-    "link": "https://telex.hu/kulfold/2020/10/08/bunugyi-nyomozas-a-rejtelyes-kamcsatkai-tengeri-szennyezes-ugyeben",
-    "description": "Az Avacsa-öbölben, ahol elpusztult állatokat sodort partra a víz, környezetre veszélyes anyagokat és hulladékot találtak.",
-    "author": "Tenczer Gábor",
-    "pubDate": "Thu, 08 Oct 2020 15:53:06 +0200"
-  },
-  {
-    "title": "[Koronavírus] Amerikai gyógyszergyártól veszik meg a koronavírus elleni csodagyógyszert az EU-tagállamok",
-    "link": "https://telex.hu/koronavirus/2020/10/08/remdesivir-gyogyszer-europai-bizottsag-gilead",
-    "description": "A hatóanyagot kifejlesztő Gilead Sciences-zel írt alá közös megállapodás az Európai Bizottság, 500 ezer rászorulónak elegendő gyógyszerről.",
-    "author": "Flachner Balázs",
-    "pubDate": "Thu, 08 Oct 2020 15:45:52 +0200"
-  },
-  {
-    "title": "[Külföld] Trump nem akar részt venni a második elnökjelölti vitán",
-    "link": "https://telex.hu/kulfold/2020/10/08/trump-biden-amerikai-elnokvalasztas-vita-koronavirus",
-    "description": "Az amerikai elnöknek nem tetszik, hogy a fertőzése miatt virtuálisan kellene vitáznia Joe Bidennel. ",
-    "author": "Fábián Tamás",
-    "pubDate": "Thu, 08 Oct 2020 15:33:40 +0200"
   }
 ]
