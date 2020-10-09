@@ -1,6 +1,34 @@
 [
   {
-    "title": "[Sport] Szijjártó: Majd ha Dzsudzsák visszavonul, visszakérem tőle a diplomata útlevelét",
+    "title": "[Belföld] Nem támogatják a bírók Polt Péter jobbkezének Kúria-elnökké választását",
+    "link": "https://telex.hu/belfold/2020/10/09/nem-tamogatjak-varga-zs-andras-kuria-elnokke-valasztasat-a-birok-orszagos-biroi-tanacs",
+    "description": "Az Országos Bírói Tanács szerint a Varga Zs. András jelölését egyáltalán lehetővé tévő jogszabály-módosítások nyomán az ő személye nem feleltethető meg annak az alkotmányos elvárásnak, hogy a bírósági szervezetrendszer csúcsára a más hatalmi ágaktól független, külső szemlélő számára is pártatlannak látszó személy kerüljön.",
+    "author": "Biró Marianna",
+    "pubDate": "Fri, 09 Oct 2020 14:56:54 +0200"
+  },
+  {
+    "title": "[Belföld] 65 órás demonstrációba kezd a Greenpeace a Karmelita kolostornál",
+    "link": "https://telex.hu/belfold/2020/10/09/greenpeace-karmelita-kolostor-65-oras-demonstracio-klimavalsag",
+    "description": "Tudósok, művészek és környezetvédelmi szakemberek arra kérik a miniszterelnököt: az Európai Tanács jövő héti ülésén ne blokkolja az uniós klímavédelmi megállapodást.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 14:54:09 +0200"
+  },
+  {
+    "title": "[Külföld] Jourová visszautasítja a magyar kormány vádjait",
+    "link": "https://telex.hu/kulfold/2020/10/09/jourova-visszautasitja-a-magyar-kormany-vadjait",
+    "description": "A kormány szerint az Európai Bizottság alelnöke szoros kapcsolatban áll Soros Györggyel. Vera Jourová közölte, hogy ez nem igaz.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Fri, 09 Oct 2020 14:40:04 +0200"
+  },
+  {
+    "title": "[Tudomány] Az öngyilkosság a fiatalok között a második leggyakoribb halálozási ok",
+    "link": "https://telex.hu/tudomany/2020/10/09/ongyilkossag-fiatalok-halalozasi-ok-who-mentalis-egeszseg",
+    "description": "A WHO európai régiójában több mint 100 millió ember él valamilyen mentális zavarral.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Fri, 09 Oct 2020 14:35:38 +0200"
+  },
+  {
+    "title": "[Sport] Szijjártó: Majd ha Dzsudzsák visszavonul, visszakérem tőle a diplomata-útlevelét",
     "link": "https://telex.hu/sport/2020/10/09/dzsudzsak-balazs-szijjarto-peter-diplomata-utlevel-1",
     "description": "A miniszter szerint a másodosztályban játszó focista lehet még a válogatott csapatkapitánya.",
     "author": "Bozzay Balázs",
@@ -30,7 +58,7 @@
   {
     "title": "[Belföld] Most nem ledarált, hanem széttépett egy mesekönyvet Dúró Dóra",
     "link": "https://telex.hu/belfold/2020/10/09/cikk-cime-57",
-    "description": "Vagánybagoly repült a szemetesbe, mert az egyik szereplőnek két anyja van, a lánybagolynak meg fiú neve van.",
+    "description": "Vagánybagoly repült a szemetesbe, mert az egyik szereplőnek két anyja van, a lánybagolynak meg fiúneve van.",
     "author": "Bakró-Nagy Ferenc",
     "pubDate": "Fri, 09 Oct 2020 13:39:57 +0200"
   },
@@ -145,33 +173,5 @@
     "description": "Emiatt utasították el egy újfundlandi cég hagymamagokról szóló hirdetését, de időközben kisimult a dolog.",
     "author": "Flachner Balázs",
     "pubDate": "Fri, 09 Oct 2020 10:45:57 +0200"
-  },
-  {
-    "title": "[Napirajz] Krumpli",
-    "link": "https://telex.hu/napirajz/2020/10/09/krumpli-1",
-    "description": "",
-    "author": "Grafitember",
-    "pubDate": "Fri, 09 Oct 2020 10:28:45 +0200"
-  },
-  {
-    "title": "[Belföld] Várandós nőt hagyott sorsára a baleset után egy lengyel kamionsofőr",
-    "link": "https://telex.hu/belfold/2020/10/09/varandos-no-baleset-lenygyel-kamionsofor",
-    "description": "Megállt, tétlenül nézte, ahogyan a nő próbál kikászálódni a roncsolódott járműből, majd visszaült a volán mögé, és segítségnyújtás nélkül elhajtott.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Fri, 09 Oct 2020 10:26:21 +0200"
-  },
-  {
-    "title": "[Külföld] Rendkívüli állapotot hirdettek Biskekben, az államfő kivezényli a hadsereget",
-    "link": "https://telex.hu/kulfold/2020/10/09/kirgizisztan-miniszterelnok-allamfo-boronov-lemondas",
-    "description": "Távozott a miniszterelnök. A rendkívüli állapot péntek estétől van érvényben.",
-    "author": "Iván-Nagy Szilvia, Bozzay Balázs",
-    "pubDate": "Fri, 09 Oct 2020 10:15:17 +0200"
-  },
-  {
-    "title": "[Belföld] 28-an sérültek meg a dunaföldvári klórgázömlés miatt",
-    "link": "https://telex.hu/belfold/2020/10/09/dunafoldvar-mentok-katasztrofavedelem-gazomles-gyar",
-    "description": "Klórgáz szabadult fel egy tartályból. 13-an súlyosabb mérgezést szenvedtek.",
-    "author": "Pintér Luca, Iván-Nagy Szilvia, Szalma Baksi Ferenc",
-    "pubDate": "Fri, 09 Oct 2020 09:51:49 +0200"
   }
 ]
