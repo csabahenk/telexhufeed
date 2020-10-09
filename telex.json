@@ -1,5 +1,54 @@
 [
   {
+    "title": "[Gazdaság] Másfél milliárdos nyereséget termelt az MNB alapítványa",
+    "link": "https://telex.hu/gazdasag/2020/10/09/masfel-milliardos-nyereseget-termelt-az-mnb-alapitvanya",
+    "description": "Szépen gyarapodik a vagyon, ami pár éve elvesztette közpénz jellegét.\n\n",
+    "author": "Hanula Zsolt",
+    "pubDate": "Fri, 09 Oct 2020 16:54:58 +0200"
+  },
+  {
+    "title": "[Tech] Feladták a leckét az Intelnek az AMD az új processzorai",
+    "link": "https://telex.hu/tech/2020/10/09/erot-demonstralt-az-amd-az-uj-processzoraival",
+    "description": "A csütörtöki bemutatón a szupergyors processzorok mellett a cég új videókártyája is megvillant.",
+    "author": "Flachner Balázs",
+    "pubDate": "Fri, 09 Oct 2020 16:54:00 +0200"
+  },
+  {
+    "title": "[Koronavírus] Kamerákkal figyelik, hogyan tartják be a korlátozásokat a brit városokban",
+    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-nagy-britannia-kamera-vivacity",
+    "description": "A Vivacity nevű cég eszközei figyelik az emberek közti távolságtartást, a névtelen adatokat havonta osztják meg a kormánnyal.",
+    "author": "Pál Tamás",
+    "pubDate": "Fri, 09 Oct 2020 16:46:15 +0200"
+  },
+  {
+    "title": "[Szórakozás] Végignéztem egy Adam Sandler-filmet, és nem hogy túléltem, de élveztem",
+    "link": "https://telex.hu/szorakozas/2020/10/09/vegigneztem-egy-adam-sandler-filmet-es-nem-hogy-tuleltem-de-elveztem",
+    "description": "A Hubie Halloween egyszerű, buta, együgyű, és működik.",
+    "author": "Klág Dávid",
+    "pubDate": "Fri, 09 Oct 2020 16:29:13 +0200"
+  },
+  {
+    "title": "[Sport] Giro d'Italia: a kaotikus szakaszt Valter Attila is megszenvedte",
+    "link": "https://telex.hu/sport/2020/10/09/giro-d-italia-7-szakasz-oldalszel-uldozes-valter-attila-brindisi",
+    "description": "Többször kellett üldöznie a főmezőnyt a magyar bringásnak, aki már a legjobb 30-ban van. Újra Démare nyerte a sprintet.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 09 Oct 2020 16:28:20 +0200"
+  },
+  {
+    "title": "[Külföld] Tényleg Hillary Clinton mesterterve volt Trump lejáratása az oroszokkal?",
+    "link": "https://telex.hu/kulfold/2020/10/09/tenyleg-hillary-clinton-mesterterve-volt-trump-lejaratasa-az-oroszokkal",
+    "description": "Eddig titkosított iratok alapján Donald Trump hívei bizonyítottnak látják Clinton szerepét, mások szerint ez csak hírszerzési információk félrevezető felhasználása politikai célra. Fokozódik a kampány, és egyre nehezebb szétválasztani az oroszügytől.",
+    "author": "Bolcsó Dániel",
+    "pubDate": "Fri, 09 Oct 2020 16:25:38 +0200"
+  },
+  {
+    "title": "[Gazdaság] Az Alkotmánybíróság visszautasította a gödi Samsung-gyár ügyében benyújtott ellenzéki panaszt",
+    "link": "https://telex.hu/gazdasag/2020/10/09/god-samsung-alkotmanybirosag-1",
+    "description": "A kormányrendelet ugyanis már nincs hatályban, mert az eljárást azóta törvénybe foglalták, de arról nem szólt a beadvány, ezért azzal nem foglalkozott az AB.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 09 Oct 2020 16:19:07 +0200"
+  },
+  {
     "title": "[Koronavírus] Tízmilliárdos járványügyi támogatást javasol Magyarországnak az EB",
     "link": "https://telex.hu/koronavirus/2020/10/09/tizmilliardos-jarvanyugyi-tamogatast-javasol-magyarorszagnak-az-eb",
     "description": "Egy 288 milliárdos EU-s csomag részeként. Horvátország és Lengyelország kapná a legtöbbet, mert ott természeti csapások is pusztítottak mostanában.",
@@ -124,54 +173,5 @@
     "description": "Halálával a legidősebb élő olimpiai bajnok, Keleti Ágnes lehet a legidősebb élő olimpiai érmes is.",
     "author": "Flachner Balázs",
     "pubDate": "Fri, 09 Oct 2020 12:47:45 +0200"
-  },
-  {
-    "title": "[Gazdaság] Két részre szakad az IBM",
-    "link": "https://telex.hu/gazdasag/2020/10/09/ibm-szakadas-mesterseges-intelligencia-felhoalapu-szamitastechnika",
-    "description": "A nagymúltú cég a felhőalapú szolgátatásokra és a mesterséges intelligenciára fókuszál majd, a hagyományos IT-üzletet pedig egy másik cég viszi majd tovább.",
-    "author": "Flachner Balázs",
-    "pubDate": "Fri, 09 Oct 2020 12:15:48 +0200"
-  },
-  {
-    "title": "[Koronavírus] Botrány Rómában: koronavírusos betegeket kezelő kórházban forgat a Mission Impossible 7. stábja",
-    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-olaszorszag-korhaz-mission-impossible-forgatas-botrany",
-    "description": "A stáb ellepte a kórházat, a produkció munkatársai a betegek hordágyai között álltak. Az egészségügyisek szakszervezete tiltakozó akcióba kezdett.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Fri, 09 Oct 2020 12:13:35 +0200"
-  },
-  {
-    "title": "[Sport] Ködbe veszett Mick Schumacher F1-bemutatkozása",
-    "link": "https://telex.hu/sport/2020/10/09/forma-1-mick-schumacher-eifel-nagydij-kod-bemutatkozas",
-    "description": "A hétszeres világbajnok Michael Schumacher fia az Alfa Romeónál vezetett volna a Nürburgringen. Az időjárás közbeszólt.",
-    "author": "Koroknai Gergely",
-    "pubDate": "Fri, 09 Oct 2020 12:12:21 +0200"
-  },
-  {
-    "title": "[Gazdaság] Bloomberg: Orbánék bejelentkeztek a ferihegyi reptérért",
-    "link": "https://telex.hu/gazdasag/2020/10/09/budapest-airport-orban-mol",
-    "description": "A lap információi szerint az ajánlattevő konzorciumot Jellinek Dániel üzletember képviseli, és a csoport tagja lehet a Mol is.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Fri, 09 Oct 2020 12:07:08 +0200"
-  },
-  {
-    "title": "[Belföld] Nem jogerősen elítélték az élettársát sanyargató kaposvári férfit",
-    "link": "https://telex.hu/belfold/2020/10/09/kaposvar-itelet-bantalmazas-borton-szemelyi-szabadsag-megsertese",
-    "description": "3,5 évet kapott, az ügyész fellebbezne.",
-    "author": "Szalma Baksi Ferenc",
-    "pubDate": "Fri, 09 Oct 2020 11:30:43 +0200"
-  },
-  {
-    "title": "[Belföld] Fekete-Győr András szavazatszámláló lesz a borsodi választáson",
-    "link": "https://telex.hu/belfold/2020/10/09/szerencs-idokozi-valasztas-szavazatszamlalo-fekete-gyor-andras",
-    "description": "A Momentum elnöke arra számít, hogy a kétharmadot eldöntő választáson „a Fidesz minden mocskos eszközt be fog vetni”.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Fri, 09 Oct 2020 11:20:50 +0200"
-  },
-  {
-    "title": "[Külföld] A Világélelmezési Program kapta a Nobel-békedíjat",
-    "link": "https://telex.hu/kulfold/2020/10/09/nobel-bekedij-bekedij-bejelentes",
-    "description": "A WFP fellép az ellen, hogy az éhínségre fegyverként tekintsenek.",
-    "author": "Iván András",
-    "pubDate": "Fri, 09 Oct 2020 11:09:56 +0200"
   }
 ]
