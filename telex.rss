@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Sport] Lázár János folytatja a rendrakást, lemondta a tenisztornákat]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/10/lazar-janos-valsagkezeles-tenisz-tornak]]>
+      </link>
+      <description>
+        <![CDATA[Milliárdok mentek el az előző években a tornákra, az új elnök húzott egy vonalat.]]>
+      </description>
+      <author>
+        <![CDATA[Ághassi Attila]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 19:19:04 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Külföld] Lukasenko az Állambiztonsági Bizottság fogdájában látogatott meg bebörtönzött ellenzékieket]]>
       </title>
       <link>
@@ -412,23 +429,6 @@
       </author>
       <pubDate>
         <![CDATA[Sat, 10 Oct 2020 09:50:32 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] 1374 új fertőzött, 20 beteg meghalt]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/10/koronavirus-adatok-jarvany-szombat]]>
-      </link>
-      <description>
-        <![CDATA[Az eddigi legtöbb fertőzöttet azonosították egy nap alatt. 110-en vannak lélegeztetőgépen.]]>
-      </description>
-      <author>
-        <![CDATA[Iván András]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sat, 10 Oct 2020 09:21:45 +0200]]>
       </pubDate>
     </item>
   </channel>

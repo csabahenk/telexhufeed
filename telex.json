@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Sport] Lázár János folytatja a rendrakást, lemondta a tenisztornákat",
+    "link": "https://telex.hu/sport/2020/10/10/lazar-janos-valsagkezeles-tenisz-tornak",
+    "description": "Milliárdok mentek el az előző években a tornákra, az új elnök húzott egy vonalat.",
+    "author": "Ághassi Attila",
+    "pubDate": "Sat, 10 Oct 2020 19:19:04 +0200"
+  },
+  {
     "title": "[Külföld] Lukasenko az Állambiztonsági Bizottság fogdájában látogatott meg bebörtönzött ellenzékieket",
     "link": "https://telex.hu/kulfold/2020/10/10/lukasenko-belarusz-elnok-bebortonzott-ellenzekiekkel-talalkozott",
     "description": "Többek között találkozott Viktar Babarika volt ellenzéki elnökjelölttel, akit még a választási kampány kezdetén bebörtönöztek.",
@@ -166,12 +173,5 @@
     "description": "A cél a Hegyi-Karabah körüli harcokban elesett katonák holttesteinek és a foglyoknak a kicserélése.",
     "author": "Iván András",
     "pubDate": "Sat, 10 Oct 2020 09:50:32 +0200"
-  },
-  {
-    "title": "[Koronavírus] 1374 új fertőzött, 20 beteg meghalt",
-    "link": "https://telex.hu/koronavirus/2020/10/10/koronavirus-adatok-jarvany-szombat",
-    "description": "Az eddigi legtöbb fertőzöttet azonosították egy nap alatt. 110-en vannak lélegeztetőgépen.",
-    "author": "Iván András",
-    "pubDate": "Sat, 10 Oct 2020 09:21:45 +0200"
   }
 ]
