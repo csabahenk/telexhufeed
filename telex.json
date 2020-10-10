@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] Orbán Viktor aktuálpolitikai utalásokkal nyitotta meg a Kertész Imre Intézetet",
+    "link": "https://telex.hu/belfold/2020/10/10/kertesz",
+    "description": "Egy nagy író hagyatéka sok mindenre alkalmas, még a tiszaújvárosi időközi választás kommentálására is. De a lényeg talán mégiscsak az, hogy megnyílt a Kertész Imre Intézet.",
+    "author": "Brückner Gergely",
+    "pubDate": "Sat, 10 Oct 2020 14:35:47 +0200"
+  },
+  {
     "title": "[Külföld] A járványveszély ellenére nagy katonai parádét tartott Észak-Korea",
     "link": "https://telex.hu/kulfold/2020/10/10/eszak-korea-kim-dzsongun-katonai-parade-evfordulo",
     "description": "Kim Dzsongun észak-koreai diktátor előtt vonult több ezer katona.",
@@ -63,7 +70,7 @@
     "pubDate": "Sat, 10 Oct 2020 10:38:02 +0200"
   },
   {
-    "title": "[Külföld] Tűzszünetben állapodott meg Azerbajdzsán és Örményország",
+    "title": "[Külföld] Tűzszünetben állapodott meg Azerbajdzsán és Örményország, de folytatódtak a harcok",
     "link": "https://telex.hu/kulfold/2020/10/10/hegyi-karabah-azerbajdzsan-ormenyorszag-lavrov",
     "description": "A cél a Hegyi-Karabah körüli harcokban elesett katonák holttesteinek és a foglyoknak a kicserélése.",
     "author": "Iván András",
@@ -166,12 +173,5 @@
     "description": "A javaslatot Trump állapota inspirálta, de csak a választás után lépne érvénybe, ha megszavazzák.",
     "author": "Hanula Zsolt",
     "pubDate": "Fri, 09 Oct 2020 20:10:43 +0200"
-  },
-  {
-    "title": "[Koronavírus] 66 gondozott kapta el a koronavírust egy nógrádi idősotthonban",
-    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-idosotthon-nograd-megye-somogy-megye",
-    "description": "A bátonyterenyei intézmény 17 fertőzött gondozója házi karanténba került.",
-    "author": "Pál Tamás",
-    "pubDate": "Fri, 09 Oct 2020 19:42:40 +0200"
   }
 ]

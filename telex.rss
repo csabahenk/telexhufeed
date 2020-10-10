@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Orbán Viktor aktuálpolitikai utalásokkal nyitotta meg a Kertész Imre Intézetet]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/10/kertesz]]>
+      </link>
+      <description>
+        <![CDATA[Egy nagy író hagyatéka sok mindenre alkalmas, még a tiszaújvárosi időközi választás kommentálására is. De a lényeg talán mégiscsak az, hogy megnyílt a Kertész Imre Intézet.]]>
+      </description>
+      <author>
+        <![CDATA[Brückner Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 14:35:47 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Külföld] A járványveszély ellenére nagy katonai parádét tartott Észak-Korea]]>
       </title>
       <link>
@@ -160,7 +177,7 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Külföld] Tűzszünetben állapodott meg Azerbajdzsán és Örményország]]>
+        <![CDATA[[Külföld] Tűzszünetben állapodott meg Azerbajdzsán és Örményország, de folytatódtak a harcok]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/kulfold/2020/10/10/hegyi-karabah-azerbajdzsan-ormenyorszag-lavrov]]>
@@ -413,23 +430,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 09 Oct 2020 20:10:43 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] 66 gondozott kapta el a koronavírust egy nógrádi idősotthonban]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/09/koronavirus-idosotthon-nograd-megye-somogy-megye]]>
-      </link>
-      <description>
-        <![CDATA[A bátonyterenyei intézmény 17 fertőzött gondozója házi karanténba került.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 19:42:40 +0200]]>
       </pubDate>
     </item>
   </channel>
