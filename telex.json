@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Koronavírus] 1374 új fertőzött, 20-an meghaltak",
+    "link": "https://telex.hu/koronavirus/2020/10/10/koronavirus-adatok-jarvany-szombat",
+    "description": "Az eddigi legtöbb fertőzöttet azonosították egy nap alatt.",
+    "author": "Iván András",
+    "pubDate": "Sat, 10 Oct 2020 09:21:45 +0200"
+  },
+  {
+    "title": "[Külföld] Talán végre hazatérhet a világ legnehezebb sorsú népe",
+    "link": "https://telex.hu/kulfold/2020/10/10/talan-vegre-hazaterhet-a-vilag-legnehezebb-sorsu-nepe",
+    "description": "Melyik népnek a legnehezebb a sorsa? Vélhetően leginkább azoknak, akik már nem is léteznek. De a fennmaradtak közül? A zsidóknak, az örményeknek, vagy éppen nekünk, magyaroknak? Nincs objektív sorrend ebben a rémes versenyben, de a jazidikkal nem sokan versenyezhetnek.",
+    "author": "Brückner Gergely",
+    "pubDate": "Sat, 10 Oct 2020 09:20:41 +0200"
+  },
+  {
     "title": "[Külföld] Most egy üzemanyagtartály robbant fel Bejrútban",
     "link": "https://telex.hu/kulfold/2020/10/10/uzemanyagtartaly-robbant-bejrutban",
     "description": "Négyen vesztették az életüket, amikor a pakurát szállító teherautó az égbe repült.",
@@ -159,19 +173,5 @@
     "description": "A csütörtöki bemutatón a szupergyors processzorok mellett a cég új videókártyája is megvillant.",
     "author": "Flachner Balázs",
     "pubDate": "Fri, 09 Oct 2020 16:54:00 +0200"
-  },
-  {
-    "title": "[Koronavírus] Kamerákkal figyelik, hogyan tartják be a korlátozásokat a brit városokban",
-    "link": "https://telex.hu/koronavirus/2020/10/09/koronavirus-nagy-britannia-kamera-vivacity",
-    "description": "A Vivacity nevű cég eszközei figyelik az emberek közti távolságtartást, a névtelen adatokat havonta osztják meg a kormánnyal.",
-    "author": "Pál Tamás",
-    "pubDate": "Fri, 09 Oct 2020 16:46:15 +0200"
-  },
-  {
-    "title": "[Szórakozás] Végignéztem egy Adam Sandler-filmet, és nemhogy túléltem, de élveztem",
-    "link": "https://telex.hu/szorakozas/2020/10/09/vegigneztem-egy-adam-sandler-filmet-es-nem-hogy-tuleltem-de-elveztem",
-    "description": "A Hubie Halloween egyszerű, buta, együgyű, és működik.",
-    "author": "Klág Dávid",
-    "pubDate": "Fri, 09 Oct 2020 16:29:13 +0200"
   }
 ]

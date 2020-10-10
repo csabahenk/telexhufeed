@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Koronavírus] 1374 új fertőzött, 20-an meghaltak]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/10/koronavirus-adatok-jarvany-szombat]]>
+      </link>
+      <description>
+        <![CDATA[Az eddigi legtöbb fertőzöttet azonosították egy nap alatt.]]>
+      </description>
+      <author>
+        <![CDATA[Iván András]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 09:21:45 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Külföld] Talán végre hazatérhet a világ legnehezebb sorsú népe]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kulfold/2020/10/10/talan-vegre-hazaterhet-a-vilag-legnehezebb-sorsu-nepe]]>
+      </link>
+      <description>
+        <![CDATA[Melyik népnek a legnehezebb a sorsa? Vélhetően leginkább azoknak, akik már nem is léteznek. De a fennmaradtak közül? A zsidóknak, az örményeknek, vagy éppen nekünk, magyaroknak? Nincs objektív sorrend ebben a rémes versenyben, de a jazidikkal nem sokan versenyezhetnek.]]>
+      </description>
+      <author>
+        <![CDATA[Brückner Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 09:20:41 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Külföld] Most egy üzemanyagtartály robbant fel Bejrútban]]>
       </title>
       <link>
@@ -400,40 +434,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 09 Oct 2020 16:54:00 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] Kamerákkal figyelik, hogyan tartják be a korlátozásokat a brit városokban]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/09/koronavirus-nagy-britannia-kamera-vivacity]]>
-      </link>
-      <description>
-        <![CDATA[A Vivacity nevű cég eszközei figyelik az emberek közti távolságtartást, a névtelen adatokat havonta osztják meg a kormánnyal.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 16:46:15 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Szórakozás] Végignéztem egy Adam Sandler-filmet, és nemhogy túléltem, de élveztem]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/szorakozas/2020/10/09/vegigneztem-egy-adam-sandler-filmet-es-nem-hogy-tuleltem-de-elveztem]]>
-      </link>
-      <description>
-        <![CDATA[A Hubie Halloween egyszerű, buta, együgyű, és működik.]]>
-      </description>
-      <author>
-        <![CDATA[Klág Dávid]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 16:29:13 +0200]]>
       </pubDate>
     </item>
   </channel>
