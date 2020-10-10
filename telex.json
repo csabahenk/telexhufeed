@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Külföld] Putyin ördöglakatba bonyolódott Hegyi-Karabahhal",
+    "link": "https://telex.hu/kulfold/2020/10/10/hegyi-karabah-ormenyorszag-azerbajdzsan-azeri-ormeny-putyin",
+    "description": "Nehéz helyzetbe került a tűzszünethez közvetítő Moszkva a Hegyi-Karabahban kiújult harcokkal: örmény szövetségesével vitái vannak, a Karabah feletti ellenőrzésért támadást indító Azerbajdzsánnal és az őt támogató Törökországgal viszont kerülné a nyílt konfliktust.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Sat, 10 Oct 2020 22:25:19 +0200"
+  },
+  {
+    "title": "[Belföld] Csökkent Magyarországon az öngyilkosságok száma",
+    "link": "https://telex.hu/belfold/2020/10/10/ongyilkossag-magyarorszag-veszprem-nyiro-gyula-opai-who",
+    "description": "A női öngyilkosságok száma azonban évek óta először nem mérséklődött. ",
+    "author": "Mizsur András",
+    "pubDate": "Sat, 10 Oct 2020 22:20:22 +0200"
+  },
+  {
+    "title": "[Belföld] A hárommal osztható számok szerelmeseinek hármasa is lehetett a lottón",
+    "link": "https://telex.hu/belfold/2020/10/10/lotto-nyeroszamok-oktober-10",
+    "description": "Itt nézheti meg, hogy ezen a héten melyik számokat kellett volna eltalálni az ötöslottón a gyors meggazdagodáshoz!",
+    "author": "Csatári Flóra Dóra",
+    "pubDate": "Sat, 10 Oct 2020 21:56:35 +0200"
+  },
+  {
+    "title": "[Belföld] Nem veszélyes a gyerekekre a Meseország mindenkié, állítja többszáz pszichológus",
+    "link": "https://telex.hu/belfold/2020/10/10/meseorszag-mindenkie-pszichologusok-allasfoglalasa-nem-veszelyes-a-gyerekekre-sem-a-tarsadalomra",
+    "description": "A szakemberek szerint ugyanakkor a könyv megjelenése hozzásegíthet egy elfogadóbb, békésebb és egyenlőbb társadalomhoz.",
+    "author": "Csatári Flóra Dóra",
+    "pubDate": "Sat, 10 Oct 2020 21:18:59 +0200"
+  },
+  {
     "title": "[Szórakozás] Végleg lelövik az Amazon első nagy költségvetésű videójátékát",
     "link": "https://telex.hu/szorakozas/2020/10/10/amazon-crucible-videojatek-bukas",
     "description": "A Crucible öt hónapot sem élt meg, de összességében az is csoda, hogy eddig húzta.",
@@ -28,9 +56,9 @@
     "pubDate": "Sat, 10 Oct 2020 18:25:08 +0200"
   },
   {
-    "title": "[Tudomány] Veszélyben van a bálna- és delfinfajták több mint fele",
+    "title": "[Tudomány] Veszélyben van a bálna- és delfinfajok több mint fele",
     "link": "https://telex.hu/tudomany/2020/10/10/balnak-cet-feldin-kihalas-tudosok-level-alairas",
-    "description": "Több mint 350 tudós és természetvédő hívta fel a figyelmet a cetfajták tömeges pusztulására.",
+    "description": "Több mint 350 tudós és természetvédő hívta fel a figyelmet a fajok tömeges pusztulására.",
     "author": "Bozsó Ágnes",
     "pubDate": "Sat, 10 Oct 2020 18:15:36 +0200"
   },
@@ -145,33 +173,5 @@
     "description": "Barabási Albert-László kutatólaborjának vizuális munkáiból nyílt rendhagyó kiállítás a Ludwigban. A világhírű hálózatkutatóval beszélgettünk a tudományos munka művészeti értékéről és a koronavírus-járványban viselt felelősségünkről. Örülne, ha visszajönne a CEU, de attól tart, már késő.",
     "author": "Bolcsó Dániel",
     "pubDate": "Sat, 10 Oct 2020 12:18:38 +0200"
-  },
-  {
-    "title": "[Koronavírus] Epidemiológus: Menne még feljebb a járványgörbe, de elértük a tesztelési kapacitás felső határát",
-    "link": "https://telex.hu/koronavirus/2020/10/10/elertuk-a-tesztelesi-korlatainkat",
-    "description": "A súlyos esetek aránya most növekedni fog. Ha pedig végre megjelenik a koronavírus elleni védőoltás, az nem a varázsütésszerű változást, sokkal inkább a védekezés harmadik fázisát hozza csak el - vélik a szakemberek.",
-    "author": "Brückner Gergely",
-    "pubDate": "Sat, 10 Oct 2020 11:39:50 +0200"
-  },
-  {
-    "title": "[Külföld] 160 km/órás széllökésekkel érkezett a Delta hurrikán az Egyesült Államokba",
-    "link": "https://telex.hu/kulfold/2020/10/10/cikk-cime-59",
-    "description": "A Delta idén a tizedik hurrikán, amley az országot sújtja, ezzel pedig több mint százéves rekord dőlt meg.",
-    "author": "Bozsó Ágnes",
-    "pubDate": "Sat, 10 Oct 2020 10:43:44 +0200"
-  },
-  {
-    "title": "[Sport] Koronavírus-fertőzött bringást találtak a Giro d'Italián",
-    "link": "https://telex.hu/sport/2020/10/10/simon-yates-koronavirus-giro-ditalia-kizaras",
-    "description": "Simon Yatesnek enyhe tünetei vannak, de nem folytathatja a versenyt.",
-    "author": "Pál Tamás",
-    "pubDate": "Sat, 10 Oct 2020 10:42:39 +0200"
-  },
-  {
-    "title": "[Belföld] Kutyanyakörvvel fojtogatta fiatalkorú barátnőjét egy nagykanizsai férfi",
-    "link": "https://telex.hu/belfold/2020/10/10/kutyaporaz-fojtogatta-zalaegerszeg-rendorseg-bunugy",
-    "description": "Fogva tartotta, és megverte a lányt, akinek az orrcsontja is eltört.",
-    "author": "Iván András",
-    "pubDate": "Sat, 10 Oct 2020 10:38:02 +0200"
   }
 ]
