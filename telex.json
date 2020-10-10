@@ -1,8 +1,15 @@
 [
   {
-    "title": "[Koronavírus] 1374 új fertőzött, 20-an meghaltak",
+    "title": "[Külföld] Tűzszünetben állapodott meg Azerbajdzsán és Örményország",
+    "link": "https://telex.hu/kulfold/2020/10/10/hegyi-karabah-azerbajdzsan-ormenyorszag-lavrov",
+    "description": "A cél a Hegyi-Karabah körüli harcokban elesett katonák holttesteinek és a foglyoknak a kicserélése.",
+    "author": "Iván András",
+    "pubDate": "Sat, 10 Oct 2020 09:50:32 +0200"
+  },
+  {
+    "title": "[Koronavírus] 1374 új fertőzött, 20 beteg meghalt",
     "link": "https://telex.hu/koronavirus/2020/10/10/koronavirus-adatok-jarvany-szombat",
-    "description": "Az eddigi legtöbb fertőzöttet azonosították egy nap alatt.",
+    "description": "Az eddigi legtöbb fertőzöttet azonosították egy nap alatt. 110-en vannak lélegeztetőgépen.",
     "author": "Iván András",
     "pubDate": "Sat, 10 Oct 2020 09:21:45 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "Szépen gyarapodik a vagyon, ami pár éve elvesztette közpénz jellegét.\n\n",
     "author": "Hanula Zsolt",
     "pubDate": "Fri, 09 Oct 2020 16:54:58 +0200"
-  },
-  {
-    "title": "[Tech] Feladták a leckét az Intelnek az AMD új processzorai",
-    "link": "https://telex.hu/tech/2020/10/09/erot-demonstralt-az-amd-az-uj-processzoraival",
-    "description": "A csütörtöki bemutatón a szupergyors processzorok mellett a cég új videókártyája is megvillant.",
-    "author": "Flachner Balázs",
-    "pubDate": "Fri, 09 Oct 2020 16:54:00 +0200"
   }
 ]
