@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Külföld] 160 km/órás széllökésekkel érkezett a Delta hurrikán az Egyesült Államokba",
+    "link": "https://telex.hu/kulfold/2020/10/10/cikk-cime-59",
+    "description": "A Delta idén a tizedik hurrikán, amley az országot sújtja, ezzel pedig több mint száz éves rekord dőlt meg.",
+    "author": "Bozsó Ágnes",
+    "pubDate": "Sat, 10 Oct 2020 10:43:44 +0200"
+  },
+  {
+    "title": "[Sport] Koronavírus-fertőzött bringást találtak a Giro d'Italián",
+    "link": "https://telex.hu/sport/2020/10/10/simon-yates-koronavirus-giro-ditalia-kizaras",
+    "description": "Simon Yatesnek enyhe tünetei vannak, de nem folytathatja a versenyt.",
+    "author": "Pál Tamás",
+    "pubDate": "Sat, 10 Oct 2020 10:42:39 +0200"
+  },
+  {
+    "title": "[Belföld] Kutyanyakörvvel fojtogatta fiatalkorú barátnőjét egy nagykanizsai férfi",
+    "link": "https://telex.hu/belfold/2020/10/10/kutyaporaz-fojtogatta-zalaegerszeg-rendorseg-bunugy",
+    "description": "Fogva tartotta, és megverte a lányt, akinek az orrcsontja is eltört.",
+    "author": "Iván András",
+    "pubDate": "Sat, 10 Oct 2020 10:38:02 +0200"
+  },
+  {
     "title": "[Külföld] Tűzszünetben állapodott meg Azerbajdzsán és Örményország",
     "link": "https://telex.hu/kulfold/2020/10/10/hegyi-karabah-azerbajdzsan-ormenyorszag-lavrov",
     "description": "A cél a Hegyi-Karabah körüli harcokban elesett katonák holttesteinek és a foglyoknak a kicserélése.",
@@ -152,26 +173,5 @@
     "description": "A magyar teniszező Kristina Mladenoviccsal az oldalán nyert az elődöntőben, vasárnap megvédhetik a bajnoki címüket Párizsban.",
     "author": "Pál Tamás",
     "pubDate": "Fri, 09 Oct 2020 17:44:22 +0200"
-  },
-  {
-    "title": "[Sport] Giro d'Italia: a kaotikus szakaszt Valter Attila is megszenvedte",
-    "link": "https://telex.hu/sport/2020/10/09/giro-d-italia-7-szakasz-oldalszel-uldozes-valter-attila-brindisi",
-    "description": "Többször kellett üldöznie a főmezőnyt a magyar bringásnak, aki már a legjobb 30-ban van. Újra Démare nyerte a sprintet.",
-    "author": "Fehér János",
-    "pubDate": "Fri, 09 Oct 2020 17:15:26 +0200"
-  },
-  {
-    "title": "[Kult] Könyvkiadók egyesülete: Dúró Dóra mintha nem is tudná, mi van a könyvekben, csak darál és vág",
-    "link": "https://telex.hu/kult/2020/10/09/konyvkiadok-egyesulete-duro-dora-mintha-nem-is-tudna-mi-van-a-konyvekben-csak-daral-es-vag",
-    "description": "A Magyar Könyvkiadók és Könyvterjesztők Egyesülése szerint amit a Mi Hazánk elnöke művel, az nem csak nevetséges, de veszélyes is.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Fri, 09 Oct 2020 17:11:42 +0200"
-  },
-  {
-    "title": "[Gazdaság] Másfél milliárdos nyereséget termelt az MNB alapítványa",
-    "link": "https://telex.hu/gazdasag/2020/10/09/masfel-milliardos-nyereseget-termelt-az-mnb-alapitvanya",
-    "description": "Szépen gyarapodik a vagyon, ami pár éve elvesztette közpénz jellegét.\n\n",
-    "author": "Hanula Zsolt",
-    "pubDate": "Fri, 09 Oct 2020 16:54:58 +0200"
   }
 ]
