@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Koronavírus] Egy nap alatt 108 halott Ukrajnában, a lengyeleknél visszahozzák az idősek vásárlási sávját",
+    "link": "https://telex.hu/koronavirus/2020/10/10/koronavirus-vilagban-jarvany-romania-csehorszag-ukrajna",
+    "description": "Csehországban rekordszámú, 8618 új fertőzést regisztráltak.",
+    "author": "Bozsó Ágnes",
+    "pubDate": "Sat, 10 Oct 2020 18:25:08 +0200"
+  },
+  {
+    "title": "[Tudomány] Veszélyben van a bálna- és delfinfajták több mint fele",
+    "link": "https://telex.hu/tudomany/2020/10/10/balnak-cet-feldin-kihalas-tudosok-level-alairas",
+    "description": "Több mint 350 tudós és természetvédő hívta fel a figyelmet a cetfajták tömeges pusztulására.",
+    "author": "Bozsó Ágnes",
+    "pubDate": "Sat, 10 Oct 2020 18:15:36 +0200"
+  },
+  {
+    "title": "[Külföld] Az ellenzéki Szadir Zsaparovot nevezte ki miniszterelnöknek a kirgiz parlament",
+    "link": "https://telex.hu/kulfold/2020/10/10/kirgizisztan-elnok-miniszterelnok-kinevezes",
+    "description": "A kirgiz elnök rezidenciáján összeült parlament erősítette meg a miniszterelnök személyét.",
+    "author": "Flachner Balázs",
+    "pubDate": "Sat, 10 Oct 2020 18:08:44 +0200"
+  },
+  {
     "title": "[Sport] WTCR: Michelisz erőre kapott, a 2. szlovák időmérőn",
     "link": "https://telex.hu/sport/2020/10/10/wtcr-slovakai-ring-michelisz-norbert-tassi-attila",
     "description": "Feljövőben a Hyundai, Tassi nagy bukást úszott meg a Slovakia Ringen.",
@@ -152,26 +173,5 @@
     "description": "Melyik népnek a legnehezebb a sorsa? Vélhetően leginkább azoknak, akik már nem is léteznek. De a fennmaradtak közül? A zsidóknak, az örményeknek, vagy éppen nekünk, magyaroknak? Nincs objektív sorrend ebben a rémes versenyben, de a jazidikkal nem sokan versenyezhetnek.",
     "author": "Brückner Gergely",
     "pubDate": "Sat, 10 Oct 2020 09:20:41 +0200"
-  },
-  {
-    "title": "[Külföld] Most egy üzemanyagtartály robbant fel Bejrútban",
-    "link": "https://telex.hu/kulfold/2020/10/10/uzemanyagtartaly-robbant-bejrutban",
-    "description": "Négyen vesztették az életüket, amikor a pakurát szállító teherautó az égbe repült.",
-    "author": "Brückner Gergely",
-    "pubDate": "Sat, 10 Oct 2020 08:30:17 +0200"
-  },
-  {
-    "title": "[Külföld] Őrizetbe vették a néhány napja a börtönből kiszabadított volt kirgiz elnököt",
-    "link": "https://telex.hu/kulfold/2020/10/10/kirgiz-drama",
-    "description": "Katonai járművek indultak a kirgiz elnök rezidenciájához, ahol szombaton összeül a parlament. Dzsejenbekov elnök leváltotta Boronov kormányfőt, de a választások óta zavargások vannak a fővárosban.",
-    "author": "Brückner Gergely",
-    "pubDate": "Sat, 10 Oct 2020 07:59:33 +0200"
-  },
-  {
-    "title": "[Külföld] Kurz osztrák kancellár biztonságos síszezonra számít",
-    "link": "https://telex.hu/kulfold/2020/10/10/kurz-osztrak-kancellar-biztonsagos-siszezonra-szamit",
-    "description": "A szabadban síelni lehet, csak a mulatságokról kell lemondani. Hiszen ott szoktak támadni a szuperfertőzők.",
-    "author": "Brückner Gergely",
-    "pubDate": "Sat, 10 Oct 2020 07:24:49 +0200"
   }
 ]
