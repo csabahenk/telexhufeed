@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] Fauci: Szuperfertőző eseményt tartott a Fehér Ház",
+    "link": "https://telex.hu/kulfold/2020/10/10/egyesult-allamok-dr-anthony-fauci-koronavirus-donald-trump-feher-haz",
+    "description": "Közben Trump már a kampány folytatására készül, a második elnökjelölti vitát viszont törölték.",
+    "author": "Bozsó Ágnes",
+    "pubDate": "Sat, 10 Oct 2020 13:49:31 +0200"
+  },
+  {
     "title": "[Sport] Vas Kata Blanka ezüstérmes lett az U23-asok között a hegyikerékpár-vb-n",
     "link": "https://telex.hu/sport/2020/10/10/vas-kata-blanka-u23-vilagbajnoki-ezusterem-hegyikerekpar-mountain-bike-xco",
     "description": "A 19 éves lány idén már második vb-érmét nyeri, három szakágban is klasszis.",
@@ -166,12 +173,5 @@
     "description": "A Hadházy Ákos által posztolt szekszárdi esetet a rendőrség vizsgálja",
     "author": "Nyilas Gergely",
     "pubDate": "Fri, 09 Oct 2020 19:10:16 +0200"
-  },
-  {
-    "title": "[Tech] A NAV nevében folytattak adathalász támadást",
-    "link": "https://telex.hu/tech/2020/10/09/a-nav-neveben-folytattak-adathalasz-tamadast",
-    "description": "Adóvisszatérítést ígér a levél, de valójában személyes adatok ellopására pályázik.",
-    "author": "Hanula Zsolt",
-    "pubDate": "Fri, 09 Oct 2020 19:08:06 +0200"
   }
 ]
