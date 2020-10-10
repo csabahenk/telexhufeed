@@ -1,8 +1,22 @@
 [
   {
+    "title": "[Kult] Alkalmazkodnunk kell az adathoz, különben káosz lesz",
+    "link": "https://telex.hu/kult/2020/10/10/alkalmazkodnunk-kell-az-adathoz-kulonben-kaosz-lesz",
+    "description": "Barabási Albert-László kutatólaborjának vizuális munkáiból nyílt rendhagyó kiállítás a Ludwigban. A világhírű hálózatkutatóval beszélgettünk a tudományos munka művészeti értékéről és a koronavírus-járványban viselt felelősségünkről. Örülne, ha visszajönne a CEU, de attól tart, már késő.",
+    "author": "Bolcsó Dániel",
+    "pubDate": "Sat, 10 Oct 2020 12:18:38 +0200"
+  },
+  {
+    "title": "[Koronavírus] Epidemiológus: Menne még feljebb a járványgörbe, de elértük a tesztelési kapacitás felső határát",
+    "link": "https://telex.hu/koronavirus/2020/10/10/elertuk-a-tesztelesi-korlatainkat",
+    "description": "A súlyos esetek aránya most növekedni fog. Ha pedig végre megjelenik a koronavírus elleni védőoltás, az nem a varázsütésszerű változást, sokkal inkább a védekezés harmadik fázisát hozza csak el - vélik a szakemberek.",
+    "author": "Brückner Gergely",
+    "pubDate": "Sat, 10 Oct 2020 11:39:50 +0200"
+  },
+  {
     "title": "[Külföld] 160 km/órás széllökésekkel érkezett a Delta hurrikán az Egyesült Államokba",
     "link": "https://telex.hu/kulfold/2020/10/10/cikk-cime-59",
-    "description": "A Delta idén a tizedik hurrikán, amley az országot sújtja, ezzel pedig több mint száz éves rekord dőlt meg.",
+    "description": "A Delta idén a tizedik hurrikán, amley az országot sújtja, ezzel pedig több mint százéves rekord dőlt meg.",
     "author": "Bozsó Ágnes",
     "pubDate": "Sat, 10 Oct 2020 10:43:44 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "A hírszerző szolgálat élére az eddigi elemző főigazgató-helyettes Bunford Zsolt kerül.\n",
     "author": "Hanula Zsolt",
     "pubDate": "Fri, 09 Oct 2020 18:23:21 +0200"
-  },
-  {
-    "title": "[Gazdaság] Megháromszorozódott az amerikai költségvetés hiánya",
-    "link": "https://telex.hu/gazdasag/2020/10/09/megharomszorozodott-az-amerikai-koltsegvetes-hianya",
-    "description": "Az 50-es évek óta most először nagyobb az USA államadóssága, mint a GDP-je.\n",
-    "author": "Hanula Zsolt",
-    "pubDate": "Fri, 09 Oct 2020 17:50:48 +0200"
-  },
-  {
-    "title": "[Sport] Babos Tímea döntős párosban a Roland Garroson",
-    "link": "https://telex.hu/sport/2020/10/09/babos-timea-kristina-mladenovic-roland-garros-elodonto-gyozelem-tenisz-paros",
-    "description": "A magyar teniszező Kristina Mladenoviccsal az oldalán nyert az elődöntőben, vasárnap megvédhetik a bajnoki címüket Párizsban.",
-    "author": "Pál Tamás",
-    "pubDate": "Fri, 09 Oct 2020 17:44:22 +0200"
   }
 ]

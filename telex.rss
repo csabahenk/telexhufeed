@@ -7,13 +7,47 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Kult] Alkalmazkodnunk kell az adathoz, különben káosz lesz]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kult/2020/10/10/alkalmazkodnunk-kell-az-adathoz-kulonben-kaosz-lesz]]>
+      </link>
+      <description>
+        <![CDATA[Barabási Albert-László kutatólaborjának vizuális munkáiból nyílt rendhagyó kiállítás a Ludwigban. A világhírű hálózatkutatóval beszélgettünk a tudományos munka művészeti értékéről és a koronavírus-járványban viselt felelősségünkről. Örülne, ha visszajönne a CEU, de attól tart, már késő.]]>
+      </description>
+      <author>
+        <![CDATA[Bolcsó Dániel]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 12:18:38 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Koronavírus] Epidemiológus: Menne még feljebb a járványgörbe, de elértük a tesztelési kapacitás felső határát]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/10/elertuk-a-tesztelesi-korlatainkat]]>
+      </link>
+      <description>
+        <![CDATA[A súlyos esetek aránya most növekedni fog. Ha pedig végre megjelenik a koronavírus elleni védőoltás, az nem a varázsütésszerű változást, sokkal inkább a védekezés harmadik fázisát hozza csak el - vélik a szakemberek.]]>
+      </description>
+      <author>
+        <![CDATA[Brückner Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 11:39:50 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Külföld] 160 km/órás széllökésekkel érkezett a Delta hurrikán az Egyesült Államokba]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/kulfold/2020/10/10/cikk-cime-59]]>
       </link>
       <description>
-        <![CDATA[A Delta idén a tizedik hurrikán, amley az országot sújtja, ezzel pedig több mint száz éves rekord dőlt meg.]]>
+        <![CDATA[A Delta idén a tizedik hurrikán, amley az országot sújtja, ezzel pedig több mint százéves rekord dőlt meg.]]>
       </description>
       <author>
         <![CDATA[Bozsó Ágnes]]>
@@ -397,41 +431,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 09 Oct 2020 18:23:21 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Gazdaság] Megháromszorozódott az amerikai költségvetés hiánya]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/gazdasag/2020/10/09/megharomszorozodott-az-amerikai-koltsegvetes-hianya]]>
-      </link>
-      <description>
-        <![CDATA[Az 50-es évek óta most először nagyobb az USA államadóssága, mint a GDP-je.
-]]>
-      </description>
-      <author>
-        <![CDATA[Hanula Zsolt]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 17:50:48 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Babos Tímea döntős párosban a Roland Garroson]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/09/babos-timea-kristina-mladenovic-roland-garros-elodonto-gyozelem-tenisz-paros]]>
-      </link>
-      <description>
-        <![CDATA[A magyar teniszező Kristina Mladenoviccsal az oldalán nyert az elődöntőben, vasárnap megvédhetik a bajnoki címüket Párizsban.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 17:44:22 +0200]]>
       </pubDate>
     </item>
   </channel>
