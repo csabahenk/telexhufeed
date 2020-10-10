@@ -1,16 +1,23 @@
 [
   {
+    "title": "[Sport] Körömrágós végjáték után szépített a Heat az NBA-döntőben",
+    "link": "https://telex.hu/sport/2020/10/10/nba-miami-heat-los-angeles-lakers-kosarlabda",
+    "description": "LeBron James mindent megtett, de a Lakers így sem tudta lezárni a párharcot.",
+    "author": "Flachner Balázs",
+    "pubDate": "Sat, 10 Oct 2020 17:31:36 +0200"
+  },
+  {
     "title": "[Sport] Giro:\n              14 perc előnnyel nyert szakaszt az izraeli csapat",
     "link": "https://telex.hu/sport/2020/10/10/giro-ditalia-8-szakasz-szokes-alex-dowsett",
     "description": "A brit Alex Dowsett használta ki, hogy a mezőny rápihent a vasárnapi hegyi befutóra.",
     "author": "Pál Tamás",
-    "pubDate": "Sat, 10 Oct 2020 17:02:43 +0200"
+    "pubDate": "Sat, 10 Oct 2020 17:08:02 +0200"
   },
   {
     "title": "[Sport] Egy 19 éves teniszező a Garros új női bajnoka",
     "link": "https://telex.hu/sport/2020/10/10/iga-swiateg-roland-garros-noi-donto-gyoztes-sofia-kenin",
-    "description": "A lengyel Iga Swiatek korábban sosem nyert még Grand Slam-trófeáját.",
-    "author": "",
+    "description": "A lengyel Iga Swiatek korábban sosem nyert még Grand Slam-trófeát.",
+    "author": "Csatári Flóra Dóra",
     "pubDate": "Sat, 10 Oct 2020 16:54:38 +0200"
   },
   {
@@ -147,7 +154,7 @@
     "pubDate": "Sat, 10 Oct 2020 08:30:17 +0200"
   },
   {
-    "title": "[Külföld] Őrízetbe vették a néhány napja a börtönből kiszabadított volt kirgiz elnököt",
+    "title": "[Külföld] Őrizetbe vették a néhány napja a börtönből kiszabadított volt kirgiz elnököt",
     "link": "https://telex.hu/kulfold/2020/10/10/kirgiz-drama",
     "description": "Katonai járművek indultak a kirgiz elnök rezidenciájához, ahol szombaton összeül a parlament. Dzsejenbekov elnök leváltotta Boronov kormányfőt, de a választások óta zavargások vannak a fővárosban.",
     "author": "Brückner Gergely",
@@ -166,12 +173,5 @@
     "description": "Novak Djoković közel négyórás meccsen győzte le Cicipaszt a Roland Garros elődöntőjében.",
     "author": "Pál Tamás",
     "pubDate": "Fri, 09 Oct 2020 23:51:49 +0200"
-  },
-  {
-    "title": "[Sport] Véget ért az NBA egyéves kínai embargója",
-    "link": "https://telex.hu/sport/2020/10/09/nba-kina-cctv-kozvetites-haboru-daryl-morey",
-    "description": "Az állami kínai televízió, a CCTV újra közvetíti a liga meccseit.",
-    "author": "Pál Tamás",
-    "pubDate": "Fri, 09 Oct 2020 23:15:36 +0200"
   }
 ]

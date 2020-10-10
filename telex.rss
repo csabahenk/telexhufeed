@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Sport] Körömrágós végjáték után szépített a Heat az NBA-döntőben]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/10/nba-miami-heat-los-angeles-lakers-kosarlabda]]>
+      </link>
+      <description>
+        <![CDATA[LeBron James mindent megtett, de a Lakers így sem tudta lezárni a párharcot.]]>
+      </description>
+      <author>
+        <![CDATA[Flachner Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 17:31:36 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Sport] Giro:
               14 perc előnnyel nyert szakaszt az izraeli csapat]]>
       </title>
@@ -20,7 +37,7 @@
         <![CDATA[Pál Tamás]]>
       </author>
       <pubDate>
-        <![CDATA[Sat, 10 Oct 2020 17:02:43 +0200]]>
+        <![CDATA[Sat, 10 Oct 2020 17:08:02 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -31,10 +48,10 @@
         <![CDATA[https://telex.hu/sport/2020/10/10/iga-swiateg-roland-garros-noi-donto-gyoztes-sofia-kenin]]>
       </link>
       <description>
-        <![CDATA[A lengyel Iga Swiatek korábban sosem nyert még Grand Slam-trófeáját.]]>
+        <![CDATA[A lengyel Iga Swiatek korábban sosem nyert még Grand Slam-trófeát.]]>
       </description>
       <author>
-        <![CDATA[]]>
+        <![CDATA[Csatári Flóra Dóra]]>
       </author>
       <pubDate>
         <![CDATA[Sat, 10 Oct 2020 16:54:38 +0200]]>
@@ -365,7 +382,7 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Külföld] Őrízetbe vették a néhány napja a börtönből kiszabadított volt kirgiz elnököt]]>
+        <![CDATA[[Külföld] Őrizetbe vették a néhány napja a börtönből kiszabadított volt kirgiz elnököt]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/kulfold/2020/10/10/kirgiz-drama]]>
@@ -412,23 +429,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 09 Oct 2020 23:51:49 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Véget ért az NBA egyéves kínai embargója]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/09/nba-kina-cctv-kozvetites-haboru-daryl-morey]]>
-      </link>
-      <description>
-        <![CDATA[Az állami kínai televízió, a CCTV újra közvetíti a liga meccseit.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 23:15:36 +0200]]>
       </pubDate>
     </item>
   </channel>
