@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] A járványveszély ellenére nagy katonai parádét tartott Észak-Korea",
+    "link": "https://telex.hu/kulfold/2020/10/10/eszak-korea-kim-dzsongun-katonai-parade-evfordulo",
+    "description": "Kim Dzsongun észak-koreai diktátor előtt vonult több ezer katona.",
+    "author": "Iván András",
+    "pubDate": "Sat, 10 Oct 2020 14:24:37 +0200"
+  },
+  {
     "title": "[Külföld] Fauci: Szuperfertőző eseményt tartott a Fehér Ház",
     "link": "https://telex.hu/kulfold/2020/10/10/egyesult-allamok-dr-anthony-fauci-koronavirus-donald-trump-feher-haz",
     "description": "Közben Trump már a kampány folytatására készül, a második elnökjelölti vitát viszont törölték.",
@@ -166,12 +173,5 @@
     "description": "A bátonyterenyei intézmény 17 fertőzött gondozója házi karanténba került.",
     "author": "Pál Tamás",
     "pubDate": "Fri, 09 Oct 2020 19:42:40 +0200"
-  },
-  {
-    "title": "[Belföld] Vizsgálják a mozgássérültek helyére parkoló rendőr ügyét",
-    "link": "https://telex.hu/belfold/2020/10/09/vizsgaljak-a-mozgasserultek-helyere-parkolo-rendor-ugyet",
-    "description": "A Hadházy Ákos által posztolt szekszárdi esetet a rendőrség vizsgálja",
-    "author": "Nyilas Gergely",
-    "pubDate": "Fri, 09 Oct 2020 19:10:16 +0200"
   }
 ]
