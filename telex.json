@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Sport] WTCR: Michelisz erőre kapott, a 2. szlovák időmérőn",
+    "link": "https://telex.hu/sport/2020/10/10/wtcr-slovakai-ring-michelisz-norbert-tassi-attila",
+    "description": "Feljövőben a Hyundai, Tassi nagy bukást úszott meg a Slovakia Ringen.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Sat, 10 Oct 2020 17:46:54 +0200"
+  },
+  {
     "title": "[Sport] Körömrágós végjáték után szépített a Heat az NBA-döntőben",
     "link": "https://telex.hu/sport/2020/10/10/nba-miami-heat-los-angeles-lakers-kosarlabda",
     "description": "LeBron James mindent megtett, de a Lakers így sem tudta lezárni a párharcot.",
@@ -166,12 +173,5 @@
     "description": "A szabadban síelni lehet, csak a mulatságokról kell lemondani. Hiszen ott szoktak támadni a szuperfertőzők.",
     "author": "Brückner Gergely",
     "pubDate": "Sat, 10 Oct 2020 07:24:49 +0200"
-  },
-  {
-    "title": "[Sport] Összejött a Nadal-Djoković szuperdöntő",
-    "link": "https://telex.hu/sport/2020/10/09/novak-djokovic-rafael-nadal-roland-garros-donto-tenisz",
-    "description": "Novak Djoković közel négyórás meccsen győzte le Cicipaszt a Roland Garros elődöntőjében.",
-    "author": "Pál Tamás",
-    "pubDate": "Fri, 09 Oct 2020 23:51:49 +0200"
   }
 ]

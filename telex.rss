@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Sport] WTCR: Michelisz erőre kapott, a 2. szlovák időmérőn]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/10/wtcr-slovakai-ring-michelisz-norbert-tassi-attila]]>
+      </link>
+      <description>
+        <![CDATA[Feljövőben a Hyundai, Tassi nagy bukást úszott meg a Slovakia Ringen.]]>
+      </description>
+      <author>
+        <![CDATA[Koroknai Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 17:46:54 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Sport] Körömrágós végjáték után szépített a Heat az NBA-döntőben]]>
       </title>
       <link>
@@ -412,23 +429,6 @@
       </author>
       <pubDate>
         <![CDATA[Sat, 10 Oct 2020 07:24:49 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Összejött a Nadal-Djoković szuperdöntő]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/09/novak-djokovic-rafael-nadal-roland-garros-donto-tenisz]]>
-      </link>
-      <description>
-        <![CDATA[Novak Djoković közel négyórás meccsen győzte le Cicipaszt a Roland Garros elődöntőjében.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 23:51:49 +0200]]>
       </pubDate>
     </item>
   </channel>
