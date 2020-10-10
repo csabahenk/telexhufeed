@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] Megfertőződése óta először beszélt nyilvánosan Donald Trump",
+    "link": "https://telex.hu/kulfold/2020/10/10/donald-trump-koronavirus-usa-beszed",
+    "description": "Az amerikai elnök kilenc nappal a diagnózisának bejelentése után máris újra emberek előtt beszélt.",
+    "author": "Flachner Balázs",
+    "pubDate": "Sat, 10 Oct 2020 23:17:24 +0200"
+  },
+  {
     "title": "[Külföld] Putyin ördöglakatba bonyolódott Hegyi-Karabahhal",
     "link": "https://telex.hu/kulfold/2020/10/10/hegyi-karabah-ormenyorszag-azerbajdzsan-azeri-ormeny-putyin",
     "description": "Nehéz helyzetbe került a tűzszünethez közvetítő Moszkva a Hegyi-Karabahban kiújult harcokkal: örmény szövetségesével vitái vannak, a Karabah feletti ellenőrzésért támadást indító Azerbajdzsánnal és az őt támogató Törökországgal viszont kerülné a nyílt konfliktust.",
@@ -21,7 +28,7 @@
     "pubDate": "Sat, 10 Oct 2020 21:56:35 +0200"
   },
   {
-    "title": "[Belföld] Nem veszélyes a gyerekekre a Meseország mindenkié, állítja többszáz pszichológus",
+    "title": "[Belföld] Nem veszélyes a gyerekekre a Meseország mindenkié, állítja több száz pszichológus",
     "link": "https://telex.hu/belfold/2020/10/10/meseorszag-mindenkie-pszichologusok-allasfoglalasa-nem-veszelyes-a-gyerekekre-sem-a-tarsadalomra",
     "description": "A szakemberek szerint ugyanakkor a könyv megjelenése hozzásegíthet egy elfogadóbb, békésebb és egyenlőbb társadalomhoz.",
     "author": "Csatári Flóra Dóra",
@@ -166,12 +173,5 @@
     "description": "A végső jelölés előszobájának számító consideration listára két magyar, összesen három kategóriában is felkerült.",
     "author": "Brückner Gergely",
     "pubDate": "Sat, 10 Oct 2020 12:37:58 +0200"
-  },
-  {
-    "title": "[Kult] Alkalmazkodnunk kell az adathoz, különben káosz lesz",
-    "link": "https://telex.hu/kult/2020/10/10/alkalmazkodnunk-kell-az-adathoz-kulonben-kaosz-lesz",
-    "description": "Barabási Albert-László kutatólaborjának vizuális munkáiból nyílt rendhagyó kiállítás a Ludwigban. A világhírű hálózatkutatóval beszélgettünk a tudományos munka művészeti értékéről és a koronavírus-járványban viselt felelősségünkről. Örülne, ha visszajönne a CEU, de attól tart, már késő.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Sat, 10 Oct 2020 12:18:38 +0200"
   }
 ]
