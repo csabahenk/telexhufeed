@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Sport] F1: Bottas elcsípte Hamilton elől a nürburgringi időmérőt]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/10/forma-1-eifel-nagydij-idomero-valtteri-bottas]]>
+      </link>
+      <description>
+        <![CDATA[Váratlan pilótacsere és a szokásos Mercedes-dominancia az Eifel Nagydíj időmérőjén.]]>
+      </description>
+      <author>
+        <![CDATA[Koroknai Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 16:13:36 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Tech] Kiterjesztett valóságban parancsolna kutyáinak az amerikai hadsereg]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tech/2020/10/10/kiterjesztett-valosag-usa-hadsereg-kutyak-trening]]>
+      </link>
+      <description>
+        <![CDATA[A fejlesztés célja az emberi haderő védelme lenne.]]>
+      </description>
+      <author>
+        <![CDATA[Csatári Flóra Dóra]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 10 Oct 2020 16:02:40 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Tech] Samsung Galaxy S20 FE: belül majdnem olyan, mint a nagyok]]>
       </title>
       <link>
@@ -24,7 +58,7 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Belföld] Szíjjártó szerint nem befolyásolja a magyar - cseh viszonyt a Jourová-ügy]]>
+        <![CDATA[[Belföld] Szijjártó szerint nem befolyásolja a magyar-cseh viszonyt a Jourová-ügy]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/10/szijjarto-szerint-nem-befolyasolja-a-magyar-cseh-viszonyt-a-jourova-ugy]]>
@@ -395,41 +429,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 09 Oct 2020 21:55:54 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tech] Amazónia 40 százaléka válhat szavannává, ha tovább csökken a csapadék mennyisége]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tech/2020/10/09/amazonas-esoerdo-szavanna-csapadek]]>
-      </link>
-      <description>
-        <![CDATA[Egy új kutatás szerint egy bizonyos ponton túl visszafordíthatatlanná válhat a folyamat.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 21:47:26 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tech] Különleges intézkedéseket vezet be a Twitter az amerikai választás előtt]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tech/2020/10/09/kulonleges-intezkedeseket-vezet-be-a-twitter-az-amerikai-valasztas-elott]]>
-      </link>
-      <description>
-        <![CDATA[A cél, hogy visszaszorítsák az álhíreket és a manipulációt.
-]]>
-      </description>
-      <author>
-        <![CDATA[Hanula Zsolt]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 09 Oct 2020 20:36:19 +0200]]>
       </pubDate>
     </item>
   </channel>

@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] F1: Bottas elcsípte Hamilton elől a nürburgringi időmérőt",
+    "link": "https://telex.hu/sport/2020/10/10/forma-1-eifel-nagydij-idomero-valtteri-bottas",
+    "description": "Váratlan pilótacsere és a szokásos Mercedes-dominancia az Eifel Nagydíj időmérőjén.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Sat, 10 Oct 2020 16:13:36 +0200"
+  },
+  {
+    "title": "[Tech] Kiterjesztett valóságban parancsolna kutyáinak az amerikai hadsereg",
+    "link": "https://telex.hu/tech/2020/10/10/kiterjesztett-valosag-usa-hadsereg-kutyak-trening",
+    "description": "A fejlesztés célja az emberi haderő védelme lenne.",
+    "author": "Csatári Flóra Dóra",
+    "pubDate": "Sat, 10 Oct 2020 16:02:40 +0200"
+  },
+  {
     "title": "[Tech] Samsung Galaxy S20 FE: belül majdnem olyan, mint a nagyok",
     "link": "https://telex.hu/tech/2020/10/10/samsung-galaxy-s20-fe-teszt",
     "description": "Ha valaki egy csúcstelefonra vágyik, de nincs kedve 400 ezret költeni, annak ideális választás lehet. Csak bírja egy kézzel megfogni. ",
@@ -7,7 +21,7 @@
     "pubDate": "Sat, 10 Oct 2020 15:28:49 +0200"
   },
   {
-    "title": "[Belföld] Szíjjártó szerint nem befolyásolja a magyar - cseh viszonyt a Jourová-ügy",
+    "title": "[Belföld] Szijjártó szerint nem befolyásolja a magyar-cseh viszonyt a Jourová-ügy",
     "link": "https://telex.hu/belfold/2020/10/10/szijjarto-szerint-nem-befolyasolja-a-magyar-cseh-viszonyt-a-jourova-ugy",
     "description": "A magyar demokráciát illiberal helyett illnek minősíteni megengedhetetlen, sértő megjegyzés, Brüsszel nem adta meg a kellő tiszteletet Magyarországnak - véli a külügyminiszter, de amúgy éljen a megbonthatatlan magyar - cseh barátság.",
     "author": "Brückner Gergely",
@@ -159,19 +173,5 @@
     "description": "Lezárások lesznek a rakparton a Duna mindkét oldalán és a Lánchídon is.\n",
     "author": "Hanula Zsolt",
     "pubDate": "Fri, 09 Oct 2020 21:55:54 +0200"
-  },
-  {
-    "title": "[Tech] Amazónia 40 százaléka válhat szavannává, ha tovább csökken a csapadék mennyisége",
-    "link": "https://telex.hu/tech/2020/10/09/amazonas-esoerdo-szavanna-csapadek",
-    "description": "Egy új kutatás szerint egy bizonyos ponton túl visszafordíthatatlanná válhat a folyamat.",
-    "author": "Pál Tamás",
-    "pubDate": "Fri, 09 Oct 2020 21:47:26 +0200"
-  },
-  {
-    "title": "[Tech] Különleges intézkedéseket vezet be a Twitter az amerikai választás előtt",
-    "link": "https://telex.hu/tech/2020/10/09/kulonleges-intezkedeseket-vezet-be-a-twitter-az-amerikai-valasztas-elott",
-    "description": "A cél, hogy visszaszorítsák az álhíreket és a manipulációt.\n",
-    "author": "Hanula Zsolt",
-    "pubDate": "Fri, 09 Oct 2020 20:36:19 +0200"
   }
 ]
