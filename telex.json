@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Koronavírus] Bezárják a szlovákiai középiskolákat, áttérnek a távoktatásra",
+    "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-szlovakia-kozepiskola-tavoktatas",
+    "description": "Az általános iskolásoknak pedig kötelező lesz az arcmaszk viselése oktatás közben.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Sun, 11 Oct 2020 19:15:21 +0200"
+  },
+  {
     "title": "[Belföld] Káel Csaba hétfőn találkozik az SZFE küldöttségével",
     "link": "https://telex.hu/belfold/2020/10/11/szfe-kael-csaba-beszelgetes",
     "description": "A mozgóképipar fejlesztéséért felelős kormánybiztossal hétfőn találkoznak az egyetem képviselői.",
@@ -16,7 +23,7 @@
   {
     "title": "[Külföld] Nagyot bukhat az Osztrák Szabadságpárt a vörös Bécsben",
     "link": "https://telex.hu/kulfold/2020/10/11/becs-ausztria-onkormanyzati-valasztas-spo-fpo-ovp-ludwig-strache",
-    "description": "Harmincról tíz százalék alá zuhanhat a jobboldali populista FPÖ. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.",
+    "description": "Harmincról tíz százalék alá zuhant a jobboldali populista FPÖ tábora. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.",
     "author": "Körömi Csongor",
     "pubDate": "Sun, 11 Oct 2020 17:57:59 +0200"
   },
@@ -119,9 +126,9 @@
     "pubDate": "Sun, 11 Oct 2020 12:27:16 +0200"
   },
   {
-    "title": "[Belföld] Szerencsi időközi választás: ötig a választók 40 százaléka szavazott",
+    "title": "[Belföld] Szerencsi időközi választás: a választók 44,5 százaléka szavazott",
     "link": "https://telex.hu/belfold/2020/10/11/szerencs-tiszaujvaros-idokozi-valasztas-reszvetel-rendkivuli-esemenyek",
-    "description": "Két éve ilyenkor 15 ezerrel többen, a választásra jogosultak több mint fele már leadta a szavazatát.",
+    "description": "A részvételi hajlandóság jócskán elmaradt a 2018-astól. ",
     "author": "Joób Sándor",
     "pubDate": "Sun, 11 Oct 2020 12:26:44 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "Közel 26 ezer fő az aktív koronavírus-fertőzött Magyarországon. 1252 beteget ápolnak kórházban.",
     "author": "Fehér János",
     "pubDate": "Sun, 11 Oct 2020 09:29:56 +0200"
-  },
-  {
-    "title": "[Észkombájn] A szovjet szuperhelikopter, ami egy Boeing 737-esnél is nagyobb volt",
-    "link": "https://telex.hu/eszkombajn/2020/10/11/szovjet-helikopter-mil-v-12-homer",
-    "description": "Hiába volt műszaki csoda a Mil V-12, nem volt valódi haszna.",
-    "author": "Koroknai Gergely",
-    "pubDate": "Sun, 11 Oct 2020 09:19:17 +0200"
   }
 ]

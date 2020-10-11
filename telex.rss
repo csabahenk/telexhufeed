@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Koronavírus] Bezárják a szlovákiai középiskolákat, áttérnek a távoktatásra]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/11/koronavirus-szlovakia-kozepiskola-tavoktatas]]>
+      </link>
+      <description>
+        <![CDATA[Az általános iskolásoknak pedig kötelező lesz az arcmaszk viselése oktatás közben.]]>
+      </description>
+      <author>
+        <![CDATA[Bozzay Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 11 Oct 2020 19:15:21 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Káel Csaba hétfőn találkozik az SZFE küldöttségével]]>
       </title>
       <link>
@@ -47,7 +64,7 @@
         <![CDATA[https://telex.hu/kulfold/2020/10/11/becs-ausztria-onkormanyzati-valasztas-spo-fpo-ovp-ludwig-strache]]>
       </link>
       <description>
-        <![CDATA[Harmincról tíz százalék alá zuhanhat a jobboldali populista FPÖ. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.]]>
+        <![CDATA[Harmincról tíz százalék alá zuhant a jobboldali populista FPÖ tábora. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.]]>
       </description>
       <author>
         <![CDATA[Körömi Csongor]]>
@@ -296,13 +313,13 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Belföld] Szerencsi időközi választás: ötig a választók 40 százaléka szavazott]]>
+        <![CDATA[[Belföld] Szerencsi időközi választás: a választók 44,5 százaléka szavazott]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/11/szerencs-tiszaujvaros-idokozi-valasztas-reszvetel-rendkivuli-esemenyek]]>
       </link>
       <description>
-        <![CDATA[Két éve ilyenkor 15 ezerrel többen, a választásra jogosultak több mint fele már leadta a szavazatát.]]>
+        <![CDATA[A részvételi hajlandóság jócskán elmaradt a 2018-astól. ]]>
       </description>
       <author>
         <![CDATA[Joób Sándor]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Sun, 11 Oct 2020 09:29:56 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Észkombájn] A szovjet szuperhelikopter, ami egy Boeing 737-esnél is nagyobb volt]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/eszkombajn/2020/10/11/szovjet-helikopter-mil-v-12-homer]]>
-      </link>
-      <description>
-        <![CDATA[Hiába volt műszaki csoda a Mil V-12, nem volt valódi haszna.]]>
-      </description>
-      <author>
-        <![CDATA[Koroknai Gergely]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sun, 11 Oct 2020 09:19:17 +0200]]>
       </pubDate>
     </item>
   </channel>
