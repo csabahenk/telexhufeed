@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Káel Csaba hétfőn találkozik az SZFE küldöttségével]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/11/szfe-kael-csaba-beszelgetes]]>
+      </link>
+      <description>
+        <![CDATA[A mozgóképipar fejlesztéséért felelős kormánybiztossal hétfőn találkoznak az egyetem képviselői.]]>
+      </description>
+      <author>
+        <![CDATA[Bozzay Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 11 Oct 2020 18:05:21 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Sport] Nadal óriási játékkal győzte le Djokovicot a Garroson, 20 Grand Slammel utolérte Federert]]>
       </title>
       <link>
@@ -30,7 +47,7 @@
         <![CDATA[https://telex.hu/kulfold/2020/10/11/becs-ausztria-onkormanyzati-valasztas-spo-fpo-ovp-ludwig-strache]]>
       </link>
       <description>
-        <![CDATA[Harmincról tíz százalékra zuhanhat vissza a jobboldali populista FPÖ. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.]]>
+        <![CDATA[Harmincról tíz százalék alá zuhanhat a jobboldali populista FPÖ. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.]]>
       </description>
       <author>
         <![CDATA[Körömi Csongor]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Sun, 11 Oct 2020 09:19:17 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] Orvosa szerint Trump már nem fertőző]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/11/donald-trump-nem-fertozo-koronavirus-amerika-elnokvalasztas]]>
-      </link>
-      <description>
-        <![CDATA[Az amerikai elnök véget vethet a karanténnak, mehet kampányolni.]]>
-      </description>
-      <author>
-        <![CDATA[Fehér János]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sun, 11 Oct 2020 08:59:54 +0200]]>
       </pubDate>
     </item>
   </channel>

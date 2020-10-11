@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] Káel Csaba hétfőn találkozik az SZFE küldöttségével",
+    "link": "https://telex.hu/belfold/2020/10/11/szfe-kael-csaba-beszelgetes",
+    "description": "A mozgóképipar fejlesztéséért felelős kormánybiztossal hétfőn találkoznak az egyetem képviselői.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Sun, 11 Oct 2020 18:05:21 +0200"
+  },
+  {
     "title": "[Sport] Nadal óriási játékkal győzte le Djokovicot a Garroson, 20 Grand Slammel utolérte Federert",
     "link": "https://telex.hu/sport/2020/10/11/rafael-nadal-novak-djokovic-tenisz-grand-slam-roland-garros-federer-rekord",
     "description": "A spanyol élete egyik legjobb teniszével nyerte meg 13. Roland Garrosát a világelső ellen.",
@@ -9,7 +16,7 @@
   {
     "title": "[Külföld] Nagyot bukhat az Osztrák Szabadságpárt a vörös Bécsben",
     "link": "https://telex.hu/kulfold/2020/10/11/becs-ausztria-onkormanyzati-valasztas-spo-fpo-ovp-ludwig-strache",
-    "description": "Harmincról tíz százalékra zuhanhat vissza a jobboldali populista FPÖ. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.",
+    "description": "Harmincról tíz százalék alá zuhanhat a jobboldali populista FPÖ. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.",
     "author": "Körömi Csongor",
     "pubDate": "Sun, 11 Oct 2020 17:57:59 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "Hiába volt műszaki csoda a Mil V-12, nem volt valódi haszna.",
     "author": "Koroknai Gergely",
     "pubDate": "Sun, 11 Oct 2020 09:19:17 +0200"
-  },
-  {
-    "title": "[Koronavírus] Orvosa szerint Trump már nem fertőző",
-    "link": "https://telex.hu/koronavirus/2020/10/11/donald-trump-nem-fertozo-koronavirus-amerika-elnokvalasztas",
-    "description": "Az amerikai elnök véget vethet a karanténnak, mehet kampányolni.",
-    "author": "Fehér János",
-    "pubDate": "Sun, 11 Oct 2020 08:59:54 +0200"
   }
 ]
