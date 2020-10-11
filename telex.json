@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Koronavírus] 1068 új fertőzött, 21 beteg meghalt",
+    "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-magyarorszag-napi-adatok-1068-fertozott-21-halott-oktober-11",
+    "description": "Közel 26 ezer fő az aktív koronavírus-fertőzött Magyarországon. 1252 beteget ápolnak kórházban.",
+    "author": "Fehér János",
+    "pubDate": "Sun, 11 Oct 2020 09:26:46 +0200"
+  },
+  {
+    "title": "[Észkombájn] A szovjet szuperhelikopter, ami egy Boeing 737-esnél is nagyobb volt",
+    "link": "https://telex.hu/eszkombajn/2020/10/11/szovjet-helikopter-mil-v-12-homer",
+    "description": "Hiába volt műszaki csoda a Mil V-12, nem volt valódi haszna.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Sun, 11 Oct 2020 09:19:17 +0200"
+  },
+  {
+    "title": "[Koronavírus] Orvosa szerint Trump már nem fertőző",
+    "link": "https://telex.hu/koronavirus/2020/10/11/donald-trump-nem-fertozo-koronavirus-amerika-elnokvalasztas",
+    "description": "Az amerikai elnök véget vethet a karanténnak, mehet kampányolni.",
+    "author": "Fehér János",
+    "pubDate": "Sun, 11 Oct 2020 08:59:54 +0200"
+  },
+  {
+    "title": "[Belföld] Nem a közmédián fog múlni, hogy megmarad-e a Fidesz kétharmada",
+    "link": "https://telex.hu/belfold/2020/10/11/timeline-teszt",
+    "description": "Megnéztük, hogy melyik jelölt mekkora felületet kapott az elvileg pártatlan közmédiában. ",
+    "author": "Bakró-Nagy Ferenc",
+    "pubDate": "Sun, 11 Oct 2020 08:45:33 +0200"
+  },
+  {
     "title": "[Külföld] Megfertőződése óta először beszélt nyilvánosan Donald Trump",
     "link": "https://telex.hu/kulfold/2020/10/10/donald-trump-koronavirus-usa-beszed",
     "description": "Az amerikai elnök kilenc nappal a diagnózisának bejelentése után máris újra emberek előtt beszélt.",
@@ -145,33 +173,5 @@
     "description": "Egy nagy író hagyatéka sok mindenre alkalmas, még a tiszaújvárosi időközi választás kommentálására is. De a lényeg talán mégiscsak az, hogy megnyílt a Kertész Imre Intézet.",
     "author": "Brückner Gergely",
     "pubDate": "Sat, 10 Oct 2020 14:35:47 +0200"
-  },
-  {
-    "title": "[Külföld] Észak-Korea óriásrakétákkal demonstrált a katonai parádén",
-    "link": "https://telex.hu/kulfold/2020/10/10/eszak-korea-kim-dzsongun-katonai-parade-evfordulo",
-    "description": "Kim Dzsongun észak-koreai diktátor megint azt mondta, nem volt koronavírusos eset az országban.",
-    "author": "Iván András",
-    "pubDate": "Sat, 10 Oct 2020 14:24:37 +0200"
-  },
-  {
-    "title": "[Külföld] Fauci: Szuperfertőző eseményt tartott a Fehér Ház",
-    "link": "https://telex.hu/kulfold/2020/10/10/egyesult-allamok-dr-anthony-fauci-koronavirus-donald-trump-feher-haz",
-    "description": "Közben Trump már a kampány folytatására készül, a második elnökjelölti vitát viszont törölték.",
-    "author": "Bozsó Ágnes",
-    "pubDate": "Sat, 10 Oct 2020 13:49:31 +0200"
-  },
-  {
-    "title": "[Sport] Vas Kata Blanka ezüstérmes lett az U23-asok között a hegyikerékpár-vb-n",
-    "link": "https://telex.hu/sport/2020/10/10/vas-kata-blanka-u23-vilagbajnoki-ezusterem-hegyikerekpar-mountain-bike-xco",
-    "description": "A 19 éves lány idén már második vb-érmét nyeri, három szakágban is klasszis.",
-    "author": "Fehér János",
-    "pubDate": "Sat, 10 Oct 2020 12:44:06 +0200"
-  },
-  {
-    "title": "[Külföld] Magyar Grammy-jelöltek lehetnek",
-    "link": "https://telex.hu/kulfold/2020/10/10/magyar-grammy-jeloltek-lehetnek",
-    "description": "A végső jelölés előszobájának számító consideration listára két magyar, összesen három kategóriában is felkerült.",
-    "author": "Brückner Gergely",
-    "pubDate": "Sat, 10 Oct 2020 12:37:58 +0200"
   }
 ]
