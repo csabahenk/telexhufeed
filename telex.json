@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Belföld] Demeter Szilárd semmiféle könyv égetésével vagy darálásával nem ért egyet",
+    "link": "https://telex.hu/belfold/2020/10/11/demeter-szilard-meseorszag-mindenkie-konyv",
+    "description": "De a \"vasalóval házasodni kívánók\" felé vannak elvárásai.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Sun, 11 Oct 2020 20:25:49 +0200"
+  },
+  {
+    "title": "[Belföld] Fordított a Fidesz a borsodi időközin",
+    "link": "https://telex.hu/belfold/2020/10/11/borsod-szerencs-idokozi-orszaggyulesi-valasztas-koncz-zsofia-biro-laszlo-fidesz-ketharmad",
+    "description": "61 százalékos feldolgozottságnál 2 százalékkal vezet a fideszes jelölt előtt. Ha ez így marad, akkor elszáll a Fidesz kétharmados parlamenti többsége.",
+    "author": "Presinszky Judit",
+    "pubDate": "Sun, 11 Oct 2020 20:10:29 +0200"
+  },
+  {
+    "title": "[Koronavírus] Akár 28 napig is fertőzőképes maradhat a koronavírus a telefonok kijelzőin és a bankjegyeken",
+    "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-28-napig-fertozhet-bizonyos-feluleteken-penz-telefon-ausztral-kutatas",
+    "description": "Egy ausztrál kutatás arra is választ találhatott, miért voltak tömeges megbetegedések húsüzemekben, hidegebb létesítményekben. ",
+    "author": "Lovas Gergő",
+    "pubDate": "Sun, 11 Oct 2020 19:53:13 +0200"
+  },
+  {
     "title": "[Koronavírus] Bezárják a szlovákiai középiskolákat, áttérnek a távoktatásra",
     "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-szlovakia-kozepiskola-tavoktatas",
     "description": "Az általános iskolásoknak pedig kötelező lesz az arcmaszk viselése oktatás közben.",
@@ -152,26 +173,5 @@
     "description": "Gandzsában heten meghaltak, 33-an megsebesültek.",
     "author": "Fehér János",
     "pubDate": "Sun, 11 Oct 2020 10:58:56 +0200"
-  },
-  {
-    "title": "[Gazdaság] Csokkal visszaigényelhető lesz az ötszázalékos lakásáfa",
-    "link": "https://telex.hu/gazdasag/2020/10/11/csok-lakasafa-visszaigenyelheto-novak-katalin-2021-tol",
-    "description": "Novák Katalin jelentette be a könnyítést.",
-    "author": "Fehér János",
-    "pubDate": "Sun, 11 Oct 2020 10:09:23 +0200"
-  },
-  {
-    "title": "[Gazdaság] Jövőre adómentes lehet a pálinkafőzés",
-    "link": "https://telex.hu/gazdasag/2020/10/11/jovore-adomentes-lehet-a-palinkafozes",
-    "description": "Évi 86 liter gyümölcspárlatot lehet majd lefőzni, közölte a pénzügyminisztérium államtitkára. ",
-    "author": "Fehér János",
-    "pubDate": "Sun, 11 Oct 2020 09:51:49 +0200"
-  },
-  {
-    "title": "[Koronavírus] 1068 új fertőzött, 21 beteg meghalt",
-    "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-magyarorszag-napi-adatok-1068-fertozott-21-halott-oktober-11",
-    "description": "Közel 26 ezer fő az aktív koronavírus-fertőzött Magyarországon. 1252 beteget ápolnak kórházban.",
-    "author": "Fehér János",
-    "pubDate": "Sun, 11 Oct 2020 09:29:56 +0200"
   }
 ]
