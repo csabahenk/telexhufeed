@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] Több településen is új polgármestert választottak",
+    "link": "https://telex.hu/belfold/2020/10/11/hovejen-es-csaszlon-is-uj-polgarmestert-valasztottak-idokozi",
+    "description": "Ciráknak, Hövejnek és Császlónak is időközi önkormányzati választást tartottak. ",
+    "author": "Lovas Gergő",
+    "pubDate": "Sun, 11 Oct 2020 21:47:16 +0200"
+  },
+  {
     "title": "[Belföld] Demeter Szilárd semmiféle könyv égetésével vagy darálásával nem ért egyet",
     "link": "https://telex.hu/belfold/2020/10/11/demeter-szilard-meseorszag-mindenkie-konyv",
     "description": "De a \"vasalóval házasodni kívánók\" felé vannak elvárásai.",
@@ -7,9 +14,9 @@
     "pubDate": "Sun, 11 Oct 2020 20:28:15 +0200"
   },
   {
-    "title": "[Belföld] Fordított a Fidesz a borsodi időközin",
+    "title": "[Belföld] Maradt a Fidesz-KDNP parlamenti kétharmada, nyert a jelöltjük a borsodi időközi választáson",
     "link": "https://telex.hu/belfold/2020/10/11/borsod-szerencs-idokozi-orszaggyulesi-valasztas-koncz-zsofia-biro-laszlo-fidesz-ketharmad",
-    "description": "61 százalékos feldolgozottságnál 2 százalékkal vezet a fideszes jelölt előtt. Ha ez így marad, akkor elszáll a Fidesz kétharmados parlamenti többsége.",
+    "description": "Egy ideig az ellenzéki Bíró László állt az élen, de a végén elhúzott a fideszes Koncz Zsófia, aki több mint 1700 szavazattal nyert. A választást édesapja halála miatt kellett kiírni, a Fidesz kétharmada volt a tétje, de az megmaradt.",
     "author": "Presinszky Judit",
     "pubDate": "Sun, 11 Oct 2020 20:10:29 +0200"
   },
@@ -21,7 +28,7 @@
     "pubDate": "Sun, 11 Oct 2020 19:53:13 +0200"
   },
   {
-    "title": "[Koronavírus] Bezárják a szlovákiai középiskolákat, áttérnek a távoktatásra",
+    "title": "[Koronavírus] Szlovákia: kötelező kültéri maszkviselés, hat főnél több nem gyűlhet össze, a középiskolák áttérnek a távoktatásra",
     "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-szlovakia-kozepiskola-tavoktatas",
     "description": "Az általános iskolásoknak pedig kötelező lesz az arcmaszk viselése oktatás közben.",
     "author": "Bozzay Balázs",
@@ -166,12 +173,5 @@
     "description": "A törökországi fesztiválon a nemzetközi szakmai zsűri elnöke Ada Solomon román producer, az Európai Filmakadémia elnökhelyettese volt.",
     "author": "Joób Sándor",
     "pubDate": "Sun, 11 Oct 2020 11:29:56 +0200"
-  },
-  {
-    "title": "[Külföld] Azeri gyerekek is meghaltak az örmény rakétatámadásban, amit tűzszünetben indítottak",
-    "link": "https://telex.hu/kulfold/2020/10/11/hegyi-karabah-raketatamadas-gandzsa-gyerek-aldozatok-het-halott",
-    "description": "Gandzsában heten meghaltak, 33-an megsebesültek.",
-    "author": "Fehér János",
-    "pubDate": "Sun, 11 Oct 2020 10:58:56 +0200"
   }
 ]
