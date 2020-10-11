@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] Babos Tímea negyedik Grand Slamjét nyerte párosban a Roland Garroson",
+    "link": "https://telex.hu/sport/2020/10/11/babos-timea-mladenovic-roland-garros-donto-grand-slam-bajnok-paros",
+    "description": "Mladenoviccsal az oldalán nyerték meg 6:4, 7:5-re a döntőt.",
+    "author": "Iván András",
+    "pubDate": "Sun, 11 Oct 2020 13:37:27 +0200"
+  },
+  {
+    "title": "[Koronavírus] Szlávik János: Megduplázódik a halálozás esélye, ha valaki egyszerre szenved koronavírusban és influenzában",
+    "link": "https://telex.hu/koronavirus/2020/10/11/szlavik-janos-influenza-oltas-javasolt-koronavirus-magas-szamok-varhatok",
+    "description": "A főorvos ezért is ajánlja mindenkinek, hogy oltassa be magát influenza ellen.",
+    "author": "Fehér János",
+    "pubDate": "Sun, 11 Oct 2020 13:34:10 +0200"
+  },
+  {
     "title": "[Sport] Az UFC leghihetetlenebb KO-ja mostantól egy hátrafordulva bevitt pörgőrúgás",
     "link": "https://telex.hu/sport/2020/10/11/ufc-latvanyos-kiutes-ko-joaquin-buckley",
     "description": "Joaquin Buckley egyik lábát elkapták, de a másikat így is gyilkosan tudta használni.",
@@ -14,7 +28,7 @@
     "pubDate": "Sun, 11 Oct 2020 12:27:16 +0200"
   },
   {
-    "title": "[Belföld] Szerencsi időközi választás: két éve majdnem kétszer annyian szavaztak délelőtt 11-ig, mint most",
+    "title": "[Belföld] Szerencsi időközi választás: két éve 10 ezerrel többen szavaztak kora délutánig, mint most",
     "link": "https://telex.hu/belfold/2020/10/11/szerencs-tiszaujvaros-idokozi-valasztas-reszvetel-rendkivuli-esemenyek",
     "description": "Egyelőre 16,69 százalékos a részvétel.",
     "author": "Joób Sándor",
@@ -159,19 +173,5 @@
     "description": "A kirgiz elnök rezidenciáján összeült parlament erősítette meg a miniszterelnök személyét.",
     "author": "Flachner Balázs",
     "pubDate": "Sat, 10 Oct 2020 18:08:44 +0200"
-  },
-  {
-    "title": "[Sport] WTCR: Michelisz erőre kapott, a 2. szlovák időmérőn",
-    "link": "https://telex.hu/sport/2020/10/10/wtcr-slovakai-ring-michelisz-norbert-tassi-attila",
-    "description": "Feljövőben a Hyundai, Tassi nagy bukást úszott meg a Slovakia Ringen.",
-    "author": "Koroknai Gergely",
-    "pubDate": "Sat, 10 Oct 2020 17:46:54 +0200"
-  },
-  {
-    "title": "[Sport] Körömrágós végjáték után szépített a Heat az NBA-döntőben",
-    "link": "https://telex.hu/sport/2020/10/10/nba-miami-heat-los-angeles-lakers-kosarlabda",
-    "description": "LeBron James mindent megtett, de a Lakers így sem tudta lezárni a párharcot.",
-    "author": "Flachner Balázs",
-    "pubDate": "Sat, 10 Oct 2020 17:31:36 +0200"
   }
 ]
