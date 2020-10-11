@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Sport] Az UFC leghihetetlenebb KO-ja mostantól egy hátrafordulva bevitt pörgőrúgás",
+    "link": "https://telex.hu/sport/2020/10/11/ufc-latvanyos-kiutes-ko-joaquin-buckley",
+    "description": "Joaquin Buckley egyik lábát elkapták, de a másikat így is gyilkosan tudta használni.",
+    "author": "Fehér János",
+    "pubDate": "Sun, 11 Oct 2020 12:27:28 +0200"
+  },
+  {
+    "title": "[Tudomány] Finnugorok helyett hun rokonságról tanulnak az ötödikesek",
+    "link": "https://telex.hu/tudomany/2020/10/11/teherbe-eshet-aki-turullal-almodik",
+    "description": "Kásler szerzőtársával íratták át a magyar őstörténetet a tankönyvekben, aki most egy vitában összecsapott a tanárokkal.",
+    "author": "Kolozsi Ádám",
+    "pubDate": "Sun, 11 Oct 2020 12:27:16 +0200"
+  },
+  {
+    "title": "[Belföld] Szerencsi időközi választás: két éve majdnem kétszer annyian szavaztak délelőtt 11-ig, mint most",
+    "link": "https://telex.hu/belfold/2020/10/11/szerencs-tiszaujvaros-idokozi-valasztas-reszvetel-rendkivuli-esemenyek",
+    "description": "Egyelőre 16,69 százalékos a részvétel.",
+    "author": "Joób Sándor",
+    "pubDate": "Sun, 11 Oct 2020 12:26:44 +0200"
+  },
+  {
     "title": "[Sport] 125 parti után először kapott ki a sakkvilágbajnok Carlsen",
     "link": "https://telex.hu/sport/2020/10/11/magnus-carlsen-sakk-ket-ev-utan-125-parti-elso-vereseg-duda",
     "description": "A lengyel Duda győzte le a norvég játékost.",
@@ -152,26 +173,5 @@
     "description": "LeBron James mindent megtett, de a Lakers így sem tudta lezárni a párharcot.",
     "author": "Flachner Balázs",
     "pubDate": "Sat, 10 Oct 2020 17:31:36 +0200"
-  },
-  {
-    "title": "[Sport] Giro:\n              14 perc előnnyel nyert szakaszt az izraeli csapat",
-    "link": "https://telex.hu/sport/2020/10/10/giro-ditalia-8-szakasz-szokes-alex-dowsett",
-    "description": "A brit Alex Dowsett használta ki, hogy a mezőny rápihent a vasárnapi hegyi befutóra.",
-    "author": "Pál Tamás",
-    "pubDate": "Sat, 10 Oct 2020 17:08:02 +0200"
-  },
-  {
-    "title": "[Sport] Egy 19 éves teniszező a Garros új női bajnoka",
-    "link": "https://telex.hu/sport/2020/10/10/iga-swiateg-roland-garros-noi-donto-gyoztes-sofia-kenin",
-    "description": "A lengyel Iga Swiatek korábban sosem nyert még Grand Slam-trófeát.",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Sat, 10 Oct 2020 16:54:38 +0200"
-  },
-  {
-    "title": "[Belföld] Müller Cecília: Felszállóágban van a második hullám",
-    "link": "https://telex.hu/belfold/2020/10/10/muller-cecilia-tisztifoorvos-koronavirus-masodik-hullam-idosek",
-    "description": "Ebben a szakaszban kiemelten ügyelni kell az idősekre és a krónikus betegségben szenvedőkre a tisztifőorvos szerint.",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Sat, 10 Oct 2020 16:43:21 +0200"
   }
 ]
