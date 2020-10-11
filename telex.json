@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Külföld] Könnygázzal és gumibotokkal oszlattak Minszkben",
+    "link": "https://telex.hu/kulfold/2020/10/11/minszk-tuntetes-oszlatas-gumibot-konnygaz-vasaranp",
+    "description": "A rendőrség több esetben brutálisan lépett fel a tüntetőkkel szemben. ",
+    "author": "Lovas Gergő",
+    "pubDate": "Sun, 11 Oct 2020 16:37:03 +0200"
+  },
+  {
+    "title": "[Sport] Hamilton befogta Schumachert, 91 futamgyőzelemnél jár",
+    "link": "https://telex.hu/sport/2020/10/11/forma-1-eifel-nagydij-lewis-hamilton-michael-schumacher",
+    "description": "Az Eifel Nagydíj után már Räikkönené a legtöbb F1-futam. Hamilton és Verstappen mögött meglepetés a dobogón.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Sun, 11 Oct 2020 16:15:55 +0200"
+  },
+  {
     "title": "[Kult] Ahol még mindig csípi az emberek szemét egy ártalmatlan mesekönyv",
     "link": "https://telex.hu/kult/2020/10/11/meg-mindig-csipi-az-emberek-szemet-egy-artalmatlan-mesekonyv",
     "description": "Egy amerikai mesekönyv évekig az egyik legtöbb panaszt kiváltó könyvtári könyv volt az Egyesült Államokban, pedig csak egy igaz történet két, történetesen hím pingvinről és az ő fiókájukról. Szingapúrban be akarták zúzni, de aztán inkább meggondolták magukat. ",
@@ -31,7 +45,7 @@
     "title": "[Sport] Wenger: A futballnak meg kell szabadulni a Nemzetek Ligájától",
     "link": "https://telex.hu/sport/2020/10/11/wenger-nemzetek-ligaja-kritika-futball",
     "description": "A francia edző szerint mindenki számára érthető sorozatra van szükség.",
-    "author": "",
+    "author": "Fehér János",
     "pubDate": "Sun, 11 Oct 2020 14:21:40 +0200"
   },
   {
@@ -63,9 +77,9 @@
     "pubDate": "Sun, 11 Oct 2020 12:27:16 +0200"
   },
   {
-    "title": "[Belföld] Szerencsi időközi választás: két éve 10 ezerrel többen szavaztak kora délutánig, mint most",
+    "title": "[Belföld] Szerencsi időközi választás: csak a választók egyharmada szavazott délután háromig",
     "link": "https://telex.hu/belfold/2020/10/11/szerencs-tiszaujvaros-idokozi-valasztas-reszvetel-rendkivuli-esemenyek",
-    "description": "Egyelőre 16,69 százalékos a részvétel.",
+    "description": "Két éve ilyenkor 13 ezerrel többen, a választásra jogosultak fele már leadta a szavazatát.",
     "author": "Joób Sándor",
     "pubDate": "Sun, 11 Oct 2020 12:26:44 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "Itt nézheti meg, hogy ezen a héten melyik számokat kellett volna eltalálni az ötöslottón a gyors meggazdagodáshoz!",
     "author": "Csatári Flóra Dóra",
     "pubDate": "Sat, 10 Oct 2020 21:56:35 +0200"
-  },
-  {
-    "title": "[Belföld] Nem veszélyes a gyerekekre a Meseország mindenkié, állítja több száz pszichológus",
-    "link": "https://telex.hu/belfold/2020/10/10/meseorszag-mindenkie-pszichologusok-allasfoglalasa-nem-veszelyes-a-gyerekekre-sem-a-tarsadalomra",
-    "description": "A szakemberek szerint ugyanakkor a könyv megjelenése hozzásegíthet egy elfogadóbb, békésebb és egyenlőbb társadalomhoz.",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Sat, 10 Oct 2020 21:18:59 +0200"
-  },
-  {
-    "title": "[Szórakozás] Végleg lelövik az Amazon első nagy költségvetésű videójátékát",
-    "link": "https://telex.hu/szorakozas/2020/10/10/amazon-crucible-videojatek-bukas",
-    "description": "A Crucible öt hónapot sem élt meg, de összességében az is csoda, hogy eddig húzta.",
-    "author": "Flachner Balázs",
-    "pubDate": "Sat, 10 Oct 2020 19:38:25 +0200"
   }
 ]

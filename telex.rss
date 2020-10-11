@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Külföld] Könnygázzal és gumibotokkal oszlattak Minszkben]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kulfold/2020/10/11/minszk-tuntetes-oszlatas-gumibot-konnygaz-vasaranp]]>
+      </link>
+      <description>
+        <![CDATA[A rendőrség több esetben brutálisan lépett fel a tüntetőkkel szemben. ]]>
+      </description>
+      <author>
+        <![CDATA[Lovas Gergő]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 11 Oct 2020 16:37:03 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Sport] Hamilton befogta Schumachert, 91 futamgyőzelemnél jár]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/11/forma-1-eifel-nagydij-lewis-hamilton-michael-schumacher]]>
+      </link>
+      <description>
+        <![CDATA[Az Eifel Nagydíj után már Räikkönené a legtöbb F1-futam. Hamilton és Verstappen mögött meglepetés a dobogón.]]>
+      </description>
+      <author>
+        <![CDATA[Koroknai Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sun, 11 Oct 2020 16:15:55 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Kult] Ahol még mindig csípi az emberek szemét egy ártalmatlan mesekönyv]]>
       </title>
       <link>
@@ -84,7 +118,7 @@
         <![CDATA[A francia edző szerint mindenki számára érthető sorozatra van szükség.]]>
       </description>
       <author>
-        <![CDATA[]]>
+        <![CDATA[Fehér János]]>
       </author>
       <pubDate>
         <![CDATA[Sun, 11 Oct 2020 14:21:40 +0200]]>
@@ -160,13 +194,13 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Belföld] Szerencsi időközi választás: két éve 10 ezerrel többen szavaztak kora délutánig, mint most]]>
+        <![CDATA[[Belföld] Szerencsi időközi választás: csak a választók egyharmada szavazott délután háromig]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/11/szerencs-tiszaujvaros-idokozi-valasztas-reszvetel-rendkivuli-esemenyek]]>
       </link>
       <description>
-        <![CDATA[Egyelőre 16,69 százalékos a részvétel.]]>
+        <![CDATA[Két éve ilyenkor 13 ezerrel többen, a választásra jogosultak fele már leadta a szavazatát.]]>
       </description>
       <author>
         <![CDATA[Joób Sándor]]>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Sat, 10 Oct 2020 21:56:35 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Nem veszélyes a gyerekekre a Meseország mindenkié, állítja több száz pszichológus]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/10/meseorszag-mindenkie-pszichologusok-allasfoglalasa-nem-veszelyes-a-gyerekekre-sem-a-tarsadalomra]]>
-      </link>
-      <description>
-        <![CDATA[A szakemberek szerint ugyanakkor a könyv megjelenése hozzásegíthet egy elfogadóbb, békésebb és egyenlőbb társadalomhoz.]]>
-      </description>
-      <author>
-        <![CDATA[Csatári Flóra Dóra]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sat, 10 Oct 2020 21:18:59 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Szórakozás] Végleg lelövik az Amazon első nagy költségvetésű videójátékát]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/szorakozas/2020/10/10/amazon-crucible-videojatek-bukas]]>
-      </link>
-      <description>
-        <![CDATA[A Crucible öt hónapot sem élt meg, de összességében az is csoda, hogy eddig húzta.]]>
-      </description>
-      <author>
-        <![CDATA[Flachner Balázs]]>
-      </author>
-      <pubDate>
-        <![CDATA[Sat, 10 Oct 2020 19:38:25 +0200]]>
       </pubDate>
     </item>
   </channel>
