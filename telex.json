@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Koronavírus] Beadta magának az otthon kotyvasztott koronavírus-vakcinát, aztán rájött, hogy a dolog sokkal bonyolultabb, mint gondolta",
+    "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-vakcina-biohekker-zayner",
+    "description": "A világ egyik leghíresebb biohekkere olyan oltóanyagot adott be magának, ami korábban makákó majmoknál már bevált.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Sun, 11 Oct 2020 17:13:26 +0200"
+  },
+  {
+    "title": "[Sport] Giro: Valter a legjobbakkal is bírta a hegyibefutót",
+    "link": "https://telex.hu/sport/2020/10/11/giro-d-italia-9-szakasz-hegyi-befuto-roccarasso-valter-attila",
+    "description": "A 9. szakasz végén világsztárokat is megvert a magyar bringás, 18. lett. Portugál etapsiker és rózsaszín trikó.",
+    "author": "Fehér János",
+    "pubDate": "Sun, 11 Oct 2020 17:05:53 +0200"
+  },
+  {
+    "title": "[Szórakozás] Márciusban kezdik forgatni az Obi-Wanról szóló sorozatot",
+    "link": "https://telex.hu/szorakozas/2020/10/11/marciusban-kezdik-az-obi-wan-sorozatot-ewan-mcgregor",
+    "description": "A Jedi lovagot alakító Ewan McGregor nem kizárólag róla fog szólni a Disney sorozata. ",
+    "author": "Lovas Gergő",
+    "pubDate": "Sun, 11 Oct 2020 17:02:03 +0200"
+  },
+  {
     "title": "[Külföld] Könnygázzal és gumibotokkal oszlattak Minszkben",
     "link": "https://telex.hu/kulfold/2020/10/11/minszk-tuntetes-oszlatas-gumibot-konnygaz-vasaranp",
     "description": "A rendőrség több esetben brutálisan lépett fel a tüntetőkkel szemben. ",
@@ -77,9 +98,9 @@
     "pubDate": "Sun, 11 Oct 2020 12:27:16 +0200"
   },
   {
-    "title": "[Belföld] Szerencsi időközi választás: csak a választók egyharmada szavazott délután háromig",
+    "title": "[Belföld] Szerencsi időközi választás: ötig a választók 40 százaléka szavazott",
     "link": "https://telex.hu/belfold/2020/10/11/szerencs-tiszaujvaros-idokozi-valasztas-reszvetel-rendkivuli-esemenyek",
-    "description": "Két éve ilyenkor 13 ezerrel többen, a választásra jogosultak fele már leadta a szavazatát.",
+    "description": "Két éve ilyenkor 15 ezerrel többen, a választásra jogosultak több mint fele már leadta a szavazatát.",
     "author": "Joób Sándor",
     "pubDate": "Sun, 11 Oct 2020 12:26:44 +0200"
   },
@@ -152,26 +173,5 @@
     "description": "Az amerikai elnök kilenc nappal a diagnózisának bejelentése után máris újra emberek előtt beszélt.",
     "author": "Flachner Balázs",
     "pubDate": "Sat, 10 Oct 2020 23:17:24 +0200"
-  },
-  {
-    "title": "[Külföld] Putyin ördöglakatba bonyolódott Hegyi-Karabahhal",
-    "link": "https://telex.hu/kulfold/2020/10/10/hegyi-karabah-ormenyorszag-azerbajdzsan-azeri-ormeny-putyin",
-    "description": "Nehéz helyzetbe került a tűzszünethez közvetítő Moszkva a Hegyi-Karabahban kiújult harcokkal: örmény szövetségesével vitái vannak, a Karabah feletti ellenőrzésért támadást indító Azerbajdzsánnal és az őt támogató Törökországgal viszont kerülné a nyílt konfliktust.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Sat, 10 Oct 2020 22:25:19 +0200"
-  },
-  {
-    "title": "[Belföld] Csökkent Magyarországon az öngyilkosságok száma",
-    "link": "https://telex.hu/belfold/2020/10/10/ongyilkossag-magyarorszag-veszprem-nyiro-gyula-opai-who",
-    "description": "A női öngyilkosságok száma azonban évek óta először nem mérséklődött. ",
-    "author": "Mizsur András",
-    "pubDate": "Sat, 10 Oct 2020 22:20:22 +0200"
-  },
-  {
-    "title": "[Belföld] A hárommal osztható számok szerelmeseinek hármasa is lehetett a lottón",
-    "link": "https://telex.hu/belfold/2020/10/10/lotto-nyeroszamok-oktober-10",
-    "description": "Itt nézheti meg, hogy ezen a héten melyik számokat kellett volna eltalálni az ötöslottón a gyors meggazdagodáshoz!",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Sat, 10 Oct 2020 21:56:35 +0200"
   }
 ]
