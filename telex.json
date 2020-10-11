@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] Újabb győzelem: Szerbiában is nyert a magyar futballválogatott",
+    "link": "https://telex.hu/sport/2020/10/11/szerbia-magyarorszag-nemzetek-ligaja",
+    "description": "Bő egy hónap alatt megvan a harmadik idegenbeli siker is. A 31 éves újonc, Könyves Norbert lőtte a magyarok gólját, a szerbek csak kapufáig jutottak.",
+    "author": "Ághassi Attila",
+    "pubDate": "Sun, 11 Oct 2020 22:52:43 +0200"
+  },
+  {
+    "title": "[Belföld] 5 gyors tanulság, ami a szerencsi időköziből kiolvasható",
+    "link": "https://telex.hu/belfold/2020/10/11/szerencsi-valasztas-tanulsagok-ertekeles",
+    "description": "Siker-e az ellenzéki összefogás? Mi vár a Fideszre, és persze a többi pártra 2022-ben? Még mindig az ellenzéké a nagyváros? Összeszedtük, mi látható a vasárnapi országgyűlési időközi eredményéből.",
+    "author": "Rovó Attila",
+    "pubDate": "Sun, 11 Oct 2020 22:34:51 +0200"
+  },
+  {
     "title": "[Belföld] Több településen is új polgármestert választottak",
     "link": "https://telex.hu/belfold/2020/10/11/hovejen-es-csaszlon-is-uj-polgarmestert-valasztottak-idokozi",
     "description": "Ciráknak, Hövejnek és Császlónak is időközi önkormányzati választást tartottak. ",
@@ -16,7 +30,7 @@
   {
     "title": "[Belföld] Maradt a Fidesz-KDNP parlamenti kétharmada, nyert a jelöltjük a borsodi időközi választáson",
     "link": "https://telex.hu/belfold/2020/10/11/borsod-szerencs-idokozi-orszaggyulesi-valasztas-koncz-zsofia-biro-laszlo-fidesz-ketharmad",
-    "description": "Egy ideig az ellenzéki Bíró László állt az élen, de a végén elhúzott a fideszes Koncz Zsófia, aki több mint 1700 szavazattal nyert. A választást édesapja halála miatt kellett kiírni, a Fidesz kétharmada volt a tétje, de az megmaradt.",
+    "description": "Egy ideig az ellenzéki Bíró László állt az élen, de a végén elhúzott a fideszes Koncz Zsófia, aki több mint 1700 szavazattal nyert. A választást az apja halála miatt kellett kiírni, a Fidesz kétharmada volt a tétje, de az megmaradt.",
     "author": "Presinszky Judit",
     "pubDate": "Sun, 11 Oct 2020 20:10:29 +0200"
   },
@@ -49,7 +63,7 @@
     "pubDate": "Sun, 11 Oct 2020 17:59:16 +0200"
   },
   {
-    "title": "[Külföld] Nagyot bukhat az Osztrák Szabadságpárt a vörös Bécsben",
+    "title": "[Külföld] Nagyot bukott az Osztrák Szabadságpárt a vörös Bécsben",
     "link": "https://telex.hu/kulfold/2020/10/11/becs-ausztria-onkormanyzati-valasztas-spo-fpo-ovp-ludwig-strache",
     "description": "Harmincról tíz százalék alá zuhant a jobboldali populista FPÖ tábora. Az osztrák fővárost továbbra is a szocdemek vezethetik majd.",
     "author": "Körömi Csongor",
@@ -159,19 +173,5 @@
     "description": "A részvételi hajlandóság jócskán elmaradt a 2018-astól. ",
     "author": "Joób Sándor",
     "pubDate": "Sun, 11 Oct 2020 12:26:44 +0200"
-  },
-  {
-    "title": "[Sport] 125 parti után először kapott ki a sakkvilágbajnok Carlsen",
-    "link": "https://telex.hu/sport/2020/10/11/magnus-carlsen-sakk-ket-ev-utan-125-parti-elso-vereseg-duda",
-    "description": "A lengyel Duda győzte le a norvég játékost.",
-    "author": "Fehér János",
-    "pubDate": "Sun, 11 Oct 2020 11:33:08 +0200"
-  },
-  {
-    "title": "[Kult] A legjobb színésznőnek járó díjat kapta Stork Natasa az antalyai filmfesztiválon",
-    "link": "https://telex.hu/kult/2020/10/11/stork-natasa-dij-antalya-felkeszules-meghatarozatlan-ideig-tarto-egyuttletre",
-    "description": "A törökországi fesztiválon a nemzetközi szakmai zsűri elnöke Ada Solomon román producer, az Európai Filmakadémia elnökhelyettese volt.",
-    "author": "Joób Sándor",
-    "pubDate": "Sun, 11 Oct 2020 11:29:56 +0200"
   }
 ]
