@@ -1,10 +1,17 @@
 [
   {
+    "title": "[Belföld] A járvány állítólagos elszabadulásáról kérdezték a kormányt a parlamentben, a kormány pedig válaszolt",
+    "link": "https://telex.hu/belfold/2020/10/12/parlament-jarvany-vedekezes-idokozi-valasztas",
+    "description": "Nincs itt semmi látnivaló, minden rendben, főleg külföldhöz képest.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Mon, 12 Oct 2020 13:11:22 +0200"
+  },
+  {
     "title": "[Tech] Űrszemét lehet az, amit a múlt hónapban aszteroidának azonosítottak",
     "link": "https://telex.hu/tech/2020/10/12/urszemet-aszteroida-1960-as-evek",
-    "description": "",
+    "description": "Egy 1966-ban indított rakéta darabjait fedezhették fel a csillagászok.",
     "author": "Fehér János",
-    "pubDate": "Mon, 12 Oct 2020 12:59:54 +0200"
+    "pubDate": "Mon, 12 Oct 2020 13:07:29 +0200"
   },
   {
     "title": "[Belföld] Új pártot alapított az MTA korábbi elnöke, Pálinkás József",
@@ -166,12 +173,5 @@
     "description": "Ugye ismerős, amikor átverős címek miatt teljesen érdektelen hírekbe fut bele az ember? Ráadásul egy héten akár többször is? De ennek vége, itt a sorozat első része a Telexen: a clickbait-híradó.",
     "author": "Német Tamás, Szilli Tamás",
     "pubDate": "Mon, 12 Oct 2020 08:54:23 +0200"
-  },
-  {
-    "title": "[Koronavírus] Ha nem jönnek be a szlovákiai szigorítások, a teljes lezárás következik",
-    "link": "https://telex.hu/koronavirus/2020/10/12/szlovakia-igor-matovic-szigoritasok-vagy-lezaras",
-    "description": "A vírus nagyon gyorsan terjed, napi 500 alá akarják nyomni az új pozitív esetszámot.",
-    "author": "Fehér János",
-    "pubDate": "Mon, 12 Oct 2020 08:54:04 +0200"
   }
 ]

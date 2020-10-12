@@ -7,19 +7,36 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] A járvány állítólagos elszabadulásáról kérdezték a kormányt a parlamentben, a kormány pedig válaszolt]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/12/parlament-jarvany-vedekezes-idokozi-valasztas]]>
+      </link>
+      <description>
+        <![CDATA[Nincs itt semmi látnivaló, minden rendben, főleg külföldhöz képest.]]>
+      </description>
+      <author>
+        <![CDATA[Bozzay Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Mon, 12 Oct 2020 13:11:22 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Tech] Űrszemét lehet az, amit a múlt hónapban aszteroidának azonosítottak]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/tech/2020/10/12/urszemet-aszteroida-1960-as-evek]]>
       </link>
       <description>
-        <![CDATA[]]>
+        <![CDATA[Egy 1966-ban indított rakéta darabjait fedezhették fel a csillagászok.]]>
       </description>
       <author>
         <![CDATA[Fehér János]]>
       </author>
       <pubDate>
-        <![CDATA[Mon, 12 Oct 2020 12:59:54 +0200]]>
+        <![CDATA[Mon, 12 Oct 2020 13:07:29 +0200]]>
       </pubDate>
     </item>
     <item>
@@ -412,23 +429,6 @@
       </author>
       <pubDate>
         <![CDATA[Mon, 12 Oct 2020 08:54:23 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] Ha nem jönnek be a szlovákiai szigorítások, a teljes lezárás következik]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/12/szlovakia-igor-matovic-szigoritasok-vagy-lezaras]]>
-      </link>
-      <description>
-        <![CDATA[A vírus nagyon gyorsan terjed, napi 500 alá akarják nyomni az új pozitív esetszámot.]]>
-      </description>
-      <author>
-        <![CDATA[Fehér János]]>
-      </author>
-      <pubDate>
-        <![CDATA[Mon, 12 Oct 2020 08:54:04 +0200]]>
       </pubDate>
     </item>
   </channel>
