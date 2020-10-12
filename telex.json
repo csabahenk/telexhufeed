@@ -1,5 +1,54 @@
 [
   {
+    "title": "[Sport] A Lakers felemelésével lett teljes LeBron James mesterműve",
+    "link": "https://telex.hu/sport/2020/10/12/nba-donto-los-angeles-lakers-bajnok-miami-heat-lebron-james",
+    "description": "Történelmi, tizenhetedik NBA-bajnoki címét szerezte a Los Angeles Lakers, de James harmadik csapattal elért negyedik sikere talán még nagyobb mérföldkő. A Lakers még csak most indul majd be, ha jól csinálják, övék lehet az egész évtized.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Mon, 12 Oct 2020 10:59:00 +0200"
+  },
+  {
+    "title": "[Koronavírus] Már Szerbiában is elérhető a Remdesivir",
+    "link": "https://telex.hu/koronavirus/2020/10/12/szerbia-remdesivir-koronavirus-elerheto-kezeles",
+    "description": "A kezelést csak orvosi javaslatra, a Covid-19 bizonyos szakaszában alkalmazhatják.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Mon, 12 Oct 2020 10:53:38 +0200"
+  },
+  {
+    "title": "[Külföld] Kim Dzsongunon nagy a nyomás, könnyeit törölgette beszéde közben",
+    "link": "https://telex.hu/kulfold/2020/10/12/kim-dzsongun-eszak-korea-konnyek-beszed",
+    "description": "Erőfitogtatás mellett népe szenvedéséről is beszélt az észak-koreai vezető a katonai parádén.",
+    "author": "Fehér János",
+    "pubDate": "Mon, 12 Oct 2020 10:47:54 +0200"
+  },
+  {
+    "title": "[Belföld] Több millió hamis maszkot és COVID-tesztet foglalt le a NAV",
+    "link": "https://telex.hu/belfold/2020/10/12/tobb-millio-hamis-maszkot-es-covid-tesztet-foglalt-le-a-nav",
+    "description": "Május és július között akcióztak.",
+    "author": "Német Tamás",
+    "pubDate": "Mon, 12 Oct 2020 10:37:21 +0200"
+  },
+  {
+    "title": "[Gazdaság] 20 milliós bírságot kapott a KDB Ban, mert nem szűrte kellően a pénzmosást",
+    "link": "https://telex.hu/gazdasag/2020/10/12/20-millios-birsagot-kapott-a-kdb-bank",
+    "description": "Az MNB szerint ez az egyik legfontosabb biztonsági feladatuk a kereskedelmi bankoknak.",
+    "author": "Brückner Gergely",
+    "pubDate": "Mon, 12 Oct 2020 10:34:36 +0200"
+  },
+  {
+    "title": "[Koronavírus] Találtak néhány fertőzöttet, letesztelik a kilencmilliós várost",
+    "link": "https://telex.hu/koronavirus/2020/10/12/kina-fertozott-csingtao-teszteles-koronavirus",
+    "description": "Csingtao teljes lakosságát koronavírustesztnek vetik alá, miután a városban új esetekre akadtak a hétvégén.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Mon, 12 Oct 2020 10:28:47 +0200"
+  },
+  {
+    "title": "[Sport] Majdnem belehalt egy lábtörésbe, most visszatért az NFL-be",
+    "link": "https://telex.hu/sport/2020/10/12/nfl-alex-smith-visszateres-chase-claypool",
+    "description": "Alex Smith kétéves kálváriája a vereséggel zárult visszatérés ellenére is sikertörténet.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Mon, 12 Oct 2020 10:19:50 +0200"
+  },
+  {
     "title": "[Külföld] A jogsértő tagállamok uniós támogatásainak felfüggesztését sürgeti a szlovák államfő is",
     "link": "https://telex.hu/kulfold/2020/10/12/zuzana-caputova-jogallamasiga-eu",
     "description": "Zuzana Caputová szerint meg kell változtatni az egyhangúságot követelő uniós döntéshozatali mechanizmust, és itt a történelmi lehetőség arra is, hogy a közösség meghatározza, mi a jogállamiság, és annak melyek a feltételei.",
@@ -91,7 +140,7 @@
     "pubDate": "Mon, 12 Oct 2020 08:22:20 +0200"
   },
   {
-    "title": "[Koronavírus] Maruzsa: Az iskolákban egyelőre nincs szükség újabb óvintézkedésekre",
+    "title": "[Koronavírus] Találtak néhány fertőzöttet, letesztelik a kilencmilliós kínai várost",
     "link": "https://telex.hu/koronavirus/2020/10/12/mar-tobb-mint-37-4-millio-fertozott-van-vilagszerte",
     "description": "Az összes fontos hétfői hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.",
     "author": "Iván-Nagy Szilvia, Fehér János",
@@ -124,54 +173,5 @@
     "description": "Az örmény kormány szerint a városban heves robbanások zaja volt hallható.",
     "author": "Biró Marianna",
     "pubDate": "Mon, 12 Oct 2020 05:50:22 +0200"
-  },
-  {
-    "title": "[Belföld] Erős szél, kiadós eső és lehűlés vár ránk a héten",
-    "link": "https://telex.hu/belfold/2020/10/12/eros-szel-kiados-eso-es-lehules-var-rank-a-heten",
-    "description": "Egész héten ázunk majd.",
-    "author": "Biró Marianna",
-    "pubDate": "Mon, 12 Oct 2020 05:19:39 +0200"
-  },
-  {
-    "title": "[Külföld] Ketten jutottak tovább a ciprusi elnökválasztás első fordulójából",
-    "link": "https://telex.hu/kulfold/2020/10/12/ketten-jutottak-tovabb-a-ciprusi-elnokvalasztas-elso-fordulojabol",
-    "description": "",
-    "author": "Biró Marianna",
-    "pubDate": "Mon, 12 Oct 2020 05:04:19 +0200"
-  },
-  {
-    "title": "[Külföld] 40 év után azonosították az amerikai sorozatgyilkos egyik áldozatát",
-    "link": "https://telex.hu/kulfold/2020/10/11/40-ev-utan-azonositottak-egy-amerikai-sorozatgyilkos-aldozatat-samuel-little",
-    "description": "",
-    "author": "Lovas Gergő",
-    "pubDate": "Sun, 11 Oct 2020 23:04:12 +0200"
-  },
-  {
-    "title": "[Sport] Újabb győzelem: Szerbiában is nyert a magyar futballválogatott",
-    "link": "https://telex.hu/sport/2020/10/11/szerbia-magyarorszag-nemzetek-ligaja",
-    "description": "Bő egy hónap alatt megvan a harmadik idegenbeli siker is. A 31 éves újonc, Könyves Norbert lőtte a magyarok gólját, a szerbek csak kapufáig jutottak.",
-    "author": "Ághassi Attila",
-    "pubDate": "Sun, 11 Oct 2020 22:52:43 +0200"
-  },
-  {
-    "title": "[Belföld] 5 gyors tanulság, ami a szerencsi időköziből kiolvasható",
-    "link": "https://telex.hu/belfold/2020/10/11/szerencsi-valasztas-tanulsagok-ertekeles",
-    "description": "Siker-e az ellenzéki összefogás? Mi vár a Fideszre és persze a többi pártra 2022-ben? Még mindig az ellenzéké a nagyváros? Összeszedtük, mi látható a vasárnapi országgyűlési időközi eredményéből.",
-    "author": "Rovó Attila",
-    "pubDate": "Sun, 11 Oct 2020 22:34:51 +0200"
-  },
-  {
-    "title": "[Belföld] Több településen is új polgármestert választottak",
-    "link": "https://telex.hu/belfold/2020/10/11/hovejen-es-csaszlon-is-uj-polgarmestert-valasztottak-idokozi",
-    "description": "Ciráknak, Hövejnek és Császlónak is időközi önkormányzati választást tartottak. ",
-    "author": "Lovas Gergő",
-    "pubDate": "Sun, 11 Oct 2020 21:47:16 +0200"
-  },
-  {
-    "title": "[Belföld] Demeter Szilárd semmiféle könyv égetésével vagy darálásával nem ért egyet",
-    "link": "https://telex.hu/belfold/2020/10/11/demeter-szilard-meseorszag-mindenkie-konyv",
-    "description": "De a \"vasalóval házasodni kívánók\" felé vannak elvárásai.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Sun, 11 Oct 2020 20:28:15 +0200"
   }
 ]
