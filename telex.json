@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Külföld] A jogsértő tagállamok uniós támogatásainak felfüggesztését sürgeti a szlovák államfő is",
+    "link": "https://telex.hu/kulfold/2020/10/12/zuzana-caputova-jogallamasiga-eu",
+    "description": "Zuzana Caputová szerint meg kell változtatni az egyhangúságot követelő uniós döntéshozatali mechanizmust, és itt a történelmi lehetőség arra is, hogy a közösség meghatározza, mi a jogállamiság, és annak melyek a feltételei.",
+    "author": "Biró Marianna",
+    "pubDate": "Mon, 12 Oct 2020 09:56:35 +0200"
+  },
+  {
+    "title": "[Gazdaság] Sok lakáshiteles törlesztője\n              emelkedhet a moratórium lejárta után",
+    "link": "https://telex.hu/gazdasag/2020/10/12/emelkedhet-a-moratorium-utan-sok-lakashiteles-torlesztoje",
+    "description": "A Bank360 elemzése szerint a törlesztők növekedésének nem közvetlenül a moratórium az oka, hanem az, hogy a bankok közötti referenciakamatok rapid módon emelkednek.",
+    "author": "Brückner Gergely",
+    "pubDate": "Mon, 12 Oct 2020 09:56:16 +0200"
+  },
+  {
+    "title": "[Külföld] Eddig még sosem látott különbség van Biden és Trump között",
+    "link": "https://telex.hu/kulfold/2020/10/12/bloomberg-biden",
+    "description": "Az ABC és a Washington Post felmérése szerint egyre nagyobbra nyílik az olló a jelöltek között.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Mon, 12 Oct 2020 09:51:34 +0200"
+  },
+  {
     "title": "[Belföld] Blokád alá venné az MTVA-székházat Hadházy Ákos és Szél Bernadett október 23-án",
     "link": "https://telex.hu/belfold/2020/10/12/oktober-23-ara-blokadot-szervez-hadhazy-akos-es-szel-bernadett-az-mtva-szekhazhoz",
     "description": "A független képviselők videóüzenetben fejtették ki, az 56-os forradalom évfordulója a propaganda elleni küzdelemről is szól.",
@@ -135,7 +156,7 @@
   {
     "title": "[Belföld] 5 gyors tanulság, ami a szerencsi időköziből kiolvasható",
     "link": "https://telex.hu/belfold/2020/10/11/szerencsi-valasztas-tanulsagok-ertekeles",
-    "description": "Siker-e az ellenzéki összefogás? Mi vár a Fideszre, és persze a többi pártra 2022-ben? Még mindig az ellenzéké a nagyváros? Összeszedtük, mi látható a vasárnapi országgyűlési időközi eredményéből.",
+    "description": "Siker-e az ellenzéki összefogás? Mi vár a Fideszre és persze a többi pártra 2022-ben? Még mindig az ellenzéké a nagyváros? Összeszedtük, mi látható a vasárnapi országgyűlési időközi eredményéből.",
     "author": "Rovó Attila",
     "pubDate": "Sun, 11 Oct 2020 22:34:51 +0200"
   },
@@ -152,26 +173,5 @@
     "description": "De a \"vasalóval házasodni kívánók\" felé vannak elvárásai.",
     "author": "Bozzay Balázs",
     "pubDate": "Sun, 11 Oct 2020 20:28:15 +0200"
-  },
-  {
-    "title": "[Belföld] Maradt a Fidesz-KDNP parlamenti kétharmada, nyert a jelöltjük a borsodi időközi választáson",
-    "link": "https://telex.hu/belfold/2020/10/11/borsod-szerencs-idokozi-orszaggyulesi-valasztas-koncz-zsofia-biro-laszlo-fidesz-ketharmad",
-    "description": "Egy ideig az ellenzéki Bíró László állt az élen, de a végén elhúzott a fideszes Koncz Zsófia, aki több mint 1700 szavazattal nyert. A választást az apja halála miatt kellett kiírni, a Fidesz kétharmada volt a tétje, de az megmaradt.",
-    "author": "Presinszky Judit",
-    "pubDate": "Sun, 11 Oct 2020 20:10:29 +0200"
-  },
-  {
-    "title": "[Koronavírus] Akár 28 napig is fertőzőképes maradhat a koronavírus a telefonok kijelzőin és a bankjegyeken",
-    "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-28-napig-fertozhet-bizonyos-feluleteken-penz-telefon-ausztral-kutatas",
-    "description": "Egy ausztrál kutatás arra is választ találhatott, miért voltak tömeges megbetegedések húsüzemekben, hidegebb létesítményekben. ",
-    "author": "Lovas Gergő",
-    "pubDate": "Sun, 11 Oct 2020 19:53:13 +0200"
-  },
-  {
-    "title": "[Koronavírus] Szlovákia: kötelező kültéri maszkviselés, hat főnél több nem gyűlhet össze, a középiskolák áttérnek a távoktatásra",
-    "link": "https://telex.hu/koronavirus/2020/10/11/koronavirus-szlovakia-kozepiskola-tavoktatas",
-    "description": "Az általános iskolásoknak pedig kötelező lesz az arcmaszk viselése oktatás közben.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Sun, 11 Oct 2020 19:15:21 +0200"
   }
 ]
