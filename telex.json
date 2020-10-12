@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] Blokád alá venné az MTVA-székházat Hadházy Ákos és Szél Bernadett október 23-án",
+    "link": "https://telex.hu/belfold/2020/10/12/oktober-23-ara-blokadot-szervez-hadhazy-akos-es-szel-bernadett-az-mtva-szekhazhoz",
+    "description": "A független képviselők videóüzenetben fejtették ki, az 56-os forradalom évfordulója a propaganda elleni küzdelemről is szól.",
+    "author": "Biró Marianna",
+    "pubDate": "Mon, 12 Oct 2020 09:26:35 +0200"
+  },
+  {
+    "title": "[Belföld] Legalább 700 ezer embernek nincs háziorvosa Magyarországon",
+    "link": "https://telex.hu/belfold/2020/10/12/haziorvoshiany-magyarorszagon",
+    "description": "562 üres családorvosi praxis van az országban, ez több mint 700 ezer embert érint.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Mon, 12 Oct 2020 09:25:36 +0200"
+  },
+  {
     "title": "[Belföld] Baltával ütött agyon egy tiszaalpári férfi egy másikat",
     "link": "https://telex.hu/belfold/2020/10/12/baltaval-utott-agyon-egy-tiszaalpari-ferfi-egy-masikat",
     "description": "Ismerőse szerelemféltési ügyét részegen indult \"elrendezni\".",
@@ -105,7 +119,7 @@
     "pubDate": "Mon, 12 Oct 2020 05:04:19 +0200"
   },
   {
-    "title": "[Külföld] 40 év után azonosították a hírhedt amerikai sorozatgyilkos egyik áldozatát",
+    "title": "[Külföld] 40 év után azonosították az amerikai sorozatgyilkos egyik áldozatát",
     "link": "https://telex.hu/kulfold/2020/10/11/40-ev-utan-azonositottak-egy-amerikai-sorozatgyilkos-aldozatat-samuel-little",
     "description": "",
     "author": "Lovas Gergő",
@@ -159,19 +173,5 @@
     "description": "Az általános iskolásoknak pedig kötelező lesz az arcmaszk viselése oktatás közben.",
     "author": "Bozzay Balázs",
     "pubDate": "Sun, 11 Oct 2020 19:15:21 +0200"
-  },
-  {
-    "title": "[Belföld] Káel Csaba hétfőn találkozik az SZFE küldöttségével",
-    "link": "https://telex.hu/belfold/2020/10/11/szfe-kael-csaba-beszelgetes",
-    "description": "A mozgóképipar fejlesztéséért felelős kormánybiztossal hétfőn találkoznak az egyetem képviselői.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Sun, 11 Oct 2020 18:05:21 +0200"
-  },
-  {
-    "title": "[Sport] Nadal óriási játékkal győzte le Djokovicot a Garroson, 20 Grand Slammel utolérte Federert",
-    "link": "https://telex.hu/sport/2020/10/11/rafael-nadal-novak-djokovic-tenisz-grand-slam-roland-garros-federer-rekord",
-    "description": "A spanyol élete egyik legjobb teniszével nyerte meg 13. Roland Garrosát a világelső ellen.",
-    "author": "Iván András",
-    "pubDate": "Sun, 11 Oct 2020 17:59:16 +0200"
   }
 ]
