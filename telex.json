@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Sport] Akkora a járvány Csehországban, hogy a focit is felfüggesztik",
+    "link": "https://telex.hu/sport/2020/10/13/koronavirus-csehorszag-futball-bajnoksag",
+    "description": "Nem játszanak első- és másodosztályú meccseket sem. Csehországban gyorsabban terjed a vírus, mint bárhol máshol Európában.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 13 Oct 2020 20:23:19 +0200"
+  },
+  {
+    "title": "[Koronavírus] Romániában betiltották a magánrendezvényeket a járvány miatt",
+    "link": "https://telex.hu/koronavirus/2020/10/13/romaniaban-betiltottak-a-maganrendezvenyeket-a-jarvany-miatt",
+    "description": "Lagzi, keresztelő ünnepség, szülinapi buli nem lehet, templomi esküvő, mozi, színház, koncert, választás előtti kampányrendezvények korlátozottan, de igen.\n",
+    "author": "Hanula Zsolt",
+    "pubDate": "Tue, 13 Oct 2020 20:21:32 +0200"
+  },
+  {
+    "title": "[Külföld] Lavrov: Ha a nyugat nem akar partnerséget, nem is lesz",
+    "link": "https://telex.hu/kulfold/2020/10/13/lavrov-ha-a-nyugat-nem-akar-partnerseget-nem-is-lesz",
+    "description": "Az orosz külügyminiszter szerint Moszkva törekszik a párbeszédre, de a Nyugat nem tartja magát a szabályokhoz.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Tue, 13 Oct 2020 20:21:15 +0200"
+  },
+  {
+    "title": "[Külföld] Tíz év óta először csökkent Németország lakossága",
+    "link": "https://telex.hu/kulfold/2020/10/13/tiz-ev-ota-eloszor-csokkent-nemetorszag-lakossaga",
+    "description": "40 ezerrel kevesebben élnek Németországban, mint 2020 elején.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Tue, 13 Oct 2020 20:05:27 +0200"
+  },
+  {
     "title": "[Belföld] Egy mádi férfi betört egy cég telephelyére, megitta az ott talált bort és pálinkát, majd leült pornót nézni",
     "link": "https://telex.hu/belfold/2020/10/13/egy-madi-ferfi-betort-egy-ceg-telephelyere-megitta-az-ott-talalt-bort-es-palinkat-majd-leult-pornot-nezni",
     "description": "",
@@ -145,33 +173,5 @@
     "description": "A Kúria megint elnapolta az ítélethirdetést, mert a védő állítólag nem jutott be a vádlotthoz a börtönbe. N. János a vád szerint feldarabolta és elégette felesége holttestét, a maradványokat pedig szétszórta. Az ügy hat éve húzódik, korábban már kétszer felmentették.",
     "author": "Presinszky Judit",
     "pubDate": "Tue, 13 Oct 2020 15:23:59 +0200"
-  },
-  {
-    "title": "[Külföld] Kétszáz milicistával akarták lerohanni a törvényhozás épületét",
-    "link": "https://telex.hu/kulfold/2020/10/13/usa-donald-trump-gretchen-whitmer-boogaloo-boys-milicia-szelsojobboldal-anarchistak",
-    "description": "Az elmúlt napokban eddig nem ismert részletek láttak napvilágot Gretchen Whitmer michigani kormányzó tervezett elrablásáról. Az FBI több ügynökének is sikerült beépülnie a túszejtést tervező milicisták közé, de a férfiak ideológiai hátteréről is sok mindent megtudhattunk. Közük volt a szélsőségesen kormányellenes Boogaloo-mozgalomhoz is, melynek célja többek között a második amerikai polgárháború kirobbantása, illetve a rendvédelmi erők és (főként baloldali) politikusok elleni erőszak.",
-    "author": "Dömötör Bálint",
-    "pubDate": "Tue, 13 Oct 2020 15:11:53 +0200"
-  },
-  {
-    "title": "[Tudomány] Spagettivé nyújtott csillag halálát látták a csillagászok",
-    "link": "https://telex.hu/tudomany/2020/10/13/spagettive-nyujtott-csillag-halalat-lattak-a-csillagaszok",
-    "description": "Láthatta a kutatócsoport, hogyan halt meg a csillag 215 millió évvel ezelőtt. ",
-    "author": "Nyilas Gergely",
-    "pubDate": "Tue, 13 Oct 2020 15:09:34 +0200"
-  },
-  {
-    "title": "[Belföld] Simonka György minden vádpontot tagadott a bíróságon",
-    "link": "https://telex.hu/belfold/2020/10/13/simonka-gyorgy-targyalas-tagadas-koltsegvetesi-csalas",
-    "description": "Megkezdődött a Fővárosi Törvényszéken a fideszes országgyűlési képviselő és 32 társa elleni büntetőper.",
-    "author": "Iván-Nagy Szilvia, Német Tamás",
-    "pubDate": "Tue, 13 Oct 2020 14:43:57 +0200"
-  },
-  {
-    "title": "[Kult] Demeter Szilárd díjat kapott egy zenei rendezvényen, amit az általa vezetett PIM támogatott",
-    "link": "https://telex.hu/kult/2020/10/13/orom-a-zene-kulondij-demeter-szilard",
-    "description": "A könnyűzene társadalmasításért felelős kormánybiztos azt mondta, előlegnek tekinti a díjat, ha öt év múlva nem lesz jobb a magyar zenészeknek, akkor visszaadja. ",
-    "author": "Előd Fruzsina",
-    "pubDate": "Tue, 13 Oct 2020 14:28:25 +0200"
   }
 ]
