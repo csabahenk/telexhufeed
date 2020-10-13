@@ -1,10 +1,17 @@
 [
   {
+    "title": "[Külföld] Hollandia visszaadná a gyarmatairól összeharácsolt kincseket",
+    "link": "https://telex.hu/kulfold/2020/10/13/hollandia-visszaadna-a-gyarmatairol-osszeharacsolt-kincseket",
+    "description": "Csak az a gond, hogy nem világos, melyik vagyontárgyat pontosan kinek kéne visszaadni.",
+    "author": "Hanula Zsolt",
+    "pubDate": "Tue, 13 Oct 2020 17:07:26 +0200"
+  },
+  {
     "title": "[Sport] Giro: Peter Sagan elképesztő volt, több mint száz kilométeres szökésből nyerte a szakaszt",
     "link": "https://telex.hu/sport/2020/10/13/giro-ditalia-10-szakasz-peter-sagan-gyozelem-szokes",
     "description": "A háromszoros világbajnok szlovák bringás erődemonstráció tartott az olasz körverseny 10. etapján.",
-    "author": "",
-    "pubDate": "Tue, 13 Oct 2020 17:02:34 +0200"
+    "author": "Pál Tamás",
+    "pubDate": "Tue, 13 Oct 2020 17:07:20 +0200"
   },
   {
     "title": "[Sport] Cristiano Ronaldo koronavírusos",
@@ -166,12 +173,5 @@
     "description": "A diplomáciának és a külpolitikának a koronavírus idején is működnie kell - mondta a külügyminiszter. Genfben sok nemzetközi szervezet működik, ezeknél is dolgoznak magyarok, de a város valaha fontos emigrációs célpont is volt.",
     "author": "Brückner Gergely",
     "pubDate": "Tue, 13 Oct 2020 11:53:41 +0200"
-  },
-  {
-    "title": "[Belföld] Leállt Magyarországon a hepatitis C szűrése",
-    "link": "https://telex.hu/belfold/2020/10/13/hepatitis-c-szures-leallt-magyarorszagon-makara-mihaly",
-    "description": "Makara Mihály főorvos szerint az lehet a probléma, hogy a hepatitis C-t és a koronavírust ugyanazok a szakemberek kezelik.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Tue, 13 Oct 2020 11:29:27 +0200"
   }
 ]
