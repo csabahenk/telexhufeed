@@ -7,13 +7,30 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Sport] Giro: Peter Sagan elképesztő volt, több mint száz kilométeres szökésből nyerte a szakaszt]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/13/giro-ditalia-10-szakasz-peter-sagan-gyozelem-szokes]]>
+      </link>
+      <description>
+        <![CDATA[A háromszoros világbajnok szlovák bringás erődemonstráció tartott az olasz körverseny 10. etapján.]]>
+      </description>
+      <author>
+        <![CDATA[]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 13 Oct 2020 17:02:34 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Sport] Cristiano Ronaldo koronavírusos]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/sport/2020/10/13/cristiano-ronaldo-koronavirusos]]>
       </link>
       <description>
-        <![CDATA[A portugál futballszövetség egyelőre nem árult el részleteket a sztár állapotáról.]]>
+        <![CDATA[Nincsenek tünetei, de kihagyja a következő meccseit. Hogy a Fradi ellen játszani fog-e, még nem tudni.]]>
       </description>
       <author>
         <![CDATA[Hanula Zsolt]]>
@@ -414,23 +431,6 @@ növekedést vár jövőre, mások ennél pesszimistábbak]]>
       </author>
       <pubDate>
         <![CDATA[Tue, 13 Oct 2020 11:29:27 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tech] Világszerte milliók adatait gyűjtötte be egy kínai cég, megszereztük a magyar célpontok listáját]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tech/2020/10/13/vilagszerte-milliok-adatait-gyujtotte-be-egy-kinai-ceg-megszereztuk-a-magyar-celpontokat]]>
-      </link>
-      <description>
-        <![CDATA[Jelenlegi és volt politikusok, családtagjaik, diplomaták, állami cégek vezetői és vállalkozók, befektetők neve is feltűnik a hétszáz fős listán. A kiszivárgott adatbázis feltehetően hírszerzési célokat szolgált, és egyben betekintést nyújthat a kínai digitális megfigyelő gépezet belsejébe.]]>
-      </description>
-      <author>
-        <![CDATA[Bolcsó Dániel]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 13 Oct 2020 11:01:25 +0200]]>
       </pubDate>
     </item>
   </channel>

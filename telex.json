@@ -1,8 +1,15 @@
 [
   {
+    "title": "[Sport] Giro: Peter Sagan elképesztő volt, több mint száz kilométeres szökésből nyerte a szakaszt",
+    "link": "https://telex.hu/sport/2020/10/13/giro-ditalia-10-szakasz-peter-sagan-gyozelem-szokes",
+    "description": "A háromszoros világbajnok szlovák bringás erődemonstráció tartott az olasz körverseny 10. etapján.",
+    "author": "",
+    "pubDate": "Tue, 13 Oct 2020 17:02:34 +0200"
+  },
+  {
     "title": "[Sport] Cristiano Ronaldo koronavírusos",
     "link": "https://telex.hu/sport/2020/10/13/cristiano-ronaldo-koronavirusos",
-    "description": "A portugál futballszövetség egyelőre nem árult el részleteket a sztár állapotáról.",
+    "description": "Nincsenek tünetei, de kihagyja a következő meccseit. Hogy a Fradi ellen játszani fog-e, még nem tudni.",
     "author": "Hanula Zsolt",
     "pubDate": "Tue, 13 Oct 2020 16:31:40 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "Makara Mihály főorvos szerint az lehet a probléma, hogy a hepatitis C-t és a koronavírust ugyanazok a szakemberek kezelik.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Tue, 13 Oct 2020 11:29:27 +0200"
-  },
-  {
-    "title": "[Tech] Világszerte milliók adatait gyűjtötte be egy kínai cég, megszereztük a magyar célpontok listáját",
-    "link": "https://telex.hu/tech/2020/10/13/vilagszerte-milliok-adatait-gyujtotte-be-egy-kinai-ceg-megszereztuk-a-magyar-celpontokat",
-    "description": "Jelenlegi és volt politikusok, családtagjaik, diplomaták, állami cégek vezetői és vállalkozók, befektetők neve is feltűnik a hétszáz fős listán. A kiszivárgott adatbázis feltehetően hírszerzési célokat szolgált, és egyben betekintést nyújthat a kínai digitális megfigyelő gépezet belsejébe.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Tue, 13 Oct 2020 11:01:25 +0200"
   }
 ]
