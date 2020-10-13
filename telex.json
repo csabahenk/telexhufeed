@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Szórakozás] Az Epres Panni-ügy után egy hónappal távozik a Best főszerkesztője",
+    "link": "https://telex.hu/szorakozas/2020/10/13/tavozik-a-best-foszerkesztoje-az-epres-panni-ugy-utan-egy-honappal",
+    "description": "Hivatalosan nem indokolta meg a Central Médiacsoport, hogy miért távozik közös megegyezéssel a főszerkesztő.",
+    "author": "Sajó Dávid",
+    "pubDate": "Tue, 13 Oct 2020 22:29:40 +0200"
+  },
+  {
+    "title": "[Külföld] Letartóztatták a nőt, aki a Vatikán pénzét átmosva vásárolt luxuscikkeket magának",
+    "link": "https://telex.hu/kulfold/2020/10/13/letartoztattak-azt-a-not-aki-a-vatikan-penzet-atmosva-vasarolt-luxuscikkeket-maganak",
+    "description": "Becciu bíboros botránya nagy port kavart a Vatikán körül, a letartóztatott nő, Cecilia Marogna az ő bizalmasa volt.",
+    "author": "Molnár Réka",
+    "pubDate": "Tue, 13 Oct 2020 22:27:30 +0200"
+  },
+  {
+    "title": "[Koronavírus] Macron sokkoló bejelentésre készül szerda este",
+    "link": "https://telex.hu/koronavirus/2020/10/13/macron-sokkolo-bejelentesre-keszul-szerda-este",
+    "description": "A járvány tragédiával fenyeget, ezért minden áron meg kell fékezni. A francia sajtó kijárási tilalom bevezetésére tippel.",
+    "author": "Hanula Zsolt",
+    "pubDate": "Tue, 13 Oct 2020 22:26:47 +0200"
+  },
+  {
+    "title": "[Tudomány] Titkos washingtoni UFO-aktákról beszél egy volt amerikai szenátor",
+    "link": "https://telex.hu/tudomany/2020/10/13/harry-reid-szenator-ufo-foldonkivuli-egyesult-allamok",
+    "description": "Harry Reid egykori nevadai szenátor szerint az Egyesült Államoknak ideje lenne komolyan vennie a földönkívüliek kérdését. Szerinte rengeteg bizonyíték a mai napig nem derült ki az UFO-k létezéséről.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 13 Oct 2020 22:23:23 +0200"
+  },
+  {
+    "title": "[Tech] A Facebook betiltja az oltásellenes hirdetéseket",
+    "link": "https://telex.hu/tech/2020/10/13/a-facebook-betiltja-az-oltasellenes-hirdeteseket",
+    "description": "De az oltásellenes tartalmak maradhatnak, sőt, az oltások kötelezőségét kritizáló hirdetések is.",
+    "author": "Hanula Zsolt",
+    "pubDate": "Tue, 13 Oct 2020 21:53:11 +0200"
+  },
+  {
     "title": "[Tech] Szögletes élekkel hoz 5G-s forradalmat az iPhone 12",
     "link": "https://telex.hu/tech/2020/10/13/apple-telefon-iphone-12-bemutato",
     "description": "Az Apple lerántotta a leplet az idei telefonjairól. Négy modell érkezik majd az iPhone 12-es családban, a legolcsóbb 300, a legdrágább 600 ezerbe kerül. A cég állítása szerint egy csomó dologban köröket vernek minden versenytársukra. Ja, és jön egy okoshangszóró is.",
@@ -138,40 +173,5 @@
     "description": "Rengeteg eső esett a Bükkben, a Mátrában, és Szlovákiában a vízgyűjtő területeken, jön az árhullám.\n",
     "author": "Hanula Zsolt",
     "pubDate": "Tue, 13 Oct 2020 17:54:37 +0200"
-  },
-  {
-    "title": "[Tudomány] Áttörést hozhat az epilepszia megelőzésében az MTA kutatása",
-    "link": "https://telex.hu/tudomany/2020/10/13/mta-koki-kutatas-idegsejt-abhd4",
-    "description": "Magyar kutatócsoport fedezte fel az ABHD4 fehérje szerepét az idegsejtek fejlődésében. Kutatásuk segíthet az epilepszia és egyes agyi daganatok kialakulásának megelőzésében.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 13 Oct 2020 17:28:10 +0200"
-  },
-  {
-    "title": "[Belföld] Vidnyánszky: A diákok akciója kifulladni látszik",
-    "link": "https://telex.hu/belfold/2020/10/13/vidnyanszki-a-diakok-akcioja-kifulladni-latszik",
-    "description": "Vidnyánszky Attila szerint az SZFE kuratóriuma legitim, a diákok tiltakozása jogszerűtlen, egyébként is csak egy hangos kisebbség miatt zajlik. És még cigiznek is.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Tue, 13 Oct 2020 17:18:51 +0200"
-  },
-  {
-    "title": "[Külföld] Hollandia visszaadná a gyarmatairól összeharácsolt kincseket",
-    "link": "https://telex.hu/kulfold/2020/10/13/hollandia-visszaadna-a-gyarmatairol-osszeharacsolt-kincseket",
-    "description": "Csak az a gond, hogy nem világos, melyik vagyontárgyat pontosan kinek kéne visszaadni.",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 17:07:26 +0200"
-  },
-  {
-    "title": "[Sport] Giro: Peter Sagan elképesztő volt, több mint száz kilométeres szökésből nyerte a szakaszt",
-    "link": "https://telex.hu/sport/2020/10/13/giro-ditalia-10-szakasz-peter-sagan-gyozelem-szokes",
-    "description": "A háromszoros világbajnok szlovák bringás erődemonstrációt tartott az olasz körverseny 10. etapján.",
-    "author": "Pál Tamás",
-    "pubDate": "Tue, 13 Oct 2020 17:07:20 +0200"
-  },
-  {
-    "title": "[Sport] Cristiano Ronaldo koronavírusos",
-    "link": "https://telex.hu/sport/2020/10/13/cristiano-ronaldo-koronavirusos",
-    "description": "Nincsenek tünetei, de kihagyja a következő meccseit. Hogy a Fradi ellen játszani fog-e, még nem tudni.",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 16:31:40 +0200"
   }
 ]
