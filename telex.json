@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Belföld] Északon akár hó eshet kedden éjjel és szerdán",
+    "link": "https://telex.hu/belfold/2020/10/13/cikk-cime-62",
+    "description": "",
+    "author": "Előd Fruzsina",
+    "pubDate": "Tue, 13 Oct 2020 15:26:38 +0200"
+  },
+  {
+    "title": "[Belföld] Darnózseli hentes: Nem követtem el bűncselekményt",
+    "link": "https://telex.hu/belfold/2020/10/13/darnozseli-hentes-targyalas-itelet-kuria",
+    "description": "A Kúria megint elnapolta az ítélethirdetést, mert a védő állítólag nem jutott be a vádlotthoz a börtönbe. N. János a vád szerint feldarabolta és elégette felesége holttestét, a maradványokat pedig szétszórta. Az ügy hat éve húzódik, korábban már kétszer felmentették.",
+    "author": "Presinszky Judit",
+    "pubDate": "Tue, 13 Oct 2020 15:23:59 +0200"
+  },
+  {
+    "title": "[Külföld] Kétszáz milicistával akarták lerohanni a törvényhozás épületét",
+    "link": "https://telex.hu/kulfold/2020/10/13/usa-donald-trump-gretchen-whitmer-boogaloo-boys-milicia-szelsojobboldal-anarchistak",
+    "description": "Az elmúlt napokban eddig nem ismert részletek láttak napvilágot Gretchen Whitmer michigani kormányzó tervezett elrablásáról. Az FBI több ügynökének is sikerült beépülnie a túszejtést tervező milicisták közé, de a férfiak ideológiai hátteréről is sok mindent megtudhattunk. Közük volt a szélsőségesen kormányellenes Boogaloo-mozgalomhoz is, melynek célja többek között a második amerikai polgárháború kirobbantása, illetve a rendvédelmi erők és (főként baloldali) politikusok elleni erőszak.",
+    "author": "Dömötör Bálint",
+    "pubDate": "Tue, 13 Oct 2020 15:11:53 +0200"
+  },
+  {
+    "title": "[Tudomány] Spagettivé nyújtott csillag halálát látták a csillagászok",
+    "link": "https://telex.hu/tudomany/2020/10/13/spagettive-nyujtott-csillag-halalat-lattak-a-csillagaszok",
+    "description": "Láthatta a kutatócsoport, hogyan halt meg a csillag 215 millió évvel ezelőtt. ",
+    "author": "Nyilas Gergely",
+    "pubDate": "Tue, 13 Oct 2020 15:09:34 +0200"
+  },
+  {
     "title": "[Belföld] Simonka György minden vádpontot tagadott a bíróságon",
     "link": "https://telex.hu/belfold/2020/10/13/simonka-gyorgy-targyalas-tagadas-koltsegvetesi-csalas",
     "description": "Megkezdődött a Fővárosi Törvényszéken a fideszes országgyűlési képviselő és 32 társa elleni büntetőper.",
@@ -145,33 +173,5 @@
     "description": "A súlyos incidensben heten vesztették életüket, még mindig erősek az iszlamista szélsőségesek Oroszországban.",
     "author": "Brückner Gergely",
     "pubDate": "Tue, 13 Oct 2020 10:27:07 +0200"
-  },
-  {
-    "title": "[Belföld] Videón, ahogy kamion alá csúszik egy robogó a Lehel térnél",
-    "link": "https://telex.hu/belfold/2020/10/13/motoros-kamion-baleset-lehel-ter-vaci-ut",
-    "description": "A robogós állítólag túlélte a balesetet.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Tue, 13 Oct 2020 10:24:00 +0200"
-  },
-  {
-    "title": "[Belföld] A Publicus és a Nézőpont szerint is a fővárosiak közel fele elégedett Karácsony Gergely első évével",
-    "link": "https://telex.hu/belfold/2020/10/13/karacsony-gergely-megitelese-felmeres-nepszeruseg-publicus-nezopont-fopolgarmester",
-    "description": "Publicus: a megkérdezettek 40 százaléka nem elégedett a munkájával. Nézőpont: 48 százalék kedveli, 42 százalék nem.",
-    "author": "Joób Sándor",
-    "pubDate": "Tue, 13 Oct 2020 10:23:46 +0200"
-  },
-  {
-    "title": "[Szórakozás] Egyetlen turista kedvéért kinyitott a Machu Picchu",
-    "link": "https://telex.hu/szorakozas/2020/10/13/egyetlen-turista-machu-picchu-kinyitott-peru",
-    "description": "Egy japán férfi hét hónapig várakozott a romváros közelében, hogy beléphessen a járvány miatt lezárt területre.",
-    "author": "Fehér János",
-    "pubDate": "Tue, 13 Oct 2020 10:22:23 +0200"
-  },
-  {
-    "title": "[Szórakozás] Több mint harminc év után küldte vissza a pécsi könyvtárba az ellopott könyvet",
-    "link": "https://telex.hu/szorakozas/2020/10/13/harminc-ev-utan-kuldte-vissza-lopott-konyv-pecsi-konyvtar",
-    "description": "A feladó azt írta a könyvtárnak: bocsánatot kér, amiért ellopta a könyvet.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Tue, 13 Oct 2020 10:06:07 +0200"
   }
 ]
