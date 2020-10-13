@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Tech] Szögletes élekkel hoz 5G-s forradalmat az iPhone 12",
+    "link": "https://telex.hu/tech/2020/10/13/apple-telefon-iphone-12-bemutato",
+    "description": "Az Apple lerántotta a leplet az idei telefonjairól. Négy modell érkezik majd az iPhone 12-es családban, a legolcsóbb 300, a legdrágább 600 ezerbe kerül. A cég állítása szerint egy csomó dologban köröket vernek minden versenytársukra. Ja, és jön egy okoshangszóró is.",
+    "author": "Flachner Balázs",
+    "pubDate": "Tue, 13 Oct 2020 21:28:12 +0200"
+  },
+  {
+    "title": "[Belföld] Kirúgta a szegedi rektor a beosztottját, aki etikai vizsgálatot indított ellene",
+    "link": "https://telex.hu/belfold/2020/10/13/koronavirus-rovo-laszlo-szeged-tudomanyegyetem",
+    "description": "Rovó László koronavírus-fertőzöttként ment be dolgozni a Szegedi Tudományegyetemre. A kamarában etikai eljárást indítottak ellene, az ezt indító professzort a rektor kirúgta.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 13 Oct 2020 21:15:15 +0200"
+  },
+  {
     "title": "[Külföld] Hatalmas második világháborús bomba robbant fel Lengyelországban, hatástalanítás közben",
     "link": "https://telex.hu/kulfold/2020/10/13/hatalmas-masodik-vilaghaborus-bomba-robbant-fel-lengyelorszagban-hatastalanitas-kozben",
     "description": "A víz alatti robbanásban senki nem sérült meg. Az öttonnás bomba 2400 kg robbanóanyagot tartalmazott.",
@@ -159,19 +173,5 @@
     "description": "Nincsenek tünetei, de kihagyja a következő meccseit. Hogy a Fradi ellen játszani fog-e, még nem tudni.",
     "author": "Hanula Zsolt",
     "pubDate": "Tue, 13 Oct 2020 16:31:40 +0200"
-  },
-  {
-    "title": "[Belföld] Novák Előd: A homoszexuálisok szaporodása a propaganda következménye",
-    "link": "https://telex.hu/belfold/2020/10/13/novak-elod-a-homoszexualisok-szaporodasa-a-propaganda-kovetkezmenye",
-    "description": "23 településen üzen hadat a Mi Hazánk a mesekönyveknek, amik szerintük a homoszexualitást népszerűsítik.\n\n",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 15:52:57 +0200"
-  },
-  {
-    "title": "[Belföld] Északon akár hó eshet kedden éjjel és szerdán",
-    "link": "https://telex.hu/belfold/2020/10/13/cikk-cime-62",
-    "description": "",
-    "author": "Előd Fruzsina",
-    "pubDate": "Tue, 13 Oct 2020 15:26:38 +0200"
   }
 ]
