@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] Budapestről Budapestre lehet utazni a legújabb ferihegyi járattal",
+    "link": "https://telex.hu/belfold/2020/10/13/ferihegy-setarepules-sehova-kerozin",
+    "description": "Ausztrália és Ázsia után, Európában először itthon indítanak egy semmibe vezető repülőjáratot. ",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 13 Oct 2020 18:30:19 +0200"
+  },
+  {
+    "title": "[Koronavírus] Megkezdték a magyar remdesivir alkalmazását súlyos állapotú betegeken",
+    "link": "https://telex.hu/koronavirus/2020/10/13/megkezdtek-a-magyar-remdesivir-alkalmazasat-sulyos-allapotu-betegeken",
+    "description": "A debreceni egyetem klinikáján kapják lélegeztetőgépen levő betegek infúzióban.",
+    "author": "Hanula Zsolt",
+    "pubDate": "Tue, 13 Oct 2020 18:24:22 +0200"
+  },
+  {
     "title": "[Tech] Oroszország állt a norvég parlament elleni augusztusi kibertámadás mögött",
     "link": "https://telex.hu/tech/2020/10/13/oroszorszag-allt-a-norveg-parlament-elleni-augusztusi-kibertamadas-mogott",
     "description": "Egyelőre nem tudni, lesz-e hivatalos válaszlépés norvég részről.",
@@ -159,19 +173,5 @@
     "description": "",
     "author": "Sajó Dávid",
     "pubDate": "Tue, 13 Oct 2020 12:52:26 +0200"
-  },
-  {
-    "title": "[Belföld] Csöndben mélykerítés épült a déli határnál",
-    "link": "https://telex.hu/belfold/2020/10/13/csondben-melykerites-epult-a-deli-hatarnal",
-    "description": "Titokban elkészült egy tíz kilométeres szakaszon az alagutaktól védő földbe vájt kerítéssel a határ megerősítése.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Tue, 13 Oct 2020 12:51:07 +0200"
-  },
-  {
-    "title": "[Belföld] Bronzkori tömegsírt találtak Tiszafüred határában",
-    "link": "https://telex.hu/belfold/2020/10/13/bronzkori-tomegsirt-talaltak-tiszafured-hataraban",
-    "description": "A testek több mint fele gyerekeké, azt feltételezik, fertőző betegségben halhattak meg i. e. 1700 körül.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Tue, 13 Oct 2020 12:37:23 +0200"
   }
 ]
