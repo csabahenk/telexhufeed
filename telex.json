@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Belföld] Árvízvédelmi készültséget rendeltek el a Hernádon és a Sajón",
+    "link": "https://telex.hu/belfold/2020/10/13/arvizvedelmi-keszultseget-rendeltek-el-a-hernadon-es-a-sajon",
+    "description": "Rengeteg eső esett a Bükkben, a Mátrában, és Szlovákiában a vízgyűjtő területeken, jön az árhullám.\n",
+    "author": "Hanula Zsolt",
+    "pubDate": "Tue, 13 Oct 2020 17:54:37 +0200"
+  },
+  {
+    "title": "[Tudomány] Áttörést hozhat az epilepszia megelőzésében az MTA kutatása",
+    "link": "https://telex.hu/tudomany/2020/10/13/mta-koki-kutatas-idegsejt-abhd4",
+    "description": "Magyar kutatócsoport fedezte fel az ABHD4 fehérje szerepét az idegsejtek fejlődésében. Kutatásuk segíthet az epilepszia és egyes agyi daganatok kialakulásának megelőzésében.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 13 Oct 2020 17:28:10 +0200"
+  },
+  {
+    "title": "[Belföld] Vidnyánszky: A diákok akciója kifulladni látszik",
+    "link": "https://telex.hu/belfold/2020/10/13/vidnyanszki-a-diakok-akcioja-kifulladni-latszik",
+    "description": "Vidnyánszky Attila szerint az SZFE kuratóriuma legitim, a diákok tiltakozása jogszerűtlen, egyébként is csak egy hangos kisebbség miatt zajlik. És még cigiznek is.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Tue, 13 Oct 2020 17:18:51 +0200"
+  },
+  {
     "title": "[Külföld] Hollandia visszaadná a gyarmatairól összeharácsolt kincseket",
     "link": "https://telex.hu/kulfold/2020/10/13/hollandia-visszaadna-a-gyarmatairol-osszeharacsolt-kincseket",
     "description": "Csak az a gond, hogy nem világos, melyik vagyontárgyat pontosan kinek kéne visszaadni.",
@@ -9,7 +30,7 @@
   {
     "title": "[Sport] Giro: Peter Sagan elképesztő volt, több mint száz kilométeres szökésből nyerte a szakaszt",
     "link": "https://telex.hu/sport/2020/10/13/giro-ditalia-10-szakasz-peter-sagan-gyozelem-szokes",
-    "description": "A háromszoros világbajnok szlovák bringás erődemonstráció tartott az olasz körverseny 10. etapján.",
+    "description": "A háromszoros világbajnok szlovák bringás erődemonstrációt tartott az olasz körverseny 10. etapján.",
     "author": "Pál Tamás",
     "pubDate": "Tue, 13 Oct 2020 17:07:20 +0200"
   },
@@ -152,26 +173,5 @@
     "description": "A béremeléssel egyetértenek, de szerintük a törvény alapjogokat sért, módosításra szorul, és ellátási problémákat okozhat. ",
     "author": "Joób Sándor",
     "pubDate": "Tue, 13 Oct 2020 12:14:49 +0200"
-  },
-  {
-    "title": "[Koronavírus] Operatív törzs: 52 szociális intézményben van jelen a koronavírus",
-    "link": "https://telex.hu/koronavirus/2020/10/13/koronavirus-operativ-torzs-sajtotajekoztato-muller-cecilia",
-    "description": "A koronavírus-járvány kezdete óta még sosem volt olyan magas a napi halálozások száma, mint az elmúlt 24 órában. Folyamatosan nő fertőzöttek száma, Müller Cecília szerint a társadalom minden korosztályában megjelent a vírus.",
-    "author": "Cseke Balázs",
-    "pubDate": "Tue, 13 Oct 2020 12:08:41 +0200"
-  },
-  {
-    "title": "[Belföld] Közös nyilatkozatban utasítja el a könyvpusztítást hat irodalmi és művészeti szervezet",
-    "link": "https://telex.hu/belfold/2020/10/13/nyilatkozat-elutasitas-irodalmi-szepmuveszeti-szervezet-konyvdaralas",
-    "description": "Azt kérik, a kormányzat minden szintje utasítsa el és ítélje el a könyvpusztítást.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Tue, 13 Oct 2020 11:55:13 +0200"
-  },
-  {
-    "title": "[Külföld] Szijjártó Péter megnyitotta a genfi konzulátust",
-    "link": "https://telex.hu/kulfold/2020/10/13/szijjarto-peter-megnyitotta-a-genfi-konzulatust",
-    "description": "A diplomáciának és a külpolitikának a koronavírus idején is működnie kell - mondta a külügyminiszter. Genfben sok nemzetközi szervezet működik, ezeknél is dolgoznak magyarok, de a város valaha fontos emigrációs célpont is volt.",
-    "author": "Brückner Gergely",
-    "pubDate": "Tue, 13 Oct 2020 11:53:41 +0200"
   }
 ]
