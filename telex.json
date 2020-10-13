@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Tech] Oroszország állt a norvég parlament elleni augusztusi kibertámadás mögött",
+    "link": "https://telex.hu/tech/2020/10/13/oroszorszag-allt-a-norveg-parlament-elleni-augusztusi-kibertamadas-mogott",
+    "description": "Egyelőre nem tudni, lesz-e hivatalos válaszlépés norvég részről.",
+    "author": "Hanula Zsolt",
+    "pubDate": "Tue, 13 Oct 2020 18:09:21 +0200"
+  },
+  {
     "title": "[Belföld] Árvízvédelmi készültséget rendeltek el a Hernádon és a Sajón",
     "link": "https://telex.hu/belfold/2020/10/13/arvizvedelmi-keszultseget-rendeltek-el-a-hernadon-es-a-sajon",
     "description": "Rengeteg eső esett a Bükkben, a Mátrában, és Szlovákiában a vízgyűjtő területeken, jön az árhullám.\n",
@@ -166,12 +173,5 @@
     "description": "A testek több mint fele gyerekeké, azt feltételezik, fertőző betegségben halhattak meg i. e. 1700 körül.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Tue, 13 Oct 2020 12:37:23 +0200"
-  },
-  {
-    "title": "[Belföld] A kamara ízekre szedte az orvosi béremelésről elfogadott törvényt",
-    "link": "https://telex.hu/belfold/2020/10/13/orvosberemeles-magyar-orvosi-kamara-kirendeles-masodallas-velemeny-szolgalati-jogviszony",
-    "description": "A béremeléssel egyetértenek, de szerintük a törvény alapjogokat sért, módosításra szorul, és ellátási problémákat okozhat. ",
-    "author": "Joób Sándor",
-    "pubDate": "Tue, 13 Oct 2020 12:14:49 +0200"
   }
 ]

@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Tech] Oroszország állt a norvég parlament elleni augusztusi kibertámadás mögött]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tech/2020/10/13/oroszorszag-allt-a-norveg-parlament-elleni-augusztusi-kibertamadas-mogott]]>
+      </link>
+      <description>
+        <![CDATA[Egyelőre nem tudni, lesz-e hivatalos válaszlépés norvég részről.]]>
+      </description>
+      <author>
+        <![CDATA[Hanula Zsolt]]>
+      </author>
+      <pubDate>
+        <![CDATA[Tue, 13 Oct 2020 18:09:21 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Árvízvédelmi készültséget rendeltek el a Hernádon és a Sajón]]>
       </title>
       <link>
@@ -415,23 +432,6 @@ növekedést vár jövőre, mások ennél pesszimistábbak]]>
       </author>
       <pubDate>
         <![CDATA[Tue, 13 Oct 2020 12:37:23 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] A kamara ízekre szedte az orvosi béremelésről elfogadott törvényt]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/13/orvosberemeles-magyar-orvosi-kamara-kirendeles-masodallas-velemeny-szolgalati-jogviszony]]>
-      </link>
-      <description>
-        <![CDATA[A béremeléssel egyetértenek, de szerintük a törvény alapjogokat sért, módosításra szorul, és ellátási problémákat okozhat. ]]>
-      </description>
-      <author>
-        <![CDATA[Joób Sándor]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 13 Oct 2020 12:14:49 +0200]]>
       </pubDate>
     </item>
   </channel>
