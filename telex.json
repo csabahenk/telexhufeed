@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Külföld] Pancsolt szeszbe haltak bele 44-en Törökországban",
+    "link": "https://telex.hu/kulfold/2020/10/13/torokorszag-pancsolt-szesz-alkohol-halal",
+    "description": "Erdogan elnök az egekbe emelte az alkohol jövedéki adóját. A török nép viszont nem nagyon akar lemondani a szeszről.",
+    "author": "Körömi Csongor",
+    "pubDate": "Tue, 13 Oct 2020 23:39:49 +0200"
+  },
+  {
+    "title": "[Tech] Az Erő most mindenkivel van",
+    "link": "https://telex.hu/tech/2020/10/13/star-wars-squadrons-jatekteszt-ea-motive",
+    "description": "Tudathasadás és teljes ideológiai szabadság a Star Wars Squadronsban. Újra megmentjük egy X-szárnyúval a galaxist, és ezzel párhuzamosan egy TIE vadásszal lőjük halomra a mocskos lázadókat.",
+    "author": "Világi Máté",
+    "pubDate": "Tue, 13 Oct 2020 22:55:47 +0200"
+  },
+  {
     "title": "[Szórakozás] Az Epres Panni-ügy után egy hónappal távozik a Best főszerkesztője",
     "link": "https://telex.hu/szorakozas/2020/10/13/tavozik-a-best-foszerkesztoje-az-epres-panni-ugy-utan-egy-honappal",
     "description": "Hivatalosan nem indokolta meg a Central Médiacsoport, hogy miért távozik közös megegyezéssel a főszerkesztő.",
@@ -159,19 +173,5 @@
     "description": "A debreceni egyetem klinikáján kapják lélegeztetőgépen levő betegek infúzióban.",
     "author": "Hanula Zsolt",
     "pubDate": "Tue, 13 Oct 2020 18:24:22 +0200"
-  },
-  {
-    "title": "[Tech] Oroszország állt a norvég parlament elleni augusztusi kibertámadás mögött",
-    "link": "https://telex.hu/tech/2020/10/13/oroszorszag-allt-a-norveg-parlament-elleni-augusztusi-kibertamadas-mogott",
-    "description": "Egyelőre nem tudni, lesz-e hivatalos válaszlépés norvég részről.",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 18:09:21 +0200"
-  },
-  {
-    "title": "[Belföld] Árvízvédelmi készültséget rendeltek el a Hernádon és a Sajón",
-    "link": "https://telex.hu/belfold/2020/10/13/arvizvedelmi-keszultseget-rendeltek-el-a-hernadon-es-a-sajon",
-    "description": "Rengeteg eső esett a Bükkben, a Mátrában, és Szlovákiában a vízgyűjtő területeken, jön az árhullám.\n",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 17:54:37 +0200"
   }
 ]
