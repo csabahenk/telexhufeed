@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Tech] Home office-ban marad a Dropbox örökre",
+    "link": "https://telex.hu/tech/2020/10/13/home-office-ban-marad-a-dropbox-orokre",
+    "description": "Bejött nekik a kényszerű váltás a koronavírus-járvány miatt, dolgozóik produktívabbak lettek otthonról.",
+    "author": "Körömi Csongor",
+    "pubDate": "Wed, 14 Oct 2020 00:09:30 +0200"
+  },
+  {
     "title": "[Külföld] Pancsolt szeszbe haltak bele 44-en Törökországban",
     "link": "https://telex.hu/kulfold/2020/10/13/torokorszag-pancsolt-szesz-alkohol-halal",
     "description": "Erdogan elnök az egekbe emelte az alkohol jövedéki adóját. A török nép viszont nem nagyon akar lemondani a szeszről.",
@@ -166,12 +173,5 @@
     "description": "Ausztrália és Ázsia után, Európában először itthon indítanak egy semmibe vezető repülőjáratot. ",
     "author": "Körömi Csongor",
     "pubDate": "Tue, 13 Oct 2020 18:30:19 +0200"
-  },
-  {
-    "title": "[Koronavírus] Megkezdték a magyar remdesivir alkalmazását súlyos állapotú betegeken",
-    "link": "https://telex.hu/koronavirus/2020/10/13/megkezdtek-a-magyar-remdesivir-alkalmazasat-sulyos-allapotu-betegeken",
-    "description": "A debreceni egyetem klinikáján kapják lélegeztetőgépen levő betegek infúzióban.",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 18:24:22 +0200"
   }
 ]

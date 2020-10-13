@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Tech] Home office-ban marad a Dropbox örökre]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tech/2020/10/13/home-office-ban-marad-a-dropbox-orokre]]>
+      </link>
+      <description>
+        <![CDATA[Bejött nekik a kényszerű váltás a koronavírus-járvány miatt, dolgozóik produktívabbak lettek otthonról.]]>
+      </description>
+      <author>
+        <![CDATA[Körömi Csongor]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 14 Oct 2020 00:09:30 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Külföld] Pancsolt szeszbe haltak bele 44-en Törökországban]]>
       </title>
       <link>
@@ -412,23 +429,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 13 Oct 2020 18:30:19 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] Megkezdték a magyar remdesivir alkalmazását súlyos állapotú betegeken]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/13/megkezdtek-a-magyar-remdesivir-alkalmazasat-sulyos-allapotu-betegeken]]>
-      </link>
-      <description>
-        <![CDATA[A debreceni egyetem klinikáján kapják lélegeztetőgépen levő betegek infúzióban.]]>
-      </description>
-      <author>
-        <![CDATA[Hanula Zsolt]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 13 Oct 2020 18:24:22 +0200]]>
       </pubDate>
     </item>
   </channel>
