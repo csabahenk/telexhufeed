@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Tudomány] A kutyák személyisége az öregedéssel az emberekéhez hasonlóan változik",
+    "link": "https://telex.hu/tudomany/2020/10/14/cikk-cime-64",
+    "description": "",
+    "author": "Csatári Flóra Dóra",
+    "pubDate": "Wed, 14 Oct 2020 11:48:17 +0200"
+  },
+  {
+    "title": "[Belföld] Díszpolgári címet kap Koncz Zsuzsa és Tamás Gáspár Miklós",
+    "link": "https://telex.hu/belfold/2020/10/14/cikk-cime-65",
+    "description": "Molnár Piroska színésznő is Budapest díszpolgára lesz.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 14 Oct 2020 11:44:16 +0200"
+  },
+  {
+    "title": "[Tech] A Vodafone hamarosan felkapcsolja az 5G-t Budapesten",
+    "link": "https://telex.hu/tech/2020/10/14/budapest-5g-szazezrek-hasznalhatja-200-bazisallomas-bme",
+    "description": "A főváros szinte teljes területén elérhető lesz a szolgáltatás néhány hét múlva.. ",
+    "author": "Fehér János",
+    "pubDate": "Wed, 14 Oct 2020 11:41:13 +0200"
+  },
+  {
     "title": "[Belföld] Matrjoska módjára épített magyar horrorkaravánt kapcsoltak le az M6-oson",
     "link": "https://telex.hu/belfold/2020/10/14/matrjoska-modjara-epitett-magyar-horrorkaravant-kapcsoltak-le-az-m6-os",
     "description": "A pótkocsira felkerült egy hátfal nélküli teherautó, amiben volt egy összetört kisteherautó. Ráadásul a tréleres vonatót és a pótkocsit is kivonták korábban a forgalomból.",
@@ -7,9 +28,9 @@
     "pubDate": "Wed, 14 Oct 2020 10:48:34 +0200"
   },
   {
-    "title": "[Belföld] Amikor jó biznisz elveszíteni egy polgármesterválasztást",
+    "title": "[Belföld] Amikor jó biznisz elveszíteni egy polgármester-választást",
     "link": "https://telex.hu/belfold/2020/10/14/oktober-13-onkormanyzati-valasztas-evforduloja-vesztes-jeloltek",
-    "description": "Van, aki saját egykori ellenfelét csuklóztathatja, másvalaki nagyobb fejlesztésekről dönthet vesztesként, mintha nyert volna, vagy épp a parlamentbe került be. De olyan is akad, aki soha nem nyert választást, mégis egy kinevezés lett a jutalma. Egy évvel az önkormányzati választások után megnéztük, kik azok a vesztesek, akiknek azóta felfele ívelt a szerencséjük: Tüttő Kata, Gy. Németh Erzsébet, Tarlós István, Sára Botond.",
+    "description": "Van, aki saját egykori ellenfelét csuklóztathatja, másvalaki nagyobb fejlesztéseket valósíthat meg vesztesként, mintha nyert volna, vagy épp a parlamentbe került be. De olyan is akad, aki soha nem nyert választást, mégis egy kinevezés lett a jutalma. Egy évvel az önkormányzati választások után megnéztük, kik azok a vesztesek, akiknek azóta felfele ívelt a szerencséjük: Tüttő Kata, Gy. Németh Erzsébet, Tarlós István, Sára Botond.",
     "author": "Cseke Balázs",
     "pubDate": "Wed, 14 Oct 2020 10:46:49 +0200"
   },
@@ -28,7 +49,7 @@
     "pubDate": "Wed, 14 Oct 2020 10:32:16 +0200"
   },
   {
-    "title": "[Belföld] A szomszéd vette észre a letakart, de még füstölgő hamvakat, különösen kegyetlen emberölés nyomait találták a rendőrök Dánszentmiklóson",
+    "title": "[Belföld] A szomszéd vette észre a letakart, de még füstölgő hamvakat Dánszentmiklóson",
     "link": "https://telex.hu/belfold/2020/10/14/kulonos-kegyetlenseg-emberoles-danszentmiklos-fustolgo-hamvak-agyonvert-kikotozott-magarahagyott-ferfi",
     "description": "Az ügyészség a tavaly nyári ügyben különös kegyetlenséggel elkövetett emberölés miatt emelt most vádat.",
     "author": "Csatári Flóra Dóra",
@@ -51,7 +72,7 @@
   {
     "title": "[Gazdaság] A Mandiner főszerkesztője megvette a Rubicon archívumát, a lappal együttműködés indul",
     "link": "https://telex.hu/gazdasag/2020/10/14/az-mcc-a-libri-bejelentes-utan-a-rubicont-mar-meg-is-szerezte",
-    "description": "A jövőben a Rubicon lap és azonos nevű történetkutató intézet külön, de stratégiai szövetségben fog működni.",
+    "description": "A jövőben a Rubicon lap és az azonos nevű történetkutató intézet külön, de stratégiai szövetségben fog működni.",
     "author": "Brückner Gergely",
     "pubDate": "Wed, 14 Oct 2020 09:49:55 +0200"
   },
@@ -152,26 +173,5 @@
     "description": "Az egykori MSZP-s politikus, fotográfus, mérnök, közgazdász halálhíréről az MSZP a közösségi médiában számolt be.",
     "author": "Csatári Flóra Dóra",
     "pubDate": "Wed, 14 Oct 2020 06:49:17 +0200"
-  },
-  {
-    "title": "[Külföld] Beperli a Melania Trumpról könyvet író extanácsadót az amerikai igazságügyi minisztérium",
-    "link": "https://telex.hu/kulfold/2020/10/14/amerika-igazsagugyi-miniszterium-per-melania-trump-volt-tanacsadoja-ellen",
-    "description": "Stephanie Winston Wolkoff a minisztérium szerint megszegte a titoktartásra szerződésben vállalt kötelezettségét.",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Wed, 14 Oct 2020 06:16:14 +0200"
-  },
-  {
-    "title": "[Külföld] Negatív lett a lengyel miniszterelnök tesztje, de karanténban marad",
-    "link": "https://telex.hu/kulfold/2020/10/14/lengylorszag-koronavirus-mateusz-morawiecki-negativ-teszt-lengyel-kormanyfo",
-    "description": "Mateusz Morawiecki azért került karanténba, mert érintkezett a lengyel kormányőrség (SOP) egyik tisztjével, akiről később kiderült, hogy koronavírus-fertőzött.  ",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Wed, 14 Oct 2020 05:48:03 +0200"
-  },
-  {
-    "title": "[Észkombájn] Jézus ihlette a középkori festményekről ismert horrorgyerekeket",
-    "link": "https://telex.hu/eszkombajn/2020/10/14/kozepkori-festmeny-gyerek-jezus-abrazolas",
-    "description": "A rémisztő középkori Jézuskák egy olyan korból származnak, amikor leginkább csak egy gyermeket volt szokás megfesteni.",
-    "author": "Világi Máté",
-    "pubDate": "Wed, 14 Oct 2020 05:07:21 +0200"
   }
 ]
