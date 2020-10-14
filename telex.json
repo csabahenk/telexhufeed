@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Külföld] Mit gondol, mennyit ért az árverésen a világrekorder vándorsólyom?",
+    "link": "https://telex.hu/kulfold/2020/10/14/cikk-cime-67",
+    "description": "Ekkora összeget még soha sehol nem fizettek egy ilyen madárért a világon.",
+    "author": "Joób Sándor",
+    "pubDate": "Wed, 14 Oct 2020 16:36:04 +0200"
+  },
+  {
+    "title": "[Belföld] Közel hat év börtönt kapott az a magyar ügyintéző, aki útleveleket állított ki nem uniós állampolgároknak",
+    "link": "https://telex.hu/belfold/2020/10/14/okmanyiroda-korrupcio-utlevel-szemelyi-hamisitas-borton-buntetes-birosag",
+    "description": "A 31 éves nő által kiállított papírokkal az igénylők tovább tudtak utazni az EU-ba.",
+    "author": "Joób Sándor",
+    "pubDate": "Wed, 14 Oct 2020 16:35:19 +0200"
+  },
+  {
+    "title": "[Belföld] Október 23-ra vonulást szerveznek az SZFE hallgatói",
+    "link": "https://telex.hu/belfold/2020/10/14/szfe-oktober-23-vonulas-szarka-gabor-kancellar",
+    "description": "Megemlékeznek a szabadságról és bátorságról. Az oktatók továbbra is sztrájkolnak.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 16:19:28 +0200"
+  },
+  {
+    "title": "[Külföld] Meghalt Trump legnagyobb indiai rajongója, miután böjtölni kezdett az amerikai elnök koronavírus-fertőződése után",
+    "link": "https://telex.hu/kulfold/2020/10/14/india-bussa-krishna-meghalt-ehezes-donald-trump-koronavirus",
+    "description": "Bussa Krishna egy szentélyt is emelt a kertjében az amerikai elnök tiszteletére.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 14 Oct 2020 16:17:42 +0200"
+  },
+  {
+    "title": "[Koronavírus] Mi látszik ezer koronavírusos halott adataiból?",
+    "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-magyarorszag-elso-1000-elhunyt",
+    "description": "Szerdán elérte az ezret az elhunytak száma az állami koronavírus-honlap összesítése szerint. Megnéztük, mi olvasható ki a korukból, a nemek arányából, vagy épp az alapbetegségeikből. Már amennyire ez utóbbit a weboldal összevisszasága lehetővé tette.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Wed, 14 Oct 2020 16:02:34 +0200"
+  },
+  {
     "title": "[Gazdaság] Áprilisban nagyon megdrágul a cigi",
     "link": "https://telex.hu/gazdasag/2020/10/14/ado-dohany-cigaretta",
     "description": "Még az eddig tervezett emeléseknél is jobban növelik a dohányzás adóterheit. Aki elpöfékel egyetlen szál cigit, az mostanában 40, hamarosan 50 forint adóval segíti a magyar költségvetést. ",
@@ -138,40 +173,5 @@
     "description": "Novák Katalin bejelentése alapján január 1-től vezetnék be a legalább egy gyermeket nevelő családok otthonára kínált programot.",
     "author": "Brückner Gergely",
     "pubDate": "Wed, 14 Oct 2020 12:21:11 +0200"
-  },
-  {
-    "title": "[Belföld] Most szórólapon terjesztik Lenkei járványtagadó elméleteit",
-    "link": "https://telex.hu/belfold/2020/10/14/lenkei-gabor-offline-szorolap",
-    "description": "A szórólapra QR-kódokat is nyomtattak, amiről járványtagadó YouTube-videók is elérhetők.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 12:06:45 +0200"
-  },
-  {
-    "title": "[Gazdaság] Az Exim ismét tőkealapot indít az OTP-vel",
-    "link": "https://telex.hu/gazdasag/2020/10/14/az-exim-ismet-alapot-indit-az-otp-val",
-    "description": "Huszonötmilliárd forintos tőkével alapot indít az Exim és az OTP. A PortfoLion Regionális Magántőke Alap II. az előző, \"egyes\" alaphoz hasonlóan 50-50 százalékban az Exim Bank és az OTP befektetéséből indul. A befektetések értéke várhatóan 3 és 15 millió euró közé tehető majd. ",
-    "author": "Brückner Gergely",
-    "pubDate": "Wed, 14 Oct 2020 12:01:15 +0200"
-  },
-  {
-    "title": "[Tudomány] Egy időjárási jelenség miatt lehet több halálos cápatámadás Ausztráliában",
-    "link": "https://telex.hu/tudomany/2020/10/14/ausztralia-capatamadas-tobb-szorf-vadaszterulet",
-    "description": "Közelebb kerültek a strandokhoz a zsákmányállatok vonulási útja, és már nem csak kíváncsiságból harapnak a cápák.",
-    "author": "Fehér János",
-    "pubDate": "Wed, 14 Oct 2020 11:57:56 +0200"
-  },
-  {
-    "title": "[Tudomány] A kutyák személyisége az öregedéssel az emberekéhez hasonlóan változik",
-    "link": "https://telex.hu/tudomany/2020/10/14/cikk-cime-64",
-    "description": "",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Wed, 14 Oct 2020 11:48:17 +0200"
-  },
-  {
-    "title": "[Belföld] Díszpolgári címet kap Koncz Zsuzsa és Tamás Gáspár Miklós",
-    "link": "https://telex.hu/belfold/2020/10/14/cikk-cime-65",
-    "description": "Molnár Piroska színésznő is Budapest díszpolgára lesz.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 11:44:16 +0200"
   }
 ]
