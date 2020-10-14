@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Videó] SZFE: Ki rántja előbb félre a kormányt, ez a kérdés",
+    "link": "https://telex.hu/video/2020/10/14/szfe-egyetemfoglalas-tanar-diak-video",
+    "description": "Hogy jutottak el a tanárok és több száz huszonéves fiatal oda, hogy elfoglalják a Színház- és Filmművészeti Egyetemet? És miben reménykednek még?",
+    "author": "Lengyel-Szabó Péter, Földes András",
+    "pubDate": "Wed, 14 Oct 2020 20:18:03 +0200"
+  },
+  {
+    "title": "[Külföld] Hiába mutogat hatalmas rakétákat Észak-Korea, az USA szerint ezek feltehetően nem működnek",
+    "link": "https://telex.hu/kulfold/2020/10/14/eszak-korea-usa-interkontinentalis-ballisztikus-raketa-mike-pompeo",
+    "description": "Az amerikai külügyminiszter szerint Phenjan se tavaly, se az azt megelőző években nem végzett kísérleteket interkontinentális ballisztikus rakétákkal. \n",
+    "author": "Joób Sándor",
+    "pubDate": "Wed, 14 Oct 2020 19:56:40 +0200"
+  },
+  {
     "title": "[Koronavírus] Nő a koronavírus örökítőanyagának mennyisége a debreceni és nyíregyházi szennyvízben",
     "link": "https://telex.hu/koronavirus/2020/10/14/szennyviz-koronavirus-orokitoanyag-debrecen-nyiregyhaza",
     "description": "A koncentrációnövekedés 4-10 nappal előzi meg a tünetes megbetegedések számának növekedését.",
@@ -159,19 +173,5 @@
     "description": "Szerdán elérte az ezret az elhunytak száma az állami koronavírus-honlap összesítése szerint. Megnéztük, mi olvasható ki a korukból, a nemek arányából, vagy épp az alapbetegségeikből. Már amennyire ez utóbbit a weboldal összevisszasága lehetővé tette.",
     "author": "Bozzay Balázs",
     "pubDate": "Wed, 14 Oct 2020 16:02:34 +0200"
-  },
-  {
-    "title": "[Gazdaság] Áprilisban nagyon megdrágul a cigi",
-    "link": "https://telex.hu/gazdasag/2020/10/14/ado-dohany-cigaretta",
-    "description": "Még az eddig tervezett emeléseknél is jobban növelik a dohányzás adóterheit. Aki elpöfékel egyetlen szál cigit, az mostanában 40, hamarosan 50 forint adóval segíti a magyar költségvetést. ",
-    "author": "Brückner Gergely",
-    "pubDate": "Wed, 14 Oct 2020 15:58:21 +0200"
-  },
-  {
-    "title": "[Belföld] Áder János aláírta a törvényt, ami az orvosi béremelés ellenére sok vitát váltott ki",
-    "link": "https://telex.hu/belfold/2020/10/14/orvosi-beremeles-torveny-egeszsegugyi-szolgalati-jogviszony-ader-janos-alairas",
-    "description": "Az államfő szerint nem támasztható megalapozott alkotmányos kifogás a törvénnyel szemben.",
-    "author": "Joób Sándor",
-    "pubDate": "Wed, 14 Oct 2020 15:10:37 +0200"
   }
 ]
