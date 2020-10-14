@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] Matrjoska módjára épített magyar horrorkaravánt kapcsoltak le az M6-oson",
+    "link": "https://telex.hu/belfold/2020/10/14/matrjoska-modjara-epitett-magyar-horrorkaravant-kapcsoltak-le-az-m6-os",
+    "description": "A pótkocsira felkerült egy hátfal nélküli teherautó, amiben volt egy összetört kisteherautó. Ráadásul a tréleres vonatót és a pótkocsit is kivonták korábban a forgalomból.",
+    "author": "Csatári Flóra Dóra",
+    "pubDate": "Wed, 14 Oct 2020 10:48:34 +0200"
+  },
+  {
     "title": "[Belföld] Amikor jó biznisz elveszíteni egy polgármesterválasztást",
     "link": "https://telex.hu/belfold/2020/10/14/oktober-13-onkormanyzati-valasztas-evforduloja-vesztes-jeloltek",
     "description": "Van, aki saját egykori ellenfelét csuklóztathatja, másvalaki nagyobb fejlesztésekről dönthet vesztesként, mintha nyert volna, vagy épp a parlamentbe került be. De olyan is akad, aki soha nem nyert választást, mégis egy kinevezés lett a jutalma. Egy évvel az önkormányzati választások után megnéztük, kik azok a vesztesek, akiknek azóta felfele ívelt a szerencséjük: Tüttő Kata, Gy. Németh Erzsébet, Tarlós István, Sára Botond.",
@@ -7,7 +14,7 @@
     "pubDate": "Wed, 14 Oct 2020 10:46:49 +0200"
   },
   {
-    "title": "[Belföld] Kitört a 106-os busz egyik kereke az Aquincumnál, és eltalált egy autót",
+    "title": "[Belföld] Kitört a 106-os busz egyik kereke Aquincumnál, és eltalált egy autót",
     "link": "https://telex.hu/belfold/2020/10/14/autobaleset-busz-bkk-kerek",
     "description": "Jött egy busz, kiesett a kereke. Személyi sérülésről még nincs hír.",
     "author": "Iván-Nagy Szilvia",
@@ -31,7 +38,7 @@
     "title": "[Külföld] Engedélyeznék az eutanáziát a 12 év alatti halálos beteg gyerekek számára is Hollandiában",
     "link": "https://telex.hu/kulfold/2020/10/14/engedelyeznek-az-eutanaziat-a-12-ev-alatti-halalos-beteg-gyerekek-szamara-is-hollandiaban",
     "description": "A beteg csecsemők és a súlyos beteg 12 év felettiek számára már most is adott a lehetőség.",
-    "author": "",
+    "author": "Iván-Nagy Szilvia",
     "pubDate": "Wed, 14 Oct 2020 10:07:30 +0200"
   },
   {
@@ -129,7 +136,7 @@
     "title": "[Koronavírus] Negyvenezer aktív beteggel kalkulált a kormány novemberre",
     "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-percrol-percre-2020-10-14",
     "description": "Az összes fontos szerdai hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.\n",
-    "author": "Iván-Nagy Szilvia",
+    "author": "Thüringer Barbara, Iván-Nagy Szilvia",
     "pubDate": "Wed, 14 Oct 2020 07:18:18 +0200"
   },
   {
@@ -166,12 +173,5 @@
     "description": "A rémisztő középkori Jézuskák egy olyan korból származnak, amikor leginkább csak egy gyermeket volt szokás megfesteni.",
     "author": "Világi Máté",
     "pubDate": "Wed, 14 Oct 2020 05:07:21 +0200"
-  },
-  {
-    "title": "[Tech] Home office-ban marad a Dropbox örökre",
-    "link": "https://telex.hu/tech/2020/10/13/home-office-ban-marad-a-dropbox-orokre",
-    "description": "Bejött nekik a kényszerű váltás a koronavírus-járvány miatt, dolgozóik produktívabbak lettek otthonról.",
-    "author": "Körömi Csongor",
-    "pubDate": "Wed, 14 Oct 2020 00:09:30 +0200"
   }
 ]
