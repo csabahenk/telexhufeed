@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Koronavírus] A 0-s vércsoportúaknál alacsonyabb lehet a koronavírus-fertőzés kockázata",
+    "link": "https://telex.hu/koronavirus/2020/10/14/a-0-s-vercsoportuaknal-alacsonyabb-lehet-a-koronavirus-fertozes-kockazata",
+    "description": "Ha mégis megfertőződnek, nagyobb eséllyel úszhatják meg enyhe betegséggel.",
+    "author": "Bolcsó Dániel",
+    "pubDate": "Thu, 15 Oct 2020 00:05:26 +0200"
+  },
+  {
+    "title": "[Koronavírus] Donald Trump 14 éves fia is koronavírusos volt",
+    "link": "https://telex.hu/koronavirus/2020/10/14/donald-trump-fia-is-koronavirusos-volt",
+    "description": "Tünetmentes volt.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 23:56:33 +0200"
+  },
+  {
     "title": "[Sport] Bravúrpontot ért Moszkvában a válogatott harcossága",
     "link": "https://telex.hu/sport/2020/10/14/orosz-magyar-nemzetek-ligaja",
     "description": "Harmadik idegenbeli Nemzetek Ligája-meccsén sem kapott gólt a magyar futballválogatott. Az oroszok helyenként nagyon nyomtak, kapufát is rúgtak, de gólig nem jutottak.",
@@ -159,19 +173,5 @@
     "description": "A MET, főleg amióta egy nagy szingapúri befektető is beszállt a csoportba, biztosan tervez még megújuló vásárlásokat, illetve beruházásokat. Bulgária, a mostani célpont egyszerre van jó és nagyon nehéz helyzetben az uniós árampiacon. ",
     "author": "Brückner Gergely",
     "pubDate": "Wed, 14 Oct 2020 17:43:10 +0200"
-  },
-  {
-    "title": "[Koronavírus] Elkezdhetik betegeken tesztelni a magyar fejlesztésű koronavírus-gyógyszert",
-    "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-gyogyszer-remdesivir-teszteles-richter-gedeon",
-    "description": "A Richter által gyártott remdesivir lehet az egyik leghatékonyabb Covid-19 elleni gyógyszer.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 17:24:32 +0200"
-  },
-  {
-    "title": "[Külföld] Huszonnyolc évet kapott egy dzsihadista, aki kalapáccsal támadt egy párizsi rendőrre",
-    "link": "https://telex.hu/kulfold/2020/10/14/franciaorszag-iszlam-allam-bortonbuntetes-parizs-tamadas",
-    "description": "A börtönben azt mondta, megzavarta az elméjét a sok iszlamista propaganda.",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 14 Oct 2020 17:21:35 +0200"
   }
 ]
