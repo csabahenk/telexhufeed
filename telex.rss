@@ -7,6 +7,57 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Koronavírus] 920 új fertőzött, 27-en meghaltak]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/14/cikk-cime-63]]>
+      </link>
+      <description>
+        <![CDATA[Negyvenezer fölé emelkedett az igazolt fertőzöttek száma Magyarországon.]]>
+      </description>
+      <author>
+        <![CDATA[Iván-Nagy Szilvia]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 14 Oct 2020 08:50:05 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Sport] Rongybabaként dobta el ellenfelét az NFL-es]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/14/nfl-tennessee-titans-derrick-henry]]>
+      </link>
+      <description>
+        <![CDATA[Derrick Henry odatette magát a Bills kiütése közben.]]>
+      </description>
+      <author>
+        <![CDATA[Koroknai Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 14 Oct 2020 08:49:10 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] Kilenc év után elfogták a rezes bandát]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/14/kilenc-ev-utan-elfogtak-a-rezes-bandat]]>
+      </link>
+      <description>
+        <![CDATA[A rablás során az elkövetők egy kamionnyi rezet szereztek meg, idén vett fordulatot a nyomozás.]]>
+      </description>
+      <author>
+        <![CDATA[Brückner Gergely]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 14 Oct 2020 08:32:13 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Koronavírus] Covid-sztorik: A nővér megkért, hogy én fogjam oda a karomra a vérnyomásmérő rossz mandzsettáját]]>
       </title>
       <link>
@@ -51,7 +102,7 @@
 ]]>
       </description>
       <author>
-        <![CDATA[]]>
+        <![CDATA[Iván-Nagy Szilvia]]>
       </author>
       <pubDate>
         <![CDATA[Wed, 14 Oct 2020 07:18:18 +0200]]>
@@ -93,7 +144,7 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Külföld] Beperli a Melania Trumpról könyvet író ex tanácsadót az amerika igazságügyi minisztérium]]>
+        <![CDATA[[Külföld] Beperli a Melania Trumpról könyvet író extanácsadót az amerikai igazságügyi minisztérium]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/kulfold/2020/10/14/amerika-igazsagugyi-miniszterium-per-melania-trump-volt-tanacsadoja-ellen]]>
@@ -379,57 +430,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 13 Oct 2020 20:21:15 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Tíz év óta először csökkent Németország lakossága]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/13/tiz-ev-ota-eloszor-csokkent-nemetorszag-lakossaga]]>
-      </link>
-      <description>
-        <![CDATA[40 ezerrel kevesebben élnek Németországban, mint 2020 elején.]]>
-      </description>
-      <author>
-        <![CDATA[Nyilas Gergely]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 13 Oct 2020 20:05:27 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Egy mádi férfi betört egy cég telephelyére, megitta az ott talált bort és pálinkát, majd leült pornót nézni]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/13/egy-madi-ferfi-betort-egy-ceg-telephelyere-megitta-az-ott-talalt-bort-es-palinkat-majd-leult-pornot-nezni]]>
-      </link>
-      <description>
-        <![CDATA[]]>
-      </description>
-      <author>
-        <![CDATA[Sajó Dávid]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 13 Oct 2020 19:35:42 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Gazdaság] Az EU büntetővámokat vethet ki amerikai termékekre]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/gazdasag/2020/10/13/az-eu-buntetovamokat-vethet-ki-amerikai-termekekre]]>
-      </link>
-      <description>
-        <![CDATA[Repkednek a milliárdos összegek az Airbus és a Boeing, illetve a mögöttük álló EU és USA közti vitában.]]>
-      </description>
-      <author>
-        <![CDATA[Hanula Zsolt]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 13 Oct 2020 19:34:21 +0200]]>
       </pubDate>
     </item>
   </channel>

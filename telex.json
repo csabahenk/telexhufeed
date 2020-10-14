@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Koronavírus] 920 új fertőzött, 27-en meghaltak",
+    "link": "https://telex.hu/koronavirus/2020/10/14/cikk-cime-63",
+    "description": "Negyvenezer fölé emelkedett az igazolt fertőzöttek száma Magyarországon.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 14 Oct 2020 08:50:05 +0200"
+  },
+  {
+    "title": "[Sport] Rongybabaként dobta el ellenfelét az NFL-es",
+    "link": "https://telex.hu/sport/2020/10/14/nfl-tennessee-titans-derrick-henry",
+    "description": "Derrick Henry odatette magát a Bills kiütése közben.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Wed, 14 Oct 2020 08:49:10 +0200"
+  },
+  {
+    "title": "[Belföld] Kilenc év után elfogták a rezes bandát",
+    "link": "https://telex.hu/belfold/2020/10/14/kilenc-ev-utan-elfogtak-a-rezes-bandat",
+    "description": "A rablás során az elkövetők egy kamionnyi rezet szereztek meg, idén vett fordulatot a nyomozás.",
+    "author": "Brückner Gergely",
+    "pubDate": "Wed, 14 Oct 2020 08:32:13 +0200"
+  },
+  {
     "title": "[Koronavírus] Covid-sztorik: A nővér megkért, hogy én fogjam oda a karomra a vérnyomásmérő rossz mandzsettáját",
     "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-karanten-iskola-orvos-igazolas-tappenz-teszt-korhaz",
     "description": "A teszt eredménye több mint egy hét után készül el. A kórházban minden felszerelés megvan, csak a lázmérő és a vérnyomásmérő nem működik. Vagy a tanár van bent az iskolában és a diákok otthon, vagy fordítva. ",
@@ -17,7 +38,7 @@
     "title": "[Koronavírus] Már 38 millió fölött a fertőzöttek száma világszerte",
     "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-percrol-percre-2020-10-14",
     "description": "Az összes fontos szerdai hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.\n",
-    "author": "",
+    "author": "Iván-Nagy Szilvia",
     "pubDate": "Wed, 14 Oct 2020 07:18:18 +0200"
   },
   {
@@ -35,7 +56,7 @@
     "pubDate": "Wed, 14 Oct 2020 06:49:17 +0200"
   },
   {
-    "title": "[Külföld] Beperli a Melania Trumpról könyvet író ex tanácsadót az amerika igazságügyi minisztérium",
+    "title": "[Külföld] Beperli a Melania Trumpról könyvet író extanácsadót az amerikai igazságügyi minisztérium",
     "link": "https://telex.hu/kulfold/2020/10/14/amerika-igazsagugyi-miniszterium-per-melania-trump-volt-tanacsadoja-ellen",
     "description": "Stephanie Winston Wolkoff a minisztérium szerint megszegte a titoktartásra szerződésben vállalt kötelezettségét.",
     "author": "Csatári Flóra Dóra",
@@ -152,26 +173,5 @@
     "description": "Az orosz külügyminiszter szerint Moszkva törekszik a párbeszédre, de a Nyugat nem tartja magát a szabályokhoz.",
     "author": "Nyilas Gergely",
     "pubDate": "Tue, 13 Oct 2020 20:21:15 +0200"
-  },
-  {
-    "title": "[Külföld] Tíz év óta először csökkent Németország lakossága",
-    "link": "https://telex.hu/kulfold/2020/10/13/tiz-ev-ota-eloszor-csokkent-nemetorszag-lakossaga",
-    "description": "40 ezerrel kevesebben élnek Németországban, mint 2020 elején.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Tue, 13 Oct 2020 20:05:27 +0200"
-  },
-  {
-    "title": "[Belföld] Egy mádi férfi betört egy cég telephelyére, megitta az ott talált bort és pálinkát, majd leült pornót nézni",
-    "link": "https://telex.hu/belfold/2020/10/13/egy-madi-ferfi-betort-egy-ceg-telephelyere-megitta-az-ott-talalt-bort-es-palinkat-majd-leult-pornot-nezni",
-    "description": "",
-    "author": "Sajó Dávid",
-    "pubDate": "Tue, 13 Oct 2020 19:35:42 +0200"
-  },
-  {
-    "title": "[Gazdaság] Az EU büntetővámokat vethet ki amerikai termékekre",
-    "link": "https://telex.hu/gazdasag/2020/10/13/az-eu-buntetovamokat-vethet-ki-amerikai-termekekre",
-    "description": "Repkednek a milliárdos összegek az Airbus és a Boeing, illetve a mögöttük álló EU és USA közti vitában.",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 19:34:21 +0200"
   }
 ]
