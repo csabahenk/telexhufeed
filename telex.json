@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Külföld] Japán egy cunamiban megrongálódott atomerőmű újraindítását tervezi",
+    "link": "https://telex.hu/kulfold/2020/10/14/japan-atomeromu-ujrainditas-cunami-2011",
+    "description": "Az Onagava erőmű 2011-ben állt le. 2022-ben indulhat újra a termelés.",
+    "author": "Fehér János",
+    "pubDate": "Wed, 14 Oct 2020 09:52:07 +0200"
+  },
+  {
+    "title": "[Gazdaság] Az MCC-é lett a Rubicon archívuma, a lappal pedig együttműködés indul",
+    "link": "https://telex.hu/gazdasag/2020/10/14/az-mcc-a-libri-bejelentes-utan-a-rubicont-mar-meg-is-szerezte",
+    "description": "A jövőben a Rubicon lap és azonos nevű történetkutató intézet külön, de stratégiai szövetségben fog működni.",
+    "author": "Brückner Gergely",
+    "pubDate": "Wed, 14 Oct 2020 09:49:55 +0200"
+  },
+  {
     "title": "[Sport] Neymar mesterhármast lőtt, már csak Pelé van előtte a brazil góllövőlistán",
     "link": "https://telex.hu/sport/2020/10/14/neymar-vb-selejtezo-mesterharmas-brazilia-orokranglista-masodik",
     "description": "A brazil futballista tíz év alatt 64. válogatott gólt lőtt.",
@@ -159,19 +173,5 @@
     "description": "A járvány tragédiával fenyeget, ezért minden áron meg kell fékezni. A francia sajtó kijárási tilalom bevezetésére tippel.",
     "author": "Hanula Zsolt",
     "pubDate": "Tue, 13 Oct 2020 22:26:47 +0200"
-  },
-  {
-    "title": "[Tudomány] Titkos washingtoni UFO-aktákról beszél egy volt amerikai szenátor",
-    "link": "https://telex.hu/tudomany/2020/10/13/harry-reid-szenator-ufo-foldonkivuli-egyesult-allamok",
-    "description": "Harry Reid egykori nevadai szenátor szerint az Egyesült Államoknak ideje lenne komolyan vennie a földönkívüliek kérdését. Szerinte rengeteg bizonyíték a mai napig nem derült ki az UFO-k létezéséről.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 13 Oct 2020 22:23:23 +0200"
-  },
-  {
-    "title": "[Tech] A Facebook betiltja az oltásellenes hirdetéseket",
-    "link": "https://telex.hu/tech/2020/10/13/a-facebook-betiltja-az-oltasellenes-hirdeteseket",
-    "description": "De az oltásellenes tartalmak maradhatnak, sőt, az oltások kötelezőségét kritizáló hirdetések is.",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 21:53:11 +0200"
   }
 ]
