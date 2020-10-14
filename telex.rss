@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Áramszünet-sorozat hergelte a lakókat Nagykovácsiban]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/14/nagykovacsi-aramszunet-elmu-faag]]>
+      </link>
+      <description>
+        <![CDATA[Kiderült: a problémát azok az illegálisan ültetett fák okozták, amik gallyazását helyiek tavasszal megakadályozták.]]>
+      </description>
+      <author>
+        <![CDATA[Tenczer Gábor]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 14 Oct 2020 16:51:03 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Szórakozás] Itt a Monster Hunter előzetese]]>
       </title>
       <link>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Wed, 14 Oct 2020 12:26:07 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tudomány] A NASA megtiltaná a szemetelést és a harcolást a Holdon]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tudomany/2020/10/14/nasa-hold-szabalyok-szemeteles-harc-tiltas]]>
-      </link>
-      <description>
-        <![CDATA[Oroszország és Kína egyelőre nem csatlakozott az Artemis-egyezséghez, ami szabályozná az égitest használatát.]]>
-      </description>
-      <author>
-        <![CDATA[Pál Tamás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Wed, 14 Oct 2020 12:22:37 +0200]]>
       </pubDate>
     </item>
   </channel>
