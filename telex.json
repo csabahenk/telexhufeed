@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] Negatív lett a lengyel miniszterelnök tesztje, de karanténban marad",
+    "link": "https://telex.hu/kulfold/2020/10/14/lengylorszag-koronavirus-mateusz-morawiecki-negativ-teszt-lengyel-kormanyfo",
+    "description": "Mateusz Morawiecki azért került karanténba, mert érintkezett a lengyel kormányőrség (SOP) egyik tisztjével, akiről később kiderült, hogy koronavírus-fertőzött.  ",
+    "author": "",
+    "pubDate": "Wed, 14 Oct 2020 05:32:00 +0200"
+  },
+  {
     "title": "[Észkombájn] Jézus ihlette a középkori festményekről ismert horrorgyerekeket",
     "link": "https://telex.hu/eszkombajn/2020/10/14/kozepkori-festmeny-gyerek-jezus-abrazolas",
     "description": "A rémisztő középkori Jézuskák egy olyan korból származnak, amikor leginkább csak egy gyermeket volt szokás megfesteni.",
@@ -166,12 +173,5 @@
     "description": "Szigorításokat vezet be a fertőzés gyorsuló terjedése miatt a szlovén kormány, Horvátország is bekeményít.",
     "author": "Nyilas Gergely",
     "pubDate": "Tue, 13 Oct 2020 18:55:02 +0200"
-  },
-  {
-    "title": "[Szórakozás] Már okoshűtőn is lehet játszani a legújabb Doomot",
-    "link": "https://telex.hu/szorakozas/2020/10/13/mar-okoshuton-is-lehet-jatszani-a-legujabb-doomot",
-    "description": "Az Microsoft streaming appjával előbb lehet hűtőn játszani, mint iPaden.",
-    "author": "Sajó Dávid",
-    "pubDate": "Tue, 13 Oct 2020 18:48:59 +0200"
   }
 ]
