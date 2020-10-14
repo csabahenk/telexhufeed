@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] Bravúrpontot ért Moszkvában a válogatott harcossága",
+    "link": "https://telex.hu/sport/2020/10/14/orosz-magyar-nemzetek-ligaja",
+    "description": "Harmadik idegenbeli Nemzetek Ligája-meccsén sem kapott gólt a magyar futballválogatott. Az oroszok helyenként nagyon nyomtak, kapufát is rúgtak, de gólig nem jutottak.",
+    "author": "Ághassi Attila",
+    "pubDate": "Wed, 14 Oct 2020 23:07:46 +0200"
+  },
+  {
+    "title": "[Kult] Tíz új résszel visszatér a gyilkolászós Dexter sorozat",
+    "link": "https://telex.hu/kult/2020/10/14/tiz-uj-resszel-visszater-a-gyilkolaszos-dexter-1",
+    "description": "Már 2021 őszén a képernyőkre kerülhet. ",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 22:32:35 +0200"
+  },
+  {
     "title": "[Kult] A Star Wars-univerzum urai kijelölték a jövő csapásirányát",
     "link": "https://telex.hu/kult/2020/10/14/a-marvel-es-a-star-wars-univerzum-urai-kijeloltek-a-jovo-csapasiranyat",
     "description": "A Disney átszervezte a vállalati struktúrát, és innentől a streaming lesz a prioritás. ",
@@ -10,7 +24,7 @@
     "title": "[Kult] Új tulajdonosa lett a Médiapiac című újságnak, aki véget vet a balliberális nézőpontnak",
     "link": "https://telex.hu/kult/2020/10/14/mediapiac-boros-bank-levente-medianezo-kozpont-nezopont-intezet",
     "description": "A Médianéző Intézet igazgatója szerint a jobboldali narratívát és a jobboldali újságírókat is be akarják mutatni. ",
-    "author": "",
+    "author": "Joób Sándor",
     "pubDate": "Wed, 14 Oct 2020 22:04:18 +0200"
   },
   {
@@ -159,19 +173,5 @@
     "description": "A börtönben azt mondta, megzavarta az elméjét a sok iszlamista propaganda.",
     "author": "Presinszky Judit",
     "pubDate": "Wed, 14 Oct 2020 17:21:35 +0200"
-  },
-  {
-    "title": "[Sport] Élete legrosszabb félóráját élte át a koronavírus miatt az OSC-Újbuda vízilabdázója",
-    "link": "https://telex.hu/sport/2020/10/14/toth-kristof-vizilabdazo-osc-ujbuda-koronavirus-korhaz",
-    "description": "A 24 éves Tóth Kristóf augusztusban fertőződött meg, több mint egy hónap után lett csak negatív a teszteredménye.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 16:59:34 +0200"
-  },
-  {
-    "title": "[Belföld] Áramszünet-sorozat hergelte a lakókat Nagykovácsiban",
-    "link": "https://telex.hu/belfold/2020/10/14/nagykovacsi-aramszunet-elmu-faag",
-    "description": "Kiderült: a problémát azok az illegálisan ültetett fák okozták, amik gallyazását helyiek tavasszal megakadályozták.",
-    "author": "Tenczer Gábor",
-    "pubDate": "Wed, 14 Oct 2020 16:51:03 +0200"
   }
 ]
