@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Koronavírus] Éjszakai kijárási tilalmat vezetnek be Párizsban és több francia városban",
+    "link": "https://telex.hu/koronavirus/2020/10/14/franciaorszag-ejszakai-kijarasi-korlatozas",
+    "description": "Macron egészségügyi rendkívüli állapotot hirdetett Franciaországban. ",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 20:55:59 +0200"
+  },
+  {
+    "title": "[Tudomány] Okoskötést fejlesztettek ki ausztrál kutatók",
+    "link": "https://telex.hu/tudomany/2020/10/14/okoskotest-fejlesztettek-ki-ausztral-kutatok",
+    "description": "Érzékeli, ha épp elkezdene elfertőződni a seb.",
+    "author": "Bolcsó Dániel",
+    "pubDate": "Wed, 14 Oct 2020 20:44:48 +0200"
+  },
+  {
     "title": "[Gazdaság] Mesics Olívia lett a szentgotthárdi Opel vezetője",
     "link": "https://telex.hu/gazdasag/2020/10/14/szentgotthard-opel-motorgyar-uj-igazgato",
     "description": "Elődje Gregorz Buchal visszamegy Lengyelországba.",
@@ -159,19 +173,5 @@
     "description": "A 31 éves nő által kiállított papírokkal az igénylők tovább tudtak utazni az EU-ba.",
     "author": "Joób Sándor",
     "pubDate": "Wed, 14 Oct 2020 16:35:19 +0200"
-  },
-  {
-    "title": "[Belföld] Október 23-ra vonulást szerveznek az SZFE hallgatói",
-    "link": "https://telex.hu/belfold/2020/10/14/szfe-oktober-23-vonulas-szarka-gabor-kancellar",
-    "description": "Megemlékeznek a szabadságról és bátorságról. Az oktatók továbbra is sztrájkolnak.",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 14 Oct 2020 16:19:28 +0200"
-  },
-  {
-    "title": "[Külföld] Meghalt Trump legnagyobb indiai rajongója, miután böjtölni kezdett az amerikai elnök koronavírus-fertőződése után",
-    "link": "https://telex.hu/kulfold/2020/10/14/india-bussa-krishna-meghalt-ehezes-donald-trump-koronavirus",
-    "description": "Bussa Krishna egy szentélyt is emelt a kertjében az amerikai elnök tiszteletére.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 16:17:42 +0200"
   }
 ]
