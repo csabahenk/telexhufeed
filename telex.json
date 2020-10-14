@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Sport] Giro: ha mezőnyhajrá, akkor a ciklámen trikóst nem lehet legyőzni",
+    "link": "https://telex.hu/sport/2020/10/14/giro-ditalia-11-szakasz-arnaud-demare-sprint-negyedik-gyozelem",
+    "description": "A francia bajnok Arnaud Démare már a negyedik szakaszát nyerte az olasz körversenyen.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 14 Oct 2020 17:48:31 +0200"
+  },
+  {
+    "title": "[Gazdaság] A MET-csoport bolgár szélerőműparkot vett",
+    "link": "https://telex.hu/gazdasag/2020/10/14/bulgaria-aram-met-szel",
+    "description": "A MET, főleg amióta egy nagy szingapúri befektető is beszállt a csoportba, biztosan tervez még megújuló vásárlásokat, illetve beruházásokat. Bulgária, a mostani célpont egyszerre van jó és nagyon nehéz helyzetben az uniós árampiacon. ",
+    "author": "Brückner Gergely",
+    "pubDate": "Wed, 14 Oct 2020 17:43:10 +0200"
+  },
+  {
+    "title": "[Koronavírus] Elkezdhetik betegeken tesztelni a magyar fejlesztésű koronavírus-gyógyszert",
+    "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-gyogyszer-remdesivir-teszteles-richter-gedeon",
+    "description": "A Richter által gyártott remdesivir lehet az egyik leghatékonyabb Covid-19 elleni gyógyszer.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 14 Oct 2020 17:24:32 +0200"
+  },
+  {
+    "title": "[Külföld] Huszonnyolc évet kapott egy dzsihadista, aki kalapáccsal támadt egy párizsi rendőrre",
+    "link": "https://telex.hu/kulfold/2020/10/14/franciaorszag-iszlam-allam-bortonbuntetes-parizs-tamadas",
+    "description": "A börtönben azt mondta, megzavarta az elméjét a sok iszlamista propaganda.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 17:21:35 +0200"
+  },
+  {
+    "title": "[Sport] Élete legrosszabb félóráját élte át a koronavírus miatt az OSC-Újbuda vízilabdázója",
+    "link": "https://telex.hu/sport/2020/10/14/toth-kristof-vizilabdazo-osc-ujbuda-koronavirus-korhaz",
+    "description": "A 24 éves Tóth Kristóf augusztusban fertőződött meg, több mint egy hónap után lett csak negatív a teszteredménye.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 14 Oct 2020 16:59:34 +0200"
+  },
+  {
     "title": "[Belföld] Áramszünet-sorozat hergelte a lakókat Nagykovácsiban",
     "link": "https://telex.hu/belfold/2020/10/14/nagykovacsi-aramszunet-elmu-faag",
     "description": "Kiderült: a problémát azok az illegálisan ültetett fák okozták, amik gallyazását helyiek tavasszal megakadályozták.",
@@ -138,40 +173,5 @@
     "description": "A szerdától esedékes szigorítások előtt vonultak az utcára. ",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Wed, 14 Oct 2020 13:41:35 +0200"
-  },
-  {
-    "title": "[Szórakozás] Egy extázisban fát ölelő tigrisért járt az év természetfotója díj",
-    "link": "https://telex.hu/szorakozas/2020/10/14/wildlife-photograhpy-of-the-year-dijnyertes-termeszetfoto-amuri-tigris-fat-olel",
-    "description": "A Wildlife Photographer of the Year versenyében irigy róka és hipnotikus lávaömlés is van a díjazottak között.",
-    "author": "Fehér János",
-    "pubDate": "Wed, 14 Oct 2020 13:40:01 +0200"
-  },
-  {
-    "title": "[Kult] Tőzsdére megy a legismertebb dél-koreai K-pop együttes",
-    "link": "https://telex.hu/kult/2020/10/14/bts-del-koreai-k-pop-fiubanda-tozsde-billboard",
-    "description": "A BTS már 200 hete vezeti a Billboard Social 50-es toplistáját.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 13:08:06 +0200"
-  },
-  {
-    "title": "[Koronavírus] PDSZ-felmérés: Az oktatásban dolgozók többsége fél, hogy megbetegszik",
-    "link": "https://telex.hu/koronavirus/2020/10/14/pdsz-felmeres-pedagogusok-jarvanykezeles",
-    "description": "A szakszervezet felmérését 1595-en töltötték ki, 80 százalék szerint nem adottak a biztonságos munkavégzés feltételei náluk.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 13:08:03 +0200"
-  },
-  {
-    "title": "[Belföld] Áradnak az észak-magyarországi folyók a több napja tartó esőzéstől",
-    "link": "https://telex.hu/belfold/2020/10/14/esozes-aradas-szlovakia-sajo-bodva-hernad-vizugy",
-    "description": "A Sajón, a Hernádon, a Bódván és az Ipolyon a következő napokban várható a tetőzés.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 12:43:17 +0200"
-  },
-  {
-    "title": "[Koronavírus] Müller Cecília szembement Kásler Miklóssal: nem lesznek tömegrendezvények október 23-án",
-    "link": "https://telex.hu/koronavirus/2020/10/14/operativ-torzs-szerda-muller-cecilia-kasler-miklos",
-    "description": "Az országos tisztifőorvos bejelentette: a zászlófelvonáson és a díjátadáson kívül központilag más rendezvényt sem szerveznek, és önmérsékletre kéri az önkormányzatokat is az operatív törzs.",
-    "author": "Biró Marianna",
-    "pubDate": "Wed, 14 Oct 2020 12:26:07 +0200"
   }
 ]
