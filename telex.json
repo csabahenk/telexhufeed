@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Belföld] Amikor jó biznisz elveszíteni egy polgármesterválasztást",
+    "link": "https://telex.hu/belfold/2020/10/14/oktober-13-onkormanyzati-valasztas-evforduloja-vesztes-jeloltek",
+    "description": "Van, aki saját egykori ellenfelét csuklóztathatja, másvalaki nagyobb fejlesztésekről dönthet vesztesként, mintha nyert volna, vagy épp a parlamentbe került be. De olyan is akad, aki soha nem nyert választást, mégis egy kinevezés lett a jutalma. Egy évvel az önkormányzati választások után megnéztük, kik azok a vesztesek, akiknek azóta felfele ívelt a szerencséjük: Tüttő Kata, Gy. Németh Erzsébet, Tarlós István, Sára Botond.",
+    "author": "Cseke Balázs",
+    "pubDate": "Wed, 14 Oct 2020 10:46:49 +0200"
+  },
+  {
+    "title": "[Belföld] Kitört a 106-os busz egyik kereke az Aquincumnál, és eltalált egy autót",
+    "link": "https://telex.hu/belfold/2020/10/14/autobaleset-busz-bkk-kerek",
+    "description": "Jött egy busz, kiesett a kereke. Személyi sérülésről még nincs hír.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 14 Oct 2020 10:33:33 +0200"
+  },
+  {
+    "title": "[Belföld] SZFE-oktatók: Az új vezetés érdemi javaslatok helyett csak ultimátumokat küld",
+    "link": "https://telex.hu/belfold/2020/10/14/szinhaz-es-filmmuveszeti-egyetem-oktatok-reakcio-tankoztarsasag-rektor",
+    "description": "Az egyetem oktatói azt állítják, hogy az új vezetők megfélemlítésre törekednek, és a hallgatókkal sem álltak szóba.",
+    "author": "Fehér János",
+    "pubDate": "Wed, 14 Oct 2020 10:32:16 +0200"
+  },
+  {
+    "title": "[Belföld] A szomszéd vette észre a letakart, de még füstölgő hamvakat, különösen kegyetlen emberölés nyomait találták a rendőrök Dánszentmiklóson",
+    "link": "https://telex.hu/belfold/2020/10/14/kulonos-kegyetlenseg-emberoles-danszentmiklos-fustolgo-hamvak-agyonvert-kikotozott-magarahagyott-ferfi",
+    "description": "Az ügyészség a tavaly nyári ügyben különös kegyetlenséggel elkövetett emberölés miatt emelt most vádat.",
+    "author": "Csatári Flóra Dóra",
+    "pubDate": "Wed, 14 Oct 2020 10:31:53 +0200"
+  },
+  {
+    "title": "[Külföld] Engedélyeznék az eutanáziát a 12 év alatti halálos beteg gyerekek számára is Hollandiában",
+    "link": "https://telex.hu/kulfold/2020/10/14/engedelyeznek-az-eutanaziat-a-12-ev-alatti-halalos-beteg-gyerekek-szamara-is-hollandiaban",
+    "description": "A beteg csecsemők és a súlyos beteg 12 év felettiek számára már most is adott a lehetőség.",
+    "author": "",
+    "pubDate": "Wed, 14 Oct 2020 10:07:30 +0200"
+  },
+  {
     "title": "[Külföld] Japán egy cunamiban megrongálódott atomerőmű újraindítását tervezi",
     "link": "https://telex.hu/kulfold/2020/10/14/japan-atomeromu-ujrainditas-cunami-2011",
     "description": "Az Onagava erőmű 2011-ben állt le. 2022-ben indulhat újra a termelés.",
@@ -7,7 +42,7 @@
     "pubDate": "Wed, 14 Oct 2020 09:52:07 +0200"
   },
   {
-    "title": "[Gazdaság] Az MCC-é lett a Rubicon archívuma, a lappal pedig együttműködés indul",
+    "title": "[Gazdaság] A Mandiner főszerkesztője megvette a Rubicon archívumát, a lappal együttműködés indul",
     "link": "https://telex.hu/gazdasag/2020/10/14/az-mcc-a-libri-bejelentes-utan-a-rubicont-mar-meg-is-szerezte",
     "description": "A jövőben a Rubicon lap és azonos nevű történetkutató intézet külön, de stratégiai szövetségben fog működni.",
     "author": "Brückner Gergely",
@@ -91,7 +126,7 @@
     "pubDate": "Wed, 14 Oct 2020 07:30:02 +0200"
   },
   {
-    "title": "[Koronavírus] Már 38 millió fölött a fertőzöttek száma világszerte",
+    "title": "[Koronavírus] Negyvenezer aktív beteggel kalkulált a kormány novemberre",
     "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-percrol-percre-2020-10-14",
     "description": "Az összes fontos szerdai hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.\n",
     "author": "Iván-Nagy Szilvia",
@@ -138,40 +173,5 @@
     "description": "Bejött nekik a kényszerű váltás a koronavírus-járvány miatt, dolgozóik produktívabbak lettek otthonról.",
     "author": "Körömi Csongor",
     "pubDate": "Wed, 14 Oct 2020 00:09:30 +0200"
-  },
-  {
-    "title": "[Külföld] Pancsolt szeszbe haltak bele 44-en Törökországban",
-    "link": "https://telex.hu/kulfold/2020/10/13/torokorszag-pancsolt-szesz-alkohol-halal",
-    "description": "Erdogan elnök az egekbe emelte az alkohol jövedéki adóját. A török nép viszont nem nagyon akar lemondani a szeszről.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 13 Oct 2020 23:39:49 +0200"
-  },
-  {
-    "title": "[Tech] Az Erő most mindenkivel van",
-    "link": "https://telex.hu/tech/2020/10/13/star-wars-squadrons-jatekteszt-ea-motive",
-    "description": "Tudathasadás és teljes ideológiai szabadság a Star Wars Squadronsban. Újra megmentjük egy X-szárnyúval a galaxist, és ezzel párhuzamosan egy TIE vadásszal lőjük halomra a mocskos lázadókat.",
-    "author": "Világi Máté",
-    "pubDate": "Tue, 13 Oct 2020 22:55:47 +0200"
-  },
-  {
-    "title": "[Szórakozás] Az Epres Panni-ügy után egy hónappal távozik a Best főszerkesztője",
-    "link": "https://telex.hu/szorakozas/2020/10/13/tavozik-a-best-foszerkesztoje-az-epres-panni-ugy-utan-egy-honappal",
-    "description": "Hivatalosan nem indokolta meg a Central Médiacsoport, hogy miért távozik közös megegyezéssel a főszerkesztő.",
-    "author": "Sajó Dávid",
-    "pubDate": "Tue, 13 Oct 2020 22:29:40 +0200"
-  },
-  {
-    "title": "[Külföld] Letartóztatták a nőt, aki a Vatikán pénzét átmosva vásárolt luxuscikkeket magának",
-    "link": "https://telex.hu/kulfold/2020/10/13/letartoztattak-azt-a-not-aki-a-vatikan-penzet-atmosva-vasarolt-luxuscikkeket-maganak",
-    "description": "Becciu bíboros botránya nagy port kavart a Vatikán körül, a letartóztatott nő, Cecilia Marogna az ő bizalmasa volt.",
-    "author": "Molnár Réka",
-    "pubDate": "Tue, 13 Oct 2020 22:27:30 +0200"
-  },
-  {
-    "title": "[Koronavírus] Macron sokkoló bejelentésre készül szerda este",
-    "link": "https://telex.hu/koronavirus/2020/10/13/macron-sokkolo-bejelentesre-keszul-szerda-este",
-    "description": "A járvány tragédiával fenyeget, ezért minden áron meg kell fékezni. A francia sajtó kijárási tilalom bevezetésére tippel.",
-    "author": "Hanula Zsolt",
-    "pubDate": "Tue, 13 Oct 2020 22:26:47 +0200"
   }
 ]
