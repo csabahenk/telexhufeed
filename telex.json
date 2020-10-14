@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] SZFE-kancellár: Az oktatók levele megnyit egy kiskaput a további párbeszédre",
+    "link": "https://telex.hu/belfold/2020/10/14/szfe-kancellar-parbeszed-kiskapu",
+    "description": "Szarka Gábor szerint az oktatók alapvetően legitimnek tekintik a helyzetet, elfogadják a kancellárt, bár a két oktatási rektorhelyettes kinevezési módját nem.",
+    "author": "",
+    "pubDate": "Wed, 14 Oct 2020 14:16:55 +0200"
+  },
+  {
+    "title": "[Belföld] Kénytelen vagyok meglépni, hogy külföldre menjek, mondja a koronavírusos rektorral összetűző, kirúgott orvos",
+    "link": "https://telex.hu/belfold/2020/10/14/horvath-szatmar-felmentes-szeged",
+    "description": "Horváth Szatmár szerint a Rovó László rektor ellen indított etikai vizsgálat mellett más is közrejátszhatott abban, hogy azonnali hatállyal felmentették.",
+    "author": "Pintér Luca",
+    "pubDate": "Wed, 14 Oct 2020 14:03:58 +0200"
+  },
+  {
     "title": "[Belföld] DK: Több mint egymillió forintért vett harcsát a felcsúti Puskás Akadémia",
     "link": "https://telex.hu/belfold/2020/10/14/demokratikus-koalicio-felcsut-tao-turo-rudi",
     "description": "A Demokratikus Koalíció a Felcsúti Utánpótlás Neveléséért Alapítvány 2011-es számláihoz jutott hozzá.",
@@ -58,7 +72,7 @@
   {
     "title": "[Tudomány] A NASA megtiltaná a szemetelést és a harcolást a Holdon",
     "link": "https://telex.hu/tudomany/2020/10/14/nasa-hold-szabalyok-szemeteles-harc-tiltas",
-    "description": "Oroszország és Kína egyelőre nem csatlakozott az Artemis-egyezséghez, ami szabályozná a bolygó használatát.",
+    "description": "Oroszország és Kína egyelőre nem csatlakozott az Artemis-egyezséghez, ami szabályozná az égitest használatát.",
     "author": "Pál Tamás",
     "pubDate": "Wed, 14 Oct 2020 12:22:37 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "Az Onagava erőmű 2011-ben állt le. 2022-ben indulhat újra a termelés.",
     "author": "Fehér János",
     "pubDate": "Wed, 14 Oct 2020 09:52:07 +0200"
-  },
-  {
-    "title": "[Gazdaság] A Mandiner főszerkesztője megvette a Rubicon archívumát, a lappal együttműködés indul",
-    "link": "https://telex.hu/gazdasag/2020/10/14/az-mcc-a-libri-bejelentes-utan-a-rubicont-mar-meg-is-szerezte",
-    "description": "A jövőben a Rubicon lap és az azonos nevű történetkutató intézet külön, de stratégiai szövetségben fog működni.",
-    "author": "Brückner Gergely",
-    "pubDate": "Wed, 14 Oct 2020 09:49:55 +0200"
-  },
-  {
-    "title": "[Sport] Neymar mesterhármast lőtt, már csak Pelé van előtte a brazil góllövőlistán",
-    "link": "https://telex.hu/sport/2020/10/14/neymar-vb-selejtezo-mesterharmas-brazilia-orokranglista-masodik",
-    "description": "A brazil futballista tíz év alatt 64. válogatott gólt lőtt.",
-    "author": "Fehér János",
-    "pubDate": "Wed, 14 Oct 2020 09:31:36 +0200"
   }
 ]
