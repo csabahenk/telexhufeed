@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Áradnak az észak-magyarországi folyók a több napja tartó esőzéstől]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/14/esozes-aradas-szlovakia-sajo-bodva-hernad-vizugy]]>
+      </link>
+      <description>
+        <![CDATA[A Sajón, a Hernádon, a Bódván és az Ipolyon a következő napokban várható a tetőzés.]]>
+      </description>
+      <author>
+        <![CDATA[Pál Tamás]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 14 Oct 2020 12:43:17 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Koronavírus] Müller Cecília szembement Kásler Miklóssal: nem lesznek tömegrendezvények október 23-án]]>
       </title>
       <link>
@@ -41,13 +58,13 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Gazdaság] Novák Katalin: otthonfelújítási támogatást indít a kormány]]>
+        <![CDATA[[Gazdaság] Novák Katalin: Otthonfelújítási támogatást indít a kormány]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/gazdasag/2020/10/14/novak-katalin-otthonfelujitasi-tamogatast-indit-a-kormany]]>
       </link>
       <description>
-        <![CDATA[A kormány január 1-től vezetne be a legalább egy gyermeket nevelő családok otthonára kínált programot, Az állam a felújítási költségek felét, de legfeljebb 3 millió forintot vállalna át.]]>
+        <![CDATA[A kormány január 1-től vezetné be a legalább egy gyermeket nevelő családok otthonára kínált programot. Az állam a felújítási költségek felét, de legfeljebb 3 millió forintot vállalna át.]]>
       </description>
       <author>
         <![CDATA[Brückner Gergely]]>
@@ -81,7 +98,7 @@
         <![CDATA[https://telex.hu/gazdasag/2020/10/14/az-exim-ismet-alapot-indit-az-otp-val]]>
       </link>
       <description>
-        <![CDATA[Huszonöt milliárd forintos tőkével alapot indít az Exim és az OTP. A PortfoLion Regionális Magántőke Alap II. az előző, "egyes" alaphoz hasonlóan 50-50 százalékban az Exim Bank és az OTP befektetéséből indul. A befektetések értéke várhatóan 3 és 15 millió euró közé tehető majd. ]]>
+        <![CDATA[Huszonötmilliárd forintos tőkével alapot indít az Exim és az OTP. A PortfoLion Regionális Magántőke Alap II. az előző, "egyes" alaphoz hasonlóan 50-50 százalékban az Exim Bank és az OTP befektetéséből indul. A befektetések értéke várhatóan 3 és 15 millió euró közé tehető majd. ]]>
       </description>
       <author>
         <![CDATA[Brückner Gergely]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Wed, 14 Oct 2020 08:54:05 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Rongybabaként dobta el ellenfelét az NFL-es]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/14/nfl-tennessee-titans-derrick-henry]]>
-      </link>
-      <description>
-        <![CDATA[Derrick Henry odatette magát a Bills kiütése közben.]]>
-      </description>
-      <author>
-        <![CDATA[Koroknai Gergely]]>
-      </author>
-      <pubDate>
-        <![CDATA[Wed, 14 Oct 2020 08:49:10 +0200]]>
       </pubDate>
     </item>
   </channel>
