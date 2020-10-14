@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Szórakozás] Itt a Monster Hunter előzetese",
+    "link": "https://telex.hu/szorakozas/2020/10/14/monster-hunter-elozetes-videojatek-film-milla-jovovich",
+    "description": "A videojáték-adaptációban néhány katona küzd meg egy csomó szörnyeteggel.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 16:42:25 +0200"
+  },
+  {
     "title": "[Külföld] Mit gondol, mennyit ért az árverésen a világrekorder vándorsólyom?",
     "link": "https://telex.hu/kulfold/2020/10/14/cikk-cime-67",
     "description": "Ekkora összeget még soha sehol nem fizettek egy ilyen madárért a világon.",
@@ -166,12 +173,5 @@
     "description": "Oroszország és Kína egyelőre nem csatlakozott az Artemis-egyezséghez, ami szabályozná az égitest használatát.",
     "author": "Pál Tamás",
     "pubDate": "Wed, 14 Oct 2020 12:22:37 +0200"
-  },
-  {
-    "title": "[Gazdaság] Otthonfelújítási támogatást indít a kormány, akár hárommillió forintot is átvállalhatnak",
-    "link": "https://telex.hu/gazdasag/2020/10/14/novak-katalin-otthonfelujitasi-tamogatast-indit-a-kormany",
-    "description": "Novák Katalin bejelentése alapján január 1-től vezetnék be a legalább egy gyermeket nevelő családok otthonára kínált programot.",
-    "author": "Brückner Gergely",
-    "pubDate": "Wed, 14 Oct 2020 12:21:11 +0200"
   }
 ]
