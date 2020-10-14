@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Kult] A Star Wars-univerzum urai kijelölték a jövő csapásirányát",
+    "link": "https://telex.hu/kult/2020/10/14/a-marvel-es-a-star-wars-univerzum-urai-kijeloltek-a-jovo-csapasiranyat",
+    "description": "A Disney átszervezte a vállalati struktúrát, és innentől a streaming lesz a prioritás. ",
+    "author": "Klág Dávid",
+    "pubDate": "Wed, 14 Oct 2020 22:05:28 +0200"
+  },
+  {
+    "title": "[Kult] Új tulajdonosa lett a Médiapiac című újságnak, aki véget vet a balliberális nézőpontnak",
+    "link": "https://telex.hu/kult/2020/10/14/mediapiac-boros-bank-levente-medianezo-kozpont-nezopont-intezet",
+    "description": "A Médianéző Intézet igazgatója szerint a jobboldali narratívát és a jobboldali újságírókat is be akarják mutatni. ",
+    "author": "",
+    "pubDate": "Wed, 14 Oct 2020 22:04:18 +0200"
+  },
+  {
+    "title": "[Külföld] Ötezer fókabébi tetemét mosta partra a tenger Namíbiában",
+    "link": "https://telex.hu/kulfold/2020/10/14/otezer-fokabebi-tetemet-mosta-partra-a-tenger-namibiaban",
+    "description": "A tömeges vetélés oka a táplálékhiány lehet.",
+    "author": "Bolcsó Dániel",
+    "pubDate": "Wed, 14 Oct 2020 22:03:02 +0200"
+  },
+  {
     "title": "[Koronavírus] Éjszakai kijárási tilalmat vezetnek be Párizsban és több francia városban",
     "link": "https://telex.hu/koronavirus/2020/10/14/franciaorszag-ejszakai-kijarasi-korlatozas",
     "description": "Macron egészségügyi rendkívüli állapotot hirdetett Franciaországban. ",
@@ -152,26 +173,5 @@
     "description": "Kiderült: a problémát azok az illegálisan ültetett fák okozták, amik gallyazását helyiek tavasszal megakadályozták.",
     "author": "Tenczer Gábor",
     "pubDate": "Wed, 14 Oct 2020 16:51:03 +0200"
-  },
-  {
-    "title": "[Szórakozás] Itt a Monster Hunter előzetese",
-    "link": "https://telex.hu/szorakozas/2020/10/14/monster-hunter-elozetes-videojatek-film-milla-jovovich",
-    "description": "A videojáték-adaptációban néhány katona küzd meg egy csomó szörnyeteggel.",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 14 Oct 2020 16:42:25 +0200"
-  },
-  {
-    "title": "[Külföld] Mit gondol, mennyit ért az árverésen a világrekorder vándorsólyom?",
-    "link": "https://telex.hu/kulfold/2020/10/14/cikk-cime-67",
-    "description": "Ekkora összeget még soha sehol nem fizettek egy ilyen madárért a világon.",
-    "author": "Joób Sándor",
-    "pubDate": "Wed, 14 Oct 2020 16:36:04 +0200"
-  },
-  {
-    "title": "[Belföld] Közel hat év börtönt kapott az a magyar ügyintéző, aki útleveleket állított ki nem uniós állampolgároknak",
-    "link": "https://telex.hu/belfold/2020/10/14/okmanyiroda-korrupcio-utlevel-szemelyi-hamisitas-borton-buntetes-birosag",
-    "description": "A 31 éves nő által kiállított papírokkal az igénylők tovább tudtak utazni az EU-ba.",
-    "author": "Joób Sándor",
-    "pubDate": "Wed, 14 Oct 2020 16:35:19 +0200"
   }
 ]
