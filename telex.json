@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Koronavírus] Covid-sztorik: A nővér megkért, hogy én fogjam oda a karomra a vérnyomásmérő rossz mandzsettáját",
+    "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-karanten-iskola-orvos-igazolas-tappenz-teszt-korhaz",
+    "description": "A teszt eredménye több mint egy hét után készül el. A kórházban minden felszerelés megvan, csak a lázmérő és a vérnyomásmérő nem működik. Vagy a tanár van bent az iskolában és a diákok otthon, vagy fordítva. ",
+    "author": "Joób Sándor",
+    "pubDate": "Wed, 14 Oct 2020 07:48:10 +0200"
+  },
+  {
     "title": "[Külföld] Összeütközött az afgán légierő két helikoptere, legalább 15-en meghaltak",
     "link": "https://telex.hu/kulfold/2020/10/14/osszeutkozott-az-afgan-legiero-ket-helikoptere-legalabb-15-en-meghaltak",
     "description": "A baleset kedd éjfél körül történt a dél-afganisztáni Hilmend tartományban.",
@@ -166,12 +173,5 @@
     "description": "Repkednek a milliárdos összegek az Airbus és a Boeing, illetve a mögöttük álló EU és USA közti vitában.",
     "author": "Hanula Zsolt",
     "pubDate": "Tue, 13 Oct 2020 19:34:21 +0200"
-  },
-  {
-    "title": "[Belföld] Elment az internet az SZFE épületeiben",
-    "link": "https://telex.hu/belfold/2020/10/13/szfe-wifi-lekapcsolas-szerzodes-kollegium-szarka-gabor",
-    "description": "Este 18 órakor, az egyetemi fórum kezdete előtt szakadt meg az internet-hozzáférés. Bár a kollégistáknak szerződése van a zavartalan internethasználatról, a wifi azóta sem állt helyre.",
-    "author": "Körömi Csongor",
-    "pubDate": "Tue, 13 Oct 2020 19:28:44 +0200"
   }
 ]

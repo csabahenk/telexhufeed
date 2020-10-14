@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Koronavírus] Covid-sztorik: A nővér megkért, hogy én fogjam oda a karomra a vérnyomásmérő rossz mandzsettáját]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/14/koronavirus-karanten-iskola-orvos-igazolas-tappenz-teszt-korhaz]]>
+      </link>
+      <description>
+        <![CDATA[A teszt eredménye több mint egy hét után készül el. A kórházban minden felszerelés megvan, csak a lázmérő és a vérnyomásmérő nem működik. Vagy a tanár van bent az iskolában és a diákok otthon, vagy fordítva. ]]>
+      </description>
+      <author>
+        <![CDATA[Joób Sándor]]>
+      </author>
+      <pubDate>
+        <![CDATA[Wed, 14 Oct 2020 07:48:10 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Külföld] Összeütközött az afgán légierő két helikoptere, legalább 15-en meghaltak]]>
       </title>
       <link>
@@ -413,23 +430,6 @@
       </author>
       <pubDate>
         <![CDATA[Tue, 13 Oct 2020 19:34:21 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Elment az internet az SZFE épületeiben]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/13/szfe-wifi-lekapcsolas-szerzodes-kollegium-szarka-gabor]]>
-      </link>
-      <description>
-        <![CDATA[Este 18 órakor, az egyetemi fórum kezdete előtt szakadt meg az internet-hozzáférés. Bár a kollégistáknak szerződése van a zavartalan internethasználatról, a wifi azóta sem állt helyre.]]>
-      </description>
-      <author>
-        <![CDATA[Körömi Csongor]]>
-      </author>
-      <pubDate>
-        <![CDATA[Tue, 13 Oct 2020 19:28:44 +0200]]>
       </pubDate>
     </item>
   </channel>
