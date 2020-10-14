@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Gazdaság] Áprilisban nagyon megdrágul a cigi",
+    "link": "https://telex.hu/gazdasag/2020/10/14/ado-dohany-cigaretta",
+    "description": "Még az eddig tervezett emeléseknél is jobban növelik a dohányzás adóterheit. Aki elpöfékel egyetlen szál cigit, az mostanában 40, hamarosan 50 forint adóval segíti a magyar költségvetést. ",
+    "author": "Brückner Gergely",
+    "pubDate": "Wed, 14 Oct 2020 15:58:21 +0200"
+  },
+  {
     "title": "[Belföld] Áder János aláírta a törvényt, ami az orvosi béremelés ellenére sok vitát váltott ki",
     "link": "https://telex.hu/belfold/2020/10/14/orvosi-beremeles-torveny-egeszsegugyi-szolgalati-jogviszony-ader-janos-alairas",
     "description": "Az államfő szerint nem támasztható megalapozott alkotmányos kifogás a törvénnyel szemben.",
@@ -7,7 +14,7 @@
     "pubDate": "Wed, 14 Oct 2020 15:10:37 +0200"
   },
   {
-    "title": "[Gazdaság] Oda a befőttálom: milliárdokat bukott az állam és a Piarista Rend",
+    "title": "[Gazdaság] Oda a befőttálom: milliárdokat bukott az állam és a piarista rend",
     "link": "https://telex.hu/gazdasag/2020/10/14/piarista-csalas-allam-adofizeto",
     "description": "Megdöbbentő gazdasági történetet mutatott be a 24.hu. A magyar állam és a piarista rend úgy juttatott milliárdokat egy alföldi (kerekegyházi) élelmiszer-feldolgozó álomra, hogy az egész megalapozatlan kártyavár összeomlott. A cégvezetőt elítélték, a rend működik tovább, de a tartalékaiknak annyi. ",
     "author": "Brückner Gergely",
@@ -52,7 +59,7 @@
     "title": "[Belföld] SZFE-kancellár: Az oktatók levele megnyit egy kiskaput a további párbeszédre",
     "link": "https://telex.hu/belfold/2020/10/14/szfe-kancellar-parbeszed-kiskapu",
     "description": "Szarka Gábor szerint az oktatók alapvetően legitimnek tekintik a helyzetet, elfogadják a kancellárt, bár a két oktatási rektorhelyettes kinevezési módját nem.",
-    "author": "",
+    "author": "Iván-Nagy Szilvia",
     "pubDate": "Wed, 14 Oct 2020 14:16:55 +0200"
   },
   {
@@ -166,12 +173,5 @@
     "description": "Molnár Piroska színésznő is Budapest díszpolgára lesz.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Wed, 14 Oct 2020 11:44:16 +0200"
-  },
-  {
-    "title": "[Tech] A Vodafone hamarosan felkapcsolja az 5G-t Budapesten",
-    "link": "https://telex.hu/tech/2020/10/14/budapest-5g-szazezrek-hasznalhatja-200-bazisallomas-bme",
-    "description": "A főváros szinte teljes területén elérhető lesz a szolgáltatás néhány hét múlva.. ",
-    "author": "Fehér János",
-    "pubDate": "Wed, 14 Oct 2020 11:41:13 +0200"
   }
 ]
