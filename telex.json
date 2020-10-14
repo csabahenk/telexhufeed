@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Gazdaság] Mesics Olívia lett a szentgotthárdi Opel vezetője",
+    "link": "https://telex.hu/gazdasag/2020/10/14/szentgotthard-opel-motorgyar-uj-igazgato",
+    "description": "Elődje Gregorz Buchal visszamegy Lengyelországba.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 20:27:45 +0200"
+  },
+  {
     "title": "[Videó] SZFE: Ki rántja előbb félre a kormányt, ez a kérdés",
     "link": "https://telex.hu/video/2020/10/14/szfe-egyetemfoglalas-tanar-diak-video",
     "description": "Hogy jutottak el a tanárok és több száz huszonéves fiatal oda, hogy elfoglalják a Színház- és Filmművészeti Egyetemet? És miben reménykednek még?",
@@ -166,12 +173,5 @@
     "description": "Bussa Krishna egy szentélyt is emelt a kertjében az amerikai elnök tiszteletére.",
     "author": "Pál Tamás",
     "pubDate": "Wed, 14 Oct 2020 16:17:42 +0200"
-  },
-  {
-    "title": "[Koronavírus] Mi látszik ezer koronavírusos halott adataiból?",
-    "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-magyarorszag-elso-1000-elhunyt",
-    "description": "Szerdán elérte az ezret az elhunytak száma az állami koronavírus-honlap összesítése szerint. Megnéztük, mi olvasható ki a korukból, a nemek arányából, vagy épp az alapbetegségeikből. Már amennyire ez utóbbit a weboldal összevisszasága lehetővé tette.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Wed, 14 Oct 2020 16:02:34 +0200"
   }
 ]
