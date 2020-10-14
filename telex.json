@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Koronavírus] Nő a koronavírus örökítőanyagának mennyisége a debreceni és nyíregyházi szennyvízben",
+    "link": "https://telex.hu/koronavirus/2020/10/14/szennyviz-koronavirus-orokitoanyag-debrecen-nyiregyhaza",
+    "description": "A koncentrációnövekedés 4-10 nappal előzi meg a tünetes megbetegedések számának növekedését.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 14 Oct 2020 19:39:37 +0200"
+  },
+  {
     "title": "[Koronavírus] A járvány kezdete óta nem volt ilyen sok új fertőzött Olaszországban",
     "link": "https://telex.hu/koronavirus/2020/10/14/olaszorszag-koronavirus-rekordmagas-fertozottek-szama-milano",
     "description": "Milánóban és környékén egy nap alatt több mint kétszeresére nőtt az újonnan regisztrált fertőzöttek száma.",
@@ -166,12 +173,5 @@
     "description": "Az államfő szerint nem támasztható megalapozott alkotmányos kifogás a törvénnyel szemben.",
     "author": "Joób Sándor",
     "pubDate": "Wed, 14 Oct 2020 15:10:37 +0200"
-  },
-  {
-    "title": "[Gazdaság] Oda a befőttálom: milliárdokat bukott az állam és a piarista rend",
-    "link": "https://telex.hu/gazdasag/2020/10/14/piarista-csalas-allam-adofizeto",
-    "description": "Megdöbbentő gazdasági történetet mutatott be a 24.hu. A magyar állam és a piarista rend úgy juttatott milliárdokat egy alföldi (kerekegyházi) élelmiszer-feldolgozó álomra, hogy az egész megalapozatlan kártyavár összeomlott. A cégvezetőt elítélték, a rend működik tovább, de a tartalékaiknak annyi. ",
-    "author": "Brückner Gergely",
-    "pubDate": "Wed, 14 Oct 2020 15:01:25 +0200"
   }
 ]
