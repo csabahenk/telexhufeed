@@ -1,5 +1,47 @@
 [
   {
+    "title": "[Gazdaság] Oda a befőttálom: milliárdokat bukott az állam és a Piarista Rend",
+    "link": "https://telex.hu/gazdasag/2020/10/14/piarista-csalas-allam-adofizeto",
+    "description": "Megdöbbentő gazdasági történetet mutatott be a 24.hu. A magyar állam és a piarista rend úgy juttatott milliárdokat egy alföldi (kerekegyházi) élelmiszer-feldolgozó álomra, hogy az egész megalapozatlan kártyavár összeomlott. A cégvezetőt elítélték, a rend működik tovább, de a tartalékaiknak annyi. ",
+    "author": "Brückner Gergely",
+    "pubDate": "Wed, 14 Oct 2020 15:01:25 +0200"
+  },
+  {
+    "title": "[Belföld] Szexuális erőszakkal is vádolják ezt a Szentendréről megszökött férfit",
+    "link": "https://telex.hu/belfold/2020/10/14/szentendre-bunugyi-felugyelet-nyomkoveto-szokes",
+    "description": "Gyermekpornográfia, személyi szabadság megsértése és más bűntettek miatt rendelték el a bűnügyi felügyeletét.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 14 Oct 2020 14:56:34 +0200"
+  },
+  {
+    "title": "[Koronavírus] Koronavírusos diákok miatt zárták be a felcsúti középiskolát, ahol másnap szakácsversenyt rendeztek",
+    "link": "https://telex.hu/koronavirus/2020/10/14/felcsut-szakacs-verseny-letenyey-lajos-kozepiskola-koronavirus",
+    "description": "Az I. Magyar Gasztronómia napja nevű rendezvény előtt fertőtlenítették az iskolát.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 14 Oct 2020 14:47:08 +0200"
+  },
+  {
+    "title": "[Tudomány] Mégsem hó, szénné fagyott metán didereg a Plútón",
+    "link": "https://telex.hu/tudomany/2020/10/14/nasa-pluto-ho-metan-fagyott",
+    "description": "A NASA New Horizon nevű űrszondája 2015-ben fedezte fel a havasnak tűnő hegyeket a törpebolygón. ",
+    "author": "Thüringer Barbara",
+    "pubDate": "Wed, 14 Oct 2020 14:40:36 +0200"
+  },
+  {
+    "title": "[Belföld] Poloskát találtak a hivatalban, feloszlatta magát a képviselő-testület Gyúrón",
+    "link": "https://telex.hu/belfold/2020/10/14/feloszlott-a-kepviselo-testulet-gyuron",
+    "description": "A polgármesteri hivatalban találták a lehallgatókészüléket.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 14 Oct 2020 14:28:51 +0200"
+  },
+  {
+    "title": "[Sport] Portugál kapitány: Ronaldo maga sem érti, hogyan kaphatta el a koronavírust",
+    "link": "https://telex.hu/sport/2020/10/14/santos-ronaldo-nem-erti-hogy-lett-koronavirusos",
+    "description": "A futballista tünetmentes, jelenleg a csapatszálláson van karanténban.",
+    "author": "Fehér János",
+    "pubDate": "Wed, 14 Oct 2020 14:27:28 +0200"
+  },
+  {
     "title": "[Belföld] SZFE-kancellár: Az oktatók levele megnyit egy kiskaput a további párbeszédre",
     "link": "https://telex.hu/belfold/2020/10/14/szfe-kancellar-parbeszed-kiskapu",
     "description": "Szarka Gábor szerint az oktatók alapvetően legitimnek tekintik a helyzetet, elfogadják a kancellárt, bár a két oktatási rektorhelyettes kinevezési módját nem.",
@@ -131,47 +173,5 @@
     "description": "A pótkocsira felkerült egy hátfal nélküli teherautó, amiben volt egy összetört kisteherautó. Ráadásul a tréleres vontatót és a pótkocsit is kivonták korábban a forgalomból.",
     "author": "Csatári Flóra Dóra",
     "pubDate": "Wed, 14 Oct 2020 10:48:34 +0200"
-  },
-  {
-    "title": "[Belföld] Amikor jó biznisz elveszíteni egy polgármester-választást",
-    "link": "https://telex.hu/belfold/2020/10/14/oktober-13-onkormanyzati-valasztas-evforduloja-vesztes-jeloltek",
-    "description": "Van, aki saját egykori ellenfelét csuklóztathatja, másvalaki nagyobb fejlesztéseket valósíthat meg vesztesként, mintha nyert volna, vagy épp a parlamentbe került be. De olyan is akad, aki soha nem nyert választást, mégis egy kinevezés lett a jutalma. Egy évvel az önkormányzati választások után megnéztük, kik azok a vesztesek, akiknek azóta felfele ívelt a szerencséjük: Tüttő Kata, Gy. Németh Erzsébet, Tarlós István, Sára Botond.",
-    "author": "Cseke Balázs",
-    "pubDate": "Wed, 14 Oct 2020 10:46:49 +0200"
-  },
-  {
-    "title": "[Belföld] Kitört a 106-os busz egyik kereke Aquincumnál, és eltalált egy autót",
-    "link": "https://telex.hu/belfold/2020/10/14/autobaleset-busz-bkk-kerek",
-    "description": "Jött egy busz, kiesett a kereke. Személyi sérülésről még nincs hír.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 10:33:33 +0200"
-  },
-  {
-    "title": "[Belföld] SZFE-oktatók: Az új vezetés érdemi javaslatok helyett csak ultimátumokat küld",
-    "link": "https://telex.hu/belfold/2020/10/14/szinhaz-es-filmmuveszeti-egyetem-oktatok-reakcio-tankoztarsasag-rektor",
-    "description": "Az egyetem oktatói azt állítják, hogy az új vezetők megfélemlítésre törekednek, és a hallgatókkal sem álltak szóba.",
-    "author": "Fehér János",
-    "pubDate": "Wed, 14 Oct 2020 10:32:16 +0200"
-  },
-  {
-    "title": "[Belföld] A szomszéd vette észre a letakart, de még füstölgő hamvakat Dánszentmiklóson",
-    "link": "https://telex.hu/belfold/2020/10/14/kulonos-kegyetlenseg-emberoles-danszentmiklos-fustolgo-hamvak-agyonvert-kikotozott-magarahagyott-ferfi",
-    "description": "Az ügyészség a tavaly nyári ügyben különös kegyetlenséggel elkövetett emberölés miatt emelt most vádat.",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Wed, 14 Oct 2020 10:31:53 +0200"
-  },
-  {
-    "title": "[Külföld] Engedélyeznék az eutanáziát a 12 év alatti halálos beteg gyerekek számára is Hollandiában",
-    "link": "https://telex.hu/kulfold/2020/10/14/engedelyeznek-az-eutanaziat-a-12-ev-alatti-halalos-beteg-gyerekek-szamara-is-hollandiaban",
-    "description": "A beteg csecsemők és a súlyos beteg 12 év felettiek számára már most is adott a lehetőség.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 10:07:30 +0200"
-  },
-  {
-    "title": "[Külföld] Japán egy cunamiban megrongálódott atomerőmű újraindítását tervezi",
-    "link": "https://telex.hu/kulfold/2020/10/14/japan-atomeromu-ujrainditas-cunami-2011",
-    "description": "Az Onagava erőmű 2011-ben állt le. 2022-ben indulhat újra a termelés.",
-    "author": "Fehér János",
-    "pubDate": "Wed, 14 Oct 2020 09:52:07 +0200"
   }
 ]
