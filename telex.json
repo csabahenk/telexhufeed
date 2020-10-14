@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Koronavírus] Müller Cecília szembement Kásler Miklóssal: nem lesznek tömegrendezvények október 23-án",
+    "link": "https://telex.hu/koronavirus/2020/10/14/operativ-torzs-szerda-muller-cecilia-kasler-miklos",
+    "description": "Az országos tisztifőorvos bejelentette: zászlófelvonáson és a díjátadáson kívül központilag más rendezvényt sem szerveznek, és önmérsékletre kéri az önkormányzatokat is az operatív törzs.",
+    "author": "Biró Marianna",
+    "pubDate": "Wed, 14 Oct 2020 12:19:47 +0200"
+  },
+  {
+    "title": "[Belföld] Most szórólapon terjesztik Lenkei járványtagadó elméleteit",
+    "link": "https://telex.hu/belfold/2020/10/14/lenkei-gabor-offline-szorolap",
+    "description": "A szórólapra QR-kódokat is nyomtattak, amiről járványtagadó YouTube-videók is elérhetők.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Wed, 14 Oct 2020 12:06:45 +0200"
+  },
+  {
+    "title": "[Gazdaság] Az Exim ismét tőkealapot indít az OTP-vel",
+    "link": "https://telex.hu/gazdasag/2020/10/14/az-exim-ismet-alapot-indit-az-otp-val",
+    "description": "Huszonöt milliárd forintos tőkével alapot indít az Exim és az OTP. A PortfoLion Regionális Magántőke Alap II. az előző, \"egyes\" alaphoz hasonlóan 50-50 százalékban az Exim Bank és az OTP befektetéséből indul. A befektetések értéke várhatóan 3 és 15 millió euró közé tehető majd. ",
+    "author": "Brückner Gergely",
+    "pubDate": "Wed, 14 Oct 2020 12:01:15 +0200"
+  },
+  {
+    "title": "[Tudomány] Egy időjárási jelenség miatt lehet több halálos cápatámadás Ausztráliában",
+    "link": "https://telex.hu/tudomany/2020/10/14/ausztralia-capatamadas-tobb-szorf-vadaszterulet",
+    "description": "Közelebb kerültek a strandokhoz a zsákmányállatok vonulási útja, és már nem csak kíváncsiságból harapnak a cápák.",
+    "author": "Fehér János",
+    "pubDate": "Wed, 14 Oct 2020 11:57:56 +0200"
+  },
+  {
     "title": "[Tudomány] A kutyák személyisége az öregedéssel az emberekéhez hasonlóan változik",
     "link": "https://telex.hu/tudomany/2020/10/14/cikk-cime-64",
     "description": "",
@@ -23,7 +51,7 @@
   {
     "title": "[Belföld] Matrjoska módjára épített magyar horrorkaravánt kapcsoltak le az M6-oson",
     "link": "https://telex.hu/belfold/2020/10/14/matrjoska-modjara-epitett-magyar-horrorkaravant-kapcsoltak-le-az-m6-os",
-    "description": "A pótkocsira felkerült egy hátfal nélküli teherautó, amiben volt egy összetört kisteherautó. Ráadásul a tréleres vonatót és a pótkocsit is kivonták korábban a forgalomból.",
+    "description": "A pótkocsira felkerült egy hátfal nélküli teherautó, amiben volt egy összetört kisteherautó. Ráadásul a tréleres vontatót és a pótkocsit is kivonták korábban a forgalomból.",
     "author": "Csatári Flóra Dóra",
     "pubDate": "Wed, 14 Oct 2020 10:48:34 +0200"
   },
@@ -145,33 +173,5 @@
     "description": "A teszt eredménye több mint egy hét után készül el. A kórházban minden felszerelés megvan, csak a lázmérő és a vérnyomásmérő nem működik. Vagy a tanár van bent az iskolában és a diákok otthon, vagy fordítva. ",
     "author": "Joób Sándor",
     "pubDate": "Wed, 14 Oct 2020 07:48:10 +0200"
-  },
-  {
-    "title": "[Külföld] Összeütközött az afgán légierő két helikoptere, legalább 15-en meghaltak",
-    "link": "https://telex.hu/kulfold/2020/10/14/osszeutkozott-az-afgan-legiero-ket-helikoptere-legalabb-15-en-meghaltak",
-    "description": "A baleset kedd éjfél körül történt a dél-afganisztáni Hilmend tartományban.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 07:30:02 +0200"
-  },
-  {
-    "title": "[Koronavírus] Negyvenezer aktív beteggel kalkulált a kormány novemberre",
-    "link": "https://telex.hu/koronavirus/2020/10/14/koronavirus-percrol-percre-2020-10-14",
-    "description": "Az összes fontos szerdai hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.\n",
-    "author": "Thüringer Barbara, Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 07:18:18 +0200"
-  },
-  {
-    "title": "[Belföld] Több helyen is havazott, megérkezett a hegyekbe az első hó",
-    "link": "https://telex.hu/belfold/2020/10/14/tobb-helyen-is-havazott-az-ejszaka",
-    "description": "Reggelre kifehéredett a Kékestető, Bánkút, Mátraszentistván, a Galyatető, illetve a Nagy-Hideg-hegy is.",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Wed, 14 Oct 2020 07:14:54 +0200"
-  },
-  {
-    "title": "[Belföld] Elhunyt Mandur László, az Országgyűlés korábbi alelnöke",
-    "link": "https://telex.hu/belfold/2020/10/14/mandur-laszlo-elhunyt-mszp-politikus-orszagugyles-alelnoke",
-    "description": "Az egykori MSZP-s politikus, fotográfus, mérnök, közgazdász halálhíréről az MSZP a közösségi médiában számolt be.",
-    "author": "Csatári Flóra Dóra",
-    "pubDate": "Wed, 14 Oct 2020 06:49:17 +0200"
   }
 ]
