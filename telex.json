@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Koronavírus] A járvány kezdete óta nem volt ilyen sok új fertőzött Olaszországban",
+    "link": "https://telex.hu/koronavirus/2020/10/14/olaszorszag-koronavirus-rekordmagas-fertozottek-szama-milano",
+    "description": "Milánóban és környékén egy nap alatt több mint kétszeresére nőtt az újonnan regisztrált fertőzöttek száma.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 14 Oct 2020 19:16:34 +0200"
+  },
+  {
+    "title": "[Szórakozás] Ebben az évben már az sem meglepő, ha sör kerül a gulyásba",
+    "link": "https://telex.hu/szorakozas/2020/10/14/anker-koz-sor-megnyito-madhouse-soros-gulyas",
+    "description": "A belvárosban nyitott új helyet az egyik magyar sörfőzde, gyorsan ki is próbáltuk. A konyha alapvetően sörös fogásokra épít, a gulyásba szánt húst is sörbe áztatják például.",
+    "author": "Lovas Gergő",
+    "pubDate": "Wed, 14 Oct 2020 19:06:12 +0200"
+  },
+  {
+    "title": "[Belföld] Szarka Gábor lőtte le az internetet az SZFE-n, és tovább is hajlandó menni",
+    "link": "https://telex.hu/belfold/2020/10/14/szarka-gabor-lotte-le-az-internetet-az-szfe-n",
+    "description": "Meg akarja szüntetni a belső anarchiát, mondta az új kancellár.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 19:03:28 +0200"
+  },
+  {
+    "title": "[Sport] Jobban van Panenka, elhagyhatta a kórházat",
+    "link": "https://telex.hu/sport/2020/10/14/antonin-panenka-elhagyta-korhaz-koronavirus-csehorszag",
+    "description": "A korábbi csehszlovák válogatott futballista elkapta a koronavírust.",
+    "author": "Pál Tamás",
+    "pubDate": "Wed, 14 Oct 2020 18:48:13 +0200"
+  },
+  {
+    "title": "[Külföld] Trump és Biden külön tartják meg második vitájukat",
+    "link": "https://telex.hu/kulfold/2020/10/14/donald-trump-joe-biden-elnokvalasztas-studiobeszelgetes",
+    "description": "Mindketten egy-egy stúdióbeszélgetést csinálnak majd külön kérdezőkkel, külön csatornán.",
+    "author": "Presinszky Judit",
+    "pubDate": "Wed, 14 Oct 2020 18:41:51 +0200"
+  },
+  {
     "title": "[Koronavírus] Már a második koronavírus elleni orosz vakcinát is bejegyezték",
     "link": "https://telex.hu/koronavirus/2020/10/14/mar-a-masodik-koronavirus-elleni-orosz-vakcinat-is-bejegyeztek",
     "description": "És úton a harmadik. Putyin sürgeti a tömeggyártást, a külföldi szakértők aggódnak.",
@@ -138,40 +173,5 @@
     "description": "Megdöbbentő gazdasági történetet mutatott be a 24.hu. A magyar állam és a piarista rend úgy juttatott milliárdokat egy alföldi (kerekegyházi) élelmiszer-feldolgozó álomra, hogy az egész megalapozatlan kártyavár összeomlott. A cégvezetőt elítélték, a rend működik tovább, de a tartalékaiknak annyi. ",
     "author": "Brückner Gergely",
     "pubDate": "Wed, 14 Oct 2020 15:01:25 +0200"
-  },
-  {
-    "title": "[Belföld] Szexuális erőszakkal is vádolják ezt a Szentendréről megszökött férfit",
-    "link": "https://telex.hu/belfold/2020/10/14/szentendre-bunugyi-felugyelet-nyomkoveto-szokes",
-    "description": "Gyermekpornográfia, személyi szabadság megsértése és más bűntettek miatt rendelték el a bűnügyi felügyeletét.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 14:56:34 +0200"
-  },
-  {
-    "title": "[Koronavírus] Koronavírusos diákok miatt zárták be a felcsúti középiskolát, ahol másnap szakácsversenyt rendeztek",
-    "link": "https://telex.hu/koronavirus/2020/10/14/felcsut-szakacs-verseny-letenyey-lajos-kozepiskola-koronavirus",
-    "description": "Az I. Magyar Gasztronómia napja nevű rendezvény előtt fertőtlenítették az iskolát.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 14:47:08 +0200"
-  },
-  {
-    "title": "[Tudomány] Mégsem hó, szénné fagyott metán didereg a Plútón",
-    "link": "https://telex.hu/tudomany/2020/10/14/nasa-pluto-ho-metan-fagyott",
-    "description": "A NASA New Horizon nevű űrszondája 2015-ben fedezte fel a havasnak tűnő hegyeket a törpebolygón. ",
-    "author": "Thüringer Barbara",
-    "pubDate": "Wed, 14 Oct 2020 14:40:36 +0200"
-  },
-  {
-    "title": "[Belföld] Poloskát találtak a hivatalban, feloszlatta magát a képviselő-testület Gyúrón",
-    "link": "https://telex.hu/belfold/2020/10/14/feloszlott-a-kepviselo-testulet-gyuron",
-    "description": "A polgármesteri hivatalban találták a lehallgatókészüléket.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Wed, 14 Oct 2020 14:28:51 +0200"
-  },
-  {
-    "title": "[Sport] Portugál kapitány: Ronaldo maga sem érti, hogyan kaphatta el a koronavírust",
-    "link": "https://telex.hu/sport/2020/10/14/santos-ronaldo-nem-erti-hogy-lett-koronavirusos",
-    "description": "A futballista tünetmentes, jelenleg a csapatszálláson van karanténban.",
-    "author": "Fehér János",
-    "pubDate": "Wed, 14 Oct 2020 14:27:28 +0200"
   }
 ]
