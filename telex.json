@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Belföld] Itt van az első kép az állatkert újszülött orangutánjáról",
+    "link": "https://telex.hu/belfold/2020/10/15/orangutan-szuletes-fovarosi-allatkert-elso-kepek",
+    "description": "A kritikusan veszélyeztetett szumátrai orangután szaporítása elég jól megy az állatkertnek: 10 héten belül két újszülöttjük is van.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Thu, 15 Oct 2020 16:50:16 +0200"
+  },
+  {
+    "title": "[Koronavírus] A balassagyarmati kórházban már naponta több covidost gyógyítanak, mint tavasszal 3 hónap alatt",
+    "link": "https://telex.hu/koronavirus/2020/10/15/balassagyarmat-kenessey-albert-korhaz-koronavirus-kirendeles-csach-gabor",
+    "description": "A gyermekosztályt is a koronavírusos betegeknek kellett kiüríteni. Heves megyéből nővéreket vezényeltek át a kórházba. ",
+    "author": "Joób Sándor",
+    "pubDate": "Thu, 15 Oct 2020 16:49:23 +0200"
+  },
+  {
+    "title": "[Belföld] 4 milliós kártérítést ítéltek meg a pedofilváddal 9 hónapra ártatlanul letartóztatott nőnek",
+    "link": "https://telex.hu/belfold/2020/10/15/4-millios-karteritest-iteltek-meg-a-pedofilvaddal-9-honapra-letartoztatott-nonek",
+    "description": "A börtönben társai megverték, öngyilkossági kísérlete volt, gyerekét nem láthatta. A Szolnoki Törvényszék megemelte az elsőfokon megítélt kártérítést.",
+    "author": "Janecskó Kata",
+    "pubDate": "Thu, 15 Oct 2020 16:43:20 +0200"
+  },
+  {
+    "title": "[Belföld] Mappákba rendezgette a gyermekpornóképeket a kőbányai machetés gyilkosság vádlottja",
+    "link": "https://telex.hu/belfold/2020/10/15/kobanyai-emberolese-elokeszito-ules",
+    "description": "A 23 éves férfi tavaly decemberben egy háromgyerekes nőt ölt meg, a vád szerint azért, hogy áldozata 14 éves lányán élhesse ki szexuális vágyait. ",
+    "author": "Pintér Luca",
+    "pubDate": "Thu, 15 Oct 2020 16:26:48 +0200"
+  },
+  {
+    "title": "[Gazdaság] Válságban vannak a magyar fürdők",
+    "link": "https://telex.hu/gazdasag/2020/10/15/valsagban-vannak-a-magyar-furdok",
+    "description": "A Magyar Fürdőszövetség szerint a fürdők több mint 76 százaléka saját erőből nem képes túlélni a válságot jövő tavaszig.",
+    "author": "",
+    "pubDate": "Thu, 15 Oct 2020 16:03:14 +0200"
+  },
+  {
     "title": "[Külföld] Harcias beszédet mondott a kínai elnök egy katonai bázison",
     "link": "https://telex.hu/kulfold/2020/10/15/kina-hszi-csin-ping-tajvan-koronavirus-hadsereg",
     "description": "Egyre feszültebb a viszony Kína és Egyesült Államok között Tajvan miatt. ",
@@ -138,40 +173,5 @@
     "description": "Ha sikerül csökkenteni a nyomást, jöhetnek az olcsóbb elektromos hálózatok és lebegő vonatok.",
     "author": "Fehér János",
     "pubDate": "Thu, 15 Oct 2020 12:53:21 +0200"
-  },
-  {
-    "title": "[Sport] 800 milliót áldoz a kormány egy úszóversenyre, ami mindenki mást kiszorít a Dagályból és a Duna Arénából",
-    "link": "https://telex.hu/sport/2020/10/15/isl-budapest-kozpenz-teszt-buborek-uszoverseny",
-    "description": "November 21-ig egy budapesti buborékban él és versenyez a világ legjobb úszóinak egy része, mert az ISL versenysorozata ide költözött. A kormány nagy pénzekkel támogatja a rendezvényt, ami miatt a Dagályból kiszorultak az úszni vágyók.",
-    "author": "Ághassi Attila",
-    "pubDate": "Thu, 15 Oct 2020 12:49:18 +0200"
-  },
-  {
-    "title": "[Külföld] Az EU-csúcson rögtön belecsapnak a közepébe, a brexittel kezdenek",
-    "link": "https://telex.hu/kulfold/2020/10/15/kulfold-eu-csucs-europai-unio-brexit-boris-johnson",
-    "description": "Boris Johnson a csütörtök-pénteki csúcs után dönti el, hogy az Egyesült Királyság folytatja-e a megrekedt tárgyalásokat.",
-    "author": "Dömötör Bálint",
-    "pubDate": "Thu, 15 Oct 2020 12:41:10 +0200"
-  },
-  {
-    "title": "[Szórakozás] Visszahúzható fénykardot épített egy youtuber",
-    "link": "https://telex.hu/szorakozas/2020/10/15/star-wars-fenykard-youtuber-acel",
-    "description": "Valósággá vált a Star Wars rajongók álma. A visszahúzható plazmasugár akár az acélt is átvágja.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 15 Oct 2020 12:11:03 +0200"
-  },
-  {
-    "title": "[Belföld] Az MCC kormányközeli oktatási alapítványé lehet Révfülöp kikötője",
-    "link": "https://telex.hu/belfold/2020/10/15/az-mcc-e-lesz-revfulop-kikotoje",
-    "description": "A rengeteg pénzzel kistafírozott Mathias Corvinus Collegium (MCC) az oktatási és kulturális hírek után immár állandó szereplője a gazdasági híreknek is.",
-    "author": "Brückner Gergely",
-    "pubDate": "Thu, 15 Oct 2020 12:08:14 +0200"
-  },
-  {
-    "title": "[Kult] Szabó Zoltán lett az RTL marketing- és kommunikációs igazgatója",
-    "link": "https://telex.hu/kult/2020/10/15/szabo-zoltan-lett-az-rtl-kommunikacios-es-marketing-igazgatoja",
-    "description": "Az Indexnél 20 évet lehúzó Szabó az új pozíciót kapó Schiwert-Takács Lászlót váltja.",
-    "author": "Sajó Dávid",
-    "pubDate": "Thu, 15 Oct 2020 11:55:51 +0200"
   }
 ]
