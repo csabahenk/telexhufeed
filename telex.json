@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Belföld] David Cornstein: Trump felhívta Viktort, aki éppen a konyhájában volt",
+    "link": "https://telex.hu/belfold/2020/10/15/david-cornstein-orban-viktor-egyesult-allamok",
+    "description": "David Cornstein amerikai nagykövet hamarosan távozik, utódjának személye az amerikai elnökválasztástól függ. A diplomata búcsúzóul értékelte a munkáját, szerinte sokkal jobb most a két ország vezetői között a kapcsolat, mint korábban.",
+    "author": "Brückner Gergely",
+    "pubDate": "Thu, 15 Oct 2020 09:54:43 +0200"
+  },
+  {
+    "title": "[Külföld] Rohamrendőröket küldtek a kormányellenes tüntetőkre Thaiföldön",
+    "link": "https://telex.hu/kulfold/2020/10/15/rohamrendoroket-kuldtek-a-kormanyellenes-tuntetokre-thaifoldon",
+    "description": "A demonstrálók a monarchia megreformálását és a kormányfő távozását követelik.",
+    "author": "Sajó Dávid",
+    "pubDate": "Thu, 15 Oct 2020 09:41:55 +0200"
+  },
+  {
+    "title": "[Kult] Kirúgták a Médiapiac teljes szerkesztőségét",
+    "link": "https://telex.hu/kult/2020/10/15/mediapiac-elbocsatas-szerkesztoseg",
+    "description": "Csak tegnap derült ki, hogy a lapnak a kormányhoz közel álló Boros Bánk Levente az új tulajdonosa.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Thu, 15 Oct 2020 09:33:13 +0200"
+  },
+  {
+    "title": "[Kult] Kulka János új filmjében az általa játszott karakter is sztrókot kap",
+    "link": "https://telex.hu/kult/2020/10/15/kulka-janos-a-jatszma-film-sztrok-szerep",
+    "description": "A játszma rendezője szerint Kulka betegségéből eredő tapasztalat sokat ad a szerepéhez. ",
+    "author": "Fehér János",
+    "pubDate": "Thu, 15 Oct 2020 09:29:42 +0200"
+  },
+  {
+    "title": "[Belföld] Láng Zsolt: Minél többször mondja Karácsony Gergely, hogy nem akar miniszterelnök lenni, annál gyanúsabb",
+    "link": "https://telex.hu/belfold/2020/10/15/lang-zsolt-fopolgarmester-karacsony-gergely",
+    "description": "Egy éve voltak az önkormányzati választások Magyarországon. A Magyar Nemzetben most Láng Zsolt korábbi kerületi polgármester értékelte Karácsony Gergely főpolgármester munkáját. Mint a beszélgetésből kiderül: a fideszes politikus csalódott. ",
+    "author": "Brückner Gergely",
+    "pubDate": "Thu, 15 Oct 2020 09:18:14 +0200"
+  },
+  {
     "title": "[Koronavírus] Még sosem haltak meg ennyien koronavírus-fertőzöttként egy nap alatt Magyarországon",
     "link": "https://telex.hu/koronavirus/2020/10/15/koronavirus-adatok-fertozottek-halottak-szama-statisztika-korhazban-apoltak",
     "description": "29 halálos áldozatról számolt be a koronavírusról tájékoztató hivatalos honlap. 950 új fertőzöttet regisztráltak.",
@@ -35,7 +70,7 @@
     "pubDate": "Thu, 15 Oct 2020 07:26:42 +0200"
   },
   {
-    "title": "[Koronavírus] A fertőzöttek száma meghaladta a 38,4 milliót a világon",
+    "title": "[Koronavírus] Berlinben hirdetésben intenek be azoknak, akik nem viselnek maszkot",
     "link": "https://telex.hu/koronavirus/2020/10/15/koronavirus-pp-2020-10-15-vilagszerte",
     "description": "Az összes fontos csütörtöki hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.\n",
     "author": "Iván-Nagy Szilvia",
@@ -138,40 +173,5 @@
     "description": "Macron egészségügyi rendkívüli állapotot hirdetett Franciaországban. ",
     "author": "Presinszky Judit",
     "pubDate": "Wed, 14 Oct 2020 20:55:59 +0200"
-  },
-  {
-    "title": "[Tudomány] Okoskötést fejlesztettek ki ausztrál kutatók",
-    "link": "https://telex.hu/tudomany/2020/10/14/okoskotest-fejlesztettek-ki-ausztral-kutatok",
-    "description": "Érzékeli, ha épp elkezdene elfertőződni a seb.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Wed, 14 Oct 2020 20:44:48 +0200"
-  },
-  {
-    "title": "[Gazdaság] Mesics Olívia lett a szentgotthárdi Opel vezetője",
-    "link": "https://telex.hu/gazdasag/2020/10/14/szentgotthard-opel-motorgyar-uj-igazgato",
-    "description": "Elődje Gregorz Buchal visszamegy Lengyelországba.",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 14 Oct 2020 20:27:45 +0200"
-  },
-  {
-    "title": "[Videó] SZFE: Ki rántja előbb félre a kormányt, ez a kérdés",
-    "link": "https://telex.hu/video/2020/10/14/szfe-egyetemfoglalas-tanar-diak-video",
-    "description": "Hogy jutottak el a tanárok és több száz huszonéves fiatal oda, hogy elfoglalják a Színház- és Filmművészeti Egyetemet? És miben reménykednek még?",
-    "author": "Lengyel-Szabó Péter, Földes András",
-    "pubDate": "Wed, 14 Oct 2020 20:18:03 +0200"
-  },
-  {
-    "title": "[Külföld] Hiába mutogat hatalmas rakétákat Észak-Korea, az USA szerint ezek feltehetően nem működnek",
-    "link": "https://telex.hu/kulfold/2020/10/14/eszak-korea-usa-interkontinentalis-ballisztikus-raketa-mike-pompeo",
-    "description": "Az amerikai külügyminiszter szerint Phenjan se tavaly, se az azt megelőző években nem végzett kísérleteket interkontinentális ballisztikus rakétákkal. \n",
-    "author": "Joób Sándor",
-    "pubDate": "Wed, 14 Oct 2020 19:56:40 +0200"
-  },
-  {
-    "title": "[Koronavírus] Nő a koronavírus örökítőanyagának mennyisége a debreceni és nyíregyházi szennyvízben",
-    "link": "https://telex.hu/koronavirus/2020/10/14/szennyviz-koronavirus-orokitoanyag-debrecen-nyiregyhaza",
-    "description": "A koncentrációnövekedés 4-10 nappal előzi meg a tünetes megbetegedések számának növekedését.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 19:39:37 +0200"
   }
 ]
