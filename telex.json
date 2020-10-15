@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Tech] Hozzánk is elérhető áron jönnek a Xiaomi 5G-s csúcsmobiljai",
+    "link": "https://telex.hu/tech/2020/10/15/xiaomi-mi-10t-telefon-bemutato-android",
+    "description": "November elején jelenik meg Magyarországon az Mi 10T-széria, ami a nagyon vonzó árfekvés és az 5G mellett 108 megapixeles kamerával, játékra tervezett kijelzővel és antibakteriális kiegészítőkkel csábítja a vásárlókat.",
+    "author": "Flachner Balázs",
+    "pubDate": "Thu, 15 Oct 2020 21:10:48 +0200"
+  },
+  {
+    "title": "[Koronavírus] Még két hónapig érvényesek a veszélyhelyzet idején lejárt személyi okmányok",
+    "link": "https://telex.hu/koronavirus/2020/10/15/szemelyi-igazolvany-utlevel-jogositvany-ervenyesseg-koronavirus",
+    "description": "December 15-ig lehet meghosszabbítani a már lejárt személyit, útlevelet, jogosítványt és forgalmit. ",
+    "author": "Joób Sándor",
+    "pubDate": "Thu, 15 Oct 2020 21:07:21 +0200"
+  },
+  {
     "title": "[Külföld] Az Európai Unió felkészül egy megállapodás nélküli brexitre",
     "link": "https://telex.hu/kulfold/2020/10/15/az-europai-unio-felkeszul-egy-megallapodas-nelkuli-brexitre",
     "description": "Az unió kész kereskedelmi megállapodást kötni a kilépő Egyesült Királysággal, de nem mindenáron. ",
@@ -159,19 +173,5 @@
     "description": "Az oroszok tükörválaszt ígértek be.",
     "author": "Fehér János",
     "pubDate": "Thu, 15 Oct 2020 15:06:40 +0200"
-  },
-  {
-    "title": "[Szórakozás] Hatvan magyar színésznővel újraforgatták a Psycho híres zuhanyjelenetét",
-    "link": "https://telex.hu/szorakozas/2020/10/15/psycho-zuhany-hatvan-magyar-szineszno-ujraforgatas",
-    "description": "Mindegyik snittben más színésznő látható, köztük Törőcsik Mari, Péterfy Bori, Osvárt Andrea, Ónodi Eszter, Hűvösvölgyi Ildikó, Pásztor Erzsi, Döbrösi Laura és Farkas Franciska.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Thu, 15 Oct 2020 15:05:02 +0200"
-  },
-  {
-    "title": "[Gazdaság] 1800 milliárd forintos mentőprogramot jelentett be az EIB",
-    "link": "https://telex.hu/gazdasag/2020/10/15/1800-milliard-forintos-mentoprogramot-jelentett-be-az-eib",
-    "description": "A luxemburgi EIB 5,1 milliárd euróval segíti a vállalatokat a koronavírus elleni védekezésben.",
-    "author": "Brückner Gergely",
-    "pubDate": "Thu, 15 Oct 2020 14:51:23 +0200"
   }
 ]
