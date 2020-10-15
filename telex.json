@@ -1,5 +1,47 @@
 [
   {
+    "title": "[Belföld] Nem lesz népszavazás az ingyenes koronavírus-tesztről",
+    "link": "https://telex.hu/belfold/2020/10/15/nem-lesz-nepszavazas-az-ingyenes-koronavirus-tesztrol",
+    "description": "Hatásköri és egyértelműségi problémák miatt kaszálta el a Nemzeti Választási Bizottság a kezdeményezést. ",
+    "author": "Mizsur András",
+    "pubDate": "Thu, 15 Oct 2020 17:50:40 +0200"
+  },
+  {
+    "title": "[Tech] A YouTube is megszabadul a QAnon-tartalomtól",
+    "link": "https://telex.hu/tech/2020/10/15/a-youtube-is-megszabadul-a-qanon-tartalomtol",
+    "description": "",
+    "author": "Klág Dávid",
+    "pubDate": "Thu, 15 Oct 2020 17:48:33 +0200"
+  },
+  {
+    "title": "[Koronavírus] A koronavírus miatt csökkent a légszennyezettség, ami több tízezer ember idő előtti halálát előzheti meg",
+    "link": "https://telex.hu/koronavirus/2020/10/15/koronavirus-jarvany-korlatozas-legszennyzettseg-ido-elotti-halalozas",
+    "description": "Kínában a légszennyezettséggel összefüggésben 24 ezer korai halálozás volt megelőzhető, míg a Covid-19 miatt 3309-en haltak meg.",
+    "author": "Joób Sándor",
+    "pubDate": "Thu, 15 Oct 2020 17:43:40 +0200"
+  },
+  {
+    "title": "[Tech] Az Apple nem száll be a megapixel-háborúba",
+    "link": "https://telex.hu/tech/2020/10/15/apple-iphone-12-kamera-foto-video",
+    "description": "De miért ájult el mindenki az iPhone 12 kameráitól, ha azok maradtak az előző széria 12 megapixeles felbontásánál? Ehelyett van LIDAR-szkenner, nagyobb szenzor és egy sor más újítás.",
+    "author": "Németh Sz. Péter, Flachner Balázs, Bakró-Nagy Ferenc",
+    "pubDate": "Thu, 15 Oct 2020 17:34:44 +0200"
+  },
+  {
+    "title": "[Külföld] Megint karanténba került az Európai Bizottság elnöke",
+    "link": "https://telex.hu/kulfold/2020/10/15/megint-karantenba-kerult-az-europai-bizottsag-elnoke",
+    "description": "Ursula von der Leyen elővigyázatosságból elhagyta a csütörtökön kezdődő uniós csúcstalálkozót. ",
+    "author": "Mizsur András",
+    "pubDate": "Thu, 15 Oct 2020 17:26:36 +0200"
+  },
+  {
+    "title": "[Belföld] Gulyás Gergely után Kocsis Máté sem indul egyéniben a 2022-es választáson",
+    "link": "https://telex.hu/belfold/2020/10/15/kocsis-mate-valasztas-2022-egyeni-kepviselojelolt-sara-botond-fidesz",
+    "description": "A Fidesz frakcióvezetője megerősítette a hírt. Sára Botond indulhat helyette. ",
+    "author": "Joób Sándor",
+    "pubDate": "Thu, 15 Oct 2020 17:19:55 +0200"
+  },
+  {
     "title": "[Belföld] Itt van az első kép az állatkert újszülött orangutánjáról",
     "link": "https://telex.hu/belfold/2020/10/15/orangutan-szuletes-fovarosi-allatkert-elso-kepek",
     "description": "A kritikusan veszélyeztetett szumátrai orangután szaporítása elég jól megy az állatkertnek: 10 héten belül két újszülöttjük is van.",
@@ -31,7 +73,7 @@
     "title": "[Gazdaság] Válságban vannak a magyar fürdők",
     "link": "https://telex.hu/gazdasag/2020/10/15/valsagban-vannak-a-magyar-furdok",
     "description": "A Magyar Fürdőszövetség szerint a fürdők több mint 76 százaléka saját erőből nem képes túlélni a válságot jövő tavaszig.",
-    "author": "",
+    "author": "Klág Dávid",
     "pubDate": "Thu, 15 Oct 2020 16:03:14 +0200"
   },
   {
@@ -131,47 +173,5 @@
     "description": "Figyelem, csalásra figyelmeztet a vállalat.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Thu, 15 Oct 2020 13:58:44 +0200"
-  },
-  {
-    "title": "[Belföld] Ne szigorítsák a katát – kérik szakmai szervezetek",
-    "link": "https://telex.hu/belfold/2020/10/15/kata-csokkentes-visszavonas-bkik",
-    "description": "A Budapesti Kereskedelmi és Iparkamara és több szakmai érdekképviseleti szervezet is a lex Parragh ellen érvel.",
-    "author": "Brückner Gergely",
-    "pubDate": "Thu, 15 Oct 2020 13:51:02 +0200"
-  },
-  {
-    "title": "[Belföld] Szobrot avattak Demján Sándor emlékére",
-    "link": "https://telex.hu/belfold/2020/10/15/szobor-demjan-sandor-emlekere",
-    "description": "A két éve meghalt üzletemberről egy parkot is elneveztek Sárszentmihályon.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Thu, 15 Oct 2020 13:39:26 +0200"
-  },
-  {
-    "title": "[Koronavírus] Müller Cecília: 50-70 százalékos a covidos betegek ellátására kijelölt fővárosi kórházak telítettsége",
-    "link": "https://telex.hu/koronavirus/2020/10/15/muller-cecilia-operativ-torzs-oktober-15-koronavirus",
-    "description": "80 százalékos telítettségnél újabb kórházakat nyitnak meg a súlyosabb fertőzöttek számára.",
-    "author": "Bozzay Balázs",
-    "pubDate": "Thu, 15 Oct 2020 13:19:10 +0200"
-  },
-  {
-    "title": "[Belföld] A nőket és a korábbi Fidesz-szavazókat szólítaná meg pártjával Pálinkás József",
-    "link": "https://telex.hu/belfold/2020/10/15/palinkas-jozsef-mta-uj-vilag-neppart-lantos-gabriella",
-    "description": "Az MTA korábbi elnöke szerint az országnak szüksége van a hozzá hasonló emberek segítségére.",
-    "author": "Mizsur András",
-    "pubDate": "Thu, 15 Oct 2020 13:12:52 +0200"
-  },
-  {
-    "title": "[Belföld] Elkapkodták a komondoros emlékérméket",
-    "link": "https://telex.hu/belfold/2020/10/15/mnb-erme-komondor",
-    "description": "Komondor és verés, mi jut eszébe róla? Igen, jó helyen kapiskál, az MNB komondoros emlékérméket vert, és sikerrel eladta őket.",
-    "author": "Brückner Gergely",
-    "pubDate": "Thu, 15 Oct 2020 13:07:42 +0200"
-  },
-  {
-    "title": "[Tudomány] Kísérleti körülmények között már szobahőmérsékleten is működik szupravezető",
-    "link": "https://telex.hu/tudomany/2020/10/15/szobahomerseklet-szupravezeto-eloszor-attores",
-    "description": "Ha sikerül csökkenteni a nyomást, jöhetnek az olcsóbb elektromos hálózatok és lebegő vonatok.",
-    "author": "Fehér János",
-    "pubDate": "Thu, 15 Oct 2020 12:53:21 +0200"
   }
 ]
