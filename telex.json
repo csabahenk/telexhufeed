@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Szórakozás] Harminc éve nem tudjuk a Majom-sziget titkát",
+    "link": "https://telex.hu/szorakozas/2020/10/15/secret-of-the-monkey-island-videojatek-evfordulo-ron-gilbert-lucasarts",
+    "description": "Mindenki érezze magát vigasztalhatatlanul öregnek: harmincéves minden idők egyik legjobb és legviccesebb kalandjátéka. Nézd, ott egy háromfejű majom!",
+    "author": "Stöckert Gábor",
+    "pubDate": "Thu, 15 Oct 2020 22:32:10 +0200"
+  },
+  {
+    "title": "[Belföld] A kormány budapesti fejlesztéseket venne át, Karácsony szerint gyámság alá akarják helyezni a fővárost",
+    "link": "https://telex.hu/belfold/2020/10/15/fovaros-karacsony-gergely-furjes-balazs-lanchid-bicikliut-fejlesztesek-kormany",
+    "description": "A főváros és a kormány egyeztetésén nem született megállapodás a nagykörúti kerékpárútról, a Biodóm vagy a Budavári Sikló beruházás kormányzati átvételéről.",
+    "author": "Joób Sándor",
+    "pubDate": "Thu, 15 Oct 2020 22:22:59 +0200"
+  },
+  {
+    "title": "[Tudomány] A világon 3 milliárd ember nem tud otthon kezet mosni",
+    "link": "https://telex.hu/tudomany/2020/10/15/a-vilagon-3-milliard-ember-nem-tud-otthon-kezet-mosni",
+    "description": "818 millió gyerek számára nincs se víz, se szappan az iskolákban.",
+    "author": "Klág Dávid",
+    "pubDate": "Thu, 15 Oct 2020 22:15:13 +0200"
+  },
+  {
     "title": "[Tech] Hozzánk is elérhető áron jönnek a Xiaomi 5G-s csúcsmobiljai",
     "link": "https://telex.hu/tech/2020/10/15/xiaomi-mi-10t-telefon-bemutato-android",
     "description": "November elején jelenik meg Magyarországon az Mi 10T-széria, ami a nagyon vonzó árfekvés és az 5G mellett 108 megapixeles kamerával, játékra tervezett kijelzővel és antibakteriális kiegészítőkkel csábítja a vásárlókat.",
@@ -35,7 +56,7 @@
     "pubDate": "Thu, 15 Oct 2020 19:58:22 +0200"
   },
   {
-    "title": "[Belföld] Október 22-én adják az M3-as metró felújított szakaszát",
+    "title": "[Belföld] Október 22-én  át az M3-as metró felújított szakaszát",
     "link": "https://telex.hu/belfold/2020/10/15/cikk-cime-68",
     "description": "Az átadást követően teljes vonalon közlekedik az M3-as metró, a középső szakaszon lezárt állomásokon viszont továbbra sem áll meg.",
     "author": "Mizsur András",
@@ -152,26 +173,5 @@
     "description": "Hét pont, 4-1-es gólkülönbség három idegenbeli meccsen – elismerésre méltó a fociválogatott teljesítménye. Jó hangulatban készülhetünk az Izland elleni, mindent eldöntő meccsre, akkor lehetne feltenni az i-re a pontot.",
     "author": "Ághassi Attila",
     "pubDate": "Thu, 15 Oct 2020 15:28:28 +0200"
-  },
-  {
-    "title": "[Szórakozás] A csőr című képéért magyar fotóst is díjaztak a természetfotózás Oscarján",
-    "link": "https://telex.hu/szorakozas/2020/10/15/daroczi-csaba-rigo-a-csor-wildlife-photographer-of-the-year-magyar-dijazott",
-    "description": "Daróczi Csaba már pakolta el a felszerelését, amikor megragadta figyelmét egy inni érkező feketerigó.",
-    "author": "Fehér János",
-    "pubDate": "Thu, 15 Oct 2020 15:27:51 +0200"
-  },
-  {
-    "title": "[Koronavírus] Minden uniós tagállam egyszerre kapja majd meg a koronavírus elleni vakcinát",
-    "link": "https://telex.hu/koronavirus/2020/10/15/europai-bizottsag-koronavirus-oltoanyag",
-    "description": "Népességarányosan juthatnak hozzá az uniós tagállamok a jóváhagyott oltóanyaghoz. ",
-    "author": "Mizsur András,",
-    "pubDate": "Thu, 15 Oct 2020 15:23:49 +0200"
-  },
-  {
-    "title": "[Külföld] Navalnij megmérgezése miatt több orosz hivatalnokot kitiltottak az Európai Unióból",
-    "link": "https://telex.hu/kulfold/2020/10/15/navalnij-vegyifegyver-korlatozo-intezkedes-unio-kreml-novicsok-ii-erzsebet",
-    "description": "Az oroszok tükörválaszt ígértek be.",
-    "author": "Fehér János",
-    "pubDate": "Thu, 15 Oct 2020 15:06:40 +0200"
   }
 ]
