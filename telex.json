@@ -1,5 +1,54 @@
 [
   {
+    "title": "[Külföld] Harcias beszédet mondott a kínai elnök egy katonai bázison",
+    "link": "https://telex.hu/kulfold/2020/10/15/kina-hszi-csin-ping-tajvan-koronavirus-hadsereg",
+    "description": "Egyre feszültebb a viszony Kína és Egyesült Államok között Tajvan miatt. ",
+    "author": "Mizsur András",
+    "pubDate": "Thu, 15 Oct 2020 15:46:05 +0200"
+  },
+  {
+    "title": "[Kult] Hungarikum lett a Magyar népmesékből",
+    "link": "https://telex.hu/kult/2020/10/15/hungarikum-magyar-nepmesek",
+    "description": "Nagy István agrárminiszter szerint a mesesorozat kultúránk alapját képezi.",
+    "author": "Klág Dávid",
+    "pubDate": "Thu, 15 Oct 2020 15:39:02 +0200"
+  },
+  {
+    "title": "[Sport] Öt tényező, ami a futballválogatott sikereit megteremtette",
+    "link": "https://telex.hu/sport/2020/10/15/ot-ok-ami-a-futball-valogatott-sikereit-megteremtette",
+    "description": "Hét pont, 4-1-es gólkülönbség három idegenbeli meccsen – elismerésre méltó a fociválogatott teljesítménye. Jó hangulatban készülhetünk az Izland elleni, mindent eldöntő meccsre, akkor lehetne feltenni az i-re a pontot.",
+    "author": "Ághassi Attila",
+    "pubDate": "Thu, 15 Oct 2020 15:28:28 +0200"
+  },
+  {
+    "title": "[Szórakozás] A csőr című képéért magyar fotóst is díjaztak a természetfotózás Oscarján",
+    "link": "https://telex.hu/szorakozas/2020/10/15/daroczi-csaba-rigo-a-csor-wildlife-photographer-of-the-year-magyar-dijazott",
+    "description": "Daróczi Csaba már pakolta el a felszerelését, amikor megragadta figyelmét egy inni érkező feketerigó.",
+    "author": "Fehér János",
+    "pubDate": "Thu, 15 Oct 2020 15:27:51 +0200"
+  },
+  {
+    "title": "[Koronavírus] Minden uniós tagállam egyszerre kapja majd meg a koronavírus elleni vakcinát",
+    "link": "https://telex.hu/koronavirus/2020/10/15/europai-bizottsag-koronavirus-oltoanyag",
+    "description": "Népességarányosan juthatnak hozzá az uniós tagállamok a jóváhagyott oltóanyaghoz. ",
+    "author": "Mizsur András,",
+    "pubDate": "Thu, 15 Oct 2020 15:23:49 +0200"
+  },
+  {
+    "title": "[Külföld] Navalnij megmérgezése miatt több orosz hivatalnokot kitiltottak az Európai Unióból",
+    "link": "https://telex.hu/kulfold/2020/10/15/navalnij-vegyifegyver-korlatozo-intezkedes-unio-kreml-novicsok-ii-erzsebet",
+    "description": "Az oroszok tükörválaszt ígértek be.",
+    "author": "Fehér János",
+    "pubDate": "Thu, 15 Oct 2020 15:06:40 +0200"
+  },
+  {
+    "title": "[Szórakozás] Hatvan magyar színésznővel újraforgatták a Psycho híres zuhanyjelenetét",
+    "link": "https://telex.hu/szorakozas/2020/10/15/psycho-zuhany-hatvan-magyar-szineszno-ujraforgatas",
+    "description": "Mindegyik snittben más színésznő látható, köztük Törőcsik Mari, Péterfy Bori, Osvárt Andrea, Ónodi Eszter, Hűvösvölgyi Ildikó, Pásztor Erzsi, Döbrösi Laura és Farkas Franciska.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Thu, 15 Oct 2020 15:05:02 +0200"
+  },
+  {
     "title": "[Gazdaság] 1800 milliárd forintos mentőprogramot jelentett be az EIB",
     "link": "https://telex.hu/gazdasag/2020/10/15/1800-milliard-forintos-mentoprogramot-jelentett-be-az-eib",
     "description": "A luxemburgi EIB 5,1 milliárd euróval segíti a vállalatokat a koronavírus elleni védekezésben.",
@@ -93,7 +142,7 @@
   {
     "title": "[Sport] 800 milliót áldoz a kormány egy úszóversenyre, ami mindenki mást kiszorít a Dagályból és a Duna Arénából",
     "link": "https://telex.hu/sport/2020/10/15/isl-budapest-kozpenz-teszt-buborek-uszoverseny",
-    "description": "November 21-ig egy budapesti buborékban él és versenyez a világ legjobb úszóinak egy része, mert az ISL versenysorozata ide költözött. A kormány nagy pénzekkel támogatja a rendezvényt, ami miatt a Dagályról kiszorultak az úszni vágyók.",
+    "description": "November 21-ig egy budapesti buborékban él és versenyez a világ legjobb úszóinak egy része, mert az ISL versenysorozata ide költözött. A kormány nagy pénzekkel támogatja a rendezvényt, ami miatt a Dagályból kiszorultak az úszni vágyók.",
     "author": "Ághassi Attila",
     "pubDate": "Thu, 15 Oct 2020 12:49:18 +0200"
   },
@@ -119,59 +168,10 @@
     "pubDate": "Thu, 15 Oct 2020 12:08:14 +0200"
   },
   {
-    "title": "[Kult] Szabó Zoltán lett az RTL kommunikációs- és marketing igazgatója",
+    "title": "[Kult] Szabó Zoltán lett az RTL marketing- és kommunikációs igazgatója",
     "link": "https://telex.hu/kult/2020/10/15/szabo-zoltan-lett-az-rtl-kommunikacios-es-marketing-igazgatoja",
     "description": "Az Indexnél 20 évet lehúzó Szabó az új pozíciót kapó Schiwert-Takács Lászlót váltja.",
     "author": "Sajó Dávid",
     "pubDate": "Thu, 15 Oct 2020 11:55:51 +0200"
-  },
-  {
-    "title": "[Külföld] A második világháború idején sem csökkent akkorát a szén-dioxid-kibocsátás, mint 2020 első felében",
-    "link": "https://telex.hu/kulfold/2020/10/15/szen-dioxid-kibocsatas-csokkenes-vilagszerte",
-    "description": "Az előző évi adatokhoz viszonyítva jelentőset mérséklődtek a számok, leginkább a szárazföldi közlekedésben.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Thu, 15 Oct 2020 11:53:13 +0200"
-  },
-  {
-    "title": "[Külföld] Harmadszor zavarja el az utca a klánok harcában az elnököt",
-    "link": "https://telex.hu/kulfold/2020/10/15/kirgizisztan",
-    "description": "Tizenöt év alatt harmadszor kényszerítik ki tüntetések a hatalomváltást Kirgizisztánban. A menetrendszerű rendszerdöntés ezúttal kevés halálos áldozattal járt, de a hatalmi harcnak ezzel nincs vége. Elhúzódása etnikai alapú összecsapásokhoz és az Európába irányuló heroincsempészetből élő szervezett bűnözés erősödéséhez is vezethet.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Thu, 15 Oct 2020 11:41:51 +0200"
-  },
-  {
-    "title": "[Belföld] MESZK-felmérés: a dolgozók közel harmada elhagyhatja az állami egészségügyet az új törvény miatt",
-    "link": "https://telex.hu/belfold/2020/10/15/magyar-egeszsegugyi-szakdolgozoi-kamara-szolgalati-jogviszony-kerdoiv",
-    "description": "A szakdolgozói kamara az új törvénnyel kapcsolatban végzett kutatást. ",
-    "author": "Fehér János",
-    "pubDate": "Thu, 15 Oct 2020 11:38:59 +0200"
-  },
-  {
-    "title": "[Kult] Joaquin Phoenix játszhatja Napóleont Ridley Scott új filmjében",
-    "link": "https://telex.hu/kult/2020/10/15/joaquin-phoenix-foszereplo-napoleon-film-kitbag-ridley-scott",
-    "description": "Az Oscar-díjas színész és a rendező már dolgozott együtt a Gladiátor forgatásán.",
-    "author": "Pál Tamás",
-    "pubDate": "Thu, 15 Oct 2020 11:30:45 +0200"
-  },
-  {
-    "title": "[Belföld] Európai Bíróság: A magyar reklámadó nem sérti az uniós jogot",
-    "link": "https://telex.hu/belfold/2020/10/15/reklamado",
-    "description": "Klasszikus konfliktushelyzet: miért készül el egy progresszív adó? Azért, mert ez egy gyakori adóeszköz: fizessenek többet a sikeresek? Vagy azért, mert ezzel az állam befolyásolhatja a versenyt? A reklámadó esetében most az Európai Bíróság főtanácsnoka úgy látja, hogy az adó \"rendben volt\".",
-    "author": "Brückner Gergely",
-    "pubDate": "Thu, 15 Oct 2020 11:17:27 +0200"
-  },
-  {
-    "title": "[Kult] Meghalt a Két pasi meg egy kicsi sorozat Bertája, Conchata Ferrell",
-    "link": "https://telex.hu/kult/2020/10/15/meghalt-conchata-ferrel-amerikai-szineszno-ket-pasi-meg-egy-kicsi-sorozat",
-    "description": "A színésznő 77 éves volt.",
-    "author": "Pál Tamás",
-    "pubDate": "Thu, 15 Oct 2020 11:05:31 +0200"
-  },
-  {
-    "title": "[Szórakozás] A Magyar Turisztikai Ügynökségnek forgatott klipet a Tankcsapda",
-    "link": "https://telex.hu/szorakozas/2020/10/15/a-magyar-turisztikai-ugynoksegnek-forgatott-klipet-a-tankcsapda",
-    "description": "A Road Movie projekt pedig október 22-től a TV2-n is látható lesz hetente.",
-    "author": "Sajó Dávid",
-    "pubDate": "Thu, 15 Oct 2020 11:01:34 +0200"
   }
 ]
