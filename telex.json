@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Koronavírus] Még sosem haltak meg ennyien koronavírus-fertőzöttként egy nap alatt Magyarországon",
+    "link": "https://telex.hu/koronavirus/2020/10/15/koronavirus-adatok-fertozottek-halottak-szama-statisztika-korhazban-apoltak",
+    "description": "29 halálos áldozatról számolt be a koronavírusról tájékoztató hivatalos honlap. 950 új fertőzöttet regisztráltak.",
+    "author": "Iván-Nagy Szilvia, Joób Sándor",
+    "pubDate": "Thu, 15 Oct 2020 08:58:32 +0200"
+  },
+  {
+    "title": "[Koronavírus] A Youtube is tiltja a koronavírussal kapcsolatos dezinformációkat",
+    "link": "https://telex.hu/koronavirus/2020/10/15/a-youtube-is-tiltja-a-koronavirussal-kapcsolatos-dezinformaciokat",
+    "description": "A cég február óta 200 ezer félrevezető videót tiltott le a felületéről.",
+    "author": "Sajó Dávid",
+    "pubDate": "Thu, 15 Oct 2020 08:40:20 +0200"
+  },
+  {
     "title": "[Belföld] A kormány szerint még mindig rendkívüli a migrációs nyomás, ezért 6,6 milliárd forintot utalt a belügynek",
     "link": "https://telex.hu/belfold/2020/10/15/6-6-milliard-belugyminiszterium-rendkivuli-migracios-nyomas-magyar-kozlony",
     "description": "A belügyminisztérium hasonló címen már áprilisban is kapott 30 milliárdot.",
@@ -9,7 +23,7 @@
   {
     "title": "[Belföld] A kitört kerekű 106-os után soron kívül átvizsgálja az összes üzemeltetett buszt a VT- Arriva",
     "link": "https://telex.hu/belfold/2020/10/15/kitort-kereku-busz-106-ellenorzes-uzemeltetes-vt-arriva",
-    "description": "Utoljára október másodikán ellenőrizték a buszt, aminek szerdán kitört a kereke az Aquincum megállónál, és eltalált egy autót.",
+    "description": "Legutóbb október 2-án ellenőrizték a buszt, aminek szerdán kitört a kereke az Aquincum megállónál, és eltalált egy autót.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Thu, 15 Oct 2020 08:25:27 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "A koncentrációnövekedés 4-10 nappal előzi meg a tünetes megbetegedések számának növekedését.",
     "author": "Pál Tamás",
     "pubDate": "Wed, 14 Oct 2020 19:39:37 +0200"
-  },
-  {
-    "title": "[Koronavírus] A járvány kezdete óta nem volt ilyen sok új fertőzött Olaszországban",
-    "link": "https://telex.hu/koronavirus/2020/10/14/olaszorszag-koronavirus-rekordmagas-fertozottek-szama-milano",
-    "description": "Milánóban és környékén egy nap alatt több mint kétszeresére nőtt az újonnan regisztrált fertőzöttek száma.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 19:16:34 +0200"
-  },
-  {
-    "title": "[Szórakozás] Ebben az évben már az sem meglepő, ha sör kerül a gulyásba",
-    "link": "https://telex.hu/szorakozas/2020/10/14/anker-koz-sor-megnyito-madhouse-soros-gulyas",
-    "description": "A belvárosban nyitott új helyet az egyik magyar sörfőzde, gyorsan ki is próbáltuk. A konyha alapvetően sörös fogásokra épít, a gulyásba szánt húst is sörbe áztatják például.",
-    "author": "Lovas Gergő",
-    "pubDate": "Wed, 14 Oct 2020 19:06:12 +0200"
   }
 ]
