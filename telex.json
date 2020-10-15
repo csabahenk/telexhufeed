@@ -1,10 +1,24 @@
 [
   {
+    "title": "[Koronavírus] Müller Cecília: 50-70 százalékos a covidos betegek ellátására kijelölt fővárosi kórházak telítettsége",
+    "link": "https://telex.hu/koronavirus/2020/10/15/muller-cecilia-operativ-torzs-oktober-15-koronavirus",
+    "description": "80 százalékos telítettségnél újabb kórházakat nyitnak meg a súlyosabb fertőzöttek számára.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 15 Oct 2020 13:19:10 +0200"
+  },
+  {
     "title": "[Belföld] A nőket és a korábbi Fidesz-szavazókat szólítaná meg pártjával Pálinkás József",
     "link": "https://telex.hu/belfold/2020/10/15/palinkas-jozsef-mta-uj-vilag-neppart-lantos-gabriella",
     "description": "Az MTA korábbi elnöke szerint az országnak szüksége van a hozzá hasonló emberek segítségére.",
     "author": "Mizsur András",
-    "pubDate": "Thu, 15 Oct 2020 12:56:59 +0200"
+    "pubDate": "Thu, 15 Oct 2020 13:12:52 +0200"
+  },
+  {
+    "title": "[Belföld] Elkapkodták a komondoros emlékérméket",
+    "link": "https://telex.hu/belfold/2020/10/15/mnb-erme-komondor",
+    "description": "Komondor és verés, mi jut eszébe róla? Igen, jó helyen kapiskál, az MNB komondoros emlékérméket vert, és sikerrel eladta őket.",
+    "author": "Brückner Gergely",
+    "pubDate": "Thu, 15 Oct 2020 13:07:42 +0200"
   },
   {
     "title": "[Tudomány] Kísérleti körülmények között már szobahőmérsékleten is működik szupravezető",
@@ -159,19 +173,5 @@
     "description": "A játszma rendezője szerint Kulka betegségéből eredő tapasztalat sokat ad a szerepéhez. ",
     "author": "Fehér János",
     "pubDate": "Thu, 15 Oct 2020 09:29:42 +0200"
-  },
-  {
-    "title": "[Belföld] Láng Zsolt: Minél többször mondja Karácsony Gergely, hogy nem akar miniszterelnök lenni, annál gyanúsabb",
-    "link": "https://telex.hu/belfold/2020/10/15/lang-zsolt-fopolgarmester-karacsony-gergely",
-    "description": "Egy éve voltak az önkormányzati választások Magyarországon. A Magyar Nemzetben most Láng Zsolt korábbi kerületi polgármester értékelte Karácsony Gergely főpolgármester munkáját. Mint a beszélgetésből kiderül: a fideszes politikus csalódott. ",
-    "author": "Brückner Gergely",
-    "pubDate": "Thu, 15 Oct 2020 09:18:14 +0200"
-  },
-  {
-    "title": "[Koronavírus] Még sosem haltak meg ennyien koronavírus-fertőzöttként egy nap alatt Magyarországon",
-    "link": "https://telex.hu/koronavirus/2020/10/15/koronavirus-adatok-fertozottek-halottak-szama-statisztika-korhazban-apoltak",
-    "description": "29 halálos áldozatról számolt be a koronavírusról tájékoztató hivatalos honlap. 950 új fertőzöttet regisztráltak.",
-    "author": "Iván-Nagy Szilvia, Joób Sándor",
-    "pubDate": "Thu, 15 Oct 2020 08:58:32 +0200"
   }
 ]
