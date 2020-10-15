@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] 30 milliós büntetés egy maszkért, ebből talán ért az NFL",
+    "link": "https://telex.hu/sport/2020/10/15/nfl-koronavirus-tennessee-titans-jarvanykezeles",
+    "description": "Kezd kisebb káoszba fulladni az NFL 2020-as szezonja a koronavírus-járvány miatt, pedig némi józan ésszel el lehetett volna ezt kerülni. A teljes összeomlástól még messze vannak, de ahogy eddig kezelték a járványt, abból még nagy bajnok lehetnek.",
+    "author": "Koroknai Gergely",
+    "pubDate": "Fri, 16 Oct 2020 00:01:39 +0200"
+  },
+  {
+    "title": "[Külföld] Háromszáz kutyát menekített a házába egy mexikói férfi",
+    "link": "https://telex.hu/kulfold/2020/10/15/mexiko-kutya-menedek-hurrikan",
+    "description": "A Delta hurrikán elől helyezte biztonságba az állatokat. A lakás bűzlött, de a férfi szerint megérte.",
+    "author": "Stöckert Gábor",
+    "pubDate": "Fri, 16 Oct 2020 00:01:24 +0200"
+  },
+  {
     "title": "[Szórakozás] Harminc éve nem tudjuk a Majom-sziget titkát",
     "link": "https://telex.hu/szorakozas/2020/10/15/secret-of-the-monkey-island-videojatek-evfordulo-ron-gilbert-lucasarts",
     "description": "Mindenki érezze magát vigasztalhatatlanul öregnek: harmincéves minden idők egyik legjobb és legviccesebb kalandjátéka. Nézd, ott egy háromfejű majom!",
@@ -56,7 +70,7 @@
     "pubDate": "Thu, 15 Oct 2020 19:58:22 +0200"
   },
   {
-    "title": "[Belföld] Október 22-én  át az M3-as metró felújított szakaszát",
+    "title": "[Belföld] Október 22-én adják át az M3-as metró felújított szakaszát",
     "link": "https://telex.hu/belfold/2020/10/15/cikk-cime-68",
     "description": "Az átadást követően teljes vonalon közlekedik az M3-as metró, a középső szakaszon lezárt állomásokon viszont továbbra sem áll meg.",
     "author": "Mizsur András",
@@ -159,19 +173,5 @@
     "description": "Egyre feszültebb a viszony Kína és Egyesült Államok között Tajvan miatt. ",
     "author": "Mizsur András",
     "pubDate": "Thu, 15 Oct 2020 15:46:05 +0200"
-  },
-  {
-    "title": "[Kult] Hungarikum lett a Magyar népmesékből",
-    "link": "https://telex.hu/kult/2020/10/15/hungarikum-magyar-nepmesek",
-    "description": "Nagy István agrárminiszter szerint a mesesorozat kultúránk alapját képezi.",
-    "author": "Klág Dávid",
-    "pubDate": "Thu, 15 Oct 2020 15:39:02 +0200"
-  },
-  {
-    "title": "[Sport] Öt tényező, ami a futballválogatott sikereit megteremtette",
-    "link": "https://telex.hu/sport/2020/10/15/ot-ok-ami-a-futball-valogatott-sikereit-megteremtette",
-    "description": "Hét pont, 4-1-es gólkülönbség három idegenbeli meccsen – elismerésre méltó a fociválogatott teljesítménye. Jó hangulatban készülhetünk az Izland elleni, mindent eldöntő meccsre, akkor lehetne feltenni az i-re a pontot.",
-    "author": "Ághassi Attila",
-    "pubDate": "Thu, 15 Oct 2020 15:28:28 +0200"
   }
 ]
