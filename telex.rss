@@ -7,6 +7,41 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Gazdaság] Kultúrharc vagy biznisz a NER beszállása a Libribe?]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/gazdasag/2020/10/15/kulturharc-vagy-biznisz-a-ner-kivasarolja-spedert]]>
+      </link>
+      <description>
+        <![CDATA[A legnagyobb könyves cégcsoportba veszi be magát a kormányközeli alapítvány, a kiadókat sokkolta a Libri eladása. Darálóval lőnek a szakmára, vagy csak az osztalékra mennek?]]>
+      </description>
+      <author>
+        <![CDATA[Brückner Gergely, Kolozsi Ádám]]>
+      </author>
+      <pubDate>
+        <![CDATA[Thu, 15 Oct 2020 07:26:42 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Koronavírus] A fertőzöttek száma meghaladta a 38,4 milliót a világon]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/15/koronavirus-pp-2020-10-15-vilagszerte]]>
+      </link>
+      <description>
+        <![CDATA[Az összes fontos csütörtöki hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.
+]]>
+      </description>
+      <author>
+        <![CDATA[Iván-Nagy Szilvia]]>
+      </author>
+      <pubDate>
+        <![CDATA[Thu, 15 Oct 2020 07:24:01 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Szórakozás] Oklahomában egészen szürreális megoldást találtak arra, hogy biztonságosan lehessen koncertezni]]>
       </title>
       <link>
@@ -33,7 +68,7 @@
         <![CDATA[Az egyik vádlott védője szerint a férfi valójában alkoholmérgezésben halt meg.]]>
       </description>
       <author>
-        <![CDATA[]]>
+        <![CDATA[Sajó Dávid]]>
       </author>
       <pubDate>
         <![CDATA[Thu, 15 Oct 2020 06:57:25 +0200]]>
@@ -395,40 +430,6 @@
       </author>
       <pubDate>
         <![CDATA[Wed, 14 Oct 2020 18:48:13 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Trump és Biden külön tartják meg második vitájukat]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/14/donald-trump-joe-biden-elnokvalasztas-studiobeszelgetes]]>
-      </link>
-      <description>
-        <![CDATA[Mindketten egy-egy stúdióbeszélgetést csinálnak majd külön kérdezőkkel, külön csatornán.]]>
-      </description>
-      <author>
-        <![CDATA[Presinszky Judit]]>
-      </author>
-      <pubDate>
-        <![CDATA[Wed, 14 Oct 2020 18:41:51 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Koronavírus] Már a második koronavírus elleni orosz vakcinát is bejegyezték]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/koronavirus/2020/10/14/mar-a-masodik-koronavirus-elleni-orosz-vakcinat-is-bejegyeztek]]>
-      </link>
-      <description>
-        <![CDATA[És úton a harmadik. Putyin sürgeti a tömeggyártást, a külföldi szakértők aggódnak.]]>
-      </description>
-      <author>
-        <![CDATA[Bolcsó Dániel]]>
-      </author>
-      <pubDate>
-        <![CDATA[Wed, 14 Oct 2020 18:36:52 +0200]]>
       </pubDate>
     </item>
   </channel>

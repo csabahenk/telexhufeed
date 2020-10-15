@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Gazdaság] Kultúrharc vagy biznisz a NER beszállása a Libribe?",
+    "link": "https://telex.hu/gazdasag/2020/10/15/kulturharc-vagy-biznisz-a-ner-kivasarolja-spedert",
+    "description": "A legnagyobb könyves cégcsoportba veszi be magát a kormányközeli alapítvány, a kiadókat sokkolta a Libri eladása. Darálóval lőnek a szakmára, vagy csak az osztalékra mennek?",
+    "author": "Brückner Gergely, Kolozsi Ádám",
+    "pubDate": "Thu, 15 Oct 2020 07:26:42 +0200"
+  },
+  {
+    "title": "[Koronavírus] A fertőzöttek száma meghaladta a 38,4 milliót a világon",
+    "link": "https://telex.hu/koronavirus/2020/10/15/koronavirus-pp-2020-10-15-vilagszerte",
+    "description": "Az összes fontos csütörtöki hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.\n",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Thu, 15 Oct 2020 07:24:01 +0200"
+  },
+  {
     "title": "[Szórakozás] Oklahomában egészen szürreális megoldást találtak arra, hogy biztonságosan lehessen koncertezni",
     "link": "https://telex.hu/szorakozas/2020/10/15/oklahomaban-egeszen-szurrealis-megoldast-talaltak-arra-hogy-biztonsagosan-lehessen-koncertezni",
     "description": "A Flaming Lips a zenekar tagjai mellett az összes nézőt felfújható buborékba öltöztette a biztonságos szórakozás érdekében.",
@@ -10,7 +24,7 @@
     "title": "[Belföld] Már tárgyalják annak a férfinek az ügyét, aki egy kocsma székéhez kötözve halt meg Nagylókon",
     "link": "https://telex.hu/belfold/2020/10/15/mar-targyaljak-annak-a-ferfinek-az-ugyet-aki-egy-kocsma-szekehez-kotozve-halt-meg-nagylokon",
     "description": "Az egyik vádlott védője szerint a férfi valójában alkoholmérgezésben halt meg.",
-    "author": "",
+    "author": "Sajó Dávid",
     "pubDate": "Thu, 15 Oct 2020 06:57:25 +0200"
   },
   {
@@ -159,19 +173,5 @@
     "description": "A korábbi csehszlovák válogatott futballista elkapta a koronavírust.",
     "author": "Pál Tamás",
     "pubDate": "Wed, 14 Oct 2020 18:48:13 +0200"
-  },
-  {
-    "title": "[Külföld] Trump és Biden külön tartják meg második vitájukat",
-    "link": "https://telex.hu/kulfold/2020/10/14/donald-trump-joe-biden-elnokvalasztas-studiobeszelgetes",
-    "description": "Mindketten egy-egy stúdióbeszélgetést csinálnak majd külön kérdezőkkel, külön csatornán.",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 14 Oct 2020 18:41:51 +0200"
-  },
-  {
-    "title": "[Koronavírus] Már a második koronavírus elleni orosz vakcinát is bejegyezték",
-    "link": "https://telex.hu/koronavirus/2020/10/14/mar-a-masodik-koronavirus-elleni-orosz-vakcinat-is-bejegyeztek",
-    "description": "És úton a harmadik. Putyin sürgeti a tömeggyártást, a külföldi szakértők aggódnak.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Wed, 14 Oct 2020 18:36:52 +0200"
   }
 ]
