@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Gazdaság] 1800 milliárd forintos mentőprogramot jelentett be az EIB",
+    "link": "https://telex.hu/gazdasag/2020/10/15/1800-milliard-forintos-mentoprogramot-jelentett-be-az-eib",
+    "description": "A luxemburgi EIB 5,1 milliárd euróval segíti a vállalatokat a koronavírus elleni védekezésben.",
+    "author": "Brückner Gergely",
+    "pubDate": "Thu, 15 Oct 2020 14:51:23 +0200"
+  },
+  {
+    "title": "[Kult] Friderikusz Sándor novemberben visszatér az RTL Klubra",
+    "link": "https://telex.hu/kult/2020/10/15/friderikusz-sandor-novemberben-visszater-az-rtl-klubra",
+    "description": "Az Életünk története – sztárpárok időutazása c. műsort vezeti.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Thu, 15 Oct 2020 14:50:27 +0200"
+  },
+  {
     "title": "[Sport] Nyolcéves eltiltást kapott Magát Krisztina Eb-ezüstérmes súlyemelő",
     "link": "https://telex.hu/sport/2020/10/15/magat-krisztina-sulyemelo-dopping-eltiltas",
     "description": "A sportoló másodszor bukott le doppinggal. ",
@@ -159,19 +173,5 @@
     "description": "A Road Movie projekt pedig október 22-től a TV2-n is látható lesz hetente.",
     "author": "Sajó Dávid",
     "pubDate": "Thu, 15 Oct 2020 11:01:34 +0200"
-  },
-  {
-    "title": "[Belföld] Végleg elvették a netet az SZFE Vas utcai épületében tiltakozóktól",
-    "link": "https://telex.hu/belfold/2020/10/15/szfe-vas-utca-internet-halozati-kabel",
-    "description": "Az Ódry Színpadról pedig kipakolták a hallgatók holmiját, és a termet bezárták.",
-    "author": "Iván-Nagy Szilvia, Presinszky Judit",
-    "pubDate": "Thu, 15 Oct 2020 10:56:38 +0200"
-  },
-  {
-    "title": "[Külföld] Benjamin Netanjahu korrupciós ügye miatt egy tengeralattjáró-konvoj is tiltakozott",
-    "link": "https://telex.hu/kulfold/2020/10/15/netanjahu-konvoj",
-    "description": "Izraelben egyre többen követelik, hogy a hatóságok vizsgálják ki azt, hogy Benjamin Netanjahu miniszterelnöknek milyen szerepe volt egy szükségtelennek tartott tengeralattjáró-beszerzésben. A tiltakozók egy része egy papírmasé tengeralattjáró-flottával vonult keresztül-kasul Izraelen.",
-    "author": "Brückner Gergely",
-    "pubDate": "Thu, 15 Oct 2020 10:55:50 +0200"
   }
 ]
