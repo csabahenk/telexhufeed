@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] A kormány szerint még mindig rendkívüli a migrációs nyomás, ezért 6,6 milliárd forintot utalt a belügynek",
+    "link": "https://telex.hu/belfold/2020/10/15/6-6-milliard-belugyminiszterium-rendkivuli-migracios-nyomas-magyar-kozlony",
+    "description": "A belügyminisztérium hasonló címen már áprilisban is kapott 30 milliárdot.",
+    "author": "Fehér János",
+    "pubDate": "Thu, 15 Oct 2020 08:32:07 +0200"
+  },
+  {
+    "title": "[Belföld] A kitört kerekű 106-os után soron kívül átvizsgálja az összes üzemeltetett buszt a VT- Arriva",
+    "link": "https://telex.hu/belfold/2020/10/15/kitort-kereku-busz-106-ellenorzes-uzemeltetes-vt-arriva",
+    "description": "Utoljára október másodikán ellenőrizték a buszt, aminek szerdán kitört a kereke az Aquincum megállónál, és eltalált egy autót.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Thu, 15 Oct 2020 08:25:27 +0200"
+  },
+  {
     "title": "[Gazdaság] Kultúrharc vagy biznisz a NER beszállása a Libribe?",
     "link": "https://telex.hu/gazdasag/2020/10/15/kulturharc-vagy-biznisz-a-ner-kivasarolja-spedert",
     "description": "A legnagyobb könyves cégcsoportba veszi be magát a kormányközeli alapítvány, a kiadókat sokkolta a Libri eladása. Darálóval lőnek a szakmára, vagy csak az osztalékra mennek?",
@@ -42,9 +56,9 @@
     "pubDate": "Thu, 15 Oct 2020 06:08:57 +0200"
   },
   {
-    "title": "[Külföld] A csütörtöki EU-csúcs után dönt Boris Johnson a Brexit utáni következő lépésekről",
+    "title": "[Külföld] A csütörtöki EU-csúcs után dönt Boris Johnson a brexit utáni következő lépésekről",
     "link": "https://telex.hu/kulfold/2020/10/15/a-csutortoki-eu-csucs-utan-dont-boris-johnson-a-brexit-kovetkezo-lepeseirol",
-    "description": "Ha most se lesz megállapodás, akkor valószínűleg nem lesz szabadkereskedelmi egyezmény a britek és az EU között.",
+    "description": "Ha most sem lesz megállapodás, akkor valószínűleg nem lesz szabadkereskedelmi egyezmény a britek és az EU között.",
     "author": "Sajó Dávid",
     "pubDate": "Thu, 15 Oct 2020 05:54:10 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "A belvárosban nyitott új helyet az egyik magyar sörfőzde, gyorsan ki is próbáltuk. A konyha alapvetően sörös fogásokra épít, a gulyásba szánt húst is sörbe áztatják például.",
     "author": "Lovas Gergő",
     "pubDate": "Wed, 14 Oct 2020 19:06:12 +0200"
-  },
-  {
-    "title": "[Belföld] Szarka Gábor lőtte le az internetet az SZFE-n, és tovább is hajlandó menni",
-    "link": "https://telex.hu/belfold/2020/10/14/szarka-gabor-lotte-le-az-internetet-az-szfe-n",
-    "description": "Meg akarja szüntetni a belső anarchiát, mondta az új kancellár.",
-    "author": "Presinszky Judit",
-    "pubDate": "Wed, 14 Oct 2020 19:03:28 +0200"
-  },
-  {
-    "title": "[Sport] Jobban van Panenka, elhagyhatta a kórházat",
-    "link": "https://telex.hu/sport/2020/10/14/antonin-panenka-elhagyta-korhaz-koronavirus-csehorszag",
-    "description": "A korábbi csehszlovák válogatott futballista elkapta a koronavírust.",
-    "author": "Pál Tamás",
-    "pubDate": "Wed, 14 Oct 2020 18:48:13 +0200"
   }
 ]
