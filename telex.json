@@ -1,9 +1,44 @@
 [
   {
-    "title": "[Belföld] Az MCC-é lehet Révfülöp kikötője",
+    "title": "[Belföld] A nőket és a korábbi Fidesz-szavazókat szólítaná meg pártjával Pálinkás József",
+    "link": "https://telex.hu/belfold/2020/10/15/palinkas-jozsef-mta-uj-vilag-neppart-lantos-gabriella",
+    "description": "Az MTA korábbi elnöke szerint az országnak szüksége van a hozzá hasonló emberek segítségére.",
+    "author": "Mizsur András",
+    "pubDate": "Thu, 15 Oct 2020 12:56:59 +0200"
+  },
+  {
+    "title": "[Tudomány] Kísérleti körülmények között már szobahőmérsékleten is működik szupravezető",
+    "link": "https://telex.hu/tudomany/2020/10/15/szobahomerseklet-szupravezeto-eloszor-attores",
+    "description": "Ha sikerül csökkenteni a nyomást, jöhetnek az olcsóbb elektromos hálózatok és lebegő vonatok.",
+    "author": "Fehér János",
+    "pubDate": "Thu, 15 Oct 2020 12:53:21 +0200"
+  },
+  {
+    "title": "[Sport] 800 milliót áldoz a kormány egy úszóversenyre, ami mindenki mást kiszorít a Dagályból és a Duna Arénából",
+    "link": "https://telex.hu/sport/2020/10/15/isl-budapest-kozpenz-teszt-buborek-uszoverseny",
+    "description": "November 21-ig egy budapesti buborékban él és versenyez a világ legjobb úszóinak egy része, mert az ISL versenysorozata ide költözött. A kormány nagy pénzekkel támogatja a rendezvényt, ami miatt a Dagályról kiszorultak az úszni vágyók.",
+    "author": "Ághassi Attila",
+    "pubDate": "Thu, 15 Oct 2020 12:49:18 +0200"
+  },
+  {
+    "title": "[Külföld] Az EU-csúcson rögtön belecsapnak a közepébe, a brexittel kezdenek",
+    "link": "https://telex.hu/kulfold/2020/10/15/kulfold-eu-csucs-europai-unio-brexit-boris-johnson",
+    "description": "Boris Johnson a csütörtök-pénteki csúcs után dönti el, hogy az Egyesült Királyság folytatja-e a megrekedt tárgyalásokat.",
+    "author": "Dömötör Bálint",
+    "pubDate": "Thu, 15 Oct 2020 12:41:10 +0200"
+  },
+  {
+    "title": "[Szórakozás] Visszahúzható fénykardot épített egy youtuber",
+    "link": "https://telex.hu/szorakozas/2020/10/15/star-wars-fenykard-youtuber-acel",
+    "description": "Valósággá vált a Star Wars rajongók álma. A visszahúzható plazmasugár akár az acélt is átvágja.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Thu, 15 Oct 2020 12:11:03 +0200"
+  },
+  {
+    "title": "[Belföld] Az MCC kormányközeli oktatási alapítványé lehet Révfülöp kikötője",
     "link": "https://telex.hu/belfold/2020/10/15/az-mcc-e-lesz-revfulop-kikotoje",
     "description": "A rengeteg pénzzel kistafírozott Mathias Corvinus Collegium (MCC) az oktatási és kulturális hírek után immár állandó szereplője a gazdasági híreknek is.",
-    "author": "",
+    "author": "Brückner Gergely",
     "pubDate": "Thu, 15 Oct 2020 12:08:14 +0200"
   },
   {
@@ -138,40 +173,5 @@
     "description": "29 halálos áldozatról számolt be a koronavírusról tájékoztató hivatalos honlap. 950 új fertőzöttet regisztráltak.",
     "author": "Iván-Nagy Szilvia, Joób Sándor",
     "pubDate": "Thu, 15 Oct 2020 08:58:32 +0200"
-  },
-  {
-    "title": "[Koronavírus] A Youtube is tiltja a koronavírussal kapcsolatos dezinformációkat",
-    "link": "https://telex.hu/koronavirus/2020/10/15/a-youtube-is-tiltja-a-koronavirussal-kapcsolatos-dezinformaciokat",
-    "description": "A cég február óta 200 ezer félrevezető videót tiltott le a felületéről.",
-    "author": "Sajó Dávid",
-    "pubDate": "Thu, 15 Oct 2020 08:40:20 +0200"
-  },
-  {
-    "title": "[Belföld] A kormány szerint még mindig rendkívüli a migrációs nyomás, ezért 6,6 milliárd forintot utalt a belügynek",
-    "link": "https://telex.hu/belfold/2020/10/15/6-6-milliard-belugyminiszterium-rendkivuli-migracios-nyomas-magyar-kozlony",
-    "description": "A belügyminisztérium hasonló címen már áprilisban is kapott 30 milliárdot.",
-    "author": "Fehér János",
-    "pubDate": "Thu, 15 Oct 2020 08:32:07 +0200"
-  },
-  {
-    "title": "[Belföld] A kitört kerekű 106-os után soron kívül átvizsgálja az összes üzemeltetett buszt a VT- Arriva",
-    "link": "https://telex.hu/belfold/2020/10/15/kitort-kereku-busz-106-ellenorzes-uzemeltetes-vt-arriva",
-    "description": "Legutóbb október 2-án ellenőrizték a buszt, aminek szerdán kitört a kereke az Aquincum megállónál, és eltalált egy autót.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Thu, 15 Oct 2020 08:25:27 +0200"
-  },
-  {
-    "title": "[Gazdaság] Kultúrharc vagy biznisz a NER beszállása a Libribe?",
-    "link": "https://telex.hu/gazdasag/2020/10/15/kulturharc-vagy-biznisz-a-ner-kivasarolja-spedert",
-    "description": "A legnagyobb könyves cégcsoportba veszi be magát a kormányközeli alapítvány, a kiadókat sokkolta a Libri eladása. Darálóval lőnek a szakmára, vagy csak az osztalékra mennek?",
-    "author": "Brückner Gergely, Kolozsi Ádám",
-    "pubDate": "Thu, 15 Oct 2020 07:26:42 +0200"
-  },
-  {
-    "title": "[Koronavírus] Berlinben hirdetésben intenek be azoknak, akik nem viselnek maszkot",
-    "link": "https://telex.hu/koronavirus/2020/10/15/koronavirus-pp-2020-10-15-vilagszerte",
-    "description": "Az összes fontos csütörtöki hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.\n",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Thu, 15 Oct 2020 07:24:01 +0200"
   }
 ]
