@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Koronavírus] Már 40 ezer egészségügyi dolgozó fertőződött meg Törökországban",
+    "link": "https://telex.hu/koronavirus/2020/10/15/mar-40-ezer-egeszsegugyi-dolgozo-fertozodott-meg-torokorszagban",
+    "description": "Közülük 107-en meghaltak a koronavírus miatt.",
+    "author": "Sajó Dávid",
+    "pubDate": "Thu, 15 Oct 2020 06:08:57 +0200"
+  },
+  {
     "title": "[Külföld] A csütörtöki EU-csúcs után dönt Boris Johnson a Brexit utáni következő lépésekről",
     "link": "https://telex.hu/kulfold/2020/10/15/a-csutortoki-eu-csucs-utan-dont-boris-johnson-a-brexit-kovetkezo-lepeseirol",
     "description": "Ha most se lesz megállapodás, akkor valószínűleg nem lesz szabadkereskedelmi egyezmény a britek és az EU között.",
@@ -166,12 +173,5 @@
     "description": "Látszólag nem sok minden történik mostanában a nagy bankholding-projektben vagyis a Budapest Bank, az MKB és a Takarékbank összetolásában. Pedig valójában meghatározó lépés következik, most kell megalkotni a jövőbeli szerkezetet, meghatározni, hogy melyik bank mennyit ér. Utána iszonyú nehéz, és belső küzdelmekkel terhelt munka indul. Érdekek, ellenérdekek, részérdekek mentén kellene nagyot alkotni, úgy, hogy akik a 4-6 éves munkán dolgoznak, részben éppen a saját munkahelyüket számolják így fel.",
     "author": "Brückner Gergely",
     "pubDate": "Wed, 14 Oct 2020 18:05:35 +0200"
-  },
-  {
-    "title": "[Gazdaság] Fellendülést hozhat a használt lakások piacán az otthonfelújítási támogatás",
-    "link": "https://telex.hu/gazdasag/2020/10/14/fellendulest-hozhat-a-hasznalt-lakasok-piacan-az-otthonfelujitasi-tamogatas",
-    "description": "Az Ingatlan.com szakértője szerint a lakásállomány állapota is javulhat.",
-    "author": "Bolcsó Dániel",
-    "pubDate": "Wed, 14 Oct 2020 17:51:37 +0200"
   }
 ]
