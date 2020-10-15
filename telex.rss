@@ -7,7 +7,24 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
-        <![CDATA[[Belföld] Nem lesz népszavazás az ingyenes koronavírus-tesztről]]>
+        <![CDATA[[Sport] Giro: Egy defekt döntötte el a Marco Pantani emlékére rendezett szakaszt]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/15/giro-ditalia-12-szakasz-jhonatan-narvaez-nyert-cesanatico-marco-pantani]]>
+      </link>
+      <description>
+        <![CDATA[Az ecuadori Jhonatan Narváez nyert a legendás olasz kerékpáros szülővárosában.]]>
+      </description>
+      <author>
+        <![CDATA[Pál Tamás]]>
+      </author>
+      <pubDate>
+        <![CDATA[Thu, 15 Oct 2020 18:51:52 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] Nem lesz népszavazás az ingyenes koronavírustesztről]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/15/nem-lesz-nepszavazas-az-ingyenes-koronavirus-tesztrol]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Thu, 15 Oct 2020 13:59:05 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Gazdaság] Csalók használják az Aldi logóját egy online nyereményjátékhoz]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/gazdasag/2020/10/15/aldi-csalok-visszaeles-nyeremenyjatek]]>
-      </link>
-      <description>
-        <![CDATA[Figyelem, csalásra figyelmeztet a vállalat.]]>
-      </description>
-      <author>
-        <![CDATA[Iván-Nagy Szilvia]]>
-      </author>
-      <pubDate>
-        <![CDATA[Thu, 15 Oct 2020 13:58:44 +0200]]>
       </pubDate>
     </item>
   </channel>

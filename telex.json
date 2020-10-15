@@ -1,6 +1,13 @@
 [
   {
-    "title": "[Belföld] Nem lesz népszavazás az ingyenes koronavírus-tesztről",
+    "title": "[Sport] Giro: Egy defekt döntötte el a Marco Pantani emlékére rendezett szakaszt",
+    "link": "https://telex.hu/sport/2020/10/15/giro-ditalia-12-szakasz-jhonatan-narvaez-nyert-cesanatico-marco-pantani",
+    "description": "Az ecuadori Jhonatan Narváez nyert a legendás olasz kerékpáros szülővárosában.",
+    "author": "Pál Tamás",
+    "pubDate": "Thu, 15 Oct 2020 18:51:52 +0200"
+  },
+  {
+    "title": "[Belföld] Nem lesz népszavazás az ingyenes koronavírustesztről",
     "link": "https://telex.hu/belfold/2020/10/15/nem-lesz-nepszavazas-az-ingyenes-koronavirus-tesztrol",
     "description": "Hatásköri és egyértelműségi problémák miatt kaszálta el a Nemzeti Választási Bizottság a kezdeményezést. ",
     "author": "Mizsur András",
@@ -166,12 +173,5 @@
     "description": "Nem igaz, hogy a Covid-19 hosszú távú hatásai csak a súlyos tünetekkel kezelt betegeket érintik. Vannak, akik fél évig is szenvednek.",
     "author": "Thüringer Barbara",
     "pubDate": "Thu, 15 Oct 2020 13:59:05 +0200"
-  },
-  {
-    "title": "[Gazdaság] Csalók használják az Aldi logóját egy online nyereményjátékhoz",
-    "link": "https://telex.hu/gazdasag/2020/10/15/aldi-csalok-visszaeles-nyeremenyjatek",
-    "description": "Figyelem, csalásra figyelmeztet a vállalat.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Thu, 15 Oct 2020 13:58:44 +0200"
   }
 ]
