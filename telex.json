@@ -1,8 +1,15 @@
 [
   {
+    "title": "[Belföld] Szarka Gábor: Ma 18 óráig mindenkinek el kell hagynia az SZFE épületeit és a kollégiumot",
+    "link": "https://telex.hu/belfold/2020/10/16/szfe-szarka-gabor-epuletelhagyas-oszi-szunet-koronavirus-utasitas",
+    "description": "Az egyetem új kancellárja szerint karbantartás és fertőtlenítés lesz az épületekben, csak kancellári engedéllyel maradhat ott bárki. ",
+    "author": "Presinszky Judit",
+    "pubDate": "Fri, 16 Oct 2020 11:40:42 +0200"
+  },
+  {
     "title": "[Gazdaság] 225 kilométert is bír majd a Dacia első elektromos autója",
     "link": "https://telex.hu/gazdasag/2020/10/16/dacia-spring-elektromos-auto-225-km",
-    "description": "A Dacia Spring városi használat során közel 300 km-t is futhat majd egyetlen töltéssel.",
+    "description": "A Dacia Spring végsebessége csak 125 km/h lesz, viszont legalább olcsónak számít.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Fri, 16 Oct 2020 11:22:30 +0200"
   },
@@ -16,7 +23,7 @@
   {
     "title": "[Belföld] Zavaros ügyek, vizsgálatok: mégis mi történik a Badacsonyban?",
     "link": "https://telex.hu/belfold/2020/10/16/cikk-cimebadacsonytomaj-olaf-nav",
-    "description": "A rendőrség, az OLAF és a Közbeszerzési Hatóság is Badacsonytomaj ügyeit vizsgálja - írja a 24.hu.",
+    "description": "A rendőrség, az OLAF és a Közbeszerzési Hatóság is Badacsonytomaj ügyeit vizsgálja – írja a 24.hu.",
     "author": "Brückner Gergely",
     "pubDate": "Fri, 16 Oct 2020 11:01:10 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "\"Hívjuk föl Viktort\" - mondta Trump a leköszönő amerikai nagykövetnek.",
     "author": "Presinszky Judit",
     "pubDate": "Fri, 16 Oct 2020 06:50:37 +0200"
-  },
-  {
-    "title": "[Külföld] A Csendes-óceánba eresztik Fukusima radioaktívan szennyezett vizét",
-    "link": "https://telex.hu/kulfold/2020/10/16/japan-fukusima-radioaktiv-csendes-ocean",
-    "description": "Szakértők szerint a vízben lévő 62 radioaktív elem – kivéve a trícium – szintje lecsökkenthető olyan szintre, ami már nem ártalmas az emberekre.",
-    "author": "Presinszky Judit",
-    "pubDate": "Fri, 16 Oct 2020 05:44:23 +0200"
   }
 ]

@@ -7,13 +7,30 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Szarka Gábor: Ma 18 óráig mindenkinek el kell hagynia az SZFE épületeit és a kollégiumot]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/16/szfe-szarka-gabor-epuletelhagyas-oszi-szunet-koronavirus-utasitas]]>
+      </link>
+      <description>
+        <![CDATA[Az egyetem új kancellárja szerint karbantartás és fertőtlenítés lesz az épületekben, csak kancellári engedéllyel maradhat ott bárki. ]]>
+      </description>
+      <author>
+        <![CDATA[Presinszky Judit]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 11:40:42 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Gazdaság] 225 kilométert is bír majd a Dacia első elektromos autója]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/gazdasag/2020/10/16/dacia-spring-elektromos-auto-225-km]]>
       </link>
       <description>
-        <![CDATA[A Dacia Spring városi használat során közel 300 km-t is futhat majd egyetlen töltéssel.]]>
+        <![CDATA[A Dacia Spring végsebessége csak 125 km/h lesz, viszont legalább olcsónak számít.]]>
       </description>
       <author>
         <![CDATA[Iván-Nagy Szilvia]]>
@@ -47,7 +64,7 @@
         <![CDATA[https://telex.hu/belfold/2020/10/16/cikk-cimebadacsonytomaj-olaf-nav]]>
       </link>
       <description>
-        <![CDATA[A rendőrség, az OLAF és a Közbeszerzési Hatóság is Badacsonytomaj ügyeit vizsgálja - írja a 24.hu.]]>
+        <![CDATA[A rendőrség, az OLAF és a Közbeszerzési Hatóság is Badacsonytomaj ügyeit vizsgálja – írja a 24.hu.]]>
       </description>
       <author>
         <![CDATA[Brückner Gergely]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 16 Oct 2020 06:50:37 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] A Csendes-óceánba eresztik Fukusima radioaktívan szennyezett vizét]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/16/japan-fukusima-radioaktiv-csendes-ocean]]>
-      </link>
-      <description>
-        <![CDATA[Szakértők szerint a vízben lévő 62 radioaktív elem – kivéve a trícium – szintje lecsökkenthető olyan szintre, ami már nem ártalmas az emberekre.]]>
-      </description>
-      <author>
-        <![CDATA[Presinszky Judit]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 16 Oct 2020 05:44:23 +0200]]>
       </pubDate>
     </item>
   </channel>
