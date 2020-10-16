@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] Orbán Viktort lecsózás közben hívta Donald Trump",
+    "link": "https://telex.hu/belfold/2020/10/16/orban-viktort-lecsozas-kozben-hivta-donald-trump",
+    "description": "\"Hívjuk föl Viktort\" - mondta Trump a leköszönő amerikai nagykövetnek.",
+    "author": "Presinszky Judit",
+    "pubDate": "Fri, 16 Oct 2020 06:50:37 +0200"
+  },
+  {
     "title": "[Külföld] A Csendes-óceánba eresztik Fukusima radioaktívan szennyezett vizét",
     "link": "https://telex.hu/kulfold/2020/10/16/japan-fukusima-radioaktiv-csendes-ocean",
     "description": "Szakértők szerint a vízben lévő 62 radioaktív elem - kivéve a trícium - szintje lecsökkenthető olyan szintre, ami már nem ártalmas az emberekre.",
@@ -166,12 +173,5 @@
     "description": "A kritikusan veszélyeztetett szumátrai orangután szaporítása elég jól megy az állatkertnek: 10 héten belül két újszülöttjük is van.",
     "author": "Thüringer Barbara",
     "pubDate": "Thu, 15 Oct 2020 16:50:16 +0200"
-  },
-  {
-    "title": "[Koronavírus] A balassagyarmati kórházban már naponta több covidost gyógyítanak, mint tavasszal 3 hónap alatt",
-    "link": "https://telex.hu/koronavirus/2020/10/15/balassagyarmat-kenessey-albert-korhaz-koronavirus-kirendeles-csach-gabor",
-    "description": "A gyermekosztályt is a koronavírusos betegeknek kellett kiüríteni. Heves megyéből nővéreket vezényeltek át a kórházba. ",
-    "author": "Joób Sándor",
-    "pubDate": "Thu, 15 Oct 2020 16:49:23 +0200"
   }
 ]
