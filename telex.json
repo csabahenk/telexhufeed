@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] Emberrablás miatt ítéltek el hat olasz rendőrt",
+    "link": "https://telex.hu/kulfold/2020/10/16/olaszorszag-rendorok-emberrablas-letartoztatas",
+    "description": "Törvénytelen módon toloncálták ki az egyik kazah politikai menekült feleségét és kislányát. ",
+    "author": "Cseke Balázs",
+    "pubDate": "Fri, 16 Oct 2020 23:34:04 +0200"
+  },
+  {
     "title": "[Külföld] Kábítószer-kereskedelem miatt őrizetbe vették Mexikó előző védelmi miniszterét",
     "link": "https://telex.hu/kulfold/2020/10/16/mexiko-vedelmi-miniszteret-orizetbe-vettek-kabitoszer-kereskedelem",
     "description": "Sajtóhírek szerint kapcsolatban állt egy hírhedt drogkartellel, miközben fontos tisztséget töltött be a mexikói hadseregben. ",
@@ -58,7 +65,7 @@
   {
     "title": "[Belföld] Nem távoznak a diákok az SZFE épületeiből, vastaps fogadta a bejelentést",
     "link": "https://telex.hu/belfold/2020/10/16/szfe-tuntetes-vas-utca-szarka-gabor-kiurites",
-    "description": "A kancellár utasítása szerint 18 óráig mindenkinek el kellett volna hagynia az egyetemet, több mint ezer ember gyűlt össze a Vas utcában. Fizikai inzultus nem volt, jegyzőkönyvet vettek fel a bent maradó diákokról, akik a korábban elzárt Ódry Színpadot is visszafoglalták.",
+    "description": "A kancellár utasítása szerint 18 óráig mindenkinek el kellett volna hagynia az egyetemet, a hallgatók fenntartják a blokádot. Jegyzőkönyvet vettek fel az épületben maradó diákokról, akik a korábban elzárt Ódry Színpadot is visszafoglalták.",
     "author": "Cseke Balázs",
     "pubDate": "Fri, 16 Oct 2020 18:23:16 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "A paródiavallás vezetőjét azzal vádolják, hogy törvényen kívüli ellenzéki szervezettel működött együtt.",
     "author": "Fehér János",
     "pubDate": "Fri, 16 Oct 2020 14:25:17 +0200"
-  },
-  {
-    "title": "[Gazdaság] 149 milliárd forinttal apadhat a kommunikációs piac",
-    "link": "https://telex.hu/gazdasag/2020/10/16/reklam-kommunikacio-korona",
-    "description": "Nem bánnának némi állami segítséget a szakma képviselői.",
-    "author": "Brückner Gergely",
-    "pubDate": "Fri, 16 Oct 2020 14:23:25 +0200"
   }
 ]
