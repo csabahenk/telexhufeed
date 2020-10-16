@@ -7,7 +7,24 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
-        <![CDATA[[Belföld] Az összes budapesti Tatra-villamoson lehet szombattól bringát szállítani]]>
+        <![CDATA[[Belföld] Miért kellhet egy médiás szaklap a NER-nek?]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/16/media-mediapiac-ujsag-szerkesztoseg-boros-bank-levente-gobolyosne-matrahegyi-anna]]>
+      </link>
+      <description>
+        <![CDATA[Tisztázatlan hátterű fantomanyagok eddig is jelentek meg a Médiapiac című újságban, és a kormányhoz hű Nézőponthoz is több szálon kötődött a lap, de a szerkesztőség tagjai többnyire szabadon dolgozhattak. A szerzőket most eltávolították, már egy új, egyelőre ismeretlen gárda írja a lapot.]]>
+      </description>
+      <author>
+        <![CDATA[Bozzay Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 15:28:15 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] Az összes budapesti Tatra villamoson lehet szombattól bringát szállítani]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/16/kerekparszallitas-villamos-pesti-oldal-tatra-budapest]]>
@@ -64,7 +81,7 @@
         <![CDATA[https://telex.hu/belfold/2020/10/16/hook-tisztelt-szarka-gabor-kancellar-ur-ez-nem-oke]]>
       </link>
       <description>
-        <![CDATA[Az országos hallgatói szervezet az SZFE kancellárát kéri, hogy gondolja át az egyetem kiürítését.]]>
+        <![CDATA[Az országos hallgatói szervezet az SZFE kancellárját arra kéri, hogy gondolja át az egyetem kiürítését.]]>
       </description>
       <author>
         <![CDATA[Fehér János]]>
@@ -143,7 +160,7 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Gazdaság] 800 millióért vesz telket Zalaegerszegtől a német tankgyár]]>
+        <![CDATA[[Gazdaság] Nyolcszázmillióért vesz telket Zalaegerszegtől a német tankgyár]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/gazdasag/2020/10/16/zalaegerszeg-rheinmetall-lynx-tank]]>
@@ -305,7 +322,7 @@
         <![CDATA[Pénteken több nyomozó is járt az erzsébetvárosi önkormányzat épületében, akik két és fél órán keresztül vizsgálódtak.]]>
       </description>
       <author>
-        <![CDATA[Pintér Luca, Lengyel-Szabó Péter]]>
+        <![CDATA[Pintér Luca, Tenczer Gábor, Lengyel-Szabó Péter]]>
       </author>
       <pubDate>
         <![CDATA[Fri, 16 Oct 2020 13:11:40 +0200]]>
@@ -313,7 +330,7 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Belföld] Élen jár rákos halálozásban a magyar Királyi régió]]>
+        <![CDATA[[Belföld] Élen jár rákos halálozásban a magyar királyi régió]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/16/rak-kozep-dunantul-eurostat]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 16 Oct 2020 12:09:05 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Átadta megbízólevelét Áder Jánosnak az új brit nagykövet]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/16/paul-fox-brit-nagykovet-magyarorszag-megbizolevel]]>
-      </link>
-      <description>
-        <![CDATA[Paul Fox Iain Lidsay korábbi magyarországi brit nagykövetet váltotta, miután Lindsay visszavonult.]]>
-      </description>
-      <author>
-        <![CDATA[Iván-Nagy Szilvia]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 16 Oct 2020 11:54:57 +0200]]>
       </pubDate>
     </item>
   </channel>

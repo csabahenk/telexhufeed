@@ -1,6 +1,13 @@
 [
   {
-    "title": "[Belföld] Az összes budapesti Tatra-villamoson lehet szombattól bringát szállítani",
+    "title": "[Belföld] Miért kellhet egy médiás szaklap a NER-nek?",
+    "link": "https://telex.hu/belfold/2020/10/16/media-mediapiac-ujsag-szerkesztoseg-boros-bank-levente-gobolyosne-matrahegyi-anna",
+    "description": "Tisztázatlan hátterű fantomanyagok eddig is jelentek meg a Médiapiac című újságban, és a kormányhoz hű Nézőponthoz is több szálon kötődött a lap, de a szerkesztőség tagjai többnyire szabadon dolgozhattak. A szerzőket most eltávolították, már egy új, egyelőre ismeretlen gárda írja a lapot.",
+    "author": "Bozzay Balázs",
+    "pubDate": "Fri, 16 Oct 2020 15:28:15 +0200"
+  },
+  {
+    "title": "[Belföld] Az összes budapesti Tatra villamoson lehet szombattól bringát szállítani",
     "link": "https://telex.hu/belfold/2020/10/16/kerekparszallitas-villamos-pesti-oldal-tatra-budapest",
     "description": "Az 1-es, a 12-es és 14-es, valamint a 28-as villamosra lehet feltenni majd a biciklit.",
     "author": "Fehér János",
@@ -23,7 +30,7 @@
   {
     "title": "[Belföld] HÖOK: Tisztelt Szarka Gábor kancellár úr, ez nem oké!",
     "link": "https://telex.hu/belfold/2020/10/16/hook-tisztelt-szarka-gabor-kancellar-ur-ez-nem-oke",
-    "description": "Az országos hallgatói szervezet az SZFE kancellárát kéri, hogy gondolja át az egyetem kiürítését.",
+    "description": "Az országos hallgatói szervezet az SZFE kancellárját arra kéri, hogy gondolja át az egyetem kiürítését.",
     "author": "Fehér János",
     "pubDate": "Fri, 16 Oct 2020 14:44:33 +0200"
   },
@@ -56,7 +63,7 @@
     "pubDate": "Fri, 16 Oct 2020 14:35:39 +0200"
   },
   {
-    "title": "[Gazdaság] 800 millióért vesz telket Zalaegerszegtől a német tankgyár",
+    "title": "[Gazdaság] Nyolcszázmillióért vesz telket Zalaegerszegtől a német tankgyár",
     "link": "https://telex.hu/gazdasag/2020/10/16/zalaegerszeg-rheinmetall-lynx-tank",
     "description": "A Lynx tankok gyártóüzeme közvetlenül a ZalaZONE Járműipari Tesztpálya mellett épül.",
     "author": "Tenczer Gábor",
@@ -122,11 +129,11 @@
     "title": "[Belföld] Áramlopás miatt szálltak ki a rendőrök  VII. kerületi polgármesteri hivatalhoz, egy DK-s képviselő lemondott",
     "link": "https://telex.hu/belfold/2020/10/16/rendorok-leptek-el-a-hetedik-keruleti-polgarmesteri-hivatalt",
     "description": "Pénteken több nyomozó is járt az erzsébetvárosi önkormányzat épületében, akik két és fél órán keresztül vizsgálódtak.",
-    "author": "Pintér Luca, Lengyel-Szabó Péter",
+    "author": "Pintér Luca, Tenczer Gábor, Lengyel-Szabó Péter",
     "pubDate": "Fri, 16 Oct 2020 13:11:40 +0200"
   },
   {
-    "title": "[Belföld] Élen jár rákos halálozásban a magyar Királyi régió",
+    "title": "[Belföld] Élen jár rákos halálozásban a magyar királyi régió",
     "link": "https://telex.hu/belfold/2020/10/16/rak-kozep-dunantul-eurostat",
     "description": "",
     "author": "Tenczer Gábor",
@@ -166,12 +173,5 @@
     "description": "A legendás 6:3-as magyar–angol évfordulójára digitalizálják a teljes meccset, a gólokat pedig kiszínezik.",
     "author": "Ághassi Attila",
     "pubDate": "Fri, 16 Oct 2020 12:09:05 +0200"
-  },
-  {
-    "title": "[Belföld] Átadta megbízólevelét Áder Jánosnak az új brit nagykövet",
-    "link": "https://telex.hu/belfold/2020/10/16/paul-fox-brit-nagykovet-magyarorszag-megbizolevel",
-    "description": "Paul Fox Iain Lidsay korábbi magyarországi brit nagykövetet váltotta, miután Lindsay visszavonult.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Fri, 16 Oct 2020 11:54:57 +0200"
   }
 ]
