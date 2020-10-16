@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Sport] Az ötszörös világbajnok Pellegrini is koronavírus-fertőzés miatt hagyja ki a budapesti úszóligát]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/sport/2020/10/16/manuela-pellegrini-isl-budapest-koronavirus-uszas]]>
+      </link>
+      <description>
+        <![CDATA[Az úszónő edzés közben lett rosszul, majd egy teszt igazolta betegségét.]]>
+      </description>
+      <author>
+        <![CDATA[Fehér János]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 10:20:23 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Pintér Sándor elismerte, hogy hibáztak a siklóernyős mentésénél]]>
       </title>
       <link>
@@ -143,7 +160,7 @@
     </item>
     <item>
       <title>
-        <![CDATA[[Koronavírus] WHO: A remdesivir nem hatékony a koronavírus ellen]]>
+        <![CDATA[[Koronavírus] WHO: A remdesivir nem hatásos a koronavírus ellen]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/koronavirus/2020/10/16/who-egeszsegugyi-vilagszervezet-remdesivir-hatastalan]]>
@@ -411,23 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Thu, 15 Oct 2020 21:07:21 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Külföld] Az Európai Unió felkészül egy megállapodás nélküli brexitre]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/kulfold/2020/10/15/az-europai-unio-felkeszul-egy-megallapodas-nelkuli-brexitre]]>
-      </link>
-      <description>
-        <![CDATA[Az unió kész kereskedelmi megállapodást kötni a kilépő Egyesült Királysággal, de nem mindenáron. ]]>
-      </description>
-      <author>
-        <![CDATA[Mizsur András]]>
-      </author>
-      <pubDate>
-        <![CDATA[Thu, 15 Oct 2020 20:31:02 +0200]]>
       </pubDate>
     </item>
   </channel>

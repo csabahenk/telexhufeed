@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Sport] Az ötszörös világbajnok Pellegrini is koronavírus-fertőzés miatt hagyja ki a budapesti úszóligát",
+    "link": "https://telex.hu/sport/2020/10/16/manuela-pellegrini-isl-budapest-koronavirus-uszas",
+    "description": "Az úszónő edzés közben lett rosszul, majd egy teszt igazolta betegségét.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 16 Oct 2020 10:20:23 +0200"
+  },
+  {
     "title": "[Belföld] Pintér Sándor elismerte, hogy hibáztak a siklóernyős mentésénél",
     "link": "https://telex.hu/belfold/2020/10/16/pinter-sandor-meghallgatas-sikloernyos-baleset-hiba",
     "description": "A belügyminiszter az éves meghallgatásán válaszolt a siklóernyős baleset körülményeit firtató kérdésekre. ",
@@ -56,7 +63,7 @@
     "pubDate": "Fri, 16 Oct 2020 08:48:43 +0200"
   },
   {
-    "title": "[Koronavírus] WHO: A remdesivir nem hatékony a koronavírus ellen",
+    "title": "[Koronavírus] WHO: A remdesivir nem hatásos a koronavírus ellen",
     "link": "https://telex.hu/koronavirus/2020/10/16/who-egeszsegugyi-vilagszervezet-remdesivir-hatastalan",
     "description": "Az Egészségügyi Világszervezet szerint a hatóanyagtól nem halnak bele kevesebben a fertőzésbe, és nem épülnek fel gyorsabban a betegek.",
     "author": "Presinszky Judit",
@@ -166,12 +173,5 @@
     "description": "December 15-ig lehet meghosszabbítani a már lejárt személyit, útlevelet, jogosítványt és forgalmit. ",
     "author": "Joób Sándor",
     "pubDate": "Thu, 15 Oct 2020 21:07:21 +0200"
-  },
-  {
-    "title": "[Külföld] Az Európai Unió felkészül egy megállapodás nélküli brexitre",
-    "link": "https://telex.hu/kulfold/2020/10/15/az-europai-unio-felkeszul-egy-megallapodas-nelkuli-brexitre",
-    "description": "Az unió kész kereskedelmi megállapodást kötni a kilépő Egyesült Királysággal, de nem mindenáron. ",
-    "author": "Mizsur András",
-    "pubDate": "Thu, 15 Oct 2020 20:31:02 +0200"
   }
 ]
