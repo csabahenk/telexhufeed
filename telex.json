@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Belföld] Fürjes Balázs: A kormány és a főváros párbeszéde kutya kötelesség",
+    "link": "https://telex.hu/belfold/2020/10/16/furjes-es-karacsony",
+    "description": "Ígéretesen alakul a párbeszéd Fürjes Balázs és Karácsony Gergely között. Igaz a fővárosi eladósodás és a biciklisáv kérdését másképpen látják a felek.",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 11:48:00 +0200"
+  },
+  {
     "title": "[Belföld] Szarka Gábor: Ma 18 óráig mindenkinek el kell hagynia az SZFE épületeit és a kollégiumot",
     "link": "https://telex.hu/belfold/2020/10/16/szfe-szarka-gabor-epuletelhagyas-oszi-szunet-koronavirus-utasitas",
     "description": "Az egyetem új kancellárja szerint karbantartás és fertőtlenítés lesz az épületekben, csak kancellári engedéllyel maradhat ott bárki. ",
@@ -114,7 +121,7 @@
   {
     "title": "[Koronavírus] 33-an haltak meg koronavírusban, 1293 újabb fertőzött",
     "link": "https://telex.hu/koronavirus/2020/10/16/koronavirus-fertozottek-jarvany-korhazban-apoltak",
-    "description": "A halálos áldozatok száma ismét meghaladta az eddigi legmagasabb értéket.",
+    "description": "A halálos áldozatok száma ismét meghaladta az eddigi legmagasabb értéket, az áldozatok között van egy 20 éves férfi is.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Fri, 16 Oct 2020 09:11:57 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "Az összes fontos pénteki hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Fri, 16 Oct 2020 07:21:00 +0200"
-  },
-  {
-    "title": "[Belföld] Orbán Viktort lecsózás közben hívta Donald Trump",
-    "link": "https://telex.hu/belfold/2020/10/16/orban-viktort-lecsozas-kozben-hivta-donald-trump",
-    "description": "\"Hívjuk föl Viktort\" - mondta Trump a leköszönő amerikai nagykövetnek.",
-    "author": "Presinszky Judit",
-    "pubDate": "Fri, 16 Oct 2020 06:50:37 +0200"
   }
 ]
