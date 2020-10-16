@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] Az összes budapesti Tatra-villamoson lehet szombattól bringát szállítani",
+    "link": "https://telex.hu/belfold/2020/10/16/kerekparszallitas-villamos-pesti-oldal-tatra-budapest",
+    "description": "Az 1-es, a 12-es és 14-es, valamint a 28-as villamosra lehet feltenni majd a biciklit.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 16 Oct 2020 15:16:46 +0200"
+  },
+  {
+    "title": "[Külföld] Szijjártó Péter végre keményen beszólt Belarusznak: nem igaz, hogy hasonlítunk rájuk",
+    "link": "https://telex.hu/kulfold/2020/10/16/szijjarto-peter-vegre-kemenyen-beszolt-belarusznak-nem-igaz-hogy-hasonlitunk-rajuk",
+    "description": "Never ever, vagyis még soha nem voltak ilyen jók a magyar - amerikai kapcsolatok. Joe Biden ezért támad!",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 15:06:05 +0200"
+  },
+  {
     "title": "[Napirajz] Hungarikum",
     "link": "https://telex.hu/napirajz/2020/10/16/hungarikum",
     "description": "",
@@ -86,7 +100,7 @@
   {
     "title": "[Külföld] Nagyon kiakadt egy sztárcukrász a bevarrt zsebű influenszerekre",
     "link": "https://telex.hu/kulfold/2020/10/16/kiakadt-egy-cukrasz-a-bevarrt-zsebu-influenszerekre",
-    "description": "A reklámpiacon egyre nagyobb szegmens az influenszer-hirdetés, vagyis amikor egy sokak által követett blogger, vagy vlogger pénzért hitet tesz egy termék mellett.",
+    "description": "A reklámpiacon egyre nagyobb szegmens az influenszerhirdetés, vagyis amikor egy sokak által követett blogger vagy vlogger pénzért hitet tesz egy termék mellett.",
     "author": "Brückner Gergely",
     "pubDate": "Fri, 16 Oct 2020 13:33:32 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "Paul Fox Iain Lidsay korábbi magyarországi brit nagykövetet váltotta, miután Lindsay visszavonult.",
     "author": "Iván-Nagy Szilvia",
     "pubDate": "Fri, 16 Oct 2020 11:54:57 +0200"
-  },
-  {
-    "title": "[Belföld] Fürjes Balázs: A kormány és a főváros párbeszéde kutya kötelesség",
-    "link": "https://telex.hu/belfold/2020/10/16/furjes-es-karacsony",
-    "description": "Ígéretesen alakul a párbeszéd Fürjes Balázs és Karácsony Gergely között. Igaz, a fővárosi eladósodás és a biciklisáv kérdését másképpen látják a felek.",
-    "author": "Brückner Gergely",
-    "pubDate": "Fri, 16 Oct 2020 11:48:00 +0200"
-  },
-  {
-    "title": "[Belföld] Szarka Gábor: Ma 18 óráig mindenkinek el kell hagynia az SZFE épületeit és a kollégiumot",
-    "link": "https://telex.hu/belfold/2020/10/16/szfe-szarka-gabor-epuletelhagyas-oszi-szunet-koronavirus-utasitas",
-    "description": "Az egyetem új kancellárja szerint karbantartás és fertőtlenítés lesz az épületekben, csak kancellári engedéllyel maradhat ott bárki. ",
-    "author": "Presinszky Judit",
-    "pubDate": "Fri, 16 Oct 2020 11:40:42 +0200"
   }
 ]
