@@ -1,17 +1,73 @@
 [
   {
-    "title": "[Sport] Duna parti Alcatraz? Ugyan, legalább versenyezhetünk",
-    "link": "https://telex.hu/sport/2020/10/16/isl-jakabos-zsuzsa-alcatraz-duna-arena",
+    "title": "[Napirajz] Hungarikum",
+    "link": "https://telex.hu/napirajz/2020/10/16/hungarikum",
     "description": "",
-    "author": "Ághassi Attila",
-    "pubDate": "Fri, 16 Oct 2020 14:06:33 +0200"
+    "author": "Grafitember",
+    "pubDate": "Fri, 16 Oct 2020 14:58:04 +0200"
   },
   {
-    "title": "[Külföld] repülő spagettiszörny egyház orosz vezető letartóztatás mihail joszilevics",
+    "title": "[Belföld] HÖOK: Tisztelt Szarka Gábor kancellár úr, ez nem oké!",
+    "link": "https://telex.hu/belfold/2020/10/16/hook-tisztelt-szarka-gabor-kancellar-ur-ez-nem-oke",
+    "description": "Az országos hallgatói szervezet az SZFE kancellárát kéri, hogy gondolja át az egyetem kiürítését.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 16 Oct 2020 14:44:33 +0200"
+  },
+  {
+    "title": "[Belföld] Börtönt kapott a pesti gimnázium besurranó tolvaja",
+    "link": "https://telex.hu/belfold/2020/10/16/tolvaj-borton-gimnazium-evzaro",
+    "description": "A 46 éves férfi tavaly nyáron az évzáró alatt pakolta ki az osztálytermekben hagyott táskákat.",
+    "author": "Tenczer Gábor",
+    "pubDate": "Fri, 16 Oct 2020 14:44:05 +0200"
+  },
+  {
+    "title": "[Belföld] A kormánypárti városok nagyobb arányban kapnak múzeumi támogatást",
+    "link": "https://telex.hu/belfold/2020/10/16/a-kormanyparti-vezetesu-varosok-nagyobb-aranyban-kapnak-muzeumi-tamogatast",
+    "description": "A különbség szignifikáns, több mint kétszer akkora eséllyel pályázik egy múzeum, ha a városvezetése kormányoldali.",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 14:41:28 +0200"
+  },
+  {
+    "title": "[Belföld] Hiába a béremelés, 3100 budapesti orvos nem írná alá az új szerződést",
+    "link": "https://telex.hu/belfold/2020/10/16/orvosok-beremeles-egeszsegugyi-szolgalati-jogviszony-orvosi-kamara-felmeres",
+    "description": "A budapesti orvosi kamara gyorsfelmérésére közel 4 ezren válaszoltak a 13 800-ból.",
+    "author": "Joób Sándor",
+    "pubDate": "Fri, 16 Oct 2020 14:37:36 +0200"
+  },
+  {
+    "title": "[Külföld] Boris Johnson: Ideje felkészülni a megállapodás elmaradására",
+    "link": "https://telex.hu/kulfold/2020/10/16/boris-johnson-megallapodas",
+    "description": "A brit miniszterelnök az előző nap kezdődött brüsszeli EU-csúcsértekezletből vonta le a következtetést.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Fri, 16 Oct 2020 14:35:39 +0200"
+  },
+  {
+    "title": "[Gazdaság] 800 millióért vesz telket Zalaegerszegtől a német tankgyár",
+    "link": "https://telex.hu/gazdasag/2020/10/16/zalaegerszeg-rheinmetall-lynx-tank",
+    "description": "A Lynx tankok gyártóüzeme közvetlenül a ZalaZONE Járműipari Tesztpálya mellett épül.",
+    "author": "Tenczer Gábor",
+    "pubDate": "Fri, 16 Oct 2020 14:27:52 +0200"
+  },
+  {
+    "title": "[Külföld] Letartóztatták a Repülő Spagettiszörny Egyház orosz vezetőjét",
     "link": "https://telex.hu/kulfold/2020/10/16/repulo-spagettiszorny-egyhaz-orosz-vezeto-letartoztatas-mihail-joszilevics",
-    "description": "",
-    "author": "Nyilas Gergely",
-    "pubDate": "Fri, 16 Oct 2020 14:03:00 +0200"
+    "description": "A paródiavallás vezetőjét azzal vádolják, hogy törvényen kívüli ellenzéki szervezettel működött együtt.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 16 Oct 2020 14:25:17 +0200"
+  },
+  {
+    "title": "[Gazdaság] 149 milliárd forinttal apadhat a kommunikációs piac",
+    "link": "https://telex.hu/gazdasag/2020/10/16/reklam-kommunikacio-korona",
+    "description": "Nem bánnának némi állami segítséget a szakma képviselői.",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 14:23:25 +0200"
+  },
+  {
+    "title": "[Sport] Duna-parti Alcatraz? Ugyan, legalább versenyezhetünk",
+    "link": "https://telex.hu/sport/2020/10/16/isl-jakabos-zsuzsa-alcatraz-duna-arena",
+    "description": "November 21-ig Budapesten versenyeznek a világ legjobb úszói, a holland olimpiai bajnok Kromowidjojo felkészült a bezártságra, mert végre versenyezhet.",
+    "author": "Ághassi Attila",
+    "pubDate": "Fri, 16 Oct 2020 14:06:48 +0200"
   },
   {
     "title": "[Belföld] 21 év fegyházat kapott a feleségét feldaraboló darnózseli hentes",
@@ -91,9 +147,9 @@
     "pubDate": "Fri, 16 Oct 2020 12:09:20 +0200"
   },
   {
-    "title": "[Sport] Színesben is láthatjuk az Évszázad mérkőzésének góljait",
+    "title": "[Sport] Színesben is láthatjuk az évszázad mérkőzésének góljait",
     "link": "https://telex.hu/sport/2020/10/16/6-3-magyar-angol-digitalizacio-puskas-gol",
-    "description": "A legendás 6:3-as magyar-angol évfordulójára digitalizálják a teljes meccset, a gólokat pedig kiszínezik.",
+    "description": "A legendás 6:3-as magyar–angol évfordulójára digitalizálják a teljes meccset, a gólokat pedig kiszínezik.",
     "author": "Ághassi Attila",
     "pubDate": "Fri, 16 Oct 2020 12:09:05 +0200"
   },
@@ -117,61 +173,5 @@
     "description": "Az egyetem új kancellárja szerint karbantartás és fertőtlenítés lesz az épületekben, csak kancellári engedéllyel maradhat ott bárki. ",
     "author": "Presinszky Judit",
     "pubDate": "Fri, 16 Oct 2020 11:40:42 +0200"
-  },
-  {
-    "title": "[Gazdaság] 225 kilométert is bír majd a Dacia első elektromos autója",
-    "link": "https://telex.hu/gazdasag/2020/10/16/dacia-spring-elektromos-auto-225-km",
-    "description": "A Dacia Spring végsebessége csak 125 km/h lesz, viszont legalább olcsónak számít.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Fri, 16 Oct 2020 11:22:30 +0200"
-  },
-  {
-    "title": "[Külföld] Trump most a QAnon összeesküvés-elméletet nem volt hajlandó elutasítani",
-    "link": "https://telex.hu/kulfold/2020/10/16/usa-donald-trump-joe-biden-amerikai-elnokvalasztas-2020-qanon",
-    "description": "A két elnökjelölt vitázás helyett egymástól 1600 kilométerre válaszolt a szavazók kérdéseire.",
-    "author": "Dömötör Bálint",
-    "pubDate": "Fri, 16 Oct 2020 11:08:53 +0200"
-  },
-  {
-    "title": "[Belföld] Zavaros ügyek, vizsgálatok: mégis mi történik a Badacsonyban?",
-    "link": "https://telex.hu/belfold/2020/10/16/cikk-cimebadacsonytomaj-olaf-nav",
-    "description": "A rendőrség, az OLAF és a Közbeszerzési Hatóság is Badacsonytomaj ügyeit vizsgálja – írja a 24.hu.",
-    "author": "Brückner Gergely",
-    "pubDate": "Fri, 16 Oct 2020 11:01:10 +0200"
-  },
-  {
-    "title": "[Belföld] A miniszterelnöki főtanácsadó olyan szert ajánl a járvány elleni védekezésre, ami arra pont nem jó",
-    "link": "https://telex.hu/belfold/2020/10/16/a-miniszterelnoki-fotanacsado-egy-orrsprayjel-erositene-a-jarvany-ellen",
-    "description": "A hátrányos helyzetű települések iskoláinak küldött körlevelében hívja fel a figyelmet egy allergia elleni spray védőhatására Hegedűs Zsuzsa szociológus. Csakhogy a szernek ilyen hatása nincs, a hatóanyag a fertőzés után, a betegség kezelésére lehet jó. Talán.",
-    "author": "Nyilas Gergely",
-    "pubDate": "Fri, 16 Oct 2020 10:56:59 +0200"
-  },
-  {
-    "title": "[Külföld] Újra meg kell műteni a bangladesi sziámi ikerpár egyik tagjának koponyáját",
-    "link": "https://telex.hu/kulfold/2020/10/16/sziamik-ikrek-banglades-csokay-andras-mutet-koponya-1",
-    "description": "Az elhalasztott műtétet magyar orvoscsoport hajtja majd végre Bangladesben.",
-    "author": "Fehér János",
-    "pubDate": "Fri, 16 Oct 2020 10:50:42 +0200"
-  },
-  {
-    "title": "[Koronavírus] Orbán: Senki ne menjen külföldre síelni!",
-    "link": "https://telex.hu/koronavirus/2020/10/16/orban-senki-ne-menjen-kulfoldre-sielni",
-    "description": "A miniszterelnök szerint nehéz tél elé nézünk, és egész Európában rossz a koronavírus-helyzet.",
-    "author": "Presinszky Judit",
-    "pubDate": "Fri, 16 Oct 2020 10:47:04 +0200"
-  },
-  {
-    "title": "[Belföld] Fónagy és Soltész nem mennek a főváros évfordulós ünnepségére, mert Karácsony nem határolódott el a judapestező ellenzéki jelölttől",
-    "link": "https://telex.hu/belfold/2020/10/16/fonagy-es-soltesz-nem-mennek-a-fovaros-evfordulos-unnepsegere-mert-karacsony-nem-hatarolodott-el-a-judapestezo-ellenzeki-jelolttol",
-    "description": "A kormánymédia Heisler Andrást, a Mazsihisz elnökét is megtalálta a témával, a szervezet hosszú közleményben reagált.",
-    "author": "Német Tamás",
-    "pubDate": "Fri, 16 Oct 2020 10:27:28 +0200"
-  },
-  {
-    "title": "[Sport] Káosz a Nemzetközi Súlyemelő Szövetségben: két nap alatt két ideiglenes elnököt választottak",
-    "link": "https://telex.hu/sport/2020/10/16/sulyemelo-szovetseg-iwf-ket-nap-alatt-ket-ideiglenes-elnok",
-    "description": "Aján Tamás lemondás óta már a harmadik vezetőt nevezték ki a IWF-nél.",
-    "author": "Fehér János",
-    "pubDate": "Fri, 16 Oct 2020 10:26:43 +0200"
   }
 ]
