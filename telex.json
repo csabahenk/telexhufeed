@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Külföld] Kábítószer-kereskedelem miatt őrizetbe vették Mexikó előző védelmi miniszterét",
+    "link": "https://telex.hu/kulfold/2020/10/16/mexiko-vedelmi-miniszteret-orizetbe-vettek-kabitoszer-kereskedelem",
+    "description": "Sajtóhírek szerint kapcsolatban állt egy hírhedt drogkartellel, miközben fontos tisztséget töltött be a mexikói hadseregben. ",
+    "author": "Cseke Balázs",
+    "pubDate": "Fri, 16 Oct 2020 22:58:49 +0200"
+  },
+  {
     "title": "[Belföld] Bagdy Emőke úgy nyilatkozott a Meseország mindenkié című könyvről, hogy nem is olvasta",
     "link": "https://telex.hu/belfold/2020/10/16/bagdy-emoke-meseorszag-mindenkie-konyv-nyilatkozat",
     "description": "Közleményben reagált arra állásfoglalásra, amit már több mint 1200 pszichológus írt alá. Elhatárolódik a könyv ledarálástól, ugyanakkor a szakmai véleményét továbbra is fenntartja.",
@@ -35,9 +42,9 @@
     "pubDate": "Fri, 16 Oct 2020 19:29:05 +0200"
   },
   {
-    "title": "[Külföld] Lefejezett holttestet találtak Párizs elővárosában",
+    "title": "[Külföld] Lefejeztek egy tanárt Párizs elővárosában",
     "link": "https://telex.hu/kulfold/2020/10/16/lefejezett-holttest-parizs-terror",
-    "description": "Az áldozat egy tanár, az elkövetőt a rendőrök lelőtték. Az ügyben a terrorellenes ügyészség indított nyomozást.",
+    "description": "Az áldozat korábban Mohamed-karikatúrákat mutatott a tanulóinak. Az ügyben a terrorellenes ügyészség indított nyomozást.",
     "author": "Iván András, Pál Tamás",
     "pubDate": "Fri, 16 Oct 2020 19:10:52 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "Nem bánnának némi állami segítséget a szakma képviselői.",
     "author": "Brückner Gergely",
     "pubDate": "Fri, 16 Oct 2020 14:23:25 +0200"
-  },
-  {
-    "title": "[Sport] Duna-parti Alcatraz? Ugyan, legalább versenyezhetünk",
-    "link": "https://telex.hu/sport/2020/10/16/isl-jakabos-zsuzsa-alcatraz-duna-arena",
-    "description": "November 21-ig Budapesten versenyeznek a világ legjobb úszói, a holland olimpiai bajnok Kromowidjojo felkészült a bezártságra, mert végre versenyezhet.",
-    "author": "Ághassi Attila",
-    "pubDate": "Fri, 16 Oct 2020 14:06:48 +0200"
   }
 ]
