@@ -1,8 +1,22 @@
 [
   {
-    "title": "[Belföld] Százezer forinttal többet kell majd fizetniük a karantént elhagyóknak",
+    "title": "[Belföld] Bagdy Emőke úgy nyilatkozott a Meseország mindenkié című könyvről, hogy nem is olvasta",
+    "link": "https://telex.hu/belfold/2020/10/16/bagdy-emoke-meseorszag-mindenkie-konyv-nyilatkozat",
+    "description": "Közleményben reagált arra állásfoglalásra, amit már több mint 1200 pszichológus írt alá. Elhatárolódik a könyv ledarálástól, ugyanakkor a szakmai véleményét továbbra is fenntartja.",
+    "author": "Cseke Balázs",
+    "pubDate": "Fri, 16 Oct 2020 21:45:10 +0200"
+  },
+  {
+    "title": "[Belföld] Baleset miatt lezárták az M3-as autópályát Füzesabonynál",
+    "link": "https://telex.hu/belfold/2020/10/16/baleset-m3-as-autopalya-lezaras-fuzesabony-serules",
+    "description": "Négy személygépkocsi és egy tehergépjármű ütközött össze, többen megsérültek.",
+    "author": "Pál Tamás",
+    "pubDate": "Fri, 16 Oct 2020 21:27:12 +0200"
+  },
+  {
+    "title": "[Belföld] Szigorítana a kormány, 150 ezer forintos bírságot kaphatnak a karantént elhagyók",
     "link": "https://telex.hu/belfold/2020/10/16/koronavirus-karanten-javaslat-szigoritanak-a-szabalyokon-semjen-zsolt",
-    "description": "Szigorítana a kormány a karanténkötelezettségen. Ha valaki többször is megszegi a szabályokat egy nap, akár 600 ezer forintos büntetést is fizethet. Gyorsítják ugyanakkor a határellenőrzést, elektronikusan is meg lehet adni az adatokat.",
+    "description": "Ha valaki többször is megszegi a szabályokat egy nap, akár 600 ezer forintos büntetést is fizethet. Gyorsítják ugyanakkor a határellenőrzést, elektronikusan is meg lehet adni az adatokat.",
     "author": "Cseke Balázs",
     "pubDate": "Fri, 16 Oct 2020 21:04:48 +0200"
   },
@@ -23,7 +37,7 @@
   {
     "title": "[Külföld] Lefejezett holttestet találtak Párizs elővárosában",
     "link": "https://telex.hu/kulfold/2020/10/16/lefejezett-holttest-parizs-terror",
-    "description": "A feltételezett elkövetőt meglőtték, az eset miatt a terrorellenes ügyészség indított nyomozást.",
+    "description": "Az áldozat egy tanár, az elkövetőt a rendőrök lelőtték. Az ügyben a terrorellenes ügyészség indított nyomozást.",
     "author": "Iván András, Pál Tamás",
     "pubDate": "Fri, 16 Oct 2020 19:10:52 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "November 21-ig Budapesten versenyeznek a világ legjobb úszói, a holland olimpiai bajnok Kromowidjojo felkészült a bezártságra, mert végre versenyezhet.",
     "author": "Ághassi Attila",
     "pubDate": "Fri, 16 Oct 2020 14:06:48 +0200"
-  },
-  {
-    "title": "[Belföld] 21 év fegyházat kapott a feleségét feldaraboló darnózseli hentes",
-    "link": "https://telex.hu/belfold/2020/10/16/darnozseli-hentes-kuria-itelet",
-    "description": "Előre kitervelt emberölés miatt ítélte 21 évre N. Jánost a harmadfokon eljáró Kúria. Az ítélet jogerős.",
-    "author": "Iván-Nagy Szilvia, Presinszky Judit",
-    "pubDate": "Fri, 16 Oct 2020 13:59:50 +0200"
-  },
-  {
-    "title": "[Tech] Már magyar felhasználóknál is megjelent az új Messenger",
-    "link": "https://telex.hu/tech/2020/10/16/uj-messenger-logo-es-funkcok-facebook",
-    "description": "Megváltozott az app ikonja, és új funkciókkal is bővült az üzenetküldő.",
-    "author": "Fehér János",
-    "pubDate": "Fri, 16 Oct 2020 13:44:46 +0200"
   }
 ]

@@ -7,13 +7,47 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
-        <![CDATA[[Belföld] Százezer forinttal többet kell majd fizetniük a karantént elhagyóknak]]>
+        <![CDATA[[Belföld] Bagdy Emőke úgy nyilatkozott a Meseország mindenkié című könyvről, hogy nem is olvasta]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/16/bagdy-emoke-meseorszag-mindenkie-konyv-nyilatkozat]]>
+      </link>
+      <description>
+        <![CDATA[Közleményben reagált arra állásfoglalásra, amit már több mint 1200 pszichológus írt alá. Elhatárolódik a könyv ledarálástól, ugyanakkor a szakmai véleményét továbbra is fenntartja.]]>
+      </description>
+      <author>
+        <![CDATA[Cseke Balázs]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 21:45:10 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] Baleset miatt lezárták az M3-as autópályát Füzesabonynál]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/16/baleset-m3-as-autopalya-lezaras-fuzesabony-serules]]>
+      </link>
+      <description>
+        <![CDATA[Négy személygépkocsi és egy tehergépjármű ütközött össze, többen megsérültek.]]>
+      </description>
+      <author>
+        <![CDATA[Pál Tamás]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 21:27:12 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Belföld] Szigorítana a kormány, 150 ezer forintos bírságot kaphatnak a karantént elhagyók]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/belfold/2020/10/16/koronavirus-karanten-javaslat-szigoritanak-a-szabalyokon-semjen-zsolt]]>
       </link>
       <description>
-        <![CDATA[Szigorítana a kormány a karanténkötelezettségen. Ha valaki többször is megszegi a szabályokat egy nap, akár 600 ezer forintos büntetést is fizethet. Gyorsítják ugyanakkor a határellenőrzést, elektronikusan is meg lehet adni az adatokat.]]>
+        <![CDATA[Ha valaki többször is megszegi a szabályokat egy nap, akár 600 ezer forintos büntetést is fizethet. Gyorsítják ugyanakkor a határellenőrzést, elektronikusan is meg lehet adni az adatokat.]]>
       </description>
       <author>
         <![CDATA[Cseke Balázs]]>
@@ -64,7 +98,7 @@
         <![CDATA[https://telex.hu/kulfold/2020/10/16/lefejezett-holttest-parizs-terror]]>
       </link>
       <description>
-        <![CDATA[A feltételezett elkövetőt meglőtték, az eset miatt a terrorellenes ügyészség indított nyomozást.]]>
+        <![CDATA[Az áldozat egy tanár, az elkövetőt a rendőrök lelőtték. Az ügyben a terrorellenes ügyészség indított nyomozást.]]>
       </description>
       <author>
         <![CDATA[Iván András, Pál Tamás]]>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 16 Oct 2020 14:06:48 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] 21 év fegyházat kapott a feleségét feldaraboló darnózseli hentes]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/16/darnozseli-hentes-kuria-itelet]]>
-      </link>
-      <description>
-        <![CDATA[Előre kitervelt emberölés miatt ítélte 21 évre N. Jánost a harmadfokon eljáró Kúria. Az ítélet jogerős.]]>
-      </description>
-      <author>
-        <![CDATA[Iván-Nagy Szilvia, Presinszky Judit]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 16 Oct 2020 13:59:50 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Tech] Már magyar felhasználóknál is megjelent az új Messenger]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/tech/2020/10/16/uj-messenger-logo-es-funkcok-facebook]]>
-      </link>
-      <description>
-        <![CDATA[Megváltozott az app ikonja, és új funkciókkal is bővült az üzenetküldő.]]>
-      </description>
-      <author>
-        <![CDATA[Fehér János]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 16 Oct 2020 13:44:46 +0200]]>
       </pubDate>
     </item>
   </channel>
