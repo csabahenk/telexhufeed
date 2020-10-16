@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Külföld] Körözést adtak ki a fehérorosz hatóságok Cihanouszkaja ellen",
+    "link": "https://telex.hu/kulfold/2020/10/16/korozest-adtak-ki-a-feherorosz-hatosagok-cihanouszkaja-ellen",
+    "description": "A vád szerint az ellenzéki jelölt az alkotmányos rend megdöntésére szólított fel .",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 12:30:20 +0200"
+  },
+  {
+    "title": "[Tudomány] Hiába tömték be a repedést, még mindig szivárog a levegő a Nemzetközi Űrállomáson",
+    "link": "https://telex.hu/tudomany/2020/10/16/iss-nemzetkozi-urallomas-levego-szivargas-nyomas",
+    "description": "Továbbra is csökken a nyomás az űrbázison.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Fri, 16 Oct 2020 12:28:29 +0200"
+  },
+  {
+    "title": "[Belföld] Müller Cecília nem árulja el, hány kórház telt meg koronavírus-fertőzöttel",
+    "link": "https://telex.hu/belfold/2020/10/16/operativ-torzs-sajtotajekoztato-10-16",
+    "description": "Erre az Rtl Klub kérdezett rá az operatív törzsnél, de az országos tisztifőorvos kitérő választ adott. Meghalt egy 20 éves fiatal, akinek súlyos alapbetegsége volt. Az operatív törzs tájékoztatójának pénteki összefoglalója.",
+    "author": "Pintér Luca",
+    "pubDate": "Fri, 16 Oct 2020 12:23:08 +0200"
+  },
+  {
+    "title": "[Szórakozás] Nicolas Cage új filmjében egy űrnindzsával száll szembe",
+    "link": "https://telex.hu/szorakozas/2020/10/16/nicolas-cage-uj-film-jiu-jitsu-trailer-foldonkivuli",
+    "description": "A Jiu Jitsuban mintha a Predátort keverték volna össze gagyi kungfufilmekkel. Itt az első trailer belőle.",
+    "author": "Szórakozás",
+    "pubDate": "Fri, 16 Oct 2020 12:09:20 +0200"
+  },
+  {
+    "title": "[Sport] Színesben is láthatjuk az Évszázad mérkőzésének góljait",
+    "link": "https://telex.hu/sport/2020/10/16/6-3-magyar-angol-digitalizacio-puskas-gol",
+    "description": "A legendás 6:3-as magyar-angol évfordulójára digitalizálják a teljes meccset, a gólokat pedig kiszínezik.",
+    "author": "Ághassi Attila",
+    "pubDate": "Fri, 16 Oct 2020 12:09:05 +0200"
+  },
+  {
     "title": "[Belföld] Átadta megbízólevelét Áder Jánosnak az új brit nagykövet",
     "link": "https://telex.hu/belfold/2020/10/16/paul-fox-brit-nagykovet-magyarorszag-megbizolevel",
     "description": "Paul Fox Iain Lidsay korábbi magyarországi brit nagykövetet váltotta, miután Lindsay visszavonult.",
@@ -9,7 +44,7 @@
   {
     "title": "[Belföld] Fürjes Balázs: A kormány és a főváros párbeszéde kutya kötelesség",
     "link": "https://telex.hu/belfold/2020/10/16/furjes-es-karacsony",
-    "description": "Ígéretesen alakul a párbeszéd Fürjes Balázs és Karácsony Gergely között. Igaz a fővárosi eladósodás és a biciklisáv kérdését másképpen látják a felek.",
+    "description": "Ígéretesen alakul a párbeszéd Fürjes Balázs és Karácsony Gergely között. Igaz, a fővárosi eladósodás és a biciklisáv kérdését másképpen látják a felek.",
     "author": "Brückner Gergely",
     "pubDate": "Fri, 16 Oct 2020 11:48:00 +0200"
   },
@@ -138,40 +173,5 @@
     "description": "A költségvetési csalással vádolt fideszes politikus feljelentést tett zaklatás miatt.",
     "author": "Német Tamás",
     "pubDate": "Fri, 16 Oct 2020 08:51:10 +0200"
-  },
-  {
-    "title": "[Külföld] Inni sem engedték, és addig ugráltatták a forró trambulinon, hogy végül belehalt a 8 éves lány",
-    "link": "https://telex.hu/kulfold/2020/10/16/inni-sem-engedtek-es-addig-ugraltattak-a-forro-trambulinban-hogy-vegul-belehalt-a-8-eves-lany",
-    "description": "A texasi eset még augusztus végén történt, most tartóztatták le a két gyanúsítottat.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Fri, 16 Oct 2020 08:50:51 +0200"
-  },
-  {
-    "title": "[Belföld] 18 milliárd forint az egészségügynek",
-    "link": "https://telex.hu/belfold/2020/10/16/kormany-felcsut-18-milliard",
-    "description": "Új forrásokat kap a gazdaságvédelem, a Párizsi Magyar Intézet és a felcsúti általános is.",
-    "author": "Brückner Gergely",
-    "pubDate": "Fri, 16 Oct 2020 08:48:43 +0200"
-  },
-  {
-    "title": "[Koronavírus] WHO: A remdesivir nem hatásos a koronavírus ellen",
-    "link": "https://telex.hu/koronavirus/2020/10/16/who-egeszsegugyi-vilagszervezet-remdesivir-hatastalan",
-    "description": "Az Egészségügyi Világszervezet szerint a hatóanyagtól nem halnak bele kevesebben a fertőzésbe, és nem épülnek fel gyorsabban a betegek.",
-    "author": "Presinszky Judit",
-    "pubDate": "Fri, 16 Oct 2020 08:48:08 +0200"
-  },
-  {
-    "title": "[Belföld] Hernádszentandrást körbefogta az áradás, nem lehet bejutni a településre",
-    "link": "https://telex.hu/belfold/2020/10/16/hernad-aradas-hernadszentandras-sajo-putnok",
-    "description": "A Hernádon kívül árad a Sajó és a Bódva is. A hétvégén is számítani kell kisebb esőkre, vasárnap hajnalban akár 0 fokig is süllyedhet a hőmérséklet.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Fri, 16 Oct 2020 08:43:09 +0200"
-  },
-  {
-    "title": "[Sport] Olasz sportminiszter: Ronaldo megszegte a koronavírus-szabályokat",
-    "link": "https://telex.hu/sport/2020/10/16/cristiano-ronaldo-koronavirus-olasz-szabaly-megsertese",
-    "description": "A futballista karanténkötelezettsége ellenére visszatért Portugáliából Olaszországba.",
-    "author": "Fehér János",
-    "pubDate": "Fri, 16 Oct 2020 08:24:56 +0200"
   }
 ]
