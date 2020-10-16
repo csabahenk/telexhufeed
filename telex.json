@@ -1,8 +1,22 @@
 [
   {
+    "title": "[Sport] Babos Tímea elbúcsúzott az edzőjétől",
+    "link": "https://telex.hu/sport/2020/10/16/babos-timea-elbucsuzott-az-edzojetol",
+    "description": "A posztja szerint barátok maradnak Michael Joyce-szal, de külön utakon folytatják a teniszben.",
+    "author": "Klág Dávid",
+    "pubDate": "Fri, 16 Oct 2020 19:32:28 +0200"
+  },
+  {
+    "title": "[Belföld] Megállították az import influenza oltóanyag-kiszállítást",
+    "link": "https://telex.hu/belfold/2020/10/16/influenza-oltas-oltokozpont-leallit",
+    "description": "A háttérben az lehet, hogy a szélesebb körben alkalmazható import vakcinára bejelentkezett a kormányzat is.",
+    "author": "Tenczer Gábor",
+    "pubDate": "Fri, 16 Oct 2020 19:29:05 +0200"
+  },
+  {
     "title": "[Külföld] Lefejezett holttestet találtak Párizs elővárosában",
     "link": "https://telex.hu/kulfold/2020/10/16/lefejezett-holttest-parizs-terror",
-    "description": "A feltételezett elkövető megsérült, az eset miatt a terrorellenes ügyészség indított nyomozást.",
+    "description": "A feltételezett elkövetőt meglőtték, az eset miatt a terrorellenes ügyészség indított nyomozást.",
     "author": "Iván András, Pál Tamás",
     "pubDate": "Fri, 16 Oct 2020 19:10:52 +0200"
   },
@@ -16,7 +30,7 @@
   {
     "title": "[Belföld] Nem távoznak a diákok az SZFE épületeiből, vastaps fogadta a bejelentést",
     "link": "https://telex.hu/belfold/2020/10/16/szfe-tuntetes-vas-utca-szarka-gabor-kiurites",
-    "description": "A kancellár utasítása szerint 18 óráig mindenkinek el kellett volna hagynia az egyetemet, több mint ezer ember gyűlt össze a Vas utcában. ",
+    "description": "A kancellár utasítása szerint 18 óráig mindenkinek el kellett volna hagynia az egyetemet, több mint ezer ember gyűlt össze a Vas utcában. Fizikai inzultus nem volt, jegyzőkönyvet vettek fel a bent maradó diákokról, akik a korábban elzárt Ódry Színpadot is visszafoglalták.",
     "author": "Cseke Balázs",
     "pubDate": "Fri, 16 Oct 2020 18:23:16 +0200"
   },
@@ -107,8 +121,8 @@
   {
     "title": "[Külföld] Boris Johnson: Ideje felkészülni a megállapodás elmaradására",
     "link": "https://telex.hu/kulfold/2020/10/16/boris-johnson-megallapodas",
-    "description": "A brit miniszterelnök az előző nap kezdődött brüsszeli EU-csúcsértekezletből vonta le a következtetést.",
-    "author": "Iván-Nagy Szilvia",
+    "description": "A Downing Street szóvivője keményebben fogalmazott: a tárgyalásoknak a jövőbeli kapcsolatokról az EU-val vége, ha az unió nem hajlandó engedményekre.",
+    "author": "Iván-Nagy Szilvia, Iván András",
     "pubDate": "Fri, 16 Oct 2020 14:35:39 +0200"
   },
   {
@@ -159,19 +173,5 @@
     "description": "A reklámpiacon egyre nagyobb szegmens az influenszerhirdetés, vagyis amikor egy sokak által követett blogger vagy vlogger pénzért hitet tesz egy termék mellett.",
     "author": "Brückner Gergely",
     "pubDate": "Fri, 16 Oct 2020 13:33:32 +0200"
-  },
-  {
-    "title": "[Külföld] Negyvenmillió ember biztosítása a tét az amerikai elnökválasztáson",
-    "link": "https://telex.hu/kulfold/2020/10/16/usa-elnokvalasztas-egeszsegugy-biztositas-biden-trump-obamacare",
-    "description": "A magánbiztosításokra építő amerikai egészségügy igazi pénznyelő, miközben az eredményei elég gyászosak. A republikánusok évek óta az Obama-féle egészségügyi reform gyengítésén fáradoznak, a következő ciklusban összejöhet a törvény teljes felszámolása, és ha Trump marad, nem biztos, hogy lesz átfogó pótlása. Biden és a demokraták közben balra tolódtak, további tízmilliókat vonnának be a biztosítottak körébe nagyobb állami beavatkozással.",
-    "author": "Előd Fruzsina",
-    "pubDate": "Fri, 16 Oct 2020 13:21:17 +0200"
-  },
-  {
-    "title": "[Koronavírus] Alacsony a kockázata annak, hogy repülőgépen kapjuk el a koronavírus-fertőzést",
-    "link": "https://telex.hu/koronavirus/2020/10/16/koronavirus-fertozes-repulogep-tanulmany",
-    "description": "Az amerikai védelmi minisztérium tanulmánya szerint ha egy ülő utas maszkot visel, akkor az általa kilélegzett részecskék mindössze 0,003 százaléka jut el a közvetlen utastársa feje körüli légzési zónába. ",
-    "author": "Thüringer Barbara",
-    "pubDate": "Fri, 16 Oct 2020 13:16:21 +0200"
   }
 ]
