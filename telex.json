@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Belföld] Pintér Sándor elismerte, hogy hibáztak a siklóernyős mentésénél",
+    "link": "https://telex.hu/belfold/2020/10/16/pinter-sandor-meghallgatas-sikloernyos-baleset-hiba",
+    "description": "A belügyminiszter az éves meghallgatásán válaszolt a siklóernyős baleset körülményeit firtató kérdésekre. ",
+    "author": "Pintér Luca",
+    "pubDate": "Fri, 16 Oct 2020 10:09:12 +0200"
+  },
+  {
+    "title": "[Belföld] Kancellári utasításra blokkolták a Facebookot az SZFE irodai gépein",
+    "link": "https://telex.hu/belfold/2020/10/16/szfe-facebook-blokkolas-irodai-gepek",
+    "description": "Ez a hallgatók és a sztrájk legfőbb kommunikációs csatornája. ",
+    "author": "Presinszky Judit",
+    "pubDate": "Fri, 16 Oct 2020 10:00:11 +0200"
+  },
+  {
+    "title": "[Gazdaság] Cementpiaci visszaélést gyanít a GVH",
+    "link": "https://telex.hu/gazdasag/2020/10/16/gvh-cement-kartell",
+    "description": "Az elmúlt időszakban a GVH inkább fogyasztóvédelmi ügyekkel vétette észre magát, ez most egy izgalmas antitröszt-ügynek tűnik. Homogén termék, pár szereplő, de vajon mi mozgatja az árazásukat?",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 09:50:34 +0200"
+  },
+  {
+    "title": "[Sport] A forduló gólja helyett a forduló védése lett a Szeged akciója után",
+    "link": "https://telex.hu/sport/2020/10/16/porto-szeged-kezilabda-bajnokok-ligaja",
+    "description": "A világbajnok Canellas nagyszerűen kapta vissza a labdát, a Porto kapusa azonban úszott a levegőben.",
+    "author": "Ághassi Attila",
+    "pubDate": "Fri, 16 Oct 2020 09:17:39 +0200"
+  },
+  {
     "title": "[Koronavírus] 33-an haltak meg koronavírusban, 1293 újabb fertőzött",
     "link": "https://telex.hu/koronavirus/2020/10/16/koronavirus-fertozottek-jarvany-korhazban-apoltak",
     "description": "A halálos áldozatok száma ismét meghaladta az eddigi legmagasabb értéket.",
@@ -145,33 +173,5 @@
     "description": "Az unió kész kereskedelmi megállapodást kötni a kilépő Egyesült Királysággal, de nem mindenáron. ",
     "author": "Mizsur András",
     "pubDate": "Thu, 15 Oct 2020 20:31:02 +0200"
-  },
-  {
-    "title": "[Külföld] Mitikus üzemmódra kapcsolt Donald Trump",
-    "link": "https://telex.hu/kulfold/2020/10/15/mitikus-uzemodra-kapcsolt-donald-trump",
-    "description": "Covid-immunitását hangoztatva nagygyűlés-maratonnal tért vissza három héttel az elnökválasztás előtt a kampányba. A második elnökjelölti vita helyett párhuzamosan tartanak élőben közvetített kampányrendezvényt Bidennel. Egy ultrakonzervatív főbírónő megválasztása is bekavarhat a hajrában, miközben újra előkerült Biden fia és az ukrán szál a kampányban.",
-    "author": "Tóth Gergely",
-    "pubDate": "Thu, 15 Oct 2020 20:09:35 +0200"
-  },
-  {
-    "title": "[Sport] Valentino Rossi koronavírusos",
-    "link": "https://telex.hu/sport/2020/10/15/valentino-rossi-koronavirusos",
-    "description": "",
-    "author": "Klág Dávid",
-    "pubDate": "Thu, 15 Oct 2020 19:58:22 +0200"
-  },
-  {
-    "title": "[Belföld] Október 22-én adják át az M3-as metró felújított szakaszát",
-    "link": "https://telex.hu/belfold/2020/10/15/cikk-cime-68",
-    "description": "Az átadást követően teljes vonalon közlekedik az M3-as metró, a középső szakaszon lezárt állomásokon viszont továbbra sem áll meg.",
-    "author": "Mizsur András",
-    "pubDate": "Thu, 15 Oct 2020 19:44:37 +0200"
-  },
-  {
-    "title": "[Kult] A Hell tulajdonosai bírói végzéssel töröltettek több részletet egy róluk szóló cikkből a Magyar Narancsban",
-    "link": "https://telex.hu/kult/2020/10/15/magyar-narancs-hell-energy-birosag-vegzes-sajto-barabas-csalad",
-    "description": "A Magyar Narancs cenzúrának, a sajtószabadság korlátozásának tartja a történteket, és szintén a bírósághoz fordult. ",
-    "author": "Joób Sándor",
-    "pubDate": "Thu, 15 Oct 2020 19:04:14 +0200"
   }
 ]
