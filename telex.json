@@ -1,10 +1,52 @@
 [
   {
+    "title": "[Koronavírus] 33-an haltak meg koronavírusban, 1293 újabb fertőzött",
+    "link": "https://telex.hu/koronavirus/2020/10/16/koronavirus-fertozottek-jarvany-korhazban-apoltak",
+    "description": "A halálos áldozatok száma ismét meghaladta az eddigi legmagasabb értéket.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Fri, 16 Oct 2020 08:58:06 +0200"
+  },
+  {
+    "title": "[Belföld] Simonka kilincsére bilincset akasztott egy jobbikos, de valaki kötelet is hagyott a bejáratnál",
+    "link": "https://telex.hu/belfold/2020/10/16/simonka-kilincsere-bilincset-akasztott-egy-jobbikos-de-valaki-kotelet-is-hagyott-a-bejaratnal",
+    "description": "A költségvetési csalással vádolt fideszes politikus feljelentést tett zaklatás miatt.",
+    "author": "Német Tamás",
+    "pubDate": "Fri, 16 Oct 2020 08:51:10 +0200"
+  },
+  {
+    "title": "[Külföld] Inni sem engedték, és addig ugráltatták a forró trambulinon, hogy végül belehalt a 8 éves lány",
+    "link": "https://telex.hu/kulfold/2020/10/16/inni-sem-engedtek-es-addig-ugraltattak-a-forro-trambulinban-hogy-vegul-belehalt-a-8-eves-lany",
+    "description": "A texasi eset még augusztus végén történt, most tartóztatták le a két gyanúsítottat.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Fri, 16 Oct 2020 08:50:51 +0200"
+  },
+  {
+    "title": "[Belföld] 18 milliárd forint az egészségügynek",
+    "link": "https://telex.hu/belfold/2020/10/16/kormany-felcsut-18-milliard",
+    "description": "Új forrásokat kap a gazdaságvédelem, a Párizsi Magyar Intézet és a felcsúti általános is.",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 08:48:43 +0200"
+  },
+  {
+    "title": "[Koronavírus] WHO: A remdesivir nem hatékony a koronavírus ellen",
+    "link": "https://telex.hu/koronavirus/2020/10/16/who-egeszsegugyi-vilagszervezet-remdesivir-hatastalan",
+    "description": "Az Egészségügyi Világszervezet szerint a hatóanyagtól nem halnak bele kevesebben a fertőzésbe, és nem épülnek fel gyorsabban a betegek.",
+    "author": "Presinszky Judit",
+    "pubDate": "Fri, 16 Oct 2020 08:48:08 +0200"
+  },
+  {
     "title": "[Belföld] Hernádszentandrást körbefogta az áradás, nem lehet bejutni a településre",
     "link": "https://telex.hu/belfold/2020/10/16/hernad-aradas-hernadszentandras-sajo-putnok",
-    "description": "A Hernádon kívül árad a Sajó és a Bodva is.",
+    "description": "A Hernádon kívül árad a Sajó és a Bódva is. A hétvégén is számítani kell kisebb esőkre, vasárnap hajnalban akár 0 fokig is süllyedhet a hőmérséklet.",
     "author": "Thüringer Barbara",
-    "pubDate": "Fri, 16 Oct 2020 08:04:42 +0200"
+    "pubDate": "Fri, 16 Oct 2020 08:43:09 +0200"
+  },
+  {
+    "title": "[Sport] Olasz sportminiszter: Ronaldo megszegte a koronavírus-szabályokat",
+    "link": "https://telex.hu/sport/2020/10/16/cristiano-ronaldo-koronavirus-olasz-szabaly-megsertese",
+    "description": "A futballista karanténkötelezettsége ellenére visszatért Portugáliából Olaszországba.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 16 Oct 2020 08:24:56 +0200"
   },
   {
     "title": "[Koronavírus] Már 38,8 millióan fertőződtek meg koronavírussal világszerte",
@@ -23,7 +65,7 @@
   {
     "title": "[Külföld] A Csendes-óceánba eresztik Fukusima radioaktívan szennyezett vizét",
     "link": "https://telex.hu/kulfold/2020/10/16/japan-fukusima-radioaktiv-csendes-ocean",
-    "description": "Szakértők szerint a vízben lévő 62 radioaktív elem - kivéve a trícium - szintje lecsökkenthető olyan szintre, ami már nem ártalmas az emberekre.",
+    "description": "Szakértők szerint a vízben lévő 62 radioaktív elem – kivéve a trícium – szintje lecsökkenthető olyan szintre, ami már nem ártalmas az emberekre.",
     "author": "Presinszky Judit",
     "pubDate": "Fri, 16 Oct 2020 05:44:23 +0200"
   },
@@ -131,47 +173,5 @@
     "description": "A Magyar Narancs cenzúrának, a sajtószabadság korlátozásának tartja a történteket, és szintén a bírósághoz fordult. ",
     "author": "Joób Sándor",
     "pubDate": "Thu, 15 Oct 2020 19:04:14 +0200"
-  },
-  {
-    "title": "[Sport] Giro: Egy defekt döntötte el a Marco Pantani emlékére rendezett szakaszt",
-    "link": "https://telex.hu/sport/2020/10/15/giro-ditalia-12-szakasz-jhonatan-narvaez-nyert-cesanatico-marco-pantani",
-    "description": "Az ecuadori Jhonatan Narváez nyert a legendás olasz kerékpáros szülővárosában.",
-    "author": "Pál Tamás",
-    "pubDate": "Thu, 15 Oct 2020 18:51:52 +0200"
-  },
-  {
-    "title": "[Belföld] Nem lesz népszavazás az ingyenes koronavírustesztről",
-    "link": "https://telex.hu/belfold/2020/10/15/nem-lesz-nepszavazas-az-ingyenes-koronavirus-tesztrol",
-    "description": "Hatásköri és egyértelműségi problémák miatt kaszálta el a Nemzeti Választási Bizottság a kezdeményezést. ",
-    "author": "Mizsur András",
-    "pubDate": "Thu, 15 Oct 2020 17:50:40 +0200"
-  },
-  {
-    "title": "[Tech] A YouTube is megszabadul a QAnon-tartalomtól",
-    "link": "https://telex.hu/tech/2020/10/15/a-youtube-is-megszabadul-a-qanon-tartalomtol",
-    "description": "",
-    "author": "Klág Dávid",
-    "pubDate": "Thu, 15 Oct 2020 17:48:33 +0200"
-  },
-  {
-    "title": "[Koronavírus] A koronavírus miatt csökkent a légszennyezettség, ami több tízezer ember idő előtti halálát előzheti meg",
-    "link": "https://telex.hu/koronavirus/2020/10/15/koronavirus-jarvany-korlatozas-legszennyzettseg-ido-elotti-halalozas",
-    "description": "Kínában a légszennyezettséggel összefüggésben 24 ezer korai halálozás volt megelőzhető, míg a Covid-19 miatt 3309-en haltak meg.",
-    "author": "Joób Sándor",
-    "pubDate": "Thu, 15 Oct 2020 17:43:40 +0200"
-  },
-  {
-    "title": "[Tech] Az Apple nem száll be a megapixel-háborúba",
-    "link": "https://telex.hu/tech/2020/10/15/apple-iphone-12-kamera-foto-video",
-    "description": "De miért ájult el mindenki az iPhone 12 kameráitól, ha azok maradtak az előző széria 12 megapixeles felbontásánál? Ehelyett van LIDAR-szkenner, nagyobb szenzor és egy sor más újítás.",
-    "author": "Németh Sz. Péter, Flachner Balázs, Bakró-Nagy Ferenc",
-    "pubDate": "Thu, 15 Oct 2020 17:34:44 +0200"
-  },
-  {
-    "title": "[Külföld] Megint karanténba került az Európai Bizottság elnöke",
-    "link": "https://telex.hu/kulfold/2020/10/15/megint-karantenba-kerult-az-europai-bizottsag-elnoke",
-    "description": "Ursula von der Leyen elővigyázatosságból elhagyta a csütörtökön kezdődő uniós csúcstalálkozót. ",
-    "author": "Mizsur András",
-    "pubDate": "Thu, 15 Oct 2020 17:26:36 +0200"
   }
 ]
