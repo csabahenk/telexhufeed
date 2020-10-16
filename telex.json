@@ -1,5 +1,75 @@
 [
   {
+    "title": "[Gazdaság] 225 kilométert is bír majd a Dacia első elektromos autója",
+    "link": "https://telex.hu/gazdasag/2020/10/16/dacia-spring-elektromos-auto-225-km",
+    "description": "A Dacia Spring városi használat során közel 300 km-t is futhat majd egyetlen töltéssel.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Fri, 16 Oct 2020 11:22:30 +0200"
+  },
+  {
+    "title": "[Külföld] Trump most a QAnon összeesküvés-elméletet nem volt hajlandó elutasítani",
+    "link": "https://telex.hu/kulfold/2020/10/16/usa-donald-trump-joe-biden-amerikai-elnokvalasztas-2020-qanon",
+    "description": "A két elnökjelölt vitázás helyett egymástól 1600 kilométerre válaszolt a szavazók kérdéseire.",
+    "author": "Dömötör Bálint",
+    "pubDate": "Fri, 16 Oct 2020 11:08:53 +0200"
+  },
+  {
+    "title": "[Belföld] Zavaros ügyek, vizsgálatok: mégis mi történik a Badacsonyban?",
+    "link": "https://telex.hu/belfold/2020/10/16/cikk-cimebadacsonytomaj-olaf-nav",
+    "description": "A rendőrség, az OLAF és a Közbeszerzési Hatóság is Badacsonytomaj ügyeit vizsgálja - írja a 24.hu.",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 11:01:10 +0200"
+  },
+  {
+    "title": "[Belföld] A miniszterelnöki főtanácsadó olyan szert ajánl a járvány elleni védekezésre, ami arra pont nem jó",
+    "link": "https://telex.hu/belfold/2020/10/16/a-miniszterelnoki-fotanacsado-egy-orrsprayjel-erositene-a-jarvany-ellen",
+    "description": "A hátrányos helyzetű települések iskoláinak küldött körlevelében hívja fel a figyelmet egy allergia elleni spray védőhatására Hegedűs Zsuzsa szociológus. Csakhogy a szernek ilyen hatása nincs, a hatóanyag a fertőzés után, a betegség kezelésére lehet jó. Talán.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Fri, 16 Oct 2020 10:56:59 +0200"
+  },
+  {
+    "title": "[Külföld] Újra meg kell műteni a bangladesi sziámi ikerpár egyik tagjának koponyáját",
+    "link": "https://telex.hu/kulfold/2020/10/16/sziamik-ikrek-banglades-csokay-andras-mutet-koponya-1",
+    "description": "Az elhalasztott műtétet magyar orvoscsoport hajtja majd végre Bangladesben.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 16 Oct 2020 10:50:42 +0200"
+  },
+  {
+    "title": "[Koronavírus] Orbán: Senki ne menjen külföldre síelni!",
+    "link": "https://telex.hu/koronavirus/2020/10/16/orban-senki-ne-menjen-kulfoldre-sielni",
+    "description": "A miniszterelnök szerint nehéz tél elé nézünk, és egész Európában rossz a koronavírus-helyzet.",
+    "author": "Presinszky Judit",
+    "pubDate": "Fri, 16 Oct 2020 10:47:04 +0200"
+  },
+  {
+    "title": "[Belföld] Fónagy és Soltész nem mennek a főváros évfordulós ünnepségére, mert Karácsony nem határolódott el a judapestező ellenzéki jelölttől",
+    "link": "https://telex.hu/belfold/2020/10/16/fonagy-es-soltesz-nem-mennek-a-fovaros-evfordulos-unnepsegere-mert-karacsony-nem-hatarolodott-el-a-judapestezo-ellenzeki-jelolttol",
+    "description": "A kormánymédia Heisler Andrást, a Mazsihisz elnökét is megtalálta a témával, a szervezet hosszú közleményben reagált.",
+    "author": "Német Tamás",
+    "pubDate": "Fri, 16 Oct 2020 10:27:28 +0200"
+  },
+  {
+    "title": "[Sport] Káosz a Nemzetközi Súlyemelő Szövetségben: két nap alatt két ideiglenes elnököt választottak",
+    "link": "https://telex.hu/sport/2020/10/16/sulyemelo-szovetseg-iwf-ket-nap-alatt-ket-ideiglenes-elnok",
+    "description": "Aján Tamás lemondás óta már a harmadik vezetőt nevezték ki a IWF-nél.",
+    "author": "Fehér János",
+    "pubDate": "Fri, 16 Oct 2020 10:26:43 +0200"
+  },
+  {
+    "title": "[Külföld] 41 éves és Dániában él a világ legöregebb pingvinje",
+    "link": "https://telex.hu/kulfold/2020/10/16/vilag-legidosebb-pingvinje-dania",
+    "description": "A Guinness-rekorder szamárpingvin Edinburgh-ben született.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Fri, 16 Oct 2020 10:22:30 +0200"
+  },
+  {
+    "title": "[Gazdaság] Bod Péter Ákos: Ha szelektív a segítő szándék, mélyülhet a gazdasági válság",
+    "link": "https://telex.hu/gazdasag/2020/10/16/bod-peter-akos-mnb",
+    "description": "Nem kezeli jól a kormány és a jegybank a koronavírus okozta válságot – véli Bod Péter Ákos.",
+    "author": "Brückner Gergely",
+    "pubDate": "Fri, 16 Oct 2020 10:22:26 +0200"
+  },
+  {
     "title": "[Sport] Az ötszörös világbajnok Pellegrini is koronavírus-fertőzés miatt hagyja ki a budapesti úszóligát",
     "link": "https://telex.hu/sport/2020/10/16/manuela-pellegrini-isl-budapest-koronavirus-uszas",
     "description": "Az úszónő edzés közben lett rosszul, majd egy teszt igazolta betegségét.",
@@ -103,75 +173,5 @@
     "description": "Szakértők szerint a vízben lévő 62 radioaktív elem – kivéve a trícium – szintje lecsökkenthető olyan szintre, ami már nem ártalmas az emberekre.",
     "author": "Presinszky Judit",
     "pubDate": "Fri, 16 Oct 2020 05:44:23 +0200"
-  },
-  {
-    "title": "[Belföld] SZFE kancellárja: Nem én kezdtem",
-    "link": "https://telex.hu/belfold/2020/10/16/szfe-szarka-gabor-nem-en-kezdtem-hallgatok-alkotmanybirosag",
-    "description": "Szarka szerint abnormális, ami ott történik. A hallgatók és az oktatók az Alkotmánybírósághoz fordulnak.",
-    "author": "Presinszky Judit",
-    "pubDate": "Fri, 16 Oct 2020 05:25:54 +0200"
-  },
-  {
-    "title": "[Észkombájn] A náci luxusjacht, aminek a vécéje lett a leghíresebb relikviája",
-    "link": "https://telex.hu/eszkombajn/2020/10/16/hogy-kerult-hitler-veceje-egy-amerikai-autoszerelo-muhelybe",
-    "description": "A világ egykori legnagyobb jachtjának részeként került az Egyesült Államokba, ahol kisebb turistalátványossággá vált.",
-    "author": "Lovas Gergő",
-    "pubDate": "Fri, 16 Oct 2020 04:39:29 +0200"
-  },
-  {
-    "title": "[Külföld] Razzia Németországban: egy csoport Wehrmacht-egyenruhában játszott háborúsdit",
-    "link": "https://telex.hu/kulfold/2020/10/15/nemetorszag-wehrmacht-egyenruha-fegyver-onkenyuralmi-jelkep-rendorseg",
-    "description": "Tizenkilenc ember ellen indult eljárás. Tiltott önkényuralmi jelképeket és kézigránátokat is találtak.",
-    "author": "Joób Sándor",
-    "pubDate": "Fri, 16 Oct 2020 00:15:52 +0200"
-  },
-  {
-    "title": "[Sport] 30 milliós büntetés egy maszkért, ebből talán ért az NFL",
-    "link": "https://telex.hu/sport/2020/10/15/nfl-koronavirus-tennessee-titans-jarvanykezeles",
-    "description": "Kezd kisebb káoszba fulladni az NFL 2020-as szezonja a koronavírus-járvány miatt, pedig némi józan ésszel el lehetett volna ezt kerülni. A teljes összeomlástól még messze vannak, de ahogy eddig kezelték a járványt, abból még nagy bajnok lehetnek.",
-    "author": "Koroknai Gergely",
-    "pubDate": "Fri, 16 Oct 2020 00:01:39 +0200"
-  },
-  {
-    "title": "[Külföld] Háromszáz kutyát menekített a házába egy mexikói férfi",
-    "link": "https://telex.hu/kulfold/2020/10/15/mexiko-kutya-menedek-hurrikan",
-    "description": "A Delta hurrikán elől helyezte biztonságba az állatokat. A lakás bűzlött, de a férfi szerint megérte.",
-    "author": "Stöckert Gábor",
-    "pubDate": "Fri, 16 Oct 2020 00:01:24 +0200"
-  },
-  {
-    "title": "[Szórakozás] Harminc éve nem tudjuk a Majom-sziget titkát",
-    "link": "https://telex.hu/szorakozas/2020/10/15/secret-of-the-monkey-island-videojatek-evfordulo-ron-gilbert-lucasarts",
-    "description": "Mindenki érezze magát vigasztalhatatlanul öregnek: harmincéves minden idők egyik legjobb és legviccesebb kalandjátéka. Nézd, ott egy háromfejű majom!",
-    "author": "Stöckert Gábor",
-    "pubDate": "Thu, 15 Oct 2020 22:32:10 +0200"
-  },
-  {
-    "title": "[Belföld] A kormány budapesti fejlesztéseket venne át, Karácsony szerint gyámság alá akarják helyezni a fővárost",
-    "link": "https://telex.hu/belfold/2020/10/15/fovaros-karacsony-gergely-furjes-balazs-lanchid-bicikliut-fejlesztesek-kormany",
-    "description": "A főváros és a kormány egyeztetésén nem született megállapodás a nagykörúti kerékpárútról, a Biodóm vagy a Budavári Sikló beruházás kormányzati átvételéről.",
-    "author": "Joób Sándor",
-    "pubDate": "Thu, 15 Oct 2020 22:22:59 +0200"
-  },
-  {
-    "title": "[Tudomány] A világon 3 milliárd ember nem tud otthon kezet mosni",
-    "link": "https://telex.hu/tudomany/2020/10/15/a-vilagon-3-milliard-ember-nem-tud-otthon-kezet-mosni",
-    "description": "818 millió gyerek számára nincs se víz, se szappan az iskolákban.",
-    "author": "Klág Dávid",
-    "pubDate": "Thu, 15 Oct 2020 22:15:13 +0200"
-  },
-  {
-    "title": "[Tech] Hozzánk is elérhető áron jönnek a Xiaomi 5G-s csúcsmobiljai",
-    "link": "https://telex.hu/tech/2020/10/15/xiaomi-mi-10t-telefon-bemutato-android",
-    "description": "November elején jelenik meg Magyarországon az Mi 10T-széria, ami a nagyon vonzó árfekvés és az 5G mellett 108 megapixeles kamerával, játékra tervezett kijelzővel és antibakteriális kiegészítőkkel csábítja a vásárlókat.",
-    "author": "Flachner Balázs",
-    "pubDate": "Thu, 15 Oct 2020 21:10:48 +0200"
-  },
-  {
-    "title": "[Koronavírus] Még két hónapig érvényesek a veszélyhelyzet idején lejárt személyi okmányok",
-    "link": "https://telex.hu/koronavirus/2020/10/15/szemelyi-igazolvany-utlevel-jogositvany-ervenyesseg-koronavirus",
-    "description": "December 15-ig lehet meghosszabbítani a már lejárt személyit, útlevelet, jogosítványt és forgalmit. ",
-    "author": "Joób Sándor",
-    "pubDate": "Thu, 15 Oct 2020 21:07:21 +0200"
   }
 ]
