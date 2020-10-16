@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Tudomány] Ilyen rövid időt eddig még nem mértek",
+    "link": "https://telex.hu/tudomany/2020/10/16/ilyen-rovid-idot-eddig-meg-nem-mertek",
+    "description": "",
+    "author": "Klág Dávid",
+    "pubDate": "Fri, 16 Oct 2020 16:59:17 +0200"
+  },
+  {
+    "title": "[Kult] Magyarország továbbjutott a Bocuse d'Or világdöntőjébe",
+    "link": "https://telex.hu/kult/2020/10/16/bocuse-europa-magyarorszag-gasztro",
+    "description": "Tíz csapat mehetett tovább a csütörtök és péntek között tartott európai döntőből, Magyarország a kilencedik helyen végzett. ",
+    "author": "Molnár Réka",
+    "pubDate": "Fri, 16 Oct 2020 16:57:52 +0200"
+  },
+  {
     "title": "[Belföld] Miért kellhet egy médiás szaklap a NER-nek?",
     "link": "https://telex.hu/belfold/2020/10/16/media-mediapiac-ujsag-szerkesztoseg-boros-bank-levente-gobolyosne-matrahegyi-anna",
     "description": "Tisztázatlan hátterű fantomanyagok eddig is jelentek meg a Médiapiac című újságban, és a kormányhoz hű Nézőponthoz is több szálon kötődött a lap, de a szerkesztőség tagjai többnyire szabadon dolgozhattak. A szerzőket most eltávolították, már egy új, egyelőre ismeretlen gárda írja a lapot.",
@@ -30,7 +44,7 @@
   {
     "title": "[Belföld] HÖOK: Tisztelt Szarka Gábor kancellár úr, ez nem oké!",
     "link": "https://telex.hu/belfold/2020/10/16/hook-tisztelt-szarka-gabor-kancellar-ur-ez-nem-oke",
-    "description": "Az országos hallgatói szervezet az SZFE kancellárját arra kéri, hogy gondolja át az egyetem kiürítését.",
+    "description": "Az országos hallgatói szervezet az SZFE kancellárját arra kéri, hogy gondolja át az egyetem kiürítését, az oktatói közösség szerint a hallgatók tanuláshoz való jogát sértik az egyetem evakuálásával. ",
     "author": "Fehér János",
     "pubDate": "Fri, 16 Oct 2020 14:44:33 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "Továbbra is csökken a nyomás az űrbázison.",
     "author": "Thüringer Barbara",
     "pubDate": "Fri, 16 Oct 2020 12:28:29 +0200"
-  },
-  {
-    "title": "[Szórakozás] Nicolas Cage új filmjében egy űrnindzsával száll szembe",
-    "link": "https://telex.hu/szorakozas/2020/10/16/nicolas-cage-uj-film-jiu-jitsu-trailer-foldonkivuli",
-    "description": "A Jiu Jitsuban mintha a Predátort keverték volna össze gagyi kungfufilmekkel. Itt az első trailer belőle.",
-    "author": "Szórakozás",
-    "pubDate": "Fri, 16 Oct 2020 12:09:20 +0200"
-  },
-  {
-    "title": "[Sport] Színesben is láthatjuk az évszázad mérkőzésének góljait",
-    "link": "https://telex.hu/sport/2020/10/16/6-3-magyar-angol-digitalizacio-puskas-gol",
-    "description": "A legendás 6:3-as magyar–angol évfordulójára digitalizálják a teljes meccset, a gólokat pedig kiszínezik.",
-    "author": "Ághassi Attila",
-    "pubDate": "Fri, 16 Oct 2020 12:09:05 +0200"
   }
 ]

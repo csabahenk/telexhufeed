@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Tudomány] Ilyen rövid időt eddig még nem mértek]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/tudomany/2020/10/16/ilyen-rovid-idot-eddig-meg-nem-mertek]]>
+      </link>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <author>
+        <![CDATA[Klág Dávid]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 16:59:17 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Kult] Magyarország továbbjutott a Bocuse d'Or világdöntőjébe]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/kult/2020/10/16/bocuse-europa-magyarorszag-gasztro]]>
+      </link>
+      <description>
+        <![CDATA[Tíz csapat mehetett tovább a csütörtök és péntek között tartott európai döntőből, Magyarország a kilencedik helyen végzett. ]]>
+      </description>
+      <author>
+        <![CDATA[Molnár Réka]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 16:57:52 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Miért kellhet egy médiás szaklap a NER-nek?]]>
       </title>
       <link>
@@ -81,7 +115,7 @@
         <![CDATA[https://telex.hu/belfold/2020/10/16/hook-tisztelt-szarka-gabor-kancellar-ur-ez-nem-oke]]>
       </link>
       <description>
-        <![CDATA[Az országos hallgatói szervezet az SZFE kancellárját arra kéri, hogy gondolja át az egyetem kiürítését.]]>
+        <![CDATA[Az országos hallgatói szervezet az SZFE kancellárját arra kéri, hogy gondolja át az egyetem kiürítését, az oktatói közösség szerint a hallgatók tanuláshoz való jogát sértik az egyetem evakuálásával. ]]>
       </description>
       <author>
         <![CDATA[Fehér János]]>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Fri, 16 Oct 2020 12:28:29 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Szórakozás] Nicolas Cage új filmjében egy űrnindzsával száll szembe]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/szorakozas/2020/10/16/nicolas-cage-uj-film-jiu-jitsu-trailer-foldonkivuli]]>
-      </link>
-      <description>
-        <![CDATA[A Jiu Jitsuban mintha a Predátort keverték volna össze gagyi kungfufilmekkel. Itt az első trailer belőle.]]>
-      </description>
-      <author>
-        <![CDATA[Szórakozás]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 16 Oct 2020 12:09:20 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Sport] Színesben is láthatjuk az évszázad mérkőzésének góljait]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/sport/2020/10/16/6-3-magyar-angol-digitalizacio-puskas-gol]]>
-      </link>
-      <description>
-        <![CDATA[A legendás 6:3-as magyar–angol évfordulójára digitalizálják a teljes meccset, a gólokat pedig kiszínezik.]]>
-      </description>
-      <author>
-        <![CDATA[Ághassi Attila]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 16 Oct 2020 12:09:05 +0200]]>
       </pubDate>
     </item>
   </channel>
