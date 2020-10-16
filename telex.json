@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Sport] Duna parti Alcatraz? Ugyan, legalább versenyezhetünk",
+    "link": "https://telex.hu/sport/2020/10/16/isl-jakabos-zsuzsa-alcatraz-duna-arena",
+    "description": "",
+    "author": "Ághassi Attila",
+    "pubDate": "Fri, 16 Oct 2020 14:06:33 +0200"
+  },
+  {
+    "title": "[Külföld] repülő spagettiszörny egyház orosz vezető letartóztatás mihail joszilevics",
+    "link": "https://telex.hu/kulfold/2020/10/16/repulo-spagettiszorny-egyhaz-orosz-vezeto-letartoztatas-mihail-joszilevics",
+    "description": "",
+    "author": "Nyilas Gergely",
+    "pubDate": "Fri, 16 Oct 2020 14:03:00 +0200"
+  },
+  {
     "title": "[Belföld] 21 év fegyházat kapott a feleségét feldaraboló darnózseli hentes",
     "link": "https://telex.hu/belfold/2020/10/16/darnozseli-hentes-kuria-itelet",
     "description": "Előre kitervelt emberölés miatt ítélte 21 évre N. Jánost a harmadfokon eljáró Kúria. Az ítélet jogerős.",
@@ -35,7 +49,7 @@
     "pubDate": "Fri, 16 Oct 2020 13:16:21 +0200"
   },
   {
-    "title": "[Belföld] Számítógépeket foglaltak le a rendőrök a VII. kerületi polgármesteri hivatalban",
+    "title": "[Belföld] Áramlopás miatt szálltak ki a rendőrök  VII. kerületi polgármesteri hivatalhoz, egy DK-s képviselő lemondott",
     "link": "https://telex.hu/belfold/2020/10/16/rendorok-leptek-el-a-hetedik-keruleti-polgarmesteri-hivatalt",
     "description": "Pénteken több nyomozó is járt az erzsébetvárosi önkormányzat épületében, akik két és fél órán keresztül vizsgálódtak.",
     "author": "Pintér Luca, Lengyel-Szabó Péter",
@@ -159,19 +173,5 @@
     "description": "Aján Tamás lemondás óta már a harmadik vezetőt nevezték ki a IWF-nél.",
     "author": "Fehér János",
     "pubDate": "Fri, 16 Oct 2020 10:26:43 +0200"
-  },
-  {
-    "title": "[Külföld] 41 éves és Dániában él a világ legöregebb pingvinje",
-    "link": "https://telex.hu/kulfold/2020/10/16/vilag-legidosebb-pingvinje-dania",
-    "description": "A Guinness-rekorder szamárpingvin Edinburgh-ben született.",
-    "author": "Iván-Nagy Szilvia",
-    "pubDate": "Fri, 16 Oct 2020 10:22:30 +0200"
-  },
-  {
-    "title": "[Gazdaság] Bod Péter Ákos: Ha szelektív a segítő szándék, mélyülhet a gazdasági válság",
-    "link": "https://telex.hu/gazdasag/2020/10/16/bod-peter-akos-mnb",
-    "description": "Nem kezeli jól a kormány és a jegybank a koronavírus okozta válságot – véli Bod Péter Ákos.",
-    "author": "Brückner Gergely",
-    "pubDate": "Fri, 16 Oct 2020 10:22:26 +0200"
   }
 ]
