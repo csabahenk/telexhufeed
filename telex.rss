@@ -7,6 +7,40 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Belföld] Hernádszentandrást körbefogta az áradás, nem lehet bejutni a településre]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/belfold/2020/10/16/hernad-aradas-hernadszentandras-sajo-putnok]]>
+      </link>
+      <description>
+        <![CDATA[A Hernádon kívül árad a Sajó és a Bodva is.]]>
+      </description>
+      <author>
+        <![CDATA[Thüringer Barbara]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 08:04:42 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
+        <![CDATA[[Koronavírus] Már 38,8 millióan fertőződtek meg koronavírussal világszerte]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/koronavirus/2020/10/16/koronavirus-hirek-jarvany-magyarorszag-vilagszerte]]>
+      </link>
+      <description>
+        <![CDATA[Az összes fontos pénteki hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.]]>
+      </description>
+      <author>
+        <![CDATA[Iván-Nagy Szilvia]]>
+      </author>
+      <pubDate>
+        <![CDATA[Fri, 16 Oct 2020 07:21:00 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Orbán Viktort lecsózás közben hívta Donald Trump]]>
       </title>
       <link>
@@ -47,7 +81,7 @@
         <![CDATA[https://telex.hu/belfold/2020/10/16/szfe-szarka-gabor-nem-en-kezdtem-hallgatok-alkotmanybirosag]]>
       </link>
       <description>
-        <![CDATA[Szarka szerint abnormális, ami ott történik. A hallgatók és oktatók az Alkotmánybírósághoz fordulnak.]]>
+        <![CDATA[Szarka szerint abnormális, ami ott történik. A hallgatók és az oktatók az Alkotmánybírósághoz fordulnak.]]>
       </description>
       <author>
         <![CDATA[Presinszky Judit]]>
@@ -394,40 +428,6 @@
       </author>
       <pubDate>
         <![CDATA[Thu, 15 Oct 2020 17:26:36 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Gulyás Gergely után Kocsis Máté sem indul egyéniben a 2022-es választáson]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/15/kocsis-mate-valasztas-2022-egyeni-kepviselojelolt-sara-botond-fidesz]]>
-      </link>
-      <description>
-        <![CDATA[A Fidesz frakcióvezetője megerősítette a hírt. Sára Botond indulhat helyette. ]]>
-      </description>
-      <author>
-        <![CDATA[Joób Sándor]]>
-      </author>
-      <pubDate>
-        <![CDATA[Thu, 15 Oct 2020 17:19:55 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] Itt van az első kép az állatkert újszülött orangutánjáról]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/15/orangutan-szuletes-fovarosi-allatkert-elso-kepek]]>
-      </link>
-      <description>
-        <![CDATA[A kritikusan veszélyeztetett szumátrai orangután szaporítása elég jól megy az állatkertnek: 10 héten belül két újszülöttjük is van.]]>
-      </description>
-      <author>
-        <![CDATA[Thüringer Barbara]]>
-      </author>
-      <pubDate>
-        <![CDATA[Thu, 15 Oct 2020 16:50:16 +0200]]>
       </pubDate>
     </item>
   </channel>

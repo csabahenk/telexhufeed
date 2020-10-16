@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Belföld] Hernádszentandrást körbefogta az áradás, nem lehet bejutni a településre",
+    "link": "https://telex.hu/belfold/2020/10/16/hernad-aradas-hernadszentandras-sajo-putnok",
+    "description": "A Hernádon kívül árad a Sajó és a Bodva is.",
+    "author": "Thüringer Barbara",
+    "pubDate": "Fri, 16 Oct 2020 08:04:42 +0200"
+  },
+  {
+    "title": "[Koronavírus] Már 38,8 millióan fertőződtek meg koronavírussal világszerte",
+    "link": "https://telex.hu/koronavirus/2020/10/16/koronavirus-hirek-jarvany-magyarorszag-vilagszerte",
+    "description": "Az összes fontos pénteki hír a koronavírus-járványról egy helyen. Folyamatosan frissülő cikk, időnként töltse újra az oldalt.",
+    "author": "Iván-Nagy Szilvia",
+    "pubDate": "Fri, 16 Oct 2020 07:21:00 +0200"
+  },
+  {
     "title": "[Belföld] Orbán Viktort lecsózás közben hívta Donald Trump",
     "link": "https://telex.hu/belfold/2020/10/16/orban-viktort-lecsozas-kozben-hivta-donald-trump",
     "description": "\"Hívjuk föl Viktort\" - mondta Trump a leköszönő amerikai nagykövetnek.",
@@ -16,7 +30,7 @@
   {
     "title": "[Belföld] SZFE kancellárja: Nem én kezdtem",
     "link": "https://telex.hu/belfold/2020/10/16/szfe-szarka-gabor-nem-en-kezdtem-hallgatok-alkotmanybirosag",
-    "description": "Szarka szerint abnormális, ami ott történik. A hallgatók és oktatók az Alkotmánybírósághoz fordulnak.",
+    "description": "Szarka szerint abnormális, ami ott történik. A hallgatók és az oktatók az Alkotmánybírósághoz fordulnak.",
     "author": "Presinszky Judit",
     "pubDate": "Fri, 16 Oct 2020 05:25:54 +0200"
   },
@@ -159,19 +173,5 @@
     "description": "Ursula von der Leyen elővigyázatosságból elhagyta a csütörtökön kezdődő uniós csúcstalálkozót. ",
     "author": "Mizsur András",
     "pubDate": "Thu, 15 Oct 2020 17:26:36 +0200"
-  },
-  {
-    "title": "[Belföld] Gulyás Gergely után Kocsis Máté sem indul egyéniben a 2022-es választáson",
-    "link": "https://telex.hu/belfold/2020/10/15/kocsis-mate-valasztas-2022-egyeni-kepviselojelolt-sara-botond-fidesz",
-    "description": "A Fidesz frakcióvezetője megerősítette a hírt. Sára Botond indulhat helyette. ",
-    "author": "Joób Sándor",
-    "pubDate": "Thu, 15 Oct 2020 17:19:55 +0200"
-  },
-  {
-    "title": "[Belföld] Itt van az első kép az állatkert újszülött orangutánjáról",
-    "link": "https://telex.hu/belfold/2020/10/15/orangutan-szuletes-fovarosi-allatkert-elso-kepek",
-    "description": "A kritikusan veszélyeztetett szumátrai orangután szaporítása elég jól megy az állatkertnek: 10 héten belül két újszülöttjük is van.",
-    "author": "Thüringer Barbara",
-    "pubDate": "Thu, 15 Oct 2020 16:50:16 +0200"
   }
 ]
