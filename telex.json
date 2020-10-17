@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Belföld] Orbán: az állami források legjobb helye az egyházi intézményeknél van",
+    "link": "https://telex.hu/belfold/2020/10/17/orban-az-allami-forrasok-legjobb-helye-az-egyhazi-intezmenyeknel-van",
+    "description": "Az egyházi intézményeknek építésre fenntartásra adott állami pénzek jobb helyen nem is lehetnének - mondta egy református iskola új épületének átadásakor.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Sat, 17 Oct 2020 12:02:25 +0200"
+  },
+  {
+    "title": "[Szórakozás] Budapesten rendezik a világzene legnagyobb eseményét, a Womexet",
+    "link": "https://telex.hu/szorakozas/2020/10/17/womex-budapest-vilagzene-budapest-ritmo",
+    "description": "A járványhelyzet miatt a programok többsége online lesz, de október 22-től 24-ig a Müpában élő koncerteket adnak és életműdíjat vesz át Lakatos Mónika.",
+    "author": "Munk Veronika",
+    "pubDate": "Sat, 17 Oct 2020 12:00:36 +0200"
+  },
+  {
+    "title": "[Külföld] Átlépte a tízezret Csehországban a napi új koronavírus fertőzések száma",
+    "link": "https://telex.hu/kulfold/2020/10/17/koronavirus-szombat-nemzetkozi-csehorszag-macedonia",
+    "description": "Az osztrák külügyminiszter is elkapta a betegséget, Észak-Macedóniában szigorítottak: nemzetközi híreink a koronavírusról.",
+    "author": "Munk Veronika",
+    "pubDate": "Sat, 17 Oct 2020 11:46:06 +0200"
+  },
+  {
+    "title": "[Belföld] Súlyos bűn a lombikprogram a püspöki kar vezetője szerint",
+    "link": "https://telex.hu/belfold/2020/10/17/sulyos-bun-a-lombikprogram-a-puspoki-kar-vezetoje-szerint",
+    "description": "",
+    "author": "Nyilas Gergely",
+    "pubDate": "Sat, 17 Oct 2020 11:36:30 +0200"
+  },
+  {
+    "title": "[Szórakozás] Tizenöt év után, osztálytalálkozó-hangulattal tért vissza egy részre Az elnök emberei",
+    "link": "https://telex.hu/szorakozas/2020/10/17/west-wing-kulonleges-kiadas-hartsfields-landing-elnokvalasztas",
+    "description": "A közelgő elnökválasztás miatt különleges résszel jelentkezett a 2006-ban befejeződött sorozat. ",
+    "author": "Lovas Gergő",
+    "pubDate": "Sat, 17 Oct 2020 11:25:43 +0200"
+  },
+  {
     "title": "[Belföld] Szombat délelőtt: az SZFE-nél minden csendes",
     "link": "https://telex.hu/belfold/2020/10/17/szombat-delelott-az-szfe-nel-minden-csendes",
     "description": "Előző este mozdulni sem lehetett az épület előtt, szombat reggel a tömegnek nyoma sincs már, kong az ürességtől a Vas utca. ",
@@ -63,9 +98,9 @@
     "pubDate": "Sat, 17 Oct 2020 08:20:12 +0200"
   },
   {
-    "title": "[Külföld] Macron szerint iszlamista terrortámadás volt a párizsi tanár lefejezése",
+    "title": "[Külföld] Halálos fenyegetéseket kapott lefejezése előtt a párizsi tanár",
     "link": "https://telex.hu/kulfold/2020/10/17/lefejeztek-egy-tanart-parizs-kozeleben",
-    "description": "A támadót megölték, négy embert őrizetbe vettek.",
+    "description": "A támadót megölték, kilenc embert őrizetbe vettek.",
     "author": "Nyilas Gergely",
     "pubDate": "Sat, 17 Oct 2020 07:41:52 +0200"
   },
@@ -138,40 +173,5 @@
     "description": "Az áldozat korábban Mohamed-karikatúrákat mutatott a tanulóinak. Az ügyben a terrorellenes ügyészség indított nyomozást.",
     "author": "Iván András, Pál Tamás",
     "pubDate": "Fri, 16 Oct 2020 19:10:52 +0200"
-  },
-  {
-    "title": "[Sport] Giro: tovább növelte előnyét a versenyt vezető 22 éves portugál bringás",
-    "link": "https://telex.hu/sport/2020/10/16/giro-ditalia-13-szakasz-diego-ulissi-nyert-valter-attila-19",
-    "description": "Az olasz körverseny 13. szakaszát Diego Ulissi nyerte a rózsaszín trikós Joao Almeida előtt.",
-    "author": "Pál Tamás",
-    "pubDate": "Fri, 16 Oct 2020 18:25:23 +0200"
-  },
-  {
-    "title": "[Belföld] Nem távoznak a diákok az SZFE épületeiből, vastaps fogadta a bejelentést",
-    "link": "https://telex.hu/belfold/2020/10/16/szfe-tuntetes-vas-utca-szarka-gabor-kiurites",
-    "description": "A kancellár utasítása szerint 18 óráig mindenkinek el kellett volna hagynia az egyetemet, a hallgatók fenntartják a blokádot. Jegyzőkönyvet vettek fel az épületben maradó diákokról, akik a korábban elzárt Ódry Színpadot is visszafoglalták.",
-    "author": "Cseke Balázs",
-    "pubDate": "Fri, 16 Oct 2020 18:23:16 +0200"
-  },
-  {
-    "title": "[Belföld] Szarka: Jól jön az előrehozott őszi szünet, hogy a hallgatók kimozogjanak ebből a pszichotikus állapotból",
-    "link": "https://telex.hu/belfold/2020/10/16/szarka-gabor-szfe-tuntetes-oszi-szunet",
-    "description": "Az SZFE kancellárja szerint a hallgatóknak dönteniük kell, hogy abbahagyják a tiltakozást, vagy élnek a főváros felajánlásával, és máshol folytatják a tanulmányaikat. ",
-    "author": "Cseke Balázs",
-    "pubDate": "Fri, 16 Oct 2020 17:37:27 +0200"
-  },
-  {
-    "title": "[Tech] Elkészült az egymillió cellás aknakereső",
-    "link": "https://telex.hu/tech/2020/10/16/elkeszult-az-egymillio-cellas-aknakereso",
-    "description": "A klasszikus játék maratoni változata brutálisan fest.",
-    "author": "Klág Dávid",
-    "pubDate": "Fri, 16 Oct 2020 17:32:31 +0200"
-  },
-  {
-    "title": "[Kult] Magyarország bejutott a Bocuse d'Or világdöntőjébe",
-    "link": "https://telex.hu/kult/2020/10/16/bocuse-europa-magyarorszag-gasztro",
-    "description": "Tíz csapat mehetett tovább az európai döntőből, Magyarország a kilencedik helyen végzett. ",
-    "author": "Molnár Réka",
-    "pubDate": "Fri, 16 Oct 2020 17:05:59 +0200"
   }
 ]
