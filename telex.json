@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Videó] Visszaverték a kancellár második támadását is az SZFE-sek",
+    "link": "https://telex.hu/video/2020/10/17/szfe-foglalas-kiurites-tuntetes-egyetem",
+    "description": "Péntek este megpróbálták kirakni az egyetemfoglalókat és a kollégistákat is a Színház- és Filmművészeti egyetemről, akik ezt nem hagyták.",
+    "author": "Földes András",
+    "pubDate": "Sat, 17 Oct 2020 09:29:32 +0200"
+  },
+  {
     "title": "[Belföld] Újabb utakat zárt el a kiáradt Hernád",
     "link": "https://telex.hu/belfold/2020/10/17/ujabb-utakat-zart-el-a-kiaradt-hernad",
     "description": "Nem javult a helyzet a Sajó körül sem Borsodban. Hernádszentandrás továbbra is elérhetetlen.",
@@ -21,9 +28,9 @@
     "pubDate": "Sat, 17 Oct 2020 08:20:12 +0200"
   },
   {
-    "title": "[Külföld] Lefejeztek egy tanárt Párizs közelében",
+    "title": "[Külföld] Macron szerint iszlamista terrortámadás volt a párizsi tanár lefejezése",
     "link": "https://telex.hu/kulfold/2020/10/17/lefejeztek-egy-tanart-parizs-kozeleben",
-    "description": "A francia elnök közölte, iszlamista támadás történt.",
+    "description": "A támadót megölték, négy embert őrizetbe vettek.",
     "author": "Nyilas Gergely",
     "pubDate": "Sat, 17 Oct 2020 07:41:52 +0200"
   },
@@ -166,12 +173,5 @@
     "description": "",
     "author": "Grafitember",
     "pubDate": "Fri, 16 Oct 2020 14:58:04 +0200"
-  },
-  {
-    "title": "[Belföld] HÖOK: Tisztelt Szarka Gábor kancellár úr, ez nem oké!",
-    "link": "https://telex.hu/belfold/2020/10/16/hook-tisztelt-szarka-gabor-kancellar-ur-ez-nem-oke",
-    "description": "Az országos hallgatói szervezet az SZFE kancellárját arra kéri, hogy gondolja át az egyetem kiürítését, az oktatói közösség szerint a hallgatók tanuláshoz való jogát sértik az egyetem evakuálásával. ",
-    "author": "Fehér János",
-    "pubDate": "Fri, 16 Oct 2020 14:44:33 +0200"
   }
 ]

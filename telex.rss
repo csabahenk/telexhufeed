@@ -7,6 +7,23 @@
     <link>https://telex.hu</link><description></description><language>hu-HU</language>
     <item>
       <title>
+        <![CDATA[[Videó] Visszaverték a kancellár második támadását is az SZFE-sek]]>
+      </title>
+      <link>
+        <![CDATA[https://telex.hu/video/2020/10/17/szfe-foglalas-kiurites-tuntetes-egyetem]]>
+      </link>
+      <description>
+        <![CDATA[Péntek este megpróbálták kirakni az egyetemfoglalókat és a kollégistákat is a Színház- és Filmművészeti egyetemről, akik ezt nem hagyták.]]>
+      </description>
+      <author>
+        <![CDATA[Földes András]]>
+      </author>
+      <pubDate>
+        <![CDATA[Sat, 17 Oct 2020 09:29:32 +0200]]>
+      </pubDate>
+    </item>
+    <item>
+      <title>
         <![CDATA[[Belföld] Újabb utakat zárt el a kiáradt Hernád]]>
       </title>
       <link>
@@ -59,13 +76,13 @@ students protest]]>
     </item>
     <item>
       <title>
-        <![CDATA[[Külföld] Lefejeztek egy tanárt Párizs közelében]]>
+        <![CDATA[[Külföld] Macron szerint iszlamista terrortámadás volt a párizsi tanár lefejezése]]>
       </title>
       <link>
         <![CDATA[https://telex.hu/kulfold/2020/10/17/lefejeztek-egy-tanart-parizs-kozeleben]]>
       </link>
       <description>
-        <![CDATA[A francia elnök közölte, iszlamista támadás történt.]]>
+        <![CDATA[A támadót megölték, négy embert őrizetbe vettek.]]>
       </description>
       <author>
         <![CDATA[Nyilas Gergely]]>
@@ -412,23 +429,6 @@ students protest]]>
       </author>
       <pubDate>
         <![CDATA[Fri, 16 Oct 2020 14:58:04 +0200]]>
-      </pubDate>
-    </item>
-    <item>
-      <title>
-        <![CDATA[[Belföld] HÖOK: Tisztelt Szarka Gábor kancellár úr, ez nem oké!]]>
-      </title>
-      <link>
-        <![CDATA[https://telex.hu/belfold/2020/10/16/hook-tisztelt-szarka-gabor-kancellar-ur-ez-nem-oke]]>
-      </link>
-      <description>
-        <![CDATA[Az országos hallgatói szervezet az SZFE kancellárját arra kéri, hogy gondolja át az egyetem kiürítését, az oktatói közösség szerint a hallgatók tanuláshoz való jogát sértik az egyetem evakuálásával. ]]>
-      </description>
-      <author>
-        <![CDATA[Fehér János]]>
-      </author>
-      <pubDate>
-        <![CDATA[Fri, 16 Oct 2020 14:44:33 +0200]]>
       </pubDate>
     </item>
   </channel>
