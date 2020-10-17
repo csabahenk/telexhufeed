@@ -1,5 +1,19 @@
 [
   {
+    "title": "[English] Internet is permanently shutdown at main buildings of prestigious Arts University in Budapest while\nstudents protest",
+    "link": "https://telex.hu/english/2020/10/17/internet-is-permanently-shutdown-at-main-buildings-of-prestigious-arts-university-in-budapest-while-students-protest",
+    "description": "Internet has been intentionally shut off at the buildings of the prestigious University of Theatre and Film Arts (SZFE) in Budapest, where students continue to courageously guard the main buildings of the University by rooms.",
+    "author": "Telex",
+    "pubDate": "Sat, 17 Oct 2020 08:20:12 +0200"
+  },
+  {
+    "title": "[Külföld] Lefejeztek egy tanárt Párizs közelében",
+    "link": "https://telex.hu/kulfold/2020/10/17/lefejeztek-egy-tanart-parizs-kozeleben",
+    "description": "A francia elnök közölte, iszlamista támadás történt.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Sat, 17 Oct 2020 07:41:52 +0200"
+  },
+  {
     "title": "[Külföld] 412 ezer új fertőzést regisztráltak világszerte",
     "link": "https://telex.hu/kulfold/2020/10/17/412-ezer-uj-fertozest-regisztraltak-vilagszerte",
     "description": "Eddig regisztrált összes koronavírus-fertőzés közelíti a 40 milliót, a halottak száma 1,1 millió.",
@@ -159,19 +173,5 @@
     "description": "A különbség szignifikáns, több mint kétszer akkora eséllyel pályázik egy múzeum, ha a városvezetése kormányoldali.",
     "author": "Brückner Gergely",
     "pubDate": "Fri, 16 Oct 2020 14:41:28 +0200"
-  },
-  {
-    "title": "[Belföld] Hiába a béremelés, 3100 budapesti orvos nem írná alá az új szerződést",
-    "link": "https://telex.hu/belfold/2020/10/16/orvosok-beremeles-egeszsegugyi-szolgalati-jogviszony-orvosi-kamara-felmeres",
-    "description": "A budapesti orvosi kamara gyorsfelmérésére közel 4 ezren válaszoltak a 13 800-ból.",
-    "author": "Joób Sándor",
-    "pubDate": "Fri, 16 Oct 2020 14:37:36 +0200"
-  },
-  {
-    "title": "[Külföld] Boris Johnson: Ideje felkészülni a megállapodás elmaradására",
-    "link": "https://telex.hu/kulfold/2020/10/16/boris-johnson-megallapodas",
-    "description": "A Downing Street szóvivője keményebben fogalmazott: a tárgyalásoknak a jövőbeli kapcsolatokról az EU-val vége, ha az unió nem hajlandó engedményekre.",
-    "author": "Iván-Nagy Szilvia, Iván András",
-    "pubDate": "Fri, 16 Oct 2020 14:35:39 +0200"
   }
 ]
