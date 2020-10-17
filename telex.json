@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Külföld] 412 ezer új fertőzést regisztráltak világszerte",
+    "link": "https://telex.hu/kulfold/2020/10/17/412-ezer-uj-fertozest-regisztraltak-vilagszerte",
+    "description": "Eddig regisztrált összes koronavírus-fertőzés közelíti a 40 milliót, a halottak száma 1,1 millió.",
+    "author": "Nyilas Gergely",
+    "pubDate": "Sat, 17 Oct 2020 07:11:57 +0200"
+  },
+  {
+    "title": "[Koronavírus] Dupla hullazsákot javasol a koronavírusos elhunytaknál az Emmi utasítása",
+    "link": "https://telex.hu/koronavirus/2020/10/17/koronavirus-hullazsak-emmi-ajanlas-fertotlenites-halottvizsgalati-bizonyitvany",
+    "description": "A Kásler Miklós által kiadott egyedi ajánlás szerint a külső zsákot fertőtleníteni kell, és jelöléssel kell ellátni.",
+    "author": "Joób Sándor",
+    "pubDate": "Sat, 17 Oct 2020 07:11:18 +0200"
+  },
+  {
     "title": "[Külföld] Emberrablás miatt ítéltek el hat olasz rendőrt",
     "link": "https://telex.hu/kulfold/2020/10/16/olaszorszag-rendorok-emberrablas-letartoztatas",
     "description": "Törvénytelen módon toloncálták ki az egyik kazah politikai menekült feleségét és kislányát. ",
@@ -14,7 +28,7 @@
     "pubDate": "Fri, 16 Oct 2020 22:58:49 +0200"
   },
   {
-    "title": "[Belföld] Bagdy Emőke úgy nyilatkozott a Meseország mindenkié című könyvről, hogy nem is olvasta",
+    "title": "[Belföld] Bagdy Emőke bármely könyv ledarálásától elhatárolódik",
     "link": "https://telex.hu/belfold/2020/10/16/bagdy-emoke-meseorszag-mindenkie-konyv-nyilatkozat",
     "description": "Közleményben reagált arra állásfoglalásra, amit már több mint 1200 pszichológus írt alá. Elhatárolódik a könyv ledarálástól, ugyanakkor a szakmai véleményét továbbra is fenntartja.",
     "author": "Cseke Balázs",
@@ -159,19 +173,5 @@
     "description": "A Downing Street szóvivője keményebben fogalmazott: a tárgyalásoknak a jövőbeli kapcsolatokról az EU-val vége, ha az unió nem hajlandó engedményekre.",
     "author": "Iván-Nagy Szilvia, Iván András",
     "pubDate": "Fri, 16 Oct 2020 14:35:39 +0200"
-  },
-  {
-    "title": "[Gazdaság] Nyolcszázmillióért vesz telket Zalaegerszegtől a német tankgyár",
-    "link": "https://telex.hu/gazdasag/2020/10/16/zalaegerszeg-rheinmetall-lynx-tank",
-    "description": "A Lynx tankok gyártóüzeme közvetlenül a ZalaZONE Járműipari Tesztpálya mellett épül.",
-    "author": "Tenczer Gábor",
-    "pubDate": "Fri, 16 Oct 2020 14:27:52 +0200"
-  },
-  {
-    "title": "[Külföld] Letartóztatták a Repülő Spagettiszörny Egyház orosz vezetőjét",
-    "link": "https://telex.hu/kulfold/2020/10/16/repulo-spagettiszorny-egyhaz-orosz-vezeto-letartoztatas-mihail-joszilevics",
-    "description": "A paródiavallás vezetőjét azzal vádolják, hogy törvényen kívüli ellenzéki szervezettel működött együtt.",
-    "author": "Fehér János",
-    "pubDate": "Fri, 16 Oct 2020 14:25:17 +0200"
   }
 ]
